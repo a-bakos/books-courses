@@ -20,3 +20,7 @@
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 - Mark Myers - A Smarter Way to Learn JavaScript
+
+# On the way:
+
+- Pragmatic Guide to Git
