@@ -7,10 +7,10 @@
 - Peter Bell and Brent Beer - Introducing GitHub [O'Reilly]
 - Elizabeth Castro and Bruce Hyslop - HTML5 and CSS3 (Seventh Edition) [Peachpit Press]
 - Jay Blanchard - jQuery & jQuery UI [Peachpit Press]
+- Steve Krug - Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability [New Riders]
 
 # Books I am reading and studying from now:
 
-- Steve Krug - Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability [New Riders]
 - Andrew Hunt & David Thomas - The Pragmatic Programmer - from journeyman to master [Addison-Wesley]
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
