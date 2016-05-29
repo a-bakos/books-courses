@@ -22,6 +22,10 @@
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
 
+## On the way...
+
+- Tiffany B Brown - CSS Master (SitePoint)
+
 # Next possible purchases at some point:
 
 ## Very likely:
