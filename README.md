@@ -1,5 +1,6 @@
 # Books I have read recently on computing:
 
+- Andrew Hunt & David Thomas - The Pragmatic Programmer - from journeyman to master [Addison-Wesley]
 - Hampton Catlin and Michael Lintorn Catlin - Pragmatic Guide to Sass [The Pragmatic Bookshelf]
 - Steve Krug - Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability [New Riders]
 - Lea Verou - CSS Secrets - better solutions to everyday web design problems [O'Reilly]
@@ -11,7 +12,6 @@
 
 # Books I am reading and studying from now:
 
-- Andrew Hunt & David Thomas - The Pragmatic Programmer - from journeyman to master [Addison-Wesley]
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
 # Books yet to be read:
