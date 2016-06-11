@@ -12,6 +12,7 @@
 
 # Books I am reading and studying from now:
 
+- Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
 # Books yet to be read:
@@ -21,7 +22,6 @@
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 - Mark Myers - A Smarter Way to Learn JavaScript
-- Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
 
 ## On the way...
 
