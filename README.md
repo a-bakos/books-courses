@@ -12,6 +12,7 @@
 
 # Books I am reading and studying from now:
 
+- John Sonmez - Soft Skills: The software developer's life manual
 - Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
@@ -25,7 +26,7 @@
 
 ## On the way...
 
-- John Sonmez - Soft Skills: The software developer's life manual
+(none)
 
 # Next possible purchases at some point:
 
