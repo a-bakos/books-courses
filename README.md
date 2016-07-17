@@ -1,5 +1,6 @@
 # Books I have read recently on computing:
 
+- John Sonmez - Soft Skills: The software developer's life manual [Manning]
 - Andrew Hunt & David Thomas - The Pragmatic Programmer - from journeyman to master [Addison-Wesley]
 - Hampton Catlin and Michael Lintorn Catlin - Pragmatic Guide to Sass [The Pragmatic Bookshelf]
 - Steve Krug - Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability [New Riders]
@@ -9,7 +10,6 @@
 - Rob Cole and Edward Scotcher - Brilliant Agile Project Management [Pearson]
 - Jay Blanchard - jQuery & jQuery UI [Peachpit Press]
 - Elizabeth Castro and Bruce Hyslop - HTML5 and CSS3 (Seventh Edition) [Peachpit Press]
-- John Sonmez - Soft Skills: The software developer's life manual [Manning]
 
 # Books I am reading and studying from now:
 
