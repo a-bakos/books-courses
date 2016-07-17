@@ -9,10 +9,10 @@
 - Rob Cole and Edward Scotcher - Brilliant Agile Project Management [Pearson]
 - Jay Blanchard - jQuery & jQuery UI [Peachpit Press]
 - Elizabeth Castro and Bruce Hyslop - HTML5 and CSS3 (Seventh Edition) [Peachpit Press]
+- John Sonmez - Soft Skills: The software developer's life manual [Manning]
 
 # Books I am reading and studying from now:
 
-- John Sonmez - Soft Skills: The software developer's life manual [Manning]
 - Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
