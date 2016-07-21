@@ -1,5 +1,6 @@
-# Books I have read recently on computing:
+# Technical books I read recently:
 
+- Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
 - John Sonmez - Soft Skills: The software developer's life manual [Manning]
 - Andrew Hunt & David Thomas - The Pragmatic Programmer - from journeyman to master [Addison-Wesley]
 - Hampton Catlin and Michael Lintorn Catlin - Pragmatic Guide to Sass [The Pragmatic Bookshelf]
@@ -13,7 +14,6 @@
 
 # Books I am reading and studying from now:
 
-- Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
 # Books yet to be read:
