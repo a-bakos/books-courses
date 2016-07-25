@@ -14,6 +14,7 @@
 
 # Books I am reading and studying from now:
 
+- Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
 # Books yet to be read:
@@ -22,7 +23,6 @@
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
-- Mark Myers - A Smarter Way to Learn JavaScript
 
 ## On the way...
 
