@@ -42,11 +42,13 @@
 
 - Caroline Jarrett - Forms that Work: Designing Web Forms for Usability
 - Geoff Watts - Scrum Mastery: From Good To Great Servant-Leadership
-
-## Not decided yet:
-
 - Sandro Mancuso - The Software Craftsman: Professionalism, Pragmatism, Pride
 - Steve Krug - Rocket Surgery Made Easy: The Do-it-yourself Guide to Finding and Fixing Usability Problems
 - James Shore - The Art of Agile Development
 - Susan Weinschenk - 100 Things Every Designer Needs to Know About People: What Makes Them Tick?
 - Kenneth S. Rubin - Essential Scrum: A Practical Guide to the Most Popular Agile Process
+- Peter Morville - Information Architecture for the World Wide Web: Designing Large-Scale Web Sites [O'Reilly]
+- Peter Morville - Intertwingled: Information Changes Everything
+- Abby Covert - How to Make Sense of Any Mess: Information Architecture for Everybody
+- Jeff Gothelf - Lean UX: Applying Lean Principles to Improve User Experience
+- Lara Callender Hogan - Designing for Performance: Weighing Aesthetics and Speed [O'Reilly]
