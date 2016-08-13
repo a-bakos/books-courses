@@ -1,5 +1,6 @@
 # Technical books I read recently:
 
+- Tiffany B Brown - CSS Master [SitePoint]
 - Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
 - John Sonmez - Soft Skills: The software developer's life manual [Manning]
 - Andrew Hunt & David Thomas - The Pragmatic Programmer - from journeyman to master [Addison-Wesley]
@@ -14,7 +15,6 @@
 
 # Books I am reading and studying from now:
 
-- Tiffany B Brown - CSS Master [SitePoint]
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
