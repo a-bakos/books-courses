@@ -26,7 +26,7 @@
 
 ## On the way...
 
-(none at the moment)
+David Kadavy - Design for Hackers: Reverse Engineering Beauty
 
 # Next possible purchases at some point:
 
