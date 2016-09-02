@@ -17,6 +17,7 @@
 
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
+- David Kadavy - Design for Hackers: Reverse Engineering Beauty [Wiley]
 
 # Books yet to be read:
 
@@ -26,7 +27,7 @@
 
 ## On the way...
 
-David Kadavy - Design for Hackers: Reverse Engineering Beauty
+- Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 
 # Next possible purchases at some point:
 
