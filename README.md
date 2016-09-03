@@ -28,6 +28,7 @@
 ## On the way...
 
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
+- Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
 
 # Next possible purchases at some point:
 
