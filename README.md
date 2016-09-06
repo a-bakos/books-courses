@@ -1,5 +1,10 @@
-# Technical books I read recently:
+# MY HOME TECH LIBRARY
+List of the books currently existing in my tech library, items that are on the way, and a collection of titles to be grabbed.
+This includes books that are about IT or related to it in some ways, and books that are important to my professional & career goals from a tech view.
 
+## BOOKS:
+
+- David Kadavy - Design for Hackers: Reverse Engineering Beauty [Wiley]
 - Tiffany B Brown - CSS Master [SitePoint]
 - Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
 - John Sonmez - Soft Skills: The software developer's life manual [Manning]
@@ -13,19 +18,18 @@
 - Jay Blanchard - jQuery & jQuery UI [Peachpit Press]
 - Elizabeth Castro and Bruce Hyslop - HTML5 and CSS3 (Seventh Edition) [Peachpit Press]
 
-# Books I am reading and studying from now:
+### Books I am reading and studying from now:
 
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
-- David Kadavy - Design for Hackers: Reverse Engineering Beauty [Wiley]
 
-# Books yet to be read:
+### Books yet to be read:
 
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
-## On the way...
+### On the way...
 
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 - Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
