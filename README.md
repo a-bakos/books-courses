@@ -5,6 +5,7 @@ This includes books that are about IT or related to it in some ways, and books t
 ## BOOKS
 
 ### The ones I have read:
+(Order: newly finished is on top)
 
 - David Kadavy - Design for Hackers: Reverse Engineering Beauty [Wiley]
 - Tiffany B Brown - CSS Master [SitePoint]
