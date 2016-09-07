@@ -28,13 +28,13 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### The ones yet to be read:
 
+- Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
 ### On the way...
 
-- Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 - Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
 
 # Next possible additions
