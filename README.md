@@ -23,6 +23,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### The ones I am reading and studying from now:
 
+- Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
@@ -35,7 +36,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### On the way...
 
-- Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
+(none at the moment)
 
 # Next possible additions
 
