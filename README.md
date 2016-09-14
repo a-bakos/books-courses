@@ -36,14 +36,13 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### On the way...
 
-(none at the moment)
+- Andy Hunt - Pragmatic Thinking and Learning: Refactor Your Wetware
 
 # Next possible additions
 
 ## Very likely:
 
 - Robert C. Martin - The Clean Coder: A Code of Conduct for Professional Programmers
-- Andy Hunt - Pragmatic Thinking and Learning: Refactor Your Wetware
 - Mark C. Chu-Caroll - Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation
 - Donald A. Norman - The Design of Everyday Things, revised and expanded edition
 - Pragmatic Guide to Sass 3 [The Pragmatic Bookshelf]
