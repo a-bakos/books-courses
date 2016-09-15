@@ -1,6 +1,6 @@
 # MY HOME TECH LIBRARY
 List of the books currently existing in my tech library, items that are on the way, and a collection of titles to be grabbed.
-This includes books that are about IT or related to it in some ways, and books that are important to my professional & career goals from a tech view.
+This includes books that are about IT or related to it in some ways, and books that are important to my professional & career goals.
 
 ## BOOKS
 
@@ -46,8 +46,12 @@ This includes books that are about IT or related to it in some ways, and books t
 - Mark C. Chu-Caroll - Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation
 - Donald A. Norman - The Design of Everyday Things, revised and expanded edition
 - Pragmatic Guide to Sass 3 [The Pragmatic Bookshelf]
+- Cory Berg - Software++: Must-Have Skills For Software Engineers [CreateSpace]
+- Raymond Kurzweil - How to Create a Mind [Gerald Duckworth & Co Ltd]
+- Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
+- Liam Veitch - Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer [CreateSpace]
 
-## Likely:
+## Books that seem interesting:
 
 - Caroline Jarrett - Forms that Work: Designing Web Forms for Usability
 - Geoff Watts - Scrum Mastery: From Good To Great Servant-Leadership
@@ -61,3 +65,17 @@ This includes books that are about IT or related to it in some ways, and books t
 - Abby Covert - How to Make Sense of Any Mess: Information Architecture for Everybody
 - Jeff Gothelf - Lean UX: Applying Lean Principles to Improve User Experience
 - Lara Callender Hogan - Designing for Performance: Weighing Aesthetics and Speed [O'Reilly]
+
+- Steven Levy - In The Plex: How Google Thinks, Works, and Shapes Our Lives [Simon & Schuster]
+- Kevin Warwick - Artificial Intelligence: The Basics [Routledge]
+- Nick Bostrom - Superintelligence: Paths, Dangers, Strategies [OUP Oxford]
+- Steven Levy - Hackers: Heroes of the Computer Revolution [O'Reilly]
+- Ryan Holiday - Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising [Profile]
+- Greg McKeown - Essentialism: The Disciplined Pursuit of Less [Virgin Books]
+- Michael Hyatt - Platform: Get Noticed in a Noisy World [Thomas Nelson]
+- Atul Gawande - The Checklist Manifesto: How to Get Things Right. Atul Gawande [Profile]
+- Scott Meyer - Off to Be the Wizard (Magic 2.0) [47North] + more from Scott Meyer
+- Perry Marshall - 80/20 Sales and Marketing
+- Brian Tracy - Eat That Frog!: Get More of the Important Things Done - Today! [Hodder Paperbacks]
+- Maxwell Maltz - The New Psycho-Cybernetics
+- Raymond Kurzweil - The Singularity is Near [Gerald Duckworth & Co Ltd]
