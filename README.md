@@ -7,6 +7,7 @@ This includes books that are about IT or related to it in some ways, and books t
 ### The ones I have read:
 (Order: newly finished is on top)
 
+- Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
 - David Kadavy - Design for Hackers: Reverse Engineering Beauty [Wiley]
 - Tiffany B Brown - CSS Master [SitePoint]
 - Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
@@ -23,7 +24,6 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### The ones I am reading and studying from now:
 
-- Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 
