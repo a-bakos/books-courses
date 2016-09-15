@@ -65,7 +65,9 @@ This includes books that are about IT or related to it in some ways, and books t
 - Abby Covert - How to Make Sense of Any Mess: Information Architecture for Everybody
 - Jeff Gothelf - Lean UX: Applying Lean Principles to Improve User Experience
 - Lara Callender Hogan - Designing for Performance: Weighing Aesthetics and Speed [O'Reilly]
+
 ---
+
 - Steven Levy - In The Plex: How Google Thinks, Works, and Shapes Our Lives [Simon & Schuster]
 - Kevin Warwick - Artificial Intelligence: The Basics [Routledge]
 - Nick Bostrom - Superintelligence: Paths, Dangers, Strategies [OUP Oxford]
