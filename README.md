@@ -26,10 +26,10 @@ This includes books that are about IT or related to it in some ways, and books t
 
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
+- Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 
 ### The ones yet to be read:
 
-- Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
