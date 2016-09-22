@@ -27,6 +27,7 @@ This includes books that are about IT or related to it in some ways, and books t
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
+- Andy Hunt - Pragmatic Thinking and Learning: Refactor Your Wetware [The Pragmatic Bookshelf]
 
 ### The ones yet to be read:
 
@@ -36,7 +37,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### On the way...
 
-- Andy Hunt - Pragmatic Thinking and Learning: Refactor Your Wetware
+- Andy Hunt & Venkat Subramaniam - Practices of an Agile Developer: Working in the Real World [The Pragmatic Bookshelf]
 
 # Next possible additions
 
