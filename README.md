@@ -54,6 +54,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ## Books that seem interesting:
 
+- Gayle Laakmann McDowell - Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions [CareerCup]
 - Caroline Jarrett - Forms that Work: Designing Web Forms for Usability
 - Geoff Watts - Scrum Mastery: From Good To Great Servant-Leadership
 - Sandro Mancuso - The Software Craftsman: Professionalism, Pragmatism, Pride
