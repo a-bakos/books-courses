@@ -43,7 +43,9 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ## Very likely:
 
-- Robert C. Martin - The Clean Coder: A Code of Conduct for Professional Programmers
+- Steve McConnell - Code Complete: A Practical Handbook of Software Construction [Microsoft Press]
+- Robert C. Martin - The Clean Coder: A Code of Conduct for Professional Programmers [Prentice Hall]
+- Robert C. Martin - Clean Code: A Handbook of Agile Software Craftsmanship [Prentice Hall]
 - Mark C. Chu-Caroll - Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation
 - Donald A. Norman - The Design of Everyday Things, revised and expanded edition
 - Pragmatic Guide to Sass 3 [The Pragmatic Bookshelf]
