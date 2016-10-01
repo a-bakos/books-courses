@@ -7,6 +7,7 @@ This includes books that are about IT or related to it in some ways, and books t
 ### The ones I have read:
 (Order: newly finished is on top)
 
+- Andy Hunt - Pragmatic Thinking and Learning: Refactor Your Wetware [The Pragmatic Bookshelf]
 - Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
 - David Kadavy - Design for Hackers: Reverse Engineering Beauty [Wiley]
 - Tiffany B Brown - CSS Master [SitePoint]
@@ -27,7 +28,7 @@ This includes books that are about IT or related to it in some ways, and books t
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
-- Andy Hunt - Pragmatic Thinking and Learning: Refactor Your Wetware [The Pragmatic Bookshelf]
+- Andy Hunt & Venkat Subramaniam - Practices of an Agile Developer: Working in the Real World [The Pragmatic Bookshelf]
 
 ### The ones yet to be read:
 
@@ -37,7 +38,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### On the way...
 
-- Andy Hunt & Venkat Subramaniam - Practices of an Agile Developer: Working in the Real World [The Pragmatic Bookshelf]
+(none at the moment)
 
 # Next possible additions
 
