@@ -38,7 +38,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### On the way...
 
-(none at the moment)
+- Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
 
 # Next possible additions
 
@@ -52,7 +52,6 @@ This includes books that are about IT or related to it in some ways, and books t
 - Pragmatic Guide to Sass 3 [The Pragmatic Bookshelf]
 - Cory Berg - Software++: Must-Have Skills For Software Engineers [CreateSpace]
 - Raymond Kurzweil - How to Create a Mind [Gerald Duckworth & Co Ltd]
-- Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
 - Liam Veitch - Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer [CreateSpace]
 
 ## Books that seem interesting:
