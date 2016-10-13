@@ -56,6 +56,12 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ## Books that seem interesting:
 
+- William Lidwell, Kritina Holden, Jill Butler - Universal Principles of Design, Revised and Updated [Rockport]
+- Ellen Lupton - Thinking with Type, Second Revised and Expanded Edition [Princeton Architectural Press]
+- Mike Kuniavsky, Elizabeth Goodman, Andrea Moed - Observing the User Experience: A Practitioner's Guide to User Research [Morgan Kaufmann]
+- Martina Schell, James O'Brien - Communicating the UX Vision: 13 Anti-Patterns That Block Good Ideas [Morgan Kaufmann]
+- Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith, Trish Papadakos - Value Proposition Design [John Wiley & Sons]
+- Jon Kolko - Thoughts on Interaction Design [Morgan Kaufmann]
 - Gayle Laakmann McDowell - Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions [CareerCup]
 - Caroline Jarrett - Forms that Work: Designing Web Forms for Usability
 - Geoff Watts - Scrum Mastery: From Good To Great Servant-Leadership
