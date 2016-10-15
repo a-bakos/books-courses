@@ -32,13 +32,14 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### The ones yet to be read:
 
+- Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
 ### On the way...
 
-- Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
+none at the moment
 
 # Next possible additions
 
