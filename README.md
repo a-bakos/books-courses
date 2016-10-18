@@ -7,6 +7,7 @@ This includes books that are about IT or related to it in some ways, and books t
 ### The ones I have read:
 (Order: newly finished is on top)
 
+- Andy Hunt & Venkat Subramaniam - Practices of an Agile Developer: Working in the Real World [The Pragmatic Bookshelf]
 - Andy Hunt - Pragmatic Thinking and Learning: Refactor Your Wetware [The Pragmatic Bookshelf]
 - Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
 - David Kadavy - Design for Hackers: Reverse Engineering Beauty [Wiley]
@@ -28,18 +29,17 @@ This includes books that are about IT or related to it in some ways, and books t
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
-- Andy Hunt & Venkat Subramaniam - Practices of an Agile Developer: Working in the Real World [The Pragmatic Bookshelf]
+- Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
 
 ### The ones yet to be read:
 
-- Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
 ### On the way...
 
-none at the moment
+- Win Wenger - The Einstein Factor [Three Valleys Press]
 
 # Next possible additions
 
