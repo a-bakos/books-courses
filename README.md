@@ -40,7 +40,8 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### On the way...
 
-(none at the moment)
+- Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
+- Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum - Blogging Made Easy [CreateSpace]
 
 # Next possible additions
 
