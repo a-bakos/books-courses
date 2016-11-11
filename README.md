@@ -34,13 +34,13 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### The ones yet to be read:
 
+- Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
 ### On the way...
 
-- Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
 - Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum - Blogging Made Easy [CreateSpace]
 
 # Next possible additions
