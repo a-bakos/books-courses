@@ -31,6 +31,7 @@ This includes books that are about IT or related to it in some ways, and books t
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 - Win Wenger - The Einstein Factor [Three Valleys Press]
+- Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum - Blogging Made Easy [CreateSpace]
 
 ### The ones yet to be read:
 
@@ -41,7 +42,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### On the way...
 
-- Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum - Blogging Made Easy [CreateSpace]
+(none at the moment)
 
 # Next possible additions
 
