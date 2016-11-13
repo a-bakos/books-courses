@@ -7,6 +7,7 @@ This includes books that are about IT or related to it in some ways, and books t
 ### The ones I have read:
 (Order: newly finished is on top)
 
+- Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum - Blogging Made Easy [CreateSpace]
 - Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
 - Andy Hunt & Venkat Subramaniam - Practices of an Agile Developer: Working in the Real World [The Pragmatic Bookshelf]
 - Andy Hunt - Pragmatic Thinking and Learning: Refactor Your Wetware [The Pragmatic Bookshelf]
@@ -31,7 +32,6 @@ This includes books that are about IT or related to it in some ways, and books t
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 - Win Wenger - The Einstein Factor [Three Valleys Press]
-- Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum - Blogging Made Easy [CreateSpace]
 
 ### The ones yet to be read:
 
