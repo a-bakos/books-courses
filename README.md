@@ -42,7 +42,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### On the way...
 
-(none at the moment)
+- Amen Sharma - The Google Checklist: Marketing Edition 2016 [CreateSpace]
 
 # Next possible additions
 
