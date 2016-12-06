@@ -34,6 +34,7 @@ This includes books that are about IT or related to it in some ways, and books t
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 - Win Wenger - The Einstein Factor [Three Valleys Press]
 - Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
+- The Passionate Programmer - Chad Fowler [The Pragmatic Bookshelf]
 
 ### The ones yet to be read:
 
@@ -43,7 +44,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### On the way...
 
-- The Passionate Programmer - Chad Fowler [The Pragmatic Bookshelf]
+(none at the moment)
 
 # Next possible additions
 
