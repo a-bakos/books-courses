@@ -7,6 +7,7 @@ This includes books that are about IT or related to it in some ways, and books t
 ### The ones I have read:
 (Order: newly finished is on top)
 
+- Chad Fowler - The Passionate Programmer [The Pragmatic Bookshelf]
 - Amen Sharma - The Google Checklist: Marketing Edition 2016 [CreateSpace]
 - Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum - Blogging Made Easy [CreateSpace]
 - Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
@@ -34,7 +35,6 @@ This includes books that are about IT or related to it in some ways, and books t
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 - Win Wenger - The Einstein Factor [Three Valleys Press]
 - Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
-- The Passionate Programmer - Chad Fowler [The Pragmatic Bookshelf]
 
 ### The ones yet to be read:
 
