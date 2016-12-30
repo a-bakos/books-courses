@@ -29,8 +29,8 @@ This includes books that are about IT or related to it in some ways, and books t
 - Jay Blanchard - jQuery & jQuery UI [Peachpit Press]
 - Elizabeth Castro and Bruce Hyslop - HTML5 and CSS3 (Seventh Edition) [Peachpit Press]
 
-[ - Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press] ]
-[ - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press] ]
+- Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
+- Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
 ### The ones I am reading and studying from now:
 
