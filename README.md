@@ -29,18 +29,22 @@ This includes books that are about IT or related to it in some ways, and books t
 - Jay Blanchard - jQuery & jQuery UI [Peachpit Press]
 - Elizabeth Castro and Bruce Hyslop - HTML5 and CSS3 (Seventh Edition) [Peachpit Press]
 
+[ - Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press] ]
+[ - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press] ]
+
 ### The ones I am reading and studying from now:
 
+- Wallace D. Wattles - Financial Success [Destiny Books]
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
-- Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
 
 ### The ones yet to be read:
 
+- Antony Mayfield - Me and my web shadow [A & C Black]
+- Nicholas Bate - You, only better [Capstone]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
-- Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
 ### On the way...
 
