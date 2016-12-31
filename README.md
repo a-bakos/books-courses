@@ -1,12 +1,12 @@
 # MY HOME TECH LIBRARY
 List of the books currently existing in my tech library, items that are on the way, and a collection of titles to be grabbed.
-This includes books that are about IT or related to it in some ways, and books that are important to my professional & career goals.
+This includes books that are about IT or related to it in some ways, and books that are important to my professional & personal goals.
 
 ## BOOKS
 
-### The ones I have read:
-(Order: newly finished is on top)
+### Read:
 
+- Wallace D. Wattles - Financial Success [Destiny Books]
 - Win Wenger - The Einstein Factor [Three Valleys Press]
 - Chad Fowler - The Passionate Programmer [The Pragmatic Bookshelf]
 - Amen Sharma - The Google Checklist: Marketing Edition 2016 [CreateSpace]
@@ -34,14 +34,13 @@ This includes books that are about IT or related to it in some ways, and books t
 - Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
-### The ones I am reading and studying from now:
+### Reading now:
 
-- Wallace D. Wattles - Financial Success [Destiny Books]
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 
-### The ones yet to be read:
+### Yet to be read:
 
 - Antony Mayfield - Me and my web shadow [A & C Black]
 - Nicholas Bate - You, only better [Capstone]
