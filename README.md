@@ -39,11 +39,11 @@ This includes books that are about IT or related to it in some ways, and books t
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
+- Nicholas Bate - You, only better [Capstone]
 
 ### Yet to be read:
 
 - Antony Mayfield - Me and my web shadow [A & C Black]
-- Nicholas Bate - You, only better [Capstone]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 
