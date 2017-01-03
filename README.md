@@ -43,6 +43,7 @@ This includes books that are about IT or related to it in some ways, and books t
 
 ### Yet to be read:
 
+- Robert Kelsey - What's stopping you? [Capstone]
 - Antony Mayfield - Me and my web shadow [A & C Black]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
