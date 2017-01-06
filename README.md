@@ -36,6 +36,7 @@ List of books currently existing in my tech and soft-skills mini-library. Items 
 
 ### Reading now:
 
+- Antony Mayfield - Me and my web shadow [A & C Black]
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
@@ -43,13 +44,12 @@ List of books currently existing in my tech and soft-skills mini-library. Items 
 ### Yet to be read:
 
 - Robert Kelsey - What's stopping you? [Capstone]
-- Antony Mayfield - Me and my web shadow [A & C Black]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 
 ### On the way...
 
-(none at the moment)
+- Shane Snow - Smartcuts: The Breakthrough Power of Lateral Thinking [HarperBusiness]
 
 # Next possible additions
 
