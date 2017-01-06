@@ -1,11 +1,11 @@
-# MY HOME TECH LIBRARY
-List of the books currently existing in my tech library, items that are on the way, and a collection of titles to be grabbed.
-This includes books that are about IT or related to it in some ways, and books that are important to my professional & personal goals.
+# BRAINFEED
+List of books currently existing in my tech and soft-skills mini-library. Items that are on the way, and a collection of titles to be grabbed. Main topics are IT or related, and soft-skills. Books that are important to my professional & personal goals.
 
 ## BOOKS
 
 ### Read:
 
+- Nicholas Bate - You, only better [Capstone]
 - Wallace D. Wattles - Financial Success [Destiny Books]
 - Win Wenger - The Einstein Factor [Three Valleys Press]
 - Chad Fowler - The Passionate Programmer [The Pragmatic Bookshelf]
@@ -39,7 +39,6 @@ This includes books that are about IT or related to it in some ways, and books t
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
-- Nicholas Bate - You, only better [Capstone]
 
 ### Yet to be read:
 
