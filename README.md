@@ -30,20 +30,26 @@ List of books currently existing in my tech and soft-skills mini-library. Items 
 - Elizabeth Castro and Bruce Hyslop - HTML5 and CSS3 (Seventh Edition) [Peachpit Press]
 
 ---
+#### Skimmed and/or skipped:
 
+Possible reasons:
+
+- Momentarily uninteresting topic
+- The writing style doesn't work for me
+
+- Antony Mayfield - Me and my web shadow [A & C Black]
 - Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
 ### Reading now:
 
-- Antony Mayfield - Me and my web shadow [A & C Black]
+- Robert Kelsey - What's stopping you? [Capstone]
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
 
 ### Yet to be read:
 
-- Robert Kelsey - What's stopping you? [Capstone]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
 
