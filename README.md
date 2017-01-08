@@ -6,7 +6,9 @@ List of books currently existing in my tech and soft-skills mini-library. Items 
 ### Read:
 
 - Nicholas Bate - You, only better [Capstone]
+
 ---
+
 - Wallace D. Wattles - Financial Success [Destiny Books]
 - Win Wenger - The Einstein Factor [Three Valleys Press]
 - Chad Fowler - The Passionate Programmer [The Pragmatic Bookshelf]
@@ -27,7 +29,9 @@ List of books currently existing in my tech and soft-skills mini-library. Items 
 - Steven Bradley - CSS Animations and Transitions for the Modern Web [Adobe Press]
 - Peter Bell and Brent Beer - Introducing GitHub [O'Reilly]
 - Rob Cole and Edward Scotcher - Brilliant Agile Project Management [Pearson]
+
 ---
+
 - Jay Blanchard - jQuery & jQuery UI [Peachpit Press]
 - Elizabeth Castro and Bruce Hyslop - HTML5 and CSS3 (Seventh Edition) [Peachpit Press]
 
@@ -36,13 +40,14 @@ List of books currently existing in my tech and soft-skills mini-library. Items 
 
 Possible reasons:
 
-- Momentarily uninteresting topic
-- The writing style doesn't work for me
-
+1. Momentarily uninteresting topic
+2. The writing style doesn't work for me
 
 - Antony Mayfield - Me and my web shadow [A & C Black]
 - Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
+
+---
 
 ### Reading now:
 
@@ -59,6 +64,8 @@ Possible reasons:
 ### On the way...
 
 - Shane Snow - Smartcuts: The Breakthrough Power of Lateral Thinking [HarperBusiness]
+
+---
 
 # Next possible additions
 
