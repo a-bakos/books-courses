@@ -63,6 +63,8 @@ Possible reasons:
 
 ### On the way...
 
+- Ka Wai Cheung - The Developer's Code [The Pragmatic Bookshelf]
+- Benjamin P. Hardy - Slipstream Time Hacking [Benjamin Hardy]
 - Shane Snow - Smartcuts: The Breakthrough Power of Lateral Thinking [HarperBusiness]
 
 ---
