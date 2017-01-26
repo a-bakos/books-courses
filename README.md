@@ -45,6 +45,9 @@ Possible reasons:
 
 - Robert Kelsey - What's stopping you? [Capstone]
 - Antony Mayfield - Me and my web shadow [A & C Black]
+
+---
+
 - Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
 - Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
 
