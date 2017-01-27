@@ -124,3 +124,7 @@ Possible reasons:
 - Brian Tracy - Eat That Frog!: Get More of the Important Things Done - Today! [Hodder Paperbacks]
 - Maxwell Maltz - The New Psycho-Cybernetics
 - Raymond Kurzweil - The Singularity is Near [Gerald Duckworth & Co Ltd]
+
+---
+
+## [My wishlist on Amazon](https://www.amazon.co.uk/gp/registry/wishlist/XHH157FWOL51/ref=nav_wishlist_lists_1)
