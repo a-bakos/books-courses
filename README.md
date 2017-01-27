@@ -55,6 +55,7 @@ Possible reasons:
 
 ### Reading now:
 
+- Benjamin P. Hardy - Slipstream Time Hacking [Benjamin Hardy]
 - Mark Myers - A Smarter Way to Learn JavaScript
 - Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
 - Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
@@ -62,7 +63,6 @@ Possible reasons:
 ### Yet to be read:
 
 - Ka Wai Cheung - The Developer's Code [The Pragmatic Bookshelf]
-- Benjamin P. Hardy - Slipstream Time Hacking [Benjamin Hardy]
 - Shane Snow - Smartcuts: The Breakthrough Power of Lateral Thinking [HarperBusiness]
 - Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
 - Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
