@@ -5,67 +5,84 @@ List of books currently existing in my tech and soft-skills mini-library. Items 
 
 ### Read:
 
-- Nicholas Bate - You, only better [Capstone]
+#### 2017
+
+Author | Title | Publisher
+------ | ----- | ---------
+Nicholas Bate | You, only better | Capstone
+
+#### 2016
+Author | Title | Publisher
+------ | ----- | ---------
+Wallace D. Wattles | Financial Success | Destiny Books
+Win Wenger | The Einstein Factor | Three Valleys Press
+Chad Fowler | The Passionate Programmer | The Pragmatic Bookshelf
+Amen Sharma | The Google Checklist: Marketing Edition 2016 | CreateSpace
+Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum | Blogging Made Easy | CreateSpace
+Eric Schmidt, Jonathan Rosenberg | How Google Works | John Murray
+Andy Hunt & Venkat Subramaniam | Practices of an Agile Developer: Working in the Real World | The Pragmatic Bookshelf
+Andy Hunt | Pragmatic Thinking and Learning: Refactor Your Wetware | The Pragmatic Bookshelf
+Leif Kendall | Brilliant Freelancer: Discover the Power of Your Own Success | Pearson
+David Kadavy | Design for Hackers: Reverse Engineering Beauty | Wiley
+Tiffany B Brown | CSS Master | SitePoint
+Travis Swicegood | Pragmatic Guide to Git | The Pragmatic Bookshelf
+John Sonmez | Soft Skills: The software developer's life manual | Manning
+Andrew Hunt & David Thomas | The Pragmatic Programmer - from journeyman to master | Addison-Wesley
+Hampton Catlin and Michael Lintorn Catlin | Pragmatic Guide to Sass | The Pragmatic Bookshelf
+Steve Krug | Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability | New Riders
+Lea Verou | CSS Secrets - better solutions to everyday web design problems | O'Reilly
+Steven Bradley | CSS Animations and Transitions for the Modern Web | Adobe Press
+Peter Bell and Brent Beer | Introducing GitHub | O'Reilly
+Rob Cole and Edward Scotcher | Brilliant Agile Project Management | Pearson
+
+#### 2015
+
+Author | Title | Publisher
+------ | ----- | ---------
+Jay Blanchard | jQuery & jQuery UI | Peachpit Press
+Elizabeth Castro and Bruce Hyslop | HTML5 and CSS3 (Seventh Edition) | Peachpit Press
 
 ---
-
-- Wallace D. Wattles - Financial Success [Destiny Books]
-- Win Wenger - The Einstein Factor [Three Valleys Press]
-- Chad Fowler - The Passionate Programmer [The Pragmatic Bookshelf]
-- Amen Sharma - The Google Checklist: Marketing Edition 2016 [CreateSpace]
-- Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum - Blogging Made Easy [CreateSpace]
-- Eric Schmidt, Jonathan Rosenberg - How Google Works [John Murray]
-- Andy Hunt & Venkat Subramaniam - Practices of an Agile Developer: Working in the Real World [The Pragmatic Bookshelf]
-- Andy Hunt - Pragmatic Thinking and Learning: Refactor Your Wetware [The Pragmatic Bookshelf]
-- Leif Kendall - Brilliant Freelancer: Discover the Power of Your Own Success [Pearson]
-- David Kadavy - Design for Hackers: Reverse Engineering Beauty [Wiley]
-- Tiffany B Brown - CSS Master [SitePoint]
-- Travis Swicegood - Pragmatic Guide to Git [The Pragmatic Bookshelf]
-- John Sonmez - Soft Skills: The software developer's life manual [Manning]
-- Andrew Hunt & David Thomas - The Pragmatic Programmer - from journeyman to master [Addison-Wesley]
-- Hampton Catlin and Michael Lintorn Catlin - Pragmatic Guide to Sass [The Pragmatic Bookshelf]
-- Steve Krug - Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability [New Riders]
-- Lea Verou - CSS Secrets - better solutions to everyday web design problems [O'Reilly]
-- Steven Bradley - CSS Animations and Transitions for the Modern Web [Adobe Press]
-- Peter Bell and Brent Beer - Introducing GitHub [O'Reilly]
-- Rob Cole and Edward Scotcher - Brilliant Agile Project Management [Pearson]
-
----
-
-- Jay Blanchard - jQuery & jQuery UI [Peachpit Press]
-- Elizabeth Castro and Bruce Hyslop - HTML5 and CSS3 (Seventh Edition) [Peachpit Press]
-
----
-#### Skimmed and/or skipped:
+### Skimmed and/or skipped:
 
 Possible reasons:
 
 1. Momentarily uninteresting topic
 2. The writing style doesn't work for me
 
-- Robert Kelsey - What's stopping you? [Capstone]
-- Antony Mayfield - Me and my web shadow [A & C Black]
+#### 2017
 
----
+Author | Title | Publisher
+------ | ----- | ---------
+Robert Kelsey | What's stopping you? | Capstone
+Antony Mayfield | Me and my web shadow | A & C Black
 
-- Steve McConnell - Software Project Survival Guide (Developer Best Practices) [Microsoft Press]
-- Toni Negrino and Dori Smith - JavaScript (Ninth Edition) [Peachpit Press]
+#### 2016
+
+Author | Title | Publisher
+------ | ----- | ---------
+Steve McConnell | Software Project Survival Guide (Developer Best Practices) | Microsoft Press
+Toni Negrino and Dori Smith | JavaScript (Ninth Edition) | Peachpit Press
 
 ---
 
 ### Reading now:
 
-- Benjamin P. Hardy - Slipstream Time Hacking [Benjamin Hardy]
-- Mark Myers - A Smarter Way to Learn JavaScript
-- Larry Ullman - PHP and MySQL for Dynamic Web Sites (Fourth Edition) [Peachpit Press]
-- Larry Ullman - PHP Advanced And Object-Oriented Programming [Peachpit Press]
+Author | Title | Publisher
+------ | ----- | ---------
+Benjamin P. Hardy | Slipstream Time Hacking | Benjamin Hardy
+Mark Myers | A Smarter Way to Learn JavaScript | Amazon
+Larry Ullman | PHP and MySQL for Dynamic Web Sites (Fourth Edition) | Peachpit Press
+Larry Ullman | PHP Advanced And Object-Oriented Programming | Peachpit Press
 
 ### Yet to be read:
 
-- Ka Wai Cheung - The Developer's Code [The Pragmatic Bookshelf]
-- Shane Snow - Smartcuts: The Breakthrough Power of Lateral Thinking [HarperBusiness]
-- Marijn Haverbeke - Eloquent JavaScript (Second Edition) [No Starch Press]
-- Michael Dawson - Python Programming for the Absolute Beginner (Third Edition) [Course Technology PTR]
+Author | Title | Publisher
+------ | ----- | ---------
+Ka Wai Cheung | The Developer's Code | The Pragmatic Bookshelf
+Shane Snow | Smartcuts: The Breakthrough Power of Lateral Thinking | HarperBusiness
+Marijn Haverbeke | Eloquent JavaScript (Second Edition) | No Starch Press
+Michael Dawson | Python Programming for the Absolute Beginner (Third Edition) | Course Technology PTR
 
 ### On the way...
 
