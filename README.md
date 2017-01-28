@@ -94,53 +94,59 @@ Michael Dawson | Python Programming for the Absolute Beginner (Third Edition) | 
 
 ## Very likely:
 
-- Steve McConnell - Code Complete: A Practical Handbook of Software Construction [Microsoft Press]
-- Robert C. Martin - The Clean Coder: A Code of Conduct for Professional Programmers [Prentice Hall]
-- Robert C. Martin - Clean Code: A Handbook of Agile Software Craftsmanship [Prentice Hall]
-- Mark C. Chu-Caroll - Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation
-- Donald A. Norman - The Design of Everyday Things, revised and expanded edition
-- Pragmatic Guide to Sass 3 [The Pragmatic Bookshelf]
-- Cory Berg - Software++: Must-Have Skills For Software Engineers [CreateSpace]
-- Raymond Kurzweil - How to Create a Mind [Gerald Duckworth & Co Ltd]
-- Liam Veitch - Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer [CreateSpace]
+Author | Title | Publisher
+------ | ----- | ---------
+Steve McConnell | Code Complete: A Practical Handbook of Software Construction | Microsoft Press
+Robert C. Martin | The Clean Coder: A Code of Conduct for Professional Programmers | Prentice Hall
+Robert C. Martin | Clean Code: A Handbook of Agile Software Craftsmanship | Prentice Hall
+Mark C. Chu-Caroll | Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation | 
+Donald A. Norman | The Design of Everyday Things, revised and expanded edition | 
+ | Pragmatic Guide to Sass 3 | The Pragmatic Bookshelf
+Cory Berg | Software++: Must-Have Skills For Software Engineers | CreateSpace
+Raymond Kurzweil | How to Create a Mind | Gerald Duckworth & Co Ltd
+Liam Veitch | Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer | CreateSpace
 
 ## Books that seem interesting:
 
-- William Lidwell, Kritina Holden, Jill Butler - Universal Principles of Design, Revised and Updated [Rockport]
-- Ellen Lupton - Thinking with Type, Second Revised and Expanded Edition [Princeton Architectural Press]
-- Mike Kuniavsky, Elizabeth Goodman, Andrea Moed - Observing the User Experience: A Practitioner's Guide to User Research [Morgan Kaufmann]
-- Martina Schell, James O'Brien - Communicating the UX Vision: 13 Anti-Patterns That Block Good Ideas [Morgan Kaufmann]
-- Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith, Trish Papadakos - Value Proposition Design [John Wiley & Sons]
-- Jon Kolko - Thoughts on Interaction Design [Morgan Kaufmann]
-- Gayle Laakmann McDowell - Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions [CareerCup]
-- Caroline Jarrett - Forms that Work: Designing Web Forms for Usability
-- Geoff Watts - Scrum Mastery: From Good To Great Servant-Leadership
-- Sandro Mancuso - The Software Craftsman: Professionalism, Pragmatism, Pride
-- Steve Krug - Rocket Surgery Made Easy: The Do-it-yourself Guide to Finding and Fixing Usability Problems
-- James Shore - The Art of Agile Development
-- Susan Weinschenk - 100 Things Every Designer Needs to Know About People: What Makes Them Tick?
-- Kenneth S. Rubin - Essential Scrum: A Practical Guide to the Most Popular Agile Process
-- Peter Morville - Information Architecture for the World Wide Web: Designing Large-Scale Web Sites [O'Reilly]
-- Peter Morville - Intertwingled: Information Changes Everything
-- Abby Covert - How to Make Sense of Any Mess: Information Architecture for Everybody
-- Jeff Gothelf - Lean UX: Applying Lean Principles to Improve User Experience
-- Lara Callender Hogan - Designing for Performance: Weighing Aesthetics and Speed [O'Reilly]
+Author | Title | Publisher
+------ | ----- | ---------
+William Lidwell, Kritina Holden, Jill Butler | Universal Principles of Design, Revised and Updated | Rockport
+Ellen Lupton | Thinking with Type, Second Revised and Expanded Edition | Princeton Architectural Press
+Mike Kuniavsky, Elizabeth Goodman, Andrea Moed | Observing the User Experience: A Practitioner's Guide to User Research | Morgan Kaufmann
+Martina Schell, James O'Brien | Communicating the UX Vision: 13 Anti-Patterns That Block Good Ideas | Morgan Kaufmann
+Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith, Trish Papadakos | Value Proposition Design | John Wiley & Sons
+Jon Kolko | Thoughts on Interaction Design | Morgan Kaufmann
+Gayle Laakmann McDowell | Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions | CareerCup
+Caroline Jarrett | Forms that Work: Designing Web Forms for Usability | 
+Geoff Watts | Scrum Mastery: From Good To Great Servant-Leadership | 
+Sandro Mancuso | The Software Craftsman: Professionalism, Pragmatism, Pride | 
+Steve Krug | Rocket Surgery Made Easy: The Do-it-yourself Guide to Finding and Fixing Usability Problems | 
+James Shore | The Art of Agile Development | 
+Susan Weinschenk | 100 Things Every Designer Needs to Know About People: What Makes Them Tick? | 
+Kenneth S. Rubin | Essential Scrum: A Practical Guide to the Most Popular Agile Process | 
+Peter Morville | Information Architecture for the World Wide Web: Designing Large-Scale Web Sites | O'Reilly
+Peter Morville | Intertwingled: Information Changes Everything | 
+Abby Covert | How to Make Sense of Any Mess: Information Architecture for Everybody | 
+Jeff Gothelf | Lean UX: Applying Lean Principles to Improve User Experience | 
+Lara Callender Hogan | Designing for Performance: Weighing Aesthetics and Speed | O'Reilly
 
 ---
 
-- Steven Levy - In The Plex: How Google Thinks, Works, and Shapes Our Lives [Simon & Schuster]
-- Kevin Warwick - Artificial Intelligence: The Basics [Routledge]
-- Nick Bostrom - Superintelligence: Paths, Dangers, Strategies [OUP Oxford]
-- Steven Levy - Hackers: Heroes of the Computer Revolution [O'Reilly]
-- Ryan Holiday - Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising [Profile]
-- Greg McKeown - Essentialism: The Disciplined Pursuit of Less [Virgin Books]
-- Michael Hyatt - Platform: Get Noticed in a Noisy World [Thomas Nelson]
-- Atul Gawande - The Checklist Manifesto: How to Get Things Right. Atul Gawande [Profile]
-- Scott Meyer - Off to Be the Wizard (Magic 2.0) [47North] + more from Scott Meyer
-- Perry Marshall - 80/20 Sales and Marketing
-- Brian Tracy - Eat That Frog!: Get More of the Important Things Done - Today! [Hodder Paperbacks]
-- Maxwell Maltz - The New Psycho-Cybernetics
-- Raymond Kurzweil - The Singularity is Near [Gerald Duckworth & Co Ltd]
+Author | Title | Publisher
+------ | ----- | ---------
+Steven Levy | In The Plex: How Google Thinks, Works, and Shapes Our Lives | Simon & Schuster
+Kevin Warwick | Artificial Intelligence: The Basics | Routledge
+Nick Bostrom | Superintelligence: Paths, Dangers, Strategies | OUP Oxford
+Steven Levy | Hackers: Heroes of the Computer Revolution | O'Reilly
+Ryan Holiday | Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising | Profile
+Greg McKeown | Essentialism: The Disciplined Pursuit of Less | Virgin Books
+Michael Hyatt | Platform: Get Noticed in a Noisy World | Thomas Nelson
+Atul Gawande | The Checklist Manifesto: How to Get Things Right. Atul Gawande | Profile
+Scott Meyer | Off to Be the Wizard (Magic 2.0) + more from Scott Meyer | 47North
+Perry Marshall | 80/20 Sales and Marketing | 
+Brian Tracy | Eat That Frog!: Get More of the Important Things Done - Today! | Hodder Paperbacks
+Maxwell Maltz | The New Psycho-Cybernetics | 
+Raymond Kurzweil | The Singularity is Near | Gerald Duckworth & Co Ltd
 
 ---
 
