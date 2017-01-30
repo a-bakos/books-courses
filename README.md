@@ -92,8 +92,6 @@ Michael Dawson | Python Programming for the Absolute Beginner (Third Edition) | 
 
 # Next possible additions
 
-## Very likely:
-
 Author | Title | Publisher
 ------ | ----- | ---------
 Steve McConnell | Code Complete: A Practical Handbook of Software Construction | Microsoft Press
@@ -104,12 +102,20 @@ Donald A. Norman | The Design of Everyday Things, revised and expanded edition |
  | Pragmatic Guide to Sass 3 | The Pragmatic Bookshelf
 Cory Berg | Software++: Must-Have Skills For Software Engineers | CreateSpace
 Raymond Kurzweil | How to Create a Mind | Gerald Duckworth & Co Ltd
-Liam Veitch | Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer | CreateSpace
 
 ## Books that seem interesting:
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Golden Krishna | The Best Interface Is No Interface: The simple path to brilliant technology | 
+Jesse James Garrett | The Elements of User Experience: User-Centered Design for the Web and Beyond | 
+Alan Cooper | About Face: the Essentials of Interface Design | 
+Jaime Levy | UX Strategy: How to Devise Innovative Digital Products that People Want | 
+Jenifer Tidwell | Designing Interfaces | 
+Andy Oram, Greg Wilson | Making Software: What Really Works, and Why We Believe It | 
+Eric Evans | Domain-driven Design: Tackling Complexity in the Heart of Software | 
+Martin Fowler | Refactoring: Improving the Design of Existing Code | 
+Dustin Boswell | The Art of Readable Code | 
 William Lidwell, Kritina Holden, Jill Butler | Universal Principles of Design, Revised and Updated | Rockport
 Ellen Lupton | Thinking with Type, Second Revised and Expanded Edition | Princeton Architectural Press
 Mike Kuniavsky, Elizabeth Goodman, Andrea Moed | Observing the User Experience: A Practitioner's Guide to User Research | Morgan Kaufmann
@@ -129,11 +135,38 @@ Peter Morville | Intertwingled: Information Changes Everything |
 Abby Covert | How to Make Sense of Any Mess: Information Architecture for Everybody | 
 Jeff Gothelf | Lean UX: Applying Lean Principles to Improve User Experience | 
 Lara Callender Hogan | Designing for Performance: Weighing Aesthetics and Speed | O'Reilly
+Liam Veitch | Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer | CreateSpace
 
 ---
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Carlo Rovelli | Reality Is Not What It Seems: The Journey to Quantum Gravity | 
+Sir Roger Penrose | The Road To Reality: A Complete Guide to the Laws of the Universe | 
+Noson S. Yanofsky | The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us | 
+Matt Parker | Things to Make and Do in the Fourth Dimension | 
+Dee Blick | The Ultimate Small Business Marketing Book | 
+Martin Amor | The Idea in You: How to Find It, Build It, and Change Your Life | 
+DC Gause | Are Your Lights On?: How to Figure Out What the Problem Really is | 
+Kevin Kelly | The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future | 
+John Hands | Cosmosapiens: Human Evolution from the Origin of the Universe | 
+Marshall Goldsmith | Triggers: Sparking positive change and making it last | 
+Edwin A. Abbott | Flatland: A Romance of Many Dimensions | 
+Darren Hardy | The Compound Effect | 
+Grant Cardone | The 10X Rule: The Only Difference Between Success and Failure | 
+Grant Cardone | Be Obsessed or Be Average | 
+Chip Heath | Made to Stick: Why some ideas take hold and others come unstuck | 
+Scott Adams | How to Fail at Almost Everything and Still Win Big |
+Scott Adams | God's Debris: A Thought Experiment | 
+James Altucher | Choose Yourself! | 
+Rollo Tomassi | The Rational Male | 
+Robert A. Glover | No More Mr Nice Guy | 
+Jack Donovan | Becoming a Barbarian | 
+Jack Donovan | The Way of Men | 
+Joseph O'Connor, John Seymour | Introducing NLP Neuro-Linguistic Programming | 
+David Deida | Way of the Superior Man | 
+Tim Ferriss | The 4-Hour Work Week | 
+Tim Ferriss | The 4-Hour Body | 
 Steven Levy | In The Plex: How Google Thinks, Works, and Shapes Our Lives | Simon & Schuster
 Kevin Warwick | Artificial Intelligence: The Basics | Routledge
 Nick Bostrom | Superintelligence: Paths, Dangers, Strategies | OUP Oxford
