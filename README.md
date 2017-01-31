@@ -107,6 +107,10 @@ Raymond Kurzweil | How to Create a Mind | Gerald Duckworth & Co Ltd
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Erich Gamma, Richard Helm, Ralph Johnson  | Design patterns : elements of reusable object-oriente​d software | 
+J Clark Scott | But How Do It Know? | 
+T Cormen, C Leiserson, R Rivest | Introduction to Algorithms | 
+Charles Petzold | Code: The Hidden Language of Computer Hardware and Software | 
 Golden Krishna | The Best Interface Is No Interface: The simple path to brilliant technology | 
 Jesse James Garrett | The Elements of User Experience: User-Centered Design for the Web and Beyond | 
 Alan Cooper | About Face: the Essentials of Interface Design | 
