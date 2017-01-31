@@ -9,6 +9,7 @@ List of books currently existing in my tech and soft-skills mini-library. Items 
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Benjamin P. Hardy | Slipstream Time Hacking | Amazon
 Nicholas Bate | You, only better | Capstone
 
 #### 2016
@@ -70,7 +71,6 @@ Toni Negrino and Dori Smith | JavaScript (Ninth Edition) | Peachpit Press
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Benjamin P. Hardy | Slipstream Time Hacking | Benjamin Hardy
 Mark Myers | A Smarter Way to Learn JavaScript | Amazon
 Larry Ullman | PHP and MySQL for Dynamic Web Sites (Fourth Edition) | Peachpit Press
 Larry Ullman | PHP Advanced And Object-Oriented Programming | Peachpit Press
