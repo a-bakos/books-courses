@@ -1,7 +1,10 @@
 # BRAINFEED
 List of books currently existing in my tech and soft-skills mini-library. Items that are on the way, and a collection of titles to be grabbed. Main topics are IT or related, and soft-skills. Books that are important to my professional & personal goals.
+These are physical copies, I do not include e-books here nor any blogs.
+Reading list properly tracked from 2016.
 
 ## BOOKS
+Technical, non-fiction, self-growth
 
 ### Read:
 
