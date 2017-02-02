@@ -12,6 +12,7 @@ Technical, non-fiction, self-growth
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Mark Myers | A Smarter Way to Learn JavaScript | Amazon
 Benjamin P. Hardy | Slipstream Time Hacking | Amazon
 Nicholas Bate | You, only better | Capstone
 
@@ -75,7 +76,6 @@ Toni Negrino and Dori Smith | JavaScript (Ninth Edition) | Peachpit Press
 Author | Title | Publisher
 ------ | ----- | ---------
 Ka Wai Cheung | The Developer's Code | The Pragmatic Bookshelf
-Mark Myers | A Smarter Way to Learn JavaScript | Amazon
 Larry Ullman | PHP and MySQL for Dynamic Web Sites (Fourth Edition) | Peachpit Press
 Larry Ullman | PHP Advanced And Object-Oriented Programming | Peachpit Press
 
