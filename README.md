@@ -115,6 +115,8 @@ Raymond Kurzweil | How to Create a Mind | Gerald Duckworth & Co Ltd
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Natalie Goldberg | [Writing Down the Bones: Freeing the Writer Within](https://www.amazon.co.uk/dp/161180308X/) | Shambhala Publications
+Benjamin P Hardy | [How to Consciously Design Your Ideal Future](https://www.amazon.co.uk/dp/1530227410/) | CreateSpace
 Erich Gamma, Richard Helm, Ralph Johnson  | Design patterns : elements of reusable object-oriente​d software | 
 J Clark Scott | But How Do It Know? | 
 T Cormen, C Leiserson, R Rivest | Introduction to Algorithms | 
