@@ -102,9 +102,9 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Steve McConnell | Code Complete: A Practical Handbook of Software Construction | Microsoft Press
-Robert C. Martin | The Clean Coder: A Code of Conduct for Professional Programmers | Prentice Hall
-Robert C. Martin | Clean Code: A Handbook of Agile Software Craftsmanship | Prentice Hall
+Steve McConnell | [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) | Microsoft Press
+Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
+Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 Mark C. Chu-Caroll | Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation | 
 Donald A. Norman | The Design of Everyday Things, revised and expanded edition | 
  | Pragmatic Guide to Sass 3 | The Pragmatic Bookshelf
