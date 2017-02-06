@@ -1,5 +1,8 @@
 # BRAINFEED
-List of books currently existing in my tech and soft-skills mini-library. Items that are on the way, and a collection of titles to be grabbed. Main topics are IT or related, and soft-skills. Books that are important to my professional & personal goals.
+List of books currently existing in my tech and soft-skills mini-library. Items
+that are on the way, and a collection of titles to be grabbed. Main topics are
+IT or related, and soft-skills. Books that are important to my professional &
+personal goals.
 These are physical copies, I do not include e-books here nor any blogs.
 Reading list properly tracked from 2016.
 
@@ -8,45 +11,46 @@ Technical, non-fiction, self-growth
 
 ### Read:
 
-#### 2017
+#### In 2017
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Ka Wai Cheung | The Developer's Code | The Pragmatic Bookshelf
-Mark Myers | A Smarter Way to Learn JavaScript | Amazon
-Benjamin P. Hardy | Slipstream Time Hacking | Amazon
-Nicholas Bate | You, only better | Capstone
+Ka Wai Cheung | [The Developer's Code](https://www.amazon.co.uk/d/Books/Developers-Code-Ka-Wai-Cheung/1934356794/) | The Pragmatic Bookshelf
+Mark Myers | [A Smarter Way to Learn JavaScript](https://www.amazon.co.uk/gp/product/1497408180/) | Amazon
+Benjamin P. Hardy | [Slipstream Time Hacking](https://www.amazon.co.uk/gp/product/0997071001) | Amazon
+Nicholas Bate | [You, only better](https://www.amazon.co.uk/You-Only-Better-Strengths-Change/dp/0857084720/) | Capstone
 
-#### 2016
+#### In 2016
 Author | Title | Publisher
 ------ | ----- | ---------
-Wallace D. Wattles | Financial Success | Destiny Books
-Win Wenger | The Einstein Factor | Three Valleys Press
-Chad Fowler | The Passionate Programmer | The Pragmatic Bookshelf
-Amen Sharma | The Google Checklist: Marketing Edition 2016 | CreateSpace
-Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum | Blogging Made Easy | CreateSpace
-Eric Schmidt, Jonathan Rosenberg | How Google Works | John Murray
-Andy Hunt & Venkat Subramaniam | Practices of an Agile Developer: Working in the Real World | The Pragmatic Bookshelf
-Andy Hunt | Pragmatic Thinking and Learning: Refactor Your Wetware | The Pragmatic Bookshelf
-Leif Kendall | Brilliant Freelancer: Discover the Power of Your Own Success | Pearson
-David Kadavy | Design for Hackers: Reverse Engineering Beauty | Wiley
-Tiffany B Brown | CSS Master | SitePoint
-Travis Swicegood | Pragmatic Guide to Git | The Pragmatic Bookshelf
-John Sonmez | Soft Skills: The software developer's life manual | Manning
-Andrew Hunt & David Thomas | The Pragmatic Programmer - from journeyman to master | Addison-Wesley
-Hampton Catlin and Michael Lintorn Catlin | Pragmatic Guide to Sass | The Pragmatic Bookshelf
-Steve Krug | Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability | New Riders
-Lea Verou | CSS Secrets - better solutions to everyday web design problems | O'Reilly
-Steven Bradley | CSS Animations and Transitions for the Modern Web | Adobe Press
-Peter Bell and Brent Beer | Introducing GitHub | O'Reilly
-Rob Cole and Edward Scotcher | Brilliant Agile Project Management | Pearson
+Wallace D. Wattles | [Financial Success](https://www.amazon.co.uk/d/Books/Financial-Success-Harnessing-Creative-Wallace-D-Wattles/0892813040/) | Destiny Books
+Win Wenger | [The Einstein Factor](https://www.amazon.co.uk/gp/product/076150186X/) | Three Valleys Press
+Chad Fowler | [The Passionate Programmer](https://www.amazon.co.uk/gp/product/1934356344/) | The Pragmatic Bookshelf
+Amen Sharma | [The Google Checklist: Marketing Edition 2016](https://www.amazon.co.uk/gp/product/1530607515/) | CreateSpace
+Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum | [Blogging Made Easy](https://www.amazon.co.uk/gp/product/1537450565/) | CreateSpace
+Eric Schmidt, Jonathan Rosenberg | [How Google Works](https://www.amazon.co.uk/gp/product/1444792490/) | John Murray
+Andy Hunt & Venkat Subramaniam | [Practices of an Agile Developer: Working in the Real World](https://www.amazon.co.uk/gp/product/097451408X/) | The Pragmatic Bookshelf
+Andy Hunt | [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.co.uk/gp/product/1934356050/) | The Pragmatic Bookshelf
+Leif Kendall | [Brilliant Freelancer: Discover the Power of Your Own Success](https://www.amazon.co.uk/gp/product/0273744631/) | Pearson
+David Kadavy | [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.co.uk/gp/product/1119998956/) | Wiley
+Tiffany B Brown | [CSS Master](https://www.amazon.co.uk/gp/product/0994182627/) | SitePoint
+Travis Swicegood | [Pragmatic Guide to Git](https://www.amazon.co.uk/gp/product/1934356727/) | The Pragmatic Bookshelf
+John Sonmez | [Soft Skills: The software developer's life manual](https://www.amazon.co.uk/gp/product/1617292397/) | Manning
+Andrew Hunt & David Thomas | [The Pragmatic Programmer - from journeyman to master](https://www.amazon.co.uk/gp/product/020161622X/) | Addison-Wesley
+Hampton Catlin and Michael Lintorn Catlin | [Pragmatic Guide to Sass](https://www.amazon.co.uk/gp/product/1934356840/) | The Pragmatic Bookshelf
+Steve Krug | [Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability](https://www.amazon.co.uk/gp/product/0321965515/) | New Riders
+Lea Verou | [CSS Secrets - better solutions to everyday web design problems](https://www.amazon.co.uk/gp/product/1449372635/) | O'Reilly
+Steven Bradley | [CSS Animations and Transitions for the Modern Web](https://www.amazon.co.uk/gp/product/0133980502/) | Adobe Press
+Peter Bell and Brent Beer | [Introducing GitHub](https://www.amazon.co.uk/gp/product/1491949740/) | O'Reilly
+Rob Cole and Edward Scotcher | [Brilliant Agile Project Management](https://www.amazon.co.uk/gp/product/1292063564/) | Pearson
 
-#### 2015
+#### Before 2016 _(incomplete)_
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Jay Blanchard | jQuery & jQuery UI | Peachpit Press
-Elizabeth Castro and Bruce Hyslop | HTML5 and CSS3 (Seventh Edition) | Peachpit Press
+Jay Blanchard | [jQuery & jQuery UI](https://www.amazon.co.uk/gp/product/0321885147/) | Peachpit Press
+Elizabeth Castro and Bruce Hyslop | [HTML5 and CSS3 (Seventh Edition)](https://www.amazon.co.uk/gp/product/0321719611/) | Peachpit Press
+Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
 
 ---
 ### Skimmed and/or skipped:
@@ -60,15 +64,15 @@ Possible reasons:
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Robert Kelsey | What's stopping you? | Capstone
-Antony Mayfield | Me and my web shadow | A & C Black
+Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
+Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
 
 #### 2016
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Steve McConnell | Software Project Survival Guide (Developer Best Practices) | Microsoft Press
-Toni Negrino and Dori Smith | JavaScript (Ninth Edition) | Peachpit Press
+Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press
+Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
 
 ---
 
@@ -76,16 +80,17 @@ Toni Negrino and Dori Smith | JavaScript (Ninth Edition) | Peachpit Press
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Marijn Haverbeke | Eloquent JavaScript (Second Edition) | No Starch Press
-Larry Ullman | PHP and MySQL for Dynamic Web Sites (Fourth Edition) | Peachpit Press
-Larry Ullman | PHP Advanced And Object-Oriented Programming | Peachpit Press
+Marijn Haverbeke | [Eloquent JavaScript (Second Edition)](https://www.amazon.co.uk/gp/product/1593275846/) | No Starch Press
+Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
+Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon.co.uk/gp/product/0321832183/) | Peachpit Press
 
 ### Yet to be read:
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Shane Snow | Smartcuts: The Breakthrough Power of Lateral Thinking | HarperBusiness
-Michael Dawson | Python Programming for the Absolute Beginner (Third Edition) | Course Technology PTR
+Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
+Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/0007320760/) | Harper Element
+Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 
 ### On the way...
 
