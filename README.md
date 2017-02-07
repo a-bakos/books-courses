@@ -97,6 +97,8 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 ### On the way...
 
+Author | Title | Publisher
+------ | ----- | ---------
 Edwin A. Abbott | [Flatland: A Romance of Many Dimensions](https://www.amazon.co.uk/Flatland-Romance-Dimensions-Dover-Thrift/dp/048627263X/) | Dover Publications
 
 ---
@@ -109,10 +111,10 @@ Steve McConnell | [Code Complete: A Practical Handbook of Software Construction]
 Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 Mark C. Chu-Caroll | [Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation](https://www.amazon.co.uk/Good-Math-Computation-Pragmatic-Programmers/dp/1937785335/) | 
-Donald A. Norman | The Design of Everyday Things, revised and expanded edition | 
- | Pragmatic Guide to Sass 3 | The Pragmatic Bookshelf
-Cory Berg | Software++: Must-Have Skills For Software Engineers | CreateSpace
-Raymond Kurzweil | How to Create a Mind | Gerald Duckworth & Co Ltd
+Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
+Hampton Lintorn Catlin, Michael Lintorn Catlin | [Pragmatic Guide to Sass 3](https://www.amazon.co.uk/Pragmatic-Guide-Sass-Modern-Style/dp/1680501763/) | The Pragmatic Bookshelf
+Cory Berg | [Software++: Must-Have Skills For Software Engineers](https://www.amazon.co.uk/Software-Must-Have-Skills-Engineers-x/dp/1514629348/) | CreateSpace
+Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-Create-Mind-Ray-Kurzweil/0715647334/) | Gerald Duckworth & Co Ltd
 
 ## Books that seem interesting:
 
