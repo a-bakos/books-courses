@@ -7,7 +7,7 @@ These are physical copies, I do not include e-books here nor any blogs.
 Reading list properly tracked from 2016.
 
 ## BOOKS
-Technical, non-fiction, self-growth
+Technical, non-fiction, self-growth, business
 
 ### Read:
 
@@ -89,6 +89,9 @@ Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon
 Author | Title | Publisher
 ------ | ----- | ---------
 Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
+Marc Lawson & Steve Hackney | [Why Businesses Stop Growing](https://www.amazon.co.uk/Why-Businesses-Stop-Growing-About/dp/1495277828/) | AFT Publishing
+Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
+Paul McKenna | [Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/) | Bantam Press
 Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/0007320760/) | Harper Element
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 
