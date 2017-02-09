@@ -93,6 +93,8 @@ Marc Lawson & Steve Hackney | [Why Businesses Stop Growing](https://www.amazon.c
 Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
 Paul McKenna | [Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/) | Bantam Press
 Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/0007320760/) | Harper Element
+Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/) | Harper Perennial
+Richard Reeves, John Knell | [The 80 Minute MBA](https://www.amazon.co.uk/80-Minute-MBA-Everything-2009-03-05/dp/B019TLJD62/) | Business Plus
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 
 ### On the way...
