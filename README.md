@@ -7,7 +7,7 @@ These are physical copies, I do not include e-books here nor any blogs.
 Reading list properly tracked from 2016.
 
 ## BOOKS
-Technical, non-fiction, self-growth, business
+Technical, non-fiction, self-growth, business (+1 fiction)
 
 ### Read:
 
