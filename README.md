@@ -102,7 +102,8 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none at the moment
+GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.uk/Understanding-Professional-Programmer-GM-Weinberg/dp/0932633099/) | John Wiley & Sons
+Glenford J. Myers, Corey Sandler, Tom Badgett | [The Art of Software Testing](https://www.amazon.co.uk/Art-Software-Testing-Glenford-Myers/dp/1118031962/) | John Wiley & Sons
 
 ---
 
@@ -124,9 +125,7 @@ Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-C
 Author | Title | Publisher
 ------ | ----- | ---------
 David West | [Object Thinking](https://www.amazon.co.uk/d/Books/Thinking-Developer-Reference-DV-Microsoft-Professional/0735619654/) | Microsoft Press
-GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.uk/Understanding-Professional-Programmer-GM-Weinberg/dp/0932633099/) | John Wiley & Sons
 Douglas Crockford | [JavaScript: The Good Parts](https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/) | O'Reilly
-Glenford J. Myers, Corey Sandler, Tom Badgett | [The Art of Software Testing](https://www.amazon.co.uk/Art-Software-Testing-Glenford-Myers/dp/1118031962/) | John Wiley & Sons
 Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/Complete-Guide-Software-Testing/dp/0471565679/) | John Wiley & Sons
 Elliotte Rusty Harold, W. Scott Means | [XML in a Nutshell](https://www.amazon.co.uk/Nutshell-OReilly-Elliotte-Rusty-Harold/dp/0596007647/) | O'Reilly
 Daniel H. Pink | [Drive](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/) | Canongate Books
