@@ -89,6 +89,7 @@ Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/Complete-Guide-Software-Testing/dp/0471565679/) | John Wiley & Sons
 Edwin A. Abbott | [Flatland: A Romance of Many Dimensions](https://www.amazon.co.uk/Flatland-Romance-Dimensions-Dover-Thrift/dp/048627263X/) | Dover Publications
 Marc Lawson & Steve Hackney | [Why Businesses Stop Growing](https://www.amazon.co.uk/Why-Businesses-Stop-Growing-About/dp/1495277828/) | AFT Publishing
 Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
@@ -104,7 +105,6 @@ Author | Title | Publisher
 ------ | ----- | ---------
 Kyle Simpson | [You Don't Know JS: Up & Going](https://www.amazon.co.uk/gp/product/1491924462/) | O'Reilly Media
 GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.uk/Understanding-Professional-Programmer-GM-Weinberg/dp/0932633099/) | John Wiley & Sons
-Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/Complete-Guide-Software-Testing/dp/0471565679/) | John Wiley & Sons
 
 ---
 
