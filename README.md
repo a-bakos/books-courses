@@ -125,6 +125,9 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Stoyan Stefanov | [JavaScript Patterns](https://www.amazon.co.uk/d/Books/JavaScript-Patterns-Stoyan-Stefanov/0596806752/) | O'Reilly
+Jon Duckett | [JavaScript & JQuery: Interactive Front-end Web Development](https://www.amazon.co.uk/d/Books/JavaScript-JQuery-Interactive-Front-end-Web-Development/1118531647/) | John Wiley & Sons
+Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Object Model](https://www.amazon.co.uk/DOM-Scripting-Design-Javascript-Document/dp/1430233893/) | friendsofED
 Douglas Crockford | [JavaScript: The Good Parts](https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/) | O'Reilly
 Larry Ullman | [Modern JavaScript: Develop and Design](https://www.amazon.co.uk/Modern-JavaScript-Develop-Larry-Ullman/dp/0321812522/) | Peachpit Press
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
@@ -141,6 +144,9 @@ Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Eewei Chen | [101 Design Ingredients to Solve Big Tech Problems](https://www.amazon.co.uk/Design-Ingredients-Solve-Tech-Problems/dp/B00SLUEODU/) | The Pragmatic Bookshelf
+Aditya Bhargava | [Grokking Algorithms](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/) | Manning Publications
+Brian P. Hogan | [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://www.amazon.co.uk/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224/) | The Pragmatic Bookshelf
 Mark C. Chu-Caroll | [Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation](https://www.amazon.co.uk/Good-Math-Computation-Pragmatic-Programmers/dp/1937785335/) | 
 Hampton Lintorn Catlin, Michael Lintorn Catlin | [Pragmatic Guide to Sass 3](https://www.amazon.co.uk/Pragmatic-Guide-Sass-Modern-Style/dp/1680501763/) | The Pragmatic Bookshelf
 Cory Berg | [Software++: Must-Have Skills For Software Engineers](https://www.amazon.co.uk/Software-Must-Have-Skills-Engineers-x/dp/1514629348/) | CreateSpace
