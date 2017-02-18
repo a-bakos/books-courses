@@ -15,6 +15,7 @@ Technical, non-fiction, self-growth, business (+1 fiction)
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Marijn Haverbeke | [Eloquent JavaScript (Second Edition)](https://www.amazon.co.uk/gp/product/1593275846/) | No Starch Press
 Ka Wai Cheung | [The Developer's Code](https://www.amazon.co.uk/d/Books/Developers-Code-Ka-Wai-Cheung/1934356794/) | The Pragmatic Bookshelf
 Mark Myers | [A Smarter Way to Learn JavaScript](https://www.amazon.co.uk/gp/product/1497408180/) | Amazon
 Benjamin P. Hardy | [Slipstream Time Hacking](https://www.amazon.co.uk/gp/product/0997071001) | Amazon
@@ -53,12 +54,13 @@ Elizabeth Castro and Bruce Hyslop | [HTML5 and CSS3 (Seventh Edition)](https://w
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
 
 ---
-### Skimmed and/or skipped:
+### Skimmed and/or skipped and/or paused:
 
 Possible reasons:
 
-1. Momentarily uninteresting topic
+1. (Momentarily) uninteresting topic
 2. The writing style doesn't work for me
+3. The knowledge included has to be preceded by other skills before moving onto it
 
 #### 2017
 
@@ -72,7 +74,6 @@ Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-
 Author | Title | Publisher
 ------ | ----- | ---------
 Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press
-Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
 
 ---
 
@@ -80,8 +81,8 @@ Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
 Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
-Marijn Haverbeke | [Eloquent JavaScript (Second Edition)](https://www.amazon.co.uk/gp/product/1593275846/) | No Starch Press
 Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
 Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon.co.uk/gp/product/0321832183/) | Peachpit Press
 
