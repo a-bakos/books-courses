@@ -125,6 +125,9 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
+Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer](https://www.amazon.co.uk/Pragmatic-Ajax-Web-2-0-Primer/dp/0976694085/) | The Pragmatic Bookshelf
+Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/) | The Pragmatic Bookshelf
 Stoyan Stefanov | [JavaScript Patterns](https://www.amazon.co.uk/d/Books/JavaScript-Patterns-Stoyan-Stefanov/0596806752/) | O'Reilly
 Jon Duckett | [JavaScript & JQuery: Interactive Front-end Web Development](https://www.amazon.co.uk/d/Books/JavaScript-JQuery-Interactive-Front-end-Web-Development/1118531647/) | John Wiley & Sons
 Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Object Model](https://www.amazon.co.uk/DOM-Scripting-Design-Javascript-Document/dp/1430233893/) | friendsofED
@@ -144,6 +147,14 @@ Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Joe Kutner | [The Healthy Programmer: Get Fit, Feel Better, and Keep Coding](https://www.amazon.co.uk/Healthy-Programmer-Better-Pragmatic-Programmers-x/dp/1937785319/) | The Pragmatic Bookshelf
+Joshua D. Carter | [New Programmer's Survival Manual](https://www.amazon.co.uk/New-Programmers-Survival-Manual-Workplace/dp/1934356816/) | The Pragmatic Bookshelf
+ Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson | [Web Development Recipes](https://www.amazon.co.uk/Web-Development-Recipes-Brian-Hogan/dp/1680500562/) | The Pragmatic Bookshelf
+Johanna Rothman, Esther Derby | [Behind Closed Doors: Secrets of Great Management](https://www.amazon.co.uk/d/cka/Behind-Closed-Doors-Secrets-Management-Johanna-Rothman/0976694026/) | The Pragmatic Bookshelf
+Keir Thomas | [Ubuntu Kung Fu: Tips, Tricks, Hints, and Hacks](https://www.amazon.co.uk/d/Books/Ubuntu-Kung-Fu-Tricks-Hints/1934356220/) | The Pragmatic Bookshelf
+Ken Pugh | [Interface Oriented Design: With Patterns](https://www.amazon.co.uk/Interface-Oriented-Design-Pragmatic-Programmers/dp/0976694050/) | The Pragmatic Bookshelf
+Andy Lester | [Land the Tech Job You Love](https://www.amazon.co.uk/Land-Tech-Job-You-Love/dp/1934356263/) | The Pragmatic Bookshelf
+Lukas Mathis | [Designed for Use: Create Usable Interfaces for Applications and the Web](https://www.amazon.co.uk/Designed-Use-Interfaces-Applications-Publisher/dp/B00SLSWWAY/) | The Pragmatic Bookshelf
 Eewei Chen | [101 Design Ingredients to Solve Big Tech Problems](https://www.amazon.co.uk/Design-Ingredients-Solve-Tech-Problems/dp/B00SLUEODU/) | The Pragmatic Bookshelf
 Aditya Bhargava | [Grokking Algorithms](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/) | Manning Publications
 Brian P. Hogan | [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://www.amazon.co.uk/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224/) | The Pragmatic Bookshelf
