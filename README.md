@@ -81,15 +81,16 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Kyle Simpson | [You Don't Know JS: Up & Going](https://www.amazon.co.uk/gp/product/1491924462/) | O'Reilly Media
 Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
 Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
-Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
-Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon.co.uk/gp/product/0321832183/) | Peachpit Press
 
-### Yet to be read:
+### Yet to be read / finished:
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
+Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon.co.uk/gp/product/0321832183/) | Peachpit Press
 GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.uk/Understanding-Professional-Programmer-GM-Weinberg/dp/0932633099/) | John Wiley & Sons
 Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/Complete-Guide-Software-Testing/dp/0471565679/) | John Wiley & Sons
 Edwin A. Abbott | [Flatland: A Romance of Many Dimensions](https://www.amazon.co.uk/Flatland-Romance-Dimensions-Dover-Thrift/dp/048627263X/) | Dover Publications
@@ -105,7 +106,8 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Kyle Simpson | [You Don't Know JS: Up & Going](https://www.amazon.co.uk/gp/product/1491924462/) | O'Reilly Media
+Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer](https://www.amazon.co.uk/Pragmatic-Ajax-Web-2-0-Primer/dp/0976694085/) | The Pragmatic Bookshelf
+John Resig | [Pro JavaScript Techniques](https://www.amazon.co.uk/dp/1590597273/) | Apress
 
 ---
 
@@ -126,7 +128,6 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 Author | Title | Publisher
 ------ | ----- | ---------
 Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
-Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer](https://www.amazon.co.uk/Pragmatic-Ajax-Web-2-0-Primer/dp/0976694085/) | The Pragmatic Bookshelf
 Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/) | The Pragmatic Bookshelf
 Stoyan Stefanov | [JavaScript Patterns](https://www.amazon.co.uk/d/Books/JavaScript-Patterns-Stoyan-Stefanov/0596806752/) | O'Reilly
 Jon Duckett | [JavaScript & JQuery: Interactive Front-end Web Development](https://www.amazon.co.uk/d/Books/JavaScript-JQuery-Interactive-Front-end-Web-Development/1118531647/) | John Wiley & Sons
