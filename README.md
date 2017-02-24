@@ -204,6 +204,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe
 Josh Waitzkin | [The Art of Learning: An Inner Journey to Optimal Performance](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465/) | Free Press
 Simon Sinek | [Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://www.amazon.co.uk/d/Books/Leaders-Eat-Last-Some-Teams-Together-Others/0670923168/) | Portfolio Penguin
 Simon Sinek | [Start With Why: How Great Leaders Inspire Everyone To Take Action](https://www.amazon.co.uk/dp/0241958229/) | Penguin
