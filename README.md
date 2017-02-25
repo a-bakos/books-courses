@@ -15,6 +15,7 @@ Technical, non-fiction, self-growth, business (+1 fiction)
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
 Marijn Haverbeke | [Eloquent JavaScript (Second Edition)](https://www.amazon.co.uk/gp/product/1593275846/) | No Starch Press
 Ka Wai Cheung | [The Developer's Code](https://www.amazon.co.uk/d/Books/Developers-Code-Ka-Wai-Cheung/1934356794/) | The Pragmatic Bookshelf
 Mark Myers | [A Smarter Way to Learn JavaScript](https://www.amazon.co.uk/gp/product/1497408180/) | Amazon
@@ -82,7 +83,6 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 Author | Title | Publisher
 ------ | ----- | ---------
 Kyle Simpson | [You Don't Know JS: Up & Going](https://www.amazon.co.uk/gp/product/1491924462/) | O'Reilly Media
-Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
 Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
 
 ### Yet to be read / finished:
