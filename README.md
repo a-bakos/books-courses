@@ -148,6 +148,7 @@ Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
 Joe Kutner | [The Healthy Programmer: Get Fit, Feel Better, and Keep Coding](https://www.amazon.co.uk/Healthy-Programmer-Better-Pragmatic-Programmers-x/dp/1937785319/) | The Pragmatic Bookshelf
 Joshua D. Carter | [New Programmer's Survival Manual](https://www.amazon.co.uk/New-Programmers-Survival-Manual-Workplace/dp/1934356816/) | The Pragmatic Bookshelf
  Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson | [Web Development Recipes](https://www.amazon.co.uk/Web-Development-Recipes-Brian-Hogan/dp/1680500562/) | The Pragmatic Bookshelf
@@ -174,8 +175,7 @@ Dustin Boswell | [The Art of Readable Code](https://www.amazon.co.uk/Art-Readabl
 Andy Oram, Greg Wilson | [Making Software: What Really Works, and Why We Believe It](https://www.amazon.co.uk/Making-Software-Really-Works-Believe/dp/0596808321/) | 
 Gayle Laakmann McDowell | [Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850/) | CareerCup
 J Clark Scott | [But How Do It Know?](https://www.amazon.co.uk/But-How-Know-Principles-Computers/dp/0615303765/) | 
-Charles Petzold | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.co.uk/Code-Language-Computer-Hardware-Software/dp/0735611319/) | 
-Golden Krishna | [The Best Interface Is No Interface: The simple path to brilliant technology](https://www.amazon.co.uk/d/Books/Best-Interface-No-brilliant-technology/0133890333/) | 
+Charles Petzold | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.co.uk/Code-Language-Computer-Hardware-Software/dp/0735611319/) | Golden Krishna | [The Best Interface Is No Interface: The simple path to brilliant technology](https://www.amazon.co.uk/d/Books/Best-Interface-No-brilliant-technology/0133890333/) | 
 Jesse James Garrett | [The Elements of User Experience: User-Centered Design for the Web and Beyond](https://www.amazon.co.uk/Elements-User-Experience-User-Centered-Design/dp/0321683684/) | 
 Alan Cooper | [About Face: the Essentials of Interface Design](https://www.amazon.co.uk/About-Face-Essentials-Interaction-Design/dp/1118766571/) | 
 Jaime Levy | [UX Strategy: How to Devise Innovative Digital Products that People Want](https://www.amazon.co.uk/d/Books/Strategy-Devise-Innovative-Digital-Products-People-Want/1449372864/) | 
