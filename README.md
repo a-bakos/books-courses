@@ -109,6 +109,8 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 Author | Title | Publisher
 ------ | ----- | ---------
 Kyle Simpson | [You Don't Know JS: Scope & Closures](https://www.amazon.co.uk/You-Dont-Know-JS-Closures/dp/1449335586/) | O'Reilly Media
+Kyle Simpson | [You Don't Know JS: this & Object Prototypes](https://www.amazon.co.uk/You-Dont-Know-JS-Prototypes/dp/1491904151/) | O'Reilly Media
+Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 
 ---
 
@@ -136,9 +138,7 @@ Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Objec
 Douglas Crockford | [JavaScript: The Good Parts](https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/) | O'Reilly
 Larry Ullman | [Modern JavaScript: Develop and Design](https://www.amazon.co.uk/Modern-JavaScript-Develop-Larry-Ullman/dp/0321812522/) | Peachpit Press
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
-Kyle Simpson | [You Don't Know JS: this & Object Prototypes](https://www.amazon.co.uk/You-Dont-Know-JS-Prototypes/dp/1491904151/) | O'Reilly Media
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
-Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 Addy Osmani | [Learning JavaScript Design Patterns](https://www.amazon.co.uk/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/) | O'Reilly Media
 David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.amazon.co.uk/Effective-JavaScript-Specific-Software-Development/dp/0321812182/) | Addison Wesley
  Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action](https://www.amazon.co.uk/Node-js-Action-Mike-Cantelon/dp/1617290572/) | Manning Publications
