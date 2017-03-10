@@ -130,6 +130,10 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5]() | Apress
+Mark E. Daggett | [Expert JavaScript]() | Apress
+Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](https://www.amazon.co.uk/dp/1430262680/) | Apress
+Arjan Egges | [Building JavaScript Games: for Phones, Tablets, and Desktop](https://www.amazon.co.uk/dp/1430265388) | Apress
 Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
 Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/) | The Pragmatic Bookshelf
 Stoyan Stefanov | [JavaScript Patterns](https://www.amazon.co.uk/d/Books/JavaScript-Patterns-Stoyan-Stefanov/0596806752/) | O'Reilly
