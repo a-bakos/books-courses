@@ -122,7 +122,7 @@ Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programm
 Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 Jeremy Sydik | [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms](https://www.amazon.co.uk/Design-Accessible-Web-Sites-Programmers/dp/1934356026/) | Pragmatic Bookshelf
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
-Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5]() | Apress
+Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
