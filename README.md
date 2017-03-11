@@ -90,6 +90,7 @@ Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 Kyle Simpson | [You Don't Know JS: Scope & Closures](https://www.amazon.co.uk/You-Dont-Know-JS-Closures/dp/1449335586/) | O'Reilly Media
 Kyle Simpson | [You Don't Know JS: this & Object Prototypes](https://www.amazon.co.uk/You-Dont-Know-JS-Prototypes/dp/1491904151/) | O'Reilly Media
 Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer](https://www.amazon.co.uk/Pragmatic-Ajax-Web-2-0-Primer/dp/0976694085/) | The Pragmatic Bookshelf
@@ -110,7 +111,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
+none atm | |
 
 ---
 
