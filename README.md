@@ -209,6 +209,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Joseph Murphy | [The Power of Your Subconscious Mind](https://www.amazon.co.uk/dp/0735204551/) | Penguin
 Dan Ariely | [Behavioural Economics Saved My Dog: Life Advice For The Imperfect Human](https://www.amazon.co.uk/Behavioural-Economics-Saved-Dog-Imperfect/dp/1780748175/) | Oneworld Publications
 Dan Ariely | [The Upside of Irrationality](https://www.amazon.co.uk/Upside-Irrationality-Dan-Ariely/dp/0007354789/) | Harper
 Dan Ariely | [Payoff: The Hidden Logic That Shapes Our Motivations](https://www.amazon.co.uk/Payoff-Hidden-Logic-Shapes-Motivations/dp/1471156079/) | Simon & Schuster UK
