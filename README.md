@@ -15,6 +15,7 @@ Technical, non-fiction, self-growth, business (+1 fiction)
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Kyle Simpson | [You Don't Know JS: Scope & Closures](https://www.amazon.co.uk/You-Dont-Know-JS-Closures/dp/1449335586/) | O'Reilly Media
 John Resig | [Pro JavaScript Techniques](https://www.amazon.co.uk/dp/1590597273/) | Apress
 Kyle Simpson | [You Don't Know JS: Up & Going](https://www.amazon.co.uk/gp/product/1491924462/) | O'Reilly Media
 Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
@@ -84,7 +85,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Kyle Simpson | [You Don't Know JS: Scope & Closures](https://www.amazon.co.uk/You-Dont-Know-JS-Closures/dp/1449335586/) | O'Reilly Media
+Kyle Simpson | [You Don't Know JS: this & Object Prototypes](https://www.amazon.co.uk/You-Dont-Know-JS-Prototypes/dp/1491904151/) | O'Reilly Media
 Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
 
 ### Yet to be read / finished:
@@ -92,7 +93,6 @@ Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www
 Author | Title | Publisher
 ------ | ----- | ---------
 Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
-Kyle Simpson | [You Don't Know JS: this & Object Prototypes](https://www.amazon.co.uk/You-Dont-Know-JS-Prototypes/dp/1491904151/) | O'Reilly Media
 Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer](https://www.amazon.co.uk/Pragmatic-Ajax-Web-2-0-Primer/dp/0976694085/) | The Pragmatic Bookshelf
 Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
 Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon.co.uk/gp/product/0321832183/) | Peachpit Press
