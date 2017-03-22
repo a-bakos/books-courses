@@ -134,7 +134,8 @@ Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.ama
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Mark E. Daggett | [Expert JavaScript]() | Apress
+ Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
+Mark E. Daggett | [Expert JavaScript](https://www.amazon.co.uk/dp/1430260971/) | Apress
 Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](https://www.amazon.co.uk/dp/1430262680/) | Apress
 Arjan Egges | [Building JavaScript Games: for Phones, Tablets, and Desktop](https://www.amazon.co.uk/dp/1430265388) | Apress
 Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
@@ -209,6 +210,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness
 Joseph Murphy | [The Power of Your Subconscious Mind](https://www.amazon.co.uk/dp/0735204551/) | Penguin
 Dan Ariely | [Behavioural Economics Saved My Dog: Life Advice For The Imperfect Human](https://www.amazon.co.uk/Behavioural-Economics-Saved-Dog-Imperfect/dp/1780748175/) | Oneworld Publications
 Dan Ariely | [The Upside of Irrationality](https://www.amazon.co.uk/Upside-Irrationality-Dan-Ariely/dp/0007354789/) | Harper
