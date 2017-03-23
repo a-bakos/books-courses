@@ -113,7 +113,8 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-(none atm) | |
+Grant Cardone | [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.co.uk/10X-Rule-Difference-Between-Success/dp/0470627603/) | 
+Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | 
 
 ---
 
@@ -235,8 +236,6 @@ John Hands | [Cosmosapiens: Human Evolution from the Origin of the Universe](htt
 Marshall Goldsmith | [Triggers: Sparking positive change and making it last](https://www.amazon.co.uk/d/Books/Triggers-Sparking-positive-change-making-Marshall-Goldsmith/1781252823/) | 
 Darren Hardy | [The Compound Effect](https://www.amazon.co.uk/Compound-Effect-Darren-Hardy/dp/159315724X/) | 
 Douglas R. Hofstadter | [Godel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.co.uk/Godel-Escher-Bach-Eternal-Golden/dp/0465026567/) | Basic Books
-Grant Cardone | [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.co.uk/10X-Rule-Difference-Between-Success/dp/0470627603/) | 
-Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | 
 Chip Heath | [Made to Stick: Why some ideas take hold and others come unstuck](https://www.amazon.co.uk/Made-Stick-ideas-others-unstuck/dp/009950569X/) | 
 Scott Adams | [How to Fail at Almost Everything and Still Win Big](https://www.amazon.co.uk/How-Fail-Almost-Everything-Still/dp/0241003709/) |
 Scott Adams | [God's Debris: A Thought Experiment](https://www.amazon.co.uk/Gods-Debris-Experiment-Scott-Adams/dp/0740747878/) | 
