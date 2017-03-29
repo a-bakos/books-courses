@@ -113,6 +113,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 Grant Cardone | [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.co.uk/10X-Rule-Difference-Between-Success/dp/0470627603/) | 
 Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | 
 
@@ -123,7 +124,6 @@ Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-
 Author | Title | Publisher
 ------ | ----- | ---------
 Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
-Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 Jeremy Sydik | [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms](https://www.amazon.co.uk/Design-Accessible-Web-Sites-Programmers/dp/1934356026/) | Pragmatic Bookshelf
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
 Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
