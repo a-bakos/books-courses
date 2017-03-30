@@ -211,6 +211,9 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Mark Manson | [The Subtle Art of Not Giving a F-ck](https://www.amazon.co.uk/dp/0062457713/) | HarperOne
+Sarah Knight | [Get Your Sh-t Together](https://www.amazon.co.uk/dp/1786484080/) | Quercus
+Sarah Knight | [The Life-Changing Magic of Not Giving a F--k](https://www.amazon.co.uk/dp/1784298468/) | Quercus
 Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness
 Joseph Murphy | [The Power of Your Subconscious Mind](https://www.amazon.co.uk/dp/0735204551/) | Penguin
 Dan Ariely | [Behavioural Economics Saved My Dog: Life Advice For The Imperfect Human](https://www.amazon.co.uk/Behavioural-Economics-Saved-Dog-Imperfect/dp/1780748175/) | Oneworld Publications
