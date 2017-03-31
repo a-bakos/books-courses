@@ -211,6 +211,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Julian Baggini | [The Pig That Wants to be Eaten: And Ninety-Nine Other Thought Experiments](https://www.amazon.co.uk/dp/1847081282/) | Granta Books
 Mark Manson | [The Subtle Art of Not Giving a F-ck](https://www.amazon.co.uk/dp/0062457713/) | HarperOne
 Sarah Knight | [Get Your Sh-t Together](https://www.amazon.co.uk/dp/1786484080/) | Quercus
 Sarah Knight | [The Life-Changing Magic of Not Giving a F--k](https://www.amazon.co.uk/dp/1784298468/) | Quercus
