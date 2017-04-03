@@ -15,6 +15,7 @@ Technical, non-fiction, self-growth, business (+1 fiction)
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
 Kyle Simpson | [You Don't Know JS: Scope & Closures](https://www.amazon.co.uk/You-Dont-Know-JS-Closures/dp/1449335586/) | O'Reilly Media
 John Resig | [Pro JavaScript Techniques](https://www.amazon.co.uk/dp/1590597273/) | Apress
 Kyle Simpson | [You Don't Know JS: Up & Going](https://www.amazon.co.uk/gp/product/1491924462/) | O'Reilly Media
@@ -85,15 +86,14 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Grant Cardone | [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.co.uk/10X-Rule-Difference-Between-Success/dp/0470627603/) | John Wiley & Sons
 Kyle Simpson | [You Don't Know JS: this & Object Prototypes](https://www.amazon.co.uk/You-Dont-Know-JS-Prototypes/dp/1491904151/) | O'Reilly Media
-Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
 
 ### Yet to be read / finished:
 
 Author | Title | Publisher
 ------ | ----- | ---------
 Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | Portfolio
-Grant Cardone | [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.co.uk/10X-Rule-Difference-Between-Success/dp/0470627603/) | John Wiley & Sons
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
 Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
