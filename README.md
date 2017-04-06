@@ -1,8 +1,8 @@
 # BRAINFEED
-List of books currently existing in my tech and soft-skills mini-library. Items
-that are on the way, and a collection of titles to be grabbed. Main topics are
-IT or related, and soft-skills. Books that are important to my professional &
-personal goals.
+List of books currently existing in my tech business and soft-skills
+mini-library. Items that are on the way, and a collection of titles to be
+grabbed. Main topics are IT or related, and soft-skills.
+Books that are important to my professional & personal goals.
 These are physical copies, I do not include e-books here nor any blogs.
 Reading list properly tracked from 2016.
 
@@ -87,6 +87,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 Grant Cardone | [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.co.uk/10X-Rule-Difference-Between-Success/dp/0470627603/) | John Wiley & Sons
 
 ### Yet to be read / finished:
@@ -97,7 +98,6 @@ Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](http
 Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | Portfolio
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
-Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer](https://www.amazon.co.uk/Pragmatic-Ajax-Web-2-0-Primer/dp/0976694085/) | The Pragmatic Bookshelf
 Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
 Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon.co.uk/gp/product/0321832183/) | Peachpit Press
