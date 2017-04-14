@@ -20,6 +20,8 @@ Reading list properly tracked from 2016.
  + [Computing](#wishlist_computing)
  + [Business, soft-skills, psychology, etc.](#wishlist_others)
 
+---
+
 ### Finished reading <a id="read"></a>
 
 #### In 2017 <a id="read_2017"></a>
