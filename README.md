@@ -4,21 +4,21 @@ These are physical copies, I do not include e-books here nor any blogs.
 Technical, non-fiction, self-growth, business (+1 fiction).
 Reading list properly tracked from 2016.
 
-+ [Read](#read)
- - [In 2017](#read_2017)
- - [In 2016](#read_2016)
- - [before 2016 _incomplete_](#before_2016)
-+ [Skimmed and/or skipped and/or paused](#skimmed)
- - [2017](#skimmed_2017)
- - [2016](#skimmed_2016)
-+ [Reading now](#reading_now)
-+ [Yet to be read / finished](#to_be_read)
-+ [On the way](#on_the_way)
-+ [Books that seem interesting / wishlist](#wishlist)
- - [Must haves](#wishlist_musthaves)
- - [JS](#wishlist_js)
- - [Computing](#wishlist_computing)
- - [Business, soft-skills, psychology, etc.](#wishlist_others)
+1. [Read](#read)
+ + [In 2017](#read_2017)
+ + [In 2016](#read_2016)
+ + [before 2016 _incomplete_](#before_2016)
+2. [Skimmed and/or skipped and/or paused](#skimmed)
+ + [2017](#skimmed_2017)
+ + [2016](#skimmed_2016)
+3. [Reading now](#reading_now)
+4. [Yet to be read / finished](#to_be_read)
+5. [On the way](#on_the_way)
+6. [Books that seem interesting / wishlist](#wishlist)
+ + [Must haves](#wishlist_musthaves)
+ + [JS](#wishlist_js)
+ + [Computing](#wishlist_computing)
+ + [Business, soft-skills, psychology, etc.](#wishlist_others)
 
 ### Finished reading <a id="read"></a>
 
