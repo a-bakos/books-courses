@@ -5,9 +5,9 @@ Technical, non-fiction, self-growth, business (+1 fiction).
 Reading list properly tracked from 2016.
 
 1. [Read](#read)
-  + [In 2017](#read_2017)
-  + [In 2016](#read_2016)
-  + [before 2016 _incomplete_](#before_2016)
+   + [In 2017](#read_2017)
+   + [In 2016](#read_2016)
+   + [before 2016 _incomplete_](#before_2016)
 
 2. [Skimmed and/or skipped and/or paused](#skimmed)
  + [2017](#skimmed_2017)
