@@ -8,6 +8,7 @@ Reading list properly tracked from 2016.
  + [In 2017](#read_2017)
  + [In 2016](#read_2016)
  + [before 2016 _incomplete_](#before_2016)
+
 2. [Skimmed and/or skipped and/or paused](#skimmed)
  + [2017](#skimmed_2017)
  + [2016](#skimmed_2016)
@@ -22,9 +23,11 @@ Reading list properly tracked from 2016.
 
 ---
 
-### Finished reading <a id="read"></a>
+<a id="read"></a>
+## Finished reading 
 
-#### In 2017 <a id="read_2017"></a>
+<a id="read_2017"></a>
+#### In 2017
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -42,7 +45,8 @@ Mark Myers | [A Smarter Way to Learn JavaScript](https://www.amazon.co.uk/gp/pro
 Benjamin P. Hardy | [Slipstream Time Hacking](https://www.amazon.co.uk/gp/product/0997071001) | Amazon
 Nicholas Bate | [You, only better](https://www.amazon.co.uk/You-Only-Better-Strengths-Change/dp/0857084720/) | Capstone
 
-#### In 2016 <a id="read_2016"></a>
+<a id="read_2016"></a>
+#### In 2016 
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -67,7 +71,8 @@ Steven Bradley | [CSS Animations and Transitions for the Modern Web](https://www
 Peter Bell and Brent Beer | [Introducing GitHub](https://www.amazon.co.uk/gp/product/1491949740/) | O'Reilly
 Rob Cole and Edward Scotcher | [Brilliant Agile Project Management](https://www.amazon.co.uk/gp/product/1292063564/) | Pearson
 
-#### Before 2016 _(incomplete)_ <a id="before_2016"></a>
+<a id="before_2016"></a>
+#### Before 2016 _(incomplete)_
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -77,22 +82,25 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 ---
 
-### Skimmed and/or skipped and/or paused: <a id="skimmed"></a>
+<a id="skimmed"></a>
+### Skimmed and/or skipped and/or paused
 
 Possible reasons:
 
-1. (Momentarily) uninteresting topic
-2. The writing style doesn't work for me
-3. The knowledge included has to be preceded by other skills before moving onto it
++ (Momentarily) uninteresting topic
++ The writing style doesn't work for me
++ The knowledge included has to be preceded by other skills before moving onto it
 
-#### 2017 <a id="skimmed_2017"></a>
+<a id="skimmed_2017"></a>
+#### 2017
 
 Author | Title | Publisher
 ------ | ----- | ---------
 Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
 Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
 
-#### 2016 <a id="skimmed_2016"></a>
+<a id="skimmed_2016"></a>
+#### 2016
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -100,13 +108,15 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 ---
 
-### Reading now: <a id="reading_now"></a>
+<a id="reading_now"></a>
+### Reading now: 
 
 Author | Title | Publisher
 ------ | ----- | ---------
 Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 
-### Yet to be read / finished: <a id="to_be_read"></a>
+<a id="to_be_read"></a>
+### Yet to be read / finished:
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -127,7 +137,8 @@ Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-
 Richard Reeves, John Knell | [The 80 Minute MBA](https://www.amazon.co.uk/80-Minute-MBA-Everything-2009-03-05/dp/B019TLJD62/) | Business Plus
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 
-### On the way... <a id="on_the_way"></a>
+<a id="on_the_way"></a>
+### On the way...
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -135,9 +146,11 @@ Author | Title | Publisher
 
 ---
 
-## Books that seem interesting / Wishlist <a id="wishlist"></a>
+<a id="wishlist"></a>
+## Books that seem interesting / Wishlist 
 
-# Must haves <a id="wishlist_musthaves"></a>
+<a id="wishlist_musthaves"></a>
+# Must haves
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -147,7 +160,8 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 
-### JS <a id="wishlist_js"></a>
+<a id="wishlist_js"></a>
+### JS
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -168,7 +182,8 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 Boris Smus | [Web Audio API](https://www.amazon.co.uk/Web-Audio-API-Boris-Smus/dp/1449332684/) | O'Reilly Media
 Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript-Allongé-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/) *Only kindle edition* | Justin Kelly
 
-### Computing <a id="wishlist_computing"></a>
+<a id="wishlist_computing"></a>
+### Computing
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -226,7 +241,8 @@ Peter Morville | [Intertwingled: Information Changes Everything](https://www.ama
 Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.co.uk/How-Make-Sense-Any-Mess/dp/1500615994/) | 
 Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer](https://www.amazon.co.uk/Stop-Thinking-Like-Freelancer-Evolution/dp/1503273148/) | CreateSpace
 
-### Business, soft-skills, psychology, etc. <a id="wishlist_others"></a>
+<a id="wishlist_others"></a>
+### Business, soft-skills, psychology, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
