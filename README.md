@@ -5,24 +5,24 @@ Technical, non-fiction, self-growth, business (+1 fiction).
 Reading list properly tracked from 2016.
 
 * [Read](#read)
- * [In 2017](#in_2017)
- * 2016
- * before 2016 _incomplete_
-* Skimmed and/or skipped and/or paused
- * 2017
- * 2016
-* Reading now
-* Yet to be read / finished
-* On the way
-* Books that seem interesting / wishlist
- * Must haves
- * JS
- * Computing
- * Business, soft-skills, psychology, etc.
+ * [In 2017](#read_2017)
+ * [In 2016](#read_2016)
+ * [before 2016 _incomplete_](#before_2016)
+* [Skimmed and/or skipped and/or paused](#skimmed)
+ * [2017](#skimmed_2017)
+ * [2016](#skimmed_2016)
+* [Reading now](#reading_now)
+* [Yet to be read / finished](#yet_to_be_read)
+* [On the way](#on_the_way)
+* [Books that seem interesting / wishlist](#wishlist)
+ * [Must haves](#wishlist_musthaves)
+ * [JS](#wishlist_js)
+ * [Computing](#wishlist_computing)
+ * [Business, soft-skills, psychology, etc.](#wishlist_others)
 
-### Finished reading #read
+### Finished reading <a id="read"></a>
 
-#### In 2017 <a id="in_2017"></a>
+#### In 2017 <a id="read_2017"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -40,7 +40,8 @@ Mark Myers | [A Smarter Way to Learn JavaScript](https://www.amazon.co.uk/gp/pro
 Benjamin P. Hardy | [Slipstream Time Hacking](https://www.amazon.co.uk/gp/product/0997071001) | Amazon
 Nicholas Bate | [You, only better](https://www.amazon.co.uk/You-Only-Better-Strengths-Change/dp/0857084720/) | Capstone
 
-#### In 2016
+#### In 2016 <a id="read_2016"></a>
+
 Author | Title | Publisher
 ------ | ----- | ---------
 Wallace D. Wattles | [Financial Success](https://www.amazon.co.uk/d/Books/Financial-Success-Harnessing-Creative-Wallace-D-Wattles/0892813040/) | Destiny Books
@@ -64,7 +65,7 @@ Steven Bradley | [CSS Animations and Transitions for the Modern Web](https://www
 Peter Bell and Brent Beer | [Introducing GitHub](https://www.amazon.co.uk/gp/product/1491949740/) | O'Reilly
 Rob Cole and Edward Scotcher | [Brilliant Agile Project Management](https://www.amazon.co.uk/gp/product/1292063564/) | Pearson
 
-#### Before 2016 _(incomplete)_
+#### Before 2016 _(incomplete)_ <a id="before_2016"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -73,7 +74,8 @@ Elizabeth Castro and Bruce Hyslop | [HTML5 and CSS3 (Seventh Edition)](https://w
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
 
 ---
-### Skimmed and/or skipped and/or paused:
+
+### Skimmed and/or skipped and/or paused: <a id="skimmed"></a>
 
 Possible reasons:
 
@@ -81,14 +83,14 @@ Possible reasons:
 2. The writing style doesn't work for me
 3. The knowledge included has to be preceded by other skills before moving onto it
 
-#### 2017
+#### 2017 <a id="skimmed_2017"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
 Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
 Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
 
-#### 2016
+#### 2016 <a id="skimmed_2016"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -96,13 +98,13 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 ---
 
-### Reading now:
+### Reading now: <a id="reading_now"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
 Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 
-### Yet to be read / finished:
+### Yet to be read / finished: <a id="to_be_read"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -123,7 +125,7 @@ Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-
 Richard Reeves, John Knell | [The 80 Minute MBA](https://www.amazon.co.uk/80-Minute-MBA-Everything-2009-03-05/dp/B019TLJD62/) | Business Plus
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 
-### On the way...
+### On the way... <a id="on_the_way"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -131,9 +133,9 @@ Author | Title | Publisher
 
 ---
 
-## Books that seem interesting:
+## Books that seem interesting / Wishlist <a id="wishlist"></a>
 
-# Must haves
+# Must haves <a id="wishlist_musthaves"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -143,7 +145,7 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 
-### JS
+### JS <a id="wishlist_js"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -164,7 +166,7 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 Boris Smus | [Web Audio API](https://www.amazon.co.uk/Web-Audio-API-Boris-Smus/dp/1449332684/) | O'Reilly Media
 Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript-Allongé-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/) *Only kindle edition* | Justin Kelly
 
-### Computing 
+### Computing <a id="wishlist_computing"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -222,7 +224,7 @@ Peter Morville | [Intertwingled: Information Changes Everything](https://www.ama
 Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.co.uk/How-Make-Sense-Any-Mess/dp/1500615994/) | 
 Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer](https://www.amazon.co.uk/Stop-Thinking-Like-Freelancer-Evolution/dp/1503273148/) | CreateSpace
 
-### Business, soft-skills, psychology, etc.
+### Business, soft-skills, psychology, etc. <a id="wishlist_others"></a>
 
 Author | Title | Publisher
 ------ | ----- | ---------
