@@ -4,8 +4,8 @@ These are physical copies, I do not include e-books here nor any blogs.
 Technical, non-fiction, self-growth, business (+1 fiction).
 Reading list properly tracked from 2016.
 
-* Read
- * [In 2017](#in-2017)
+* [Read](#read)
+ * [In 2017](#in2017)
  * 2016
  * before 2016 _incomplete_
 * Skimmed and/or skipped and/or paused
@@ -20,9 +20,9 @@ Reading list properly tracked from 2016.
  * Computing
  * Business, soft-skills, psychology, etc.
 
-### Read:
+### Finished reading #read
 
-#### in-2017
+#### In 2017 #in2017
 
 Author | Title | Publisher
 ------ | ----- | ---------
