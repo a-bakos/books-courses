@@ -1,13 +1,24 @@
 # BRAINFEED
-List of books currently existing in my tech business and soft-skills
-mini-library. Items that are on the way, and a collection of titles to be
-grabbed. Main topics are IT or related, and soft-skills.
 Books that are important to my professional & personal goals.
 These are physical copies, I do not include e-books here nor any blogs.
+Technical, non-fiction, self-growth, business (+1 fiction).
 Reading list properly tracked from 2016.
 
-## BOOKS
-Technical, non-fiction, self-growth, business (+1 fiction)
+* Read
+ * [2017](#In 2017)
+ * 2016
+ * before 2016 _incomplete_
+* Skimmed and/or skipped and/or paused
+ * 2017
+ * 2016
+* Reading now
+* Yet to be read / finished
+* On the way
+* Books that seem interesting / wishlist
+ * Must haves
+ * JS
+ * Computing
+ * Business, soft-skills, psychology, etc.
 
 ### Read:
 
@@ -120,6 +131,8 @@ Author | Title | Publisher
 
 ---
 
+## Books that seem interesting:
+
 # Must haves
 
 Author | Title | Publisher
@@ -129,8 +142,6 @@ Jeremy Sydik | [Design Accessible Web Sites: 36 Keys to Creating Content for All
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
 Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
-
-## Books that seem interesting:
 
 ### JS
 
@@ -152,6 +163,8 @@ David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of J
 Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action](https://www.amazon.co.uk/Node-js-Action-Mike-Cantelon/dp/1617290572/) | Manning Publications
 Boris Smus | [Web Audio API](https://www.amazon.co.uk/Web-Audio-API-Boris-Smus/dp/1449332684/) | O'Reilly Media
 Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript-Allongé-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/) *Only kindle edition* | Justin Kelly
+
+### Computing 
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -209,7 +222,7 @@ Peter Morville | [Intertwingled: Information Changes Everything](https://www.ama
 Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.co.uk/How-Make-Sense-Any-Mess/dp/1500615994/) | 
 Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer](https://www.amazon.co.uk/Stop-Thinking-Like-Freelancer-Evolution/dp/1503273148/) | CreateSpace
 
----
+### Business, soft-skills, psychology, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
