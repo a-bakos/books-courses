@@ -141,7 +141,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-(none atm) | |
+Alex Becker | [10 Pillars of Wealth: Mind-Sets of the World's Wealthiest People](https://www.amazon.co.uk/dp/1612549209/) | Brown Books Publishing
 
 ---
 
@@ -245,6 +245,13 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Gary Keller, Jay Papasan | [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.amazon.co.uk/d/Books/One-Thing-Surprisingly-Simple-Behind-Extraordinary-Results/1848549253/) | John Murray Learning
+M. J. DeMarco | [The Millionaire Fastlane](https://www.amazon.co.uk/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/) | Viperion Publishing
+Tony Robbins | [Unlimited Power](https://www.amazon.co.uk/d/Books/Unlimited-Power-Science-Personal-Achievement/0743409396/) | Simon & Schuster UK
+Tony Robbins | [Awaken The Giant Within](https://www.amazon.co.uk/Awaken-Giant-Within-Immediate-Emotional/dp/0743409388/) | Simon & Schuster UK
+Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/Money-Master-Game-Financial-Freedom/dp/1471148610/) | Simon & Schuster UK
+Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon.co.uk/dp/1471164934/) | Simon & Schuster UK
+Dan Meredith | [How To Be F-cking Awesome](https://www.amazon.co.uk/dp/178133188X/) | Rethink Press Limited
 Grant Cardone | [If You're Not First, You're Last](https://www.amazon.co.uk/Youre-Not-First-Last-Competition/dp/0470624353/) | John Wiley & Sons
 Grant Cardone | [SELL OR BE SOLD](https://www.amazon.co.uk/SELL-BE-SOLD-CARDONE-G/dp/1608322564/) | 
 Julian Baggini | [The Pig That Wants to be Eaten: And Ninety-Nine Other Thought Experiments](https://www.amazon.co.uk/dp/1847081282/) | Granta Books
