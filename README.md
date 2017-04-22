@@ -112,6 +112,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
 Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 
@@ -129,7 +130,6 @@ GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.
 Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/Complete-Guide-Software-Testing/dp/0471565679/) | John Wiley & Sons
 Edwin A. Abbott | [Flatland: A Romance of Many Dimensions](https://www.amazon.co.uk/Flatland-Romance-Dimensions-Dover-Thrift/dp/048627263X/) | Dover Publications
 Marc Lawson & Steve Hackney | [Why Businesses Stop Growing](https://www.amazon.co.uk/Why-Businesses-Stop-Growing-About/dp/1495277828/) | AFT Publishing
-Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
 Paul McKenna | [Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/) | Bantam Press
 Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/0007320760/) | Harper Element
 Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/) | Harper Perennial
