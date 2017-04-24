@@ -186,6 +186,7 @@ Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Harold Abelson | [Structure and Interpretation of Computer Programs](https://www.amazon.co.uk/dp/0262510871/) | Harold Abelson
 Gregory Brown | [Programming Beyond Practices](https://www.amazon.co.uk/dp/1491943823) | O′Reilly
 Steve McConnell | [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) | Microsoft Press
 Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
