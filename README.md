@@ -247,7 +247,6 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
-
 Charles Seife | [Zero: The Biography of a Dangerous Idea](https://www.amazon.co.uk/d/cka/Zero-Biography-Dangerous-Idea-Charles-Seife/0285635948/) | Souvenir Press Ltd
 Rob Eastaway, Jeremy Wyndham | [Why Do Buses Come in Threes?: The Hidden Maths of Everyday Life](https://www.amazon.co.uk/Why-Buses-Come-Threes-Mathematics/dp/1861058624/) | Robson Books Ltd
 James Gleick | [Chaos: Making a New Science](https://www.amazon.co.uk/dp/0749386061) | Vintage
