@@ -186,6 +186,7 @@ Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 Harold Abelson | [Structure and Interpretation of Computer Programs](https://www.amazon.co.uk/dp/0262510871/) | Harold Abelson
 Gregory Brown | [Programming Beyond Practices](https://www.amazon.co.uk/dp/1491943823) | O′Reilly
 Steve McConnell | [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) | Microsoft Press
@@ -246,6 +247,28 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+
+Charles Seife | [Zero: The Biography of a Dangerous Idea](https://www.amazon.co.uk/d/cka/Zero-Biography-Dangerous-Idea-Charles-Seife/0285635948/) | Souvenir Press Ltd
+Rob Eastaway, Jeremy Wyndham | [Why Do Buses Come in Threes?: The Hidden Maths of Everyday Life](https://www.amazon.co.uk/Why-Buses-Come-Threes-Mathematics/dp/1861058624/) | Robson Books Ltd
+James Gleick | [Chaos: Making a New Science](https://www.amazon.co.uk/dp/0749386061) | Vintage
+Alex Bellos | [Alex Through the Looking Glass: How Life Reflects Numbers, and Numbers Reflect Life](https://www.amazon.co.uk/Alex-Through-Looking-Glass-Reflects/dp/1408845725/) | Bloomsbury Paperbacks
+Brian Christian, Tom Griffiths | [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/0008166099/) | William Collins
+Keith Devlin | [Mathematics: The New Golden Age](https://www.amazon.co.uk/Mathematics-New-Golden-Penguin-Science/dp/0140258655/) | Penguin
+Tim Marhsall | [Prisoners of Geography](https://www.amazon.co.uk/Prisoners-Geography-Everything-Global-Politics/dp/1783962437/) | Elliott & Thompson Limited
+Nick Bostrom | [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom-x/dp/0198739834/) | OUP Oxford
+Calum Chace | [The Economic Singularity: Artificial intelligence and the death of capitalism](https://www.amazon.co.uk/Economic-Singularity-Artificial-intelligence-capitalism/dp/099321164X/) | Three Cs
+Yuval Noah Harari | [Homo Deus: A Brief History of Tomorrow](https://www.amazon.co.uk/Homo-Deus-Brief-History-Tomorrow/dp/1784703931/) | Vintage
+Christophe Galfard | [The Universe in Your Hand: A Journey Through Space, Time and Beyond](https://www.amazon.co.uk/Universe-Your-Hand-Journey-Through/dp/1447284100/) | Pan
+Carlo Rovelli | [Seven Brief Lessons on Physics](https://www.amazon.co.uk/Seven-Brief-Lessons-Physics-Rovelli/dp/0141981725/) | Penguin
+
+Nassim Nicholas Taleb | [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.amazon.co.uk/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/) | Penguin
+Marcus Du Sautoy | [Symmetry: A Journey Into the Patterns of Nature](https://www.amazon.co.uk/Symmetry-Journey-Into-Patterns-Nature/dp/0060789417/) | Harper Perennial
+Marcus Du Sautoy | [How to Count to Infinity](https://www.amazon.co.uk/Count-Infinity-Little-Ways-Live/dp/1786484978/) | Quercus
+Marcus Du Sautoy | [Finding Moonshine: A Mathematician's Journey Through Symmetry](https://www.amazon.co.uk/Finding-Moonshine-Mathematicians-Journey-Symmetry/dp/0007214626/) | HarperPerennial
+Marcus Du Sautoy | [The Music of the Primes: Why an Unsolved Problem in Mathematics Matters](https://www.amazon.co.uk/Music-Primes-Unsolved-Problem-Mathematics/dp/1841155802/) | HarperPerennial
+Marcus Du Sautoy | [The Number Mysteries](https://www.amazon.co.uk/Number-Mysteries-Marcus-Du-Sautoy/dp/0007309864/) | Fourth Estate
+Marcus Du Sautoy | [What We Cannot Know: From consciousness to the cosmos, the cutting edge of science explained](https://www.amazon.co.uk/What-Cannot-Know-consciousness-explained/dp/0007576595/) | Fourth Estate
+Marcus Du Sautoy | [The Great Unknown: Seven Journeys to the Frontiers of Science](https://www.amazon.co.uk/Great-Seven-Journeys-Frontiers-Science/dp/0735221804/) | Viking
 Gary Keller, Jay Papasan | [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.amazon.co.uk/d/Books/One-Thing-Surprisingly-Simple-Behind-Extraordinary-Results/1848549253/) | John Murray Learning
 M. J. DeMarco | [The Millionaire Fastlane](https://www.amazon.co.uk/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/) | Viperion Publishing
 Tony Robbins | [Unlimited Power](https://www.amazon.co.uk/d/Books/Unlimited-Power-Science-Personal-Achievement/0743409396/) | Simon & Schuster UK
