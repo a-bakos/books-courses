@@ -260,7 +260,6 @@ Calum Chace | [The Economic Singularity: Artificial intelligence and the death o
 Yuval Noah Harari | [Homo Deus: A Brief History of Tomorrow](https://www.amazon.co.uk/Homo-Deus-Brief-History-Tomorrow/dp/1784703931/) | Vintage
 Christophe Galfard | [The Universe in Your Hand: A Journey Through Space, Time and Beyond](https://www.amazon.co.uk/Universe-Your-Hand-Journey-Through/dp/1447284100/) | Pan
 Carlo Rovelli | [Seven Brief Lessons on Physics](https://www.amazon.co.uk/Seven-Brief-Lessons-Physics-Rovelli/dp/0141981725/) | Penguin
-
 Nassim Nicholas Taleb | [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets](https://www.amazon.co.uk/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/) | Penguin
 Marcus Du Sautoy | [Symmetry: A Journey Into the Patterns of Nature](https://www.amazon.co.uk/Symmetry-Journey-Into-Patterns-Nature/dp/0060789417/) | Harper Perennial
 Marcus Du Sautoy | [How to Count to Infinity](https://www.amazon.co.uk/Count-Infinity-Little-Ways-Live/dp/1786484978/) | Quercus
