@@ -186,6 +186,7 @@ Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript
 
 Author | Title | Publisher
 ------ | ----- | ---------
+David Cochran, Ian Whitley | [Bootstrap Site Blueprints](https://www.amazon.co.uk/dp/1782164529/) | Packt Publishing
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 Harold Abelson | [Structure and Interpretation of Computer Programs](https://www.amazon.co.uk/dp/0262510871/) | Harold Abelson
 Gregory Brown | [Programming Beyond Practices](https://www.amazon.co.uk/dp/1491943823) | O′Reilly
