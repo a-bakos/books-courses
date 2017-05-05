@@ -121,6 +121,7 @@ Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Alex Becker | [10 Pillars of Wealth: Mind-Sets of the World's Wealthiest People](https://www.amazon.co.uk/dp/1612549209/) | Brown Books Publishing
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
 Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer](https://www.amazon.co.uk/Pragmatic-Ajax-Web-2-0-Primer/dp/0976694085/) | The Pragmatic Bookshelf
@@ -141,7 +142,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Alex Becker | [10 Pillars of Wealth: Mind-Sets of the World's Wealthiest People](https://www.amazon.co.uk/dp/1612549209/) | Brown Books Publishing
+(none atm) | | 
 
 ---
 
