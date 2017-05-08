@@ -142,7 +142,8 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-(none atm) | | 
+Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com
+Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 
 ---
 
@@ -165,7 +166,9 @@ Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.ama
 
 Author | Title | Publisher
 ------ | ----- | ---------
- Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
+Guillermo Rauch | [Smashing Node.Js: JavaScript Everywhere](https://www.amazon.co.uk/Smashing-Node-Js-JavaScript-Everywhere-Magazine/dp/1119962595/) | John Wiley & Sons
+David Herron | [Node.js Web Development - Third Edition](https://www.amazon.co.uk/dp/1785881507) | Packt Publishing
+Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
 Mark E. Daggett | [Expert JavaScript](https://www.amazon.co.uk/dp/1430260971/) | Apress
 Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](https://www.amazon.co.uk/dp/1430262680/) | Apress
 Arjan Egges | [Building JavaScript Games: for Phones, Tablets, and Desktop](https://www.amazon.co.uk/dp/1430265388) | Apress
@@ -188,7 +191,6 @@ Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript
 Author | Title | Publisher
 ------ | ----- | ---------
 David Cochran, Ian Whitley | [Bootstrap Site Blueprints](https://www.amazon.co.uk/dp/1782164529/) | Packt Publishing
-Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 Harold Abelson | [Structure and Interpretation of Computer Programs](https://www.amazon.co.uk/dp/0262510871/) | Harold Abelson
 Gregory Brown | [Programming Beyond Practices](https://www.amazon.co.uk/dp/1491943823) | O′Reilly
 Steve McConnell | [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) | Microsoft Press
