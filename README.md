@@ -17,6 +17,8 @@ Reading list properly tracked from 2016.
 + [Books that seem interesting / wishlist](#wishlist)
   + [Must haves](#wishlist_musthaves)
   + [JS](#wishlist_js)
+   + [NodeJS](#wishlist_js_node)
+   + [ReactJS](#wishlist_js_react)
   + [Computing](#wishlist_computing)
   + [Business, soft-skills, psychology, etc.](#wishlist_others)
 
@@ -166,14 +168,11 @@ Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.ama
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Guillermo Rauch | [Smashing Node.Js: JavaScript Everywhere](https://www.amazon.co.uk/Smashing-Node-Js-JavaScript-Everywhere-Magazine/dp/1119962595/) | John Wiley & Sons
-David Herron | [Node.js Web Development - Third Edition](https://www.amazon.co.uk/dp/1785881507) | Packt Publishing
 Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
 Mark E. Daggett | [Expert JavaScript](https://www.amazon.co.uk/dp/1430260971/) | Apress
 Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](https://www.amazon.co.uk/dp/1430262680/) | Apress
 Arjan Egges | [Building JavaScript Games: for Phones, Tablets, and Desktop](https://www.amazon.co.uk/dp/1430265388) | Apress
 Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
-Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/) | The Pragmatic Bookshelf
 Stoyan Stefanov | [JavaScript Patterns](https://www.amazon.co.uk/d/Books/JavaScript-Patterns-Stoyan-Stefanov/0596806752/) | O'Reilly
 Jon Duckett | [JavaScript & JQuery: Interactive Front-end Web Development](https://www.amazon.co.uk/d/Books/JavaScript-JQuery-Interactive-Front-end-Web-Development/1118531647/) | John Wiley & Sons
 Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Object Model](https://www.amazon.co.uk/DOM-Scripting-Design-Javascript-Document/dp/1430233893/) | friendsofED
@@ -184,6 +183,28 @@ David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of J
 Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action](https://www.amazon.co.uk/Node-js-Action-Mike-Cantelon/dp/1617290572/) | Manning Publications
 Boris Smus | [Web Audio API](https://www.amazon.co.uk/Web-Audio-API-Boris-Smus/dp/1449332684/) | O'Reilly Media
 Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript-Allongé-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/) *Only kindle edition* | Justin Kelly
+
+<a id="wishlist_js_react"></a>
+#### React.JS
+
+Author | Title | Publisher
+------ | ----- | ---------
+Artemij Fedosejev | [React.js Essentials](https://www.amazon.co.uk/React-js-Essentials-Artemij-Fedosejev/dp/1783551623) | Packt Publishing
+Bonnie Eisenman | [Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.co.uk/Learning-React-Native-Building-JavaScript/dp/1491929006) | O'Reilly Media
+Stoyan Stefanov | [React: Up & Running: Building Web Applications](https://www.amazon.co.uk/React-Running-Building-Web-Applications/dp/1491931825) | O'Reilly Media
+Cassio de Sousa Antonio | [Pro React](https://www.amazon.co.uk/d/Books/Pro-React-Cassio-Sousa-Antonio/1484212614/) | Apress
+Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley
+Alex Banks, Eve Porcello | [Learning React: Functional Web Development with React and Flux](https://www.amazon.co.uk/d/Books/Learning-React-Functional-Web-Development-Flux/1491954620) | O′Reilly
+Eric Masiello, Jacob Friedmann | [Mastering React Native](https://www.amazon.co.uk/d/cka/Mastering-React-Native-Eric-Masiello/1785885782) | Packt Publishing
+
+<a id="wishlist_js_node"></a>
+#### Node.JS
+
+Author | Title | Publisher
+------ | ----- | ---------
+Guillermo Rauch | [Smashing Node.Js: JavaScript Everywhere](https://www.amazon.co.uk/Smashing-Node-Js-JavaScript-Everywhere-Magazine/dp/1119962595/) | John Wiley & Sons
+David Herron | [Node.js Web Development - Third Edition](https://www.amazon.co.uk/dp/1785881507) | Packt Publishing
+Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/) | The Pragmatic Bookshelf
 
 <a id="wishlist_computing"></a>
 ### Computing
