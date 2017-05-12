@@ -144,6 +144,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley
 Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 
@@ -193,7 +194,6 @@ Artemij Fedosejev | [React.js Essentials](https://www.amazon.co.uk/React-js-Esse
 Bonnie Eisenman | [Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.co.uk/Learning-React-Native-Building-JavaScript/dp/1491929006) | O'Reilly Media
 Stoyan Stefanov | [React: Up & Running: Building Web Applications](https://www.amazon.co.uk/React-Running-Building-Web-Applications/dp/1491931825) | O'Reilly Media
 Cassio de Sousa Antonio | [Pro React](https://www.amazon.co.uk/d/Books/Pro-React-Cassio-Sousa-Antonio/1484212614/) | Apress
-Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley
 Alex Banks, Eve Porcello | [Learning React: Functional Web Development with React and Flux](https://www.amazon.co.uk/d/Books/Learning-React-Functional-Web-Development-Flux/1491954620) | O′Reilly
 Eric Masiello, Jacob Friedmann | [Mastering React Native](https://www.amazon.co.uk/d/cka/Mastering-React-Native-Eric-Masiello/1785885782) | Packt Publishing
 
