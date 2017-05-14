@@ -184,6 +184,7 @@ David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of J
 Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action](https://www.amazon.co.uk/Node-js-Action-Mike-Cantelon/dp/1617290572/) | Manning Publications
 Boris Smus | [Web Audio API](https://www.amazon.co.uk/Web-Audio-API-Boris-Smus/dp/1449332684/) | O'Reilly Media
 Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript-Allongé-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/) *Only kindle edition* | Justin Kelly
+Earle Castledine, Craig Sharkie | [jQuery: Novice to Ninja](https://www.amazon.co.uk/jQuery-Novice-Ninja-Earle-Castledine/dp/0987153013/) | SitePoint
 
 <a id="wishlist_js_react"></a>
 #### React.JS
@@ -211,6 +212,8 @@ Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-W
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Ian Miell, Aidan Hobson Sayers | [Docker in Practice]() | 
+Jeff Nickoloff | [Docker in Action](https://www.amazon.co.uk/Docker-Action-Jeff-Nickoloff/dp/1633430235/) |
 David Cochran, Ian Whitley | [Bootstrap Site Blueprints](https://www.amazon.co.uk/dp/1782164529/) | Packt Publishing
 Harold Abelson | [Structure and Interpretation of Computer Programs](https://www.amazon.co.uk/dp/0262510871/) | Harold Abelson
 Gregory Brown | [Programming Beyond Practices](https://www.amazon.co.uk/dp/1491943823) | O′Reilly
