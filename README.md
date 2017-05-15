@@ -169,6 +169,8 @@ Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.ama
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Andrea Giammarchi | [JavaScript glossary on demand](https://www.amazon.co.uk/dp/1326576720/) | lulu.com
+Nicholas C. Zakas | [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.co.uk/dp/1593277571/) | No Starch Press
 Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
 Mark E. Daggett | [Expert JavaScript](https://www.amazon.co.uk/dp/1430260971/) | Apress
 Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](https://www.amazon.co.uk/dp/1430262680/) | Apress
@@ -275,6 +277,9 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Charles Duhigg | [The Power of Habit: Why We Do What We Do, and How to Change](https://www.amazon.co.uk/dp/1847946240/) | Random House Books
+Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
+Gary Klein | [Seeing What Others Don't: The Remarkable Ways We Gain Insights](https://www.amazon.co.uk/dp/185788678X/) | Nicholas Brealey Publishing
 Charles Seife | [Zero: The Biography of a Dangerous Idea](https://www.amazon.co.uk/d/cka/Zero-Biography-Dangerous-Idea-Charles-Seife/0285635948/) | Souvenir Press Ltd
 Rob Eastaway, Jeremy Wyndham | [Why Do Buses Come in Threes?: The Hidden Maths of Everyday Life](https://www.amazon.co.uk/Why-Buses-Come-Threes-Mathematics/dp/1861058624/) | Robson Books Ltd
 James Gleick | [Chaos: Making a New Science](https://www.amazon.co.uk/dp/0749386061) | Vintage
