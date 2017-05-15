@@ -144,6 +144,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Jeremy Sydik | [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms](https://www.amazon.co.uk/Design-Accessible-Web-Sites-Programmers/dp/1934356026/) | Pragmatic Bookshelf
 Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley
 Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
@@ -159,7 +160,6 @@ Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://
 Author | Title | Publisher
 ------ | ----- | ---------
 Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
-Jeremy Sydik | [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms](https://www.amazon.co.uk/Design-Accessible-Web-Sites-Programmers/dp/1934356026/) | Pragmatic Bookshelf
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
 Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
