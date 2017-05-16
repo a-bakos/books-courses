@@ -98,6 +98,7 @@ Possible reasons:
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Paul McKenna | [Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/) | Bantam Press
 Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
 Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
 
@@ -135,7 +136,6 @@ GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.
 Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/Complete-Guide-Software-Testing/dp/0471565679/) | John Wiley & Sons
 Edwin A. Abbott | [Flatland: A Romance of Many Dimensions](https://www.amazon.co.uk/Flatland-Romance-Dimensions-Dover-Thrift/dp/048627263X/) | Dover Publications
 Marc Lawson & Steve Hackney | [Why Businesses Stop Growing](https://www.amazon.co.uk/Why-Businesses-Stop-Growing-About/dp/1495277828/) | AFT Publishing
-Paul McKenna | [Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/) | Bantam Press
 Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/0007320760/) | Harper Element
 Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/) | Harper Perennial
 Richard Reeves, John Knell | [The 80 Minute MBA](https://www.amazon.co.uk/80-Minute-MBA-Everything-2009-03-05/dp/B019TLJD62/) | Business Plus
