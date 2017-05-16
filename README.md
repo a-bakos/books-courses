@@ -123,6 +123,8 @@ Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](http
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley
+Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com
 Alex Becker | [10 Pillars of Wealth: Mind-Sets of the World's Wealthiest People](https://www.amazon.co.uk/dp/1612549209/) | Brown Books Publishing
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
@@ -145,8 +147,6 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 Author | Title | Publisher
 ------ | ----- | ---------
 Jeremy Sydik | [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms](https://www.amazon.co.uk/Design-Accessible-Web-Sites-Programmers/dp/1934356026/) | Pragmatic Bookshelf
-Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley
-Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 
 ---
