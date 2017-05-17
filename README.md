@@ -30,8 +30,8 @@ Reading list properly tracked from 2016.
 <a id="read_2017"></a>
 #### In 2017
 
-# | Author | Title | Publisher
-- | ------ | ----- | ---------
+\# | Author | Title | Publisher
+-- | ------ | ----- | ---------
 15 | Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
 14 | Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 13 | Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | Portfolio
