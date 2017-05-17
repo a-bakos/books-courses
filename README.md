@@ -30,22 +30,23 @@ Reading list properly tracked from 2016.
 <a id="read_2017"></a>
 #### In 2017
 
-Author | Title | Publisher
------- | ----- | ---------
-Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
-Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | Portfolio
-Grant Cardone | [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.co.uk/10X-Rule-Difference-Between-Success/dp/0470627603/) | John Wiley & Sons
-Kyle Simpson | [You Don't Know JS: this & Object Prototypes](https://www.amazon.co.uk/You-Dont-Know-JS-Prototypes/dp/1491904151/) | O'Reilly Media
-Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
-Kyle Simpson | [You Don't Know JS: Scope & Closures](https://www.amazon.co.uk/You-Dont-Know-JS-Closures/dp/1449335586/) | O'Reilly Media
-John Resig | [Pro JavaScript Techniques](https://www.amazon.co.uk/dp/1590597273/) | Apress
-Kyle Simpson | [You Don't Know JS: Up & Going](https://www.amazon.co.uk/gp/product/1491924462/) | O'Reilly Media
-Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
-Marijn Haverbeke | [Eloquent JavaScript (Second Edition)](https://www.amazon.co.uk/gp/product/1593275846/) | No Starch Press
-Ka Wai Cheung | [The Developer's Code](https://www.amazon.co.uk/d/Books/Developers-Code-Ka-Wai-Cheung/1934356794/) | The Pragmatic Bookshelf
-Mark Myers | [A Smarter Way to Learn JavaScript](https://www.amazon.co.uk/gp/product/1497408180/) | Amazon
-Benjamin P. Hardy | [Slipstream Time Hacking](https://www.amazon.co.uk/gp/product/0997071001) | Amazon
-Nicholas Bate | [You, only better](https://www.amazon.co.uk/You-Only-Better-Strengths-Change/dp/0857084720/) | Capstone
+# | Author | Title | Publisher
+- | ------ | ----- | ---------
+15 | Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
+14 | Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
+13 | Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | Portfolio
+12 | Grant Cardone | [The 10X Rule: The Only Difference Between Success and Failure](https://www.amazon.co.uk/10X-Rule-Difference-Between-Success/dp/0470627603/) | John Wiley & Sons
+11 | Kyle Simpson | [You Don't Know JS: this & Object Prototypes](https://www.amazon.co.uk/You-Dont-Know-JS-Prototypes/dp/1491904151/) | O'Reilly Media
+10 | Shane Snow | [Smartcuts: The Breakthrough Power of Lateral Thinking](https://www.amazon.co.uk/gp/product/0062560751/) | HarperBusiness
+09 | Kyle Simpson | [You Don't Know JS: Scope & Closures](https://www.amazon.co.uk/You-Dont-Know-JS-Closures/dp/1449335586/) | O'Reilly Media
+08 | John Resig | [Pro JavaScript Techniques](https://www.amazon.co.uk/dp/1590597273/) | Apress
+07 | Kyle Simpson | [You Don't Know JS: Up & Going](https://www.amazon.co.uk/gp/product/1491924462/) | O'Reilly Media
+06 | Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
+05 | Marijn Haverbeke | [Eloquent JavaScript (Second Edition)](https://www.amazon.co.uk/gp/product/1593275846/) | No Starch Press
+04 | Ka Wai Cheung | [The Developer's Code](https://www.amazon.co.uk/d/Books/Developers-Code-Ka-Wai-Cheung/1934356794/) | The Pragmatic Bookshelf
+03 | Mark Myers | [A Smarter Way to Learn JavaScript](https://www.amazon.co.uk/gp/product/1497408180/) | Amazon
+02 | Benjamin P. Hardy | [Slipstream Time Hacking](https://www.amazon.co.uk/gp/product/0997071001) | Amazon
+01 | Nicholas Bate | [You, only better](https://www.amazon.co.uk/You-Only-Better-Strengths-Change/dp/0857084720/) | Capstone
 
 <a id="read_2016"></a>
 #### In 2016 
@@ -117,7 +118,6 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 Author | Title | Publisher
 ------ | ----- | ---------
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
-Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
 Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 
 <a id="to_be_read"></a>
