@@ -52,28 +52,28 @@ Reading list properly tracked from 2016.
 <a id="read_2016"></a>
 #### In 2016 
 
-Author | Title | Publisher
------- | ----- | ---------
-Wallace D. Wattles | [Financial Success](https://www.amazon.co.uk/d/Books/Financial-Success-Harnessing-Creative-Wallace-D-Wattles/0892813040/) | Destiny Books
-Win Wenger | [The Einstein Factor](https://www.amazon.co.uk/gp/product/076150186X/) | Three Valleys Press
-Chad Fowler | [The Passionate Programmer](https://www.amazon.co.uk/gp/product/1934356344/) | The Pragmatic Bookshelf
-Amen Sharma | [The Google Checklist: Marketing Edition 2016](https://www.amazon.co.uk/gp/product/1530607515/) | CreateSpace
-Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum | [Blogging Made Easy](https://www.amazon.co.uk/gp/product/1537450565/) | CreateSpace
-Eric Schmidt, Jonathan Rosenberg | [How Google Works](https://www.amazon.co.uk/gp/product/1444792490/) | John Murray
-Andy Hunt & Venkat Subramaniam | [Practices of an Agile Developer: Working in the Real World](https://www.amazon.co.uk/gp/product/097451408X/) | The Pragmatic Bookshelf
-Andy Hunt | [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.co.uk/gp/product/1934356050/) | The Pragmatic Bookshelf
-Leif Kendall | [Brilliant Freelancer: Discover the Power of Your Own Success](https://www.amazon.co.uk/gp/product/0273744631/) | Pearson
-David Kadavy | [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.co.uk/gp/product/1119998956/) | Wiley
-Tiffany B Brown | [CSS Master](https://www.amazon.co.uk/gp/product/0994182627/) | SitePoint
-Travis Swicegood | [Pragmatic Guide to Git](https://www.amazon.co.uk/gp/product/1934356727/) | The Pragmatic Bookshelf
-John Sonmez | [Soft Skills: The software developer's life manual](https://www.amazon.co.uk/gp/product/1617292397/) | Manning
-Andrew Hunt & David Thomas | [The Pragmatic Programmer - from journeyman to master](https://www.amazon.co.uk/gp/product/020161622X/) | Addison-Wesley
-Hampton Catlin and Michael Lintorn Catlin | [Pragmatic Guide to Sass](https://www.amazon.co.uk/gp/product/1934356840/) | The Pragmatic Bookshelf
-Steve Krug | [Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability](https://www.amazon.co.uk/gp/product/0321965515/) | New Riders
-Lea Verou | [CSS Secrets - better solutions to everyday web design problems](https://www.amazon.co.uk/gp/product/1449372635/) | O'Reilly
-Steven Bradley | [CSS Animations and Transitions for the Modern Web](https://www.amazon.co.uk/gp/product/0133980502/) | Adobe Press
-Peter Bell and Brent Beer | [Introducing GitHub](https://www.amazon.co.uk/gp/product/1491949740/) | O'Reilly
-Rob Cole and Edward Scotcher | [Brilliant Agile Project Management](https://www.amazon.co.uk/gp/product/1292063564/) | Pearson
+\# | Author | Title | Publisher
+-- | ------ | ----- | ---------
+19 | Wallace D. Wattles | [Financial Success](https://www.amazon.co.uk/d/Books/Financial-Success-Harnessing-Creative-Wallace-D-Wattles/0892813040/) | Destiny Books
+18 | Win Wenger | [The Einstein Factor](https://www.amazon.co.uk/gp/product/076150186X/) | Three Valleys Press
+17 | Chad Fowler | [The Passionate Programmer](https://www.amazon.co.uk/gp/product/1934356344/) | The Pragmatic Bookshelf
+16 | Amen Sharma | [The Google Checklist: Marketing Edition 2016](https://www.amazon.co.uk/gp/product/1530607515/) | CreateSpace
+15 | Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum | [Blogging Made Easy](https://www.amazon.co.uk/gp/product/1537450565/) | CreateSpace
+14 | Eric Schmidt, Jonathan Rosenberg | [How Google Works](https://www.amazon.co.uk/gp/product/1444792490/) | John Murray
+13 | Andy Hunt & Venkat Subramaniam | [Practices of an Agile Developer: Working in the Real World](https://www.amazon.co.uk/gp/product/097451408X/) | The Pragmatic Bookshelf
+12 | Andy Hunt | [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.co.uk/gp/product/1934356050/) | The Pragmatic Bookshelf
+11 | Leif Kendall | [Brilliant Freelancer: Discover the Power of Your Own Success](https://www.amazon.co.uk/gp/product/0273744631/) | Pearson
+10 | David Kadavy | [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.co.uk/gp/product/1119998956/) | Wiley
+09 | Tiffany B Brown | [CSS Master](https://www.amazon.co.uk/gp/product/0994182627/) | SitePoint
+08 | Travis Swicegood | [Pragmatic Guide to Git](https://www.amazon.co.uk/gp/product/1934356727/) | The Pragmatic Bookshelf
+07 | John Sonmez | [Soft Skills: The software developer's life manual](https://www.amazon.co.uk/gp/product/1617292397/) | Manning
+06 | Andrew Hunt & David Thomas | [The Pragmatic Programmer - from journeyman to master](https://www.amazon.co.uk/gp/product/020161622X/) | Addison-Wesley
+05 | Hampton Catlin and Michael Lintorn Catlin | [Pragmatic Guide to Sass](https://www.amazon.co.uk/gp/product/1934356840/) | The Pragmatic Bookshelf
+04 | Steve Krug | [Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability](https://www.amazon.co.uk/gp/product/0321965515/) | New Riders
+04 | Lea Verou | [CSS Secrets - better solutions to everyday web design problems](https://www.amazon.co.uk/gp/product/1449372635/) | O'Reilly
+03 | Steven Bradley | [CSS Animations and Transitions for the Modern Web](https://www.amazon.co.uk/gp/product/0133980502/) | Adobe Press
+02 | Peter Bell and Brent Beer | [Introducing GitHub](https://www.amazon.co.uk/gp/product/1491949740/) | O'Reilly
+01 | Rob Cole and Edward Scotcher | [Brilliant Agile Project Management](https://www.amazon.co.uk/gp/product/1292063564/) | Pearson
 
 <a id="before_2016"></a>
 #### Before 2016 _(incomplete)_
