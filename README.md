@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+16 | Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com
 15 | Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
 14 | Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 13 | Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | Portfolio
@@ -118,7 +119,6 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 Author | Title | Publisher
 ------ | ----- | ---------
 Alex Becker | [10 Pillars of Wealth: Mind-Sets of the World's Wealthiest People](https://www.amazon.co.uk/dp/1612549209/) | Brown Books Publishing
-Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
 Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 
