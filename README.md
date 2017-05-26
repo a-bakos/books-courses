@@ -194,6 +194,9 @@ Earle Castledine, Craig Sharkie | [jQuery: Novice to Ninja](https://www.amazon.c
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Vasan Subramanian | [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node](https://www.amazon.co.uk/dp/1484226526/) | Apress
+Michele Bertoli | [React Design Patterns and Best Practices](https://www.amazon.co.uk/dp/1786464535/) | Packt Publishing
+Adam Boduch | [React and React Native](https://www.amazon.co.uk/dp/1786465655/) | Packt Publishing
 Artemij Fedosejev | [React.js Essentials](https://www.amazon.co.uk/React-js-Essentials-Artemij-Fedosejev/dp/1783551623) | Packt Publishing
 Bonnie Eisenman | [Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.co.uk/Learning-React-Native-Building-JavaScript/dp/1491929006) | O'Reilly Media
 Stoyan Stefanov | [React: Up & Running: Building Web Applications](https://www.amazon.co.uk/React-Running-Building-Web-Applications/dp/1491931825) | O'Reilly Media
