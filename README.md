@@ -129,6 +129,7 @@ Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](http
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Marc Wandschneider | [Learning Node.js](https://www.amazon.co.uk/gp/product/0134663705/) | Addison Wesley
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer](https://www.amazon.co.uk/Pragmatic-Ajax-Web-2-0-Primer/dp/0976694085/) | The Pragmatic Bookshelf
 Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
@@ -148,7 +149,6 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 Author | Title | Publisher
 ------ | ----- | ---------
 Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published
-Marc Wandschneider | [Learning Node.js](https://www.amazon.co.uk/gp/product/0134663705/) | Addison Wesley
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 
 ---
