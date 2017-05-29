@@ -12,7 +12,7 @@ Reading list properly tracked from 2016.
   + [2017](#skimmed_2017)
   + [2016](#skimmed_2016)
 + [Reading now](#reading_now)
-+ [Yet to be read / finished](#to_be_read)
++ [Yet to be read / finished / buffer](#to_be_read)
 + [On the way](#on_the_way)
 + [Books that seem interesting / wishlist](#wishlist)
   + [Must haves](#wishlist_musthaves)
@@ -125,7 +125,7 @@ Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk
 Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 
 <a id="to_be_read"></a>
-### Yet to be read / finished:
+### Yet to be read / finished / buffer:
 
 Author | Title | Publisher
 ------ | ----- | ---------
