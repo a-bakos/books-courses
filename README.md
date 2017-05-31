@@ -195,6 +195,7 @@ Earle Castledine, Craig Sharkie | [jQuery: Novice to Ninja](https://www.amazon.c
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Alex Banks, Eve Porcello | [Learning React: Functional Web Development with React and Flux](https://www.amazon.co.uk/dp/1491954620/) | O'Reilly
 Vasan Subramanian | [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node](https://www.amazon.co.uk/dp/1484226526/) | Apress
 Michele Bertoli | [React Design Patterns and Best Practices](https://www.amazon.co.uk/dp/1786464535/) | Packt Publishing
 Adam Boduch | [React and React Native](https://www.amazon.co.uk/dp/1786465655/) | Packt Publishing
@@ -226,7 +227,7 @@ Steve McConnell | [Code Complete: A Practical Handbook of Software Construction]
 Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
 Joe Kutner | [The Healthy Programmer: Get Fit, Feel Better, and Keep Coding](https://www.amazon.co.uk/Healthy-Programmer-Better-Pragmatic-Programmers-x/dp/1937785319/) | The Pragmatic Bookshelf
 Joshua D. Carter | [New Programmer's Survival Manual](https://www.amazon.co.uk/New-Programmers-Survival-Manual-Workplace/dp/1934356816/) | The Pragmatic Bookshelf
- Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson | [Web Development Recipes](https://www.amazon.co.uk/Web-Development-Recipes-Brian-Hogan/dp/1680500562/) | The Pragmatic Bookshelf
+Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson | [Web Development Recipes](https://www.amazon.co.uk/Web-Development-Recipes-Brian-Hogan/dp/1680500562/) | The Pragmatic Bookshelf
 Johanna Rothman, Esther Derby | [Behind Closed Doors: Secrets of Great Management](https://www.amazon.co.uk/d/cka/Behind-Closed-Doors-Secrets-Management-Johanna-Rothman/0976694026/) | The Pragmatic Bookshelf
 Keir Thomas | [Ubuntu Kung Fu: Tips, Tricks, Hints, and Hacks](https://www.amazon.co.uk/d/Books/Ubuntu-Kung-Fu-Tricks-Hints/1934356220/) | The Pragmatic Bookshelf
 Ken Pugh | [Interface Oriented Design: With Patterns](https://www.amazon.co.uk/Interface-Oriented-Design-Pragmatic-Programmers/dp/0976694050/) | The Pragmatic Bookshelf
@@ -280,6 +281,8 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Garr Reynolds | [Presentation Zen: Simple Ideas on Presentation Design and Delivery](https://www.amazon.co.uk/dp/0321811984/) | New Riders
+Olivia Fox Cabane | [The Charisma Myth: Master the Art of Personal Magnetism](https://www.amazon.co.uk/dp/0670922870/) | Portfolio Penguin
 Charles Duhigg | [The Power of Habit: Why We Do What We Do, and How to Change](https://www.amazon.co.uk/dp/1847946240/) | Random House Books
 Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
 Gary Klein | [Seeing What Others Don't: The Remarkable Ways We Gain Insights](https://www.amazon.co.uk/dp/185788678X/) | Nicholas Brealey Publishing
