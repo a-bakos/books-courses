@@ -150,7 +150,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-(none atm) | | 
+Nicholas C. Zakas | [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.co.uk/dp/1593277571/) | No Starch Press
 
 ---
 
@@ -173,7 +173,6 @@ Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.ama
 Author | Title | Publisher
 ------ | ----- | ---------
 Andrea Giammarchi | [JavaScript glossary on demand](https://www.amazon.co.uk/dp/1326576720/) | lulu.com
-Nicholas C. Zakas | [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.co.uk/dp/1593277571/) | No Starch Press
 Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
 Mark E. Daggett | [Expert JavaScript](https://www.amazon.co.uk/dp/1430260971/) | Apress
 Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](https://www.amazon.co.uk/dp/1430262680/) | Apress
