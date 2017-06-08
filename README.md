@@ -218,7 +218,9 @@ Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-W
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Ian Miell, Aidan Hobson Sayers | [Docker in Practice]() | 
+Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
+Andy Budd, Emil Björklund | [CSS Mastery](https://www.amazon.co.uk/d/Books/CSS-Mastery-Andy-Budd/1430258632/) | Apress
+Ian Miell, Aidan Hobson Sayers | [Docker in Practice](https://www.amazon.co.uk/dp/1617292729/) | Manning Publications
 Jeff Nickoloff | [Docker in Action](https://www.amazon.co.uk/Docker-Action-Jeff-Nickoloff/dp/1633430235/) |
 David Cochran, Ian Whitley | [Bootstrap Site Blueprints](https://www.amazon.co.uk/dp/1782164529/) | Packt Publishing
 Harold Abelson | [Structure and Interpretation of Computer Programs](https://www.amazon.co.uk/dp/0262510871/) | Harold Abelson
@@ -281,6 +283,9 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Jeff Goins | [Real Artists Don't Starve](https://www.amazon.co.uk/Real-Artists-Dont-Starve-Goins/dp/0718098927/) | Thomas Nelson
+Daniel Levitin | [The Organized Mind: Thinking Straight in the Age of Information Overload](https://www.amazon.co.uk/dp/0241965780/) | Penguin
+David Allen | [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349408947/) | Piatkus
 Garr Reynolds | [Presentation Zen: Simple Ideas on Presentation Design and Delivery](https://www.amazon.co.uk/dp/0321811984/) | New Riders
 Olivia Fox Cabane | [The Charisma Myth: Master the Art of Personal Magnetism](https://www.amazon.co.uk/dp/0670922870/) | Portfolio Penguin
 Charles Duhigg | [The Power of Habit: Why We Do What We Do, and How to Change](https://www.amazon.co.uk/dp/1847946240/) | Random House Books
