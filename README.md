@@ -165,7 +165,6 @@ Author | Title | Publisher
 ------ | ----- | ---------
 Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
-Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 
 <a id="wishlist_js"></a>
@@ -184,6 +183,7 @@ Jon Duckett | [JavaScript & JQuery: Interactive Front-end Web Development](https
 Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Object Model](https://www.amazon.co.uk/DOM-Scripting-Design-Javascript-Document/dp/1430233893/) | friendsofED
 Douglas Crockford | [JavaScript: The Good Parts](https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/) | O'Reilly
 Larry Ullman | [Modern JavaScript: Develop and Design](https://www.amazon.co.uk/Modern-JavaScript-Develop-Larry-Ullman/dp/0321812522/) | Peachpit Press
+Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Addy Osmani | [Learning JavaScript Design Patterns](https://www.amazon.co.uk/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/) | O'Reilly Media
 David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.amazon.co.uk/Effective-JavaScript-Specific-Software-Development/dp/0321812182/) | Addison Wesley
 Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action](https://www.amazon.co.uk/Node-js-Action-Mike-Cantelon/dp/1617290572/) | Manning Publications
