@@ -280,10 +280,12 @@ Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Every
 Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer](https://www.amazon.co.uk/Stop-Thinking-Like-Freelancer-Evolution/dp/1503273148/) | CreateSpace
 
 <a id="wishlist_others"></a>
-### Business, soft-skills, psychology, etc.
+### Business, soft-skills, psychology, infrastructure, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
+Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112708/) | The Penguin Press
 Jeff Goins | [Real Artists Don't Starve](https://www.amazon.co.uk/Real-Artists-Dont-Starve-Goins/dp/0718098927/) | Thomas Nelson
 Daniel Levitin | [The Organized Mind: Thinking Straight in the Age of Information Overload](https://www.amazon.co.uk/dp/0241965780/) | Penguin
 David Allen | [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349408947/) | Piatkus
