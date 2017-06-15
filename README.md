@@ -219,6 +219,7 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+David Platt | [The Joy of UX: User Experience and Interactive Design for Developers](https://www.amazon.co.uk/Joy-Experience-Interactive-Developers-Usability/dp/013427671X/) | Addison Wesley
 Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Andy Budd, Emil Björklund | [CSS Mastery](https://www.amazon.co.uk/d/Books/CSS-Mastery-Andy-Budd/1430258632/) | Apress
 Ian Miell, Aidan Hobson Sayers | [Docker in Practice](https://www.amazon.co.uk/dp/1617292729/) | Manning Publications
