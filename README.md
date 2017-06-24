@@ -186,7 +186,6 @@ Larry Ullman | [Modern JavaScript: Develop and Design](https://www.amazon.co.uk/
 Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Addy Osmani | [Learning JavaScript Design Patterns](https://www.amazon.co.uk/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/) | O'Reilly Media
 David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.amazon.co.uk/Effective-JavaScript-Specific-Software-Development/dp/0321812182/) | Addison Wesley
-Boris Smus | [Web Audio API](https://www.amazon.co.uk/Web-Audio-API-Boris-Smus/dp/1449332684/) | O'Reilly Media
 Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript-Allongé-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/) *Only kindle edition* | Justin Kelly
 Earle Castledine, Craig Sharkie | [jQuery: Novice to Ninja](https://www.amazon.co.uk/jQuery-Novice-Ninja-Earle-Castledine/dp/0987153013/) | SitePoint
 
