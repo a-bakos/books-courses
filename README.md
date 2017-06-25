@@ -284,6 +284,8 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Ryan Gravel | [Where We Want to Live: Reclaiming Infrastructure for a New Generation of Cities](https://www.amazon.co.uk/Where-Want-Live-Reclaiming-Infrastructure/dp/1250078253/) | St. Martin's Press
+Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
 Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112708/) | The Penguin Press
 Jeff Goins | [Real Artists Don't Starve](https://www.amazon.co.uk/Real-Artists-Dont-Starve-Goins/dp/0718098927/) | Thomas Nelson
