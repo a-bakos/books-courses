@@ -1,4 +1,4 @@
-# BRAINFEED
+## BRAINFEED
 Books that are important to my professional & personal goals.
 These are physical copies, I do not include e-books here nor any blogs.
 Technical, non-fiction, self-growth, business (+1 fiction).
@@ -21,6 +21,7 @@ Reading list properly tracked from 2016.
    + [ReactJS](#wishlist_js_react)
   + [Computing](#wishlist_computing)
   + [Business, soft-skills, psychology, etc.](#wishlist_others)
+  + [Infrastructure, urbanism](#infrastructure)
 
 ---
 
@@ -284,10 +285,6 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Ryan Gravel | [Where We Want to Live: Reclaiming Infrastructure for a New Generation of Cities](https://www.amazon.co.uk/Where-Want-Live-Reclaiming-Infrastructure/dp/1250078253/) | St. Martin's Press
-Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
-Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
-Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112708/) | The Penguin Press
 Jeff Goins | [Real Artists Don't Starve](https://www.amazon.co.uk/Real-Artists-Dont-Starve-Goins/dp/0718098927/) | Thomas Nelson
 Daniel Levitin | [The Organized Mind: Thinking Straight in the Age of Information Overload](https://www.amazon.co.uk/dp/0241965780/) | Penguin
 David Allen | [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349408947/) | Piatkus
@@ -381,6 +378,16 @@ Scott Meyer | [Off to Be the Wizard (Magic 2.0)](https://www.amazon.co.uk/Off-Be
 Maxwell Maltz | [The New Psycho-Cybernetics](https://www.amazon.co.uk/New-Psycho-cybernetics-Original-Science-Self-Improvement/dp/0735202850/) | 
 Raymond Kurzweil | [The Singularity is Near](https://www.amazon.co.uk/Singularity-Near-Raymond-Kurzweil/dp/0715635611/) | Gerald Duckworth & Co Ltd
 Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-Create-Mind-Ray-Kurzweil/0715647334/) | Gerald Duckworth & Co Ltd
+
+<a id="infrastructure"></a>
+### Infrastructure, urbanism
+
+Author | Title | Publisher
+------ | ----- | ---------
+Ryan Gravel | [Where We Want to Live: Reclaiming Infrastructure for a New Generation of Cities](https://www.amazon.co.uk/Where-Want-Live-Reclaiming-Infrastructure/dp/1250078253/) | St. Martin's Press
+Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
+Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
+Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112708/) | The Penguin Press
 
 ---
 
