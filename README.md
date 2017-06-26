@@ -384,6 +384,15 @@ Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-C
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
+Charles Montgomery | [Happy City: Transforming Our Lives Through Urban Design](https://www.amazon.co.uk/dp/0141047542/) | Penguin
+Anthony M. Townsend | [Smart Cities - Big Data, Civic Hackers, and the Quest for a New Utopia](https://www.amazon.co.uk/dp/0393349780/) | W. W. Norton & Company
+Deyan Sudjic | [The Language of Cities](https://www.amazon.co.uk/dp/0141980591/) | Penguin
+Paul Dobraszczyk, Carlos Galviz, Bradley L. Garrett | [Global Undergrounds: Exploring Cities Within](https://www.amazon.co.uk/dp/1780235763/) | Reaktion Books
+Colin Ellard | [Places of the Heart: The Psychogeography of Everyday Life](https://www.amazon.co.uk/dp/1942658001/) | Bellevue Literary Press
+Geoff Manaugh | [A Burglar's Guide to the City](https://www.amazon.co.uk/dp/0374117268/) | FSG Originals
+Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
+Brian Hayes | [Infrastructure - A Guide to the Industrial Landscape](https://www.amazon.co.uk/dp/0393349837/) | W. W. Norton & Company
 Ryan Gravel | [Where We Want to Live: Reclaiming Infrastructure for a New Generation of Cities](https://www.amazon.co.uk/Where-Want-Live-Reclaiming-Infrastructure/dp/1250078253/) | St. Martin's Press
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
