@@ -233,7 +233,6 @@ Joe Kutner | [The Healthy Programmer: Get Fit, Feel Better, and Keep Coding](htt
 Joshua D. Carter | [New Programmer's Survival Manual](https://www.amazon.co.uk/New-Programmers-Survival-Manual-Workplace/dp/1934356816/) | The Pragmatic Bookshelf
 Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson | [Web Development Recipes](https://www.amazon.co.uk/Web-Development-Recipes-Brian-Hogan/dp/1680500562/) | The Pragmatic Bookshelf
 Johanna Rothman, Esther Derby | [Behind Closed Doors: Secrets of Great Management](https://www.amazon.co.uk/d/cka/Behind-Closed-Doors-Secrets-Management-Johanna-Rothman/0976694026/) | The Pragmatic Bookshelf
-Keir Thomas | [Ubuntu Kung Fu: Tips, Tricks, Hints, and Hacks](https://www.amazon.co.uk/d/Books/Ubuntu-Kung-Fu-Tricks-Hints/1934356220/) | The Pragmatic Bookshelf
 Ken Pugh | [Interface Oriented Design: With Patterns](https://www.amazon.co.uk/Interface-Oriented-Design-Pragmatic-Programmers/dp/0976694050/) | The Pragmatic Bookshelf
 Andy Lester | [Land the Tech Job You Love](https://www.amazon.co.uk/Land-Tech-Job-You-Love/dp/1934356263/) | The Pragmatic Bookshelf
 Lukas Mathis | [Designed for Use: Create Usable Interfaces for Applications and the Web](https://www.amazon.co.uk/Designed-Use-Interfaces-Applications-Publisher/dp/B00SLSWWAY/) | The Pragmatic Bookshelf
