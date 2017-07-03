@@ -373,7 +373,6 @@ Steven Levy | [In The Plex: How Google Thinks, Works, and Shapes Our Lives](http
 Kevin Warwick | [Artificial Intelligence: The Basics](https://www.amazon.co.uk/Artificial-Intelligence-Basics-Kevin-Warwick/dp/0415564832/) | Routledge
 Nick Bostrom | [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom-x/dp/0198739834/) | OUP Oxford
 Steven Levy | [Hackers: Heroes of the Computer Revolution](https://www.amazon.co.uk/d/Books/Hackers-Heroes-Computer-Revolution-25th-Anniversary-Steven/1449388396/) | O'Reilly
-Scott Meyer | [Off to Be the Wizard (Magic 2.0)](https://www.amazon.co.uk/Off-Be-Wizard-Magic-2-0/dp/1612184715/) + more from Scott Meyer | 47North
 Maxwell Maltz | [The New Psycho-Cybernetics](https://www.amazon.co.uk/New-Psycho-cybernetics-Original-Science-Self-Improvement/dp/0735202850/) | 
 Raymond Kurzweil | [The Singularity is Near](https://www.amazon.co.uk/Singularity-Near-Raymond-Kurzweil/dp/0715635611/) | Gerald Duckworth & Co Ltd
 Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-Create-Mind-Ray-Kurzweil/0715647334/) | Gerald Duckworth & Co Ltd
