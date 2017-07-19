@@ -380,10 +380,16 @@ Raymond Kurzweil | [The Singularity is Near](https://www.amazon.co.uk/Singularit
 Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-Create-Mind-Ray-Kurzweil/0715647334/) | Gerald Duckworth & Co Ltd
 
 <a id="infrastructure"></a>
-### Infrastructure, urbanism
+### Infrastructure, architercure, urbanism
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Jeff Speck | [Walkable City](https://www.amazon.co.uk/Walkable-City-Jeff-Speck/dp/0865477728/) | North Point Press
+Jahn Gehl | [Life Between Buildings: Using Public Space](https://www.amazon.co.uk/Life-Between-Buildings-Using-Public/) | Island Press
+Stephen Graham | [Vertical: The City from Satellites to Bunkers](https://www.amazon.co.uk/Vertical-Satellites-Bunkers-Stephen-Graham/dp/1781687935/) | Verso
+David Rogers | [The Digital Transformation Playbook: Rethink Your Business for the Digital Age](https://www.amazon.co.uk/gp/product/0231175442/) | Columbia University Press
+Ingrid Burrington | [Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure](https://www.amazon.co.uk/gp/product/1612195423/) | Melville House Publishing
+Geoffrey West | [Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies](https://www.amazon.co.uk/gp/product/0297869655/) | W&N
 Samuel Arbesman | [Overcomplicated: Technology at the Limits of Comprehension](https://www.amazon.co.uk/Overcomplicated-Technology-at-Limits-Comprehension/dp/0143131303/) | Portfolio
 David Macaulay | [Underground](https://www.amazon.co.uk/dp/0395340659/) | Houghton Mifflin
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
