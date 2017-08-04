@@ -385,6 +385,7 @@ Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-C
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Professor Sarah Williams Goldhagen | [Welcome to Your World: How the Built Environment Shapes Our Lives](https://www.amazon.co.uk/Welcome-Your-World-Environment-Shapes/dp/0061957801/) | Harper
 Jeff Speck | [Walkable City](https://www.amazon.co.uk/Walkable-City-Jeff-Speck/dp/0865477728/) | North Point Press
 Jahn Gehl | [Life Between Buildings: Using Public Space](https://www.amazon.co.uk/Life-Between-Buildings-Using-Public/) | Island Press
 Stephen Graham | [Vertical: The City from Satellites to Bunkers](https://www.amazon.co.uk/Vertical-Satellites-Bunkers-Stephen-Graham/dp/1781687935/) | Verso
