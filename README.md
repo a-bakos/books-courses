@@ -287,6 +287,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Jim Lindsley | [How to be Wise](https://www.amazon.co.uk/How-Wise-Dealing-Complexities-Life/dp/1512301485/) | CreateSpace
 Brian Christian, Tom Griffiths | [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/0007547994/) | William Collins
 Jeff Goins | [Real Artists Don't Starve](https://www.amazon.co.uk/Real-Artists-Dont-Starve-Goins/dp/0718098927/) | Thomas Nelson
 Daniel Levitin | [The Organized Mind: Thinking Straight in the Age of Information Overload](https://www.amazon.co.uk/dp/0241965780/) | Penguin
