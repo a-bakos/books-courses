@@ -220,6 +220,8 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+ | []() | 
+Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
 Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://www.amazon.co.uk/d/Books/Code-Simplicity-Fundamentals-Software-Max-Kanat-Alexander/1449313892/) | O'Reilly Media
 David Platt | [The Joy of UX: User Experience and Interactive Design for Developers](https://www.amazon.co.uk/Joy-Experience-Interactive-Developers-Usability/dp/013427671X/) | Addison Wesley
@@ -287,6 +289,8 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+George Berkowski | [How to Build a Billion Dollar App](https://www.amazon.co.uk/dp/0349401373/) | Piatkus
+Scott Page | [The Barefoot Investor](https://www.amazon.co.uk/dp/0730324214/) | Wiley
 Jim Lindsley | [How to be Wise](https://www.amazon.co.uk/How-Wise-Dealing-Complexities-Life/dp/1512301485/) | CreateSpace
 Brian Christian, Tom Griffiths | [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/0007547994/) | William Collins
 Jeff Goins | [Real Artists Don't Starve](https://www.amazon.co.uk/Real-Artists-Dont-Starve-Goins/dp/0718098927/) | Thomas Nelson
@@ -387,6 +391,10 @@ Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-C
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Jan Gehl, Birgitte Svarre | [How to Study Public Life: Methods in Urban Design](https://www.amazon.co.uk/dp/1610914236/) | Island Press
+Fran Tonkiss | [Cities by Design: The Social Life of Urban Form](https://www.amazon.co.uk/dp/0745648983/) | Polity Press
+Tina Richardson | Walking Inside Out: Contemporary British Psychogeography](https://www.amazon.co.uk/Walking-Inside-Out-Contemporary-Psychogeography/dp/1783480866/) | Rli
+Merlin Coverley | [Psychogeography](https://www.amazon.co.uk/Psychogeography-Pocket-Essentials-Paperback-Coverley/dp/1842433474) | Pocket Essentials
 Professor Sarah Williams Goldhagen | [Welcome to Your World: How the Built Environment Shapes Our Lives](https://www.amazon.co.uk/Welcome-Your-World-Environment-Shapes/dp/0061957801/) | Harper
 Jeff Speck | [Walkable City](https://www.amazon.co.uk/Walkable-City-Jeff-Speck/dp/0865477728/) | North Point Press
 Jahn Gehl | [Life Between Buildings: Using Public Space](https://www.amazon.co.uk/Life-Between-Buildings-Using-Public/) | Island Press
