@@ -289,6 +289,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Michael Jay Geier | [How to Diagnose and Fix Everything Electronic](https://www.amazon.co.uk/gp/product/0071848290) | McGraw-Hill Education
 George Berkowski | [How to Build a Billion Dollar App](https://www.amazon.co.uk/dp/0349401373/) | Piatkus
 Scott Page | [The Barefoot Investor](https://www.amazon.co.uk/dp/0730324214/) | Wiley
 Jim Lindsley | [How to be Wise](https://www.amazon.co.uk/How-Wise-Dealing-Complexities-Life/dp/1512301485/) | CreateSpace
