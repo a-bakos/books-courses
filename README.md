@@ -289,6 +289,8 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+David Mcraney | [You Can Beat Your Brain](https://www.amazon.co.uk/dp/1780743742/) | Oneworld Publications
+David Mcraney | [You Are Not So Smart](https://www.amazon.co.uk/dp/1851689397/) | Oneworld Publications
 Michael Jay Geier | [How to Diagnose and Fix Everything Electronic](https://www.amazon.co.uk/gp/product/0071848290) | McGraw-Hill Education
 George Berkowski | [How to Build a Billion Dollar App](https://www.amazon.co.uk/dp/0349401373/) | Piatkus
 Scott Page | [The Barefoot Investor](https://www.amazon.co.uk/dp/0730324214/) | Wiley
