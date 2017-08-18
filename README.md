@@ -153,7 +153,8 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
+Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 
 ---
 
@@ -396,7 +397,7 @@ Author | Title | Publisher
 ------ | ----- | ---------
 Jan Gehl, Birgitte Svarre | [How to Study Public Life: Methods in Urban Design](https://www.amazon.co.uk/dp/1610914236/) | Island Press
 Fran Tonkiss | [Cities by Design: The Social Life of Urban Form](https://www.amazon.co.uk/dp/0745648983/) | Polity Press
-Tina Richardson | Walking Inside Out: Contemporary British Psychogeography](https://www.amazon.co.uk/Walking-Inside-Out-Contemporary-Psychogeography/dp/1783480866/) | Rli
+Tina Richardson | [Walking Inside Out: Contemporary British Psychogeography](https://www.amazon.co.uk/Walking-Inside-Out-Contemporary-Psychogeography/dp/1783480866/) | Rli
 Merlin Coverley | [Psychogeography](https://www.amazon.co.uk/Psychogeography-Pocket-Essentials-Paperback-Coverley/dp/1842433474) | Pocket Essentials
 Professor Sarah Williams Goldhagen | [Welcome to Your World: How the Built Environment Shapes Our Lives](https://www.amazon.co.uk/Welcome-Your-World-Environment-Shapes/dp/0061957801/) | Harper
 Jeff Speck | [Walkable City](https://www.amazon.co.uk/Walkable-City-Jeff-Speck/dp/0865477728/) | North Point Press
@@ -407,7 +408,6 @@ Ingrid Burrington | [Networks of New York: An Illustrated Field Guide to Urban I
 Geoffrey West | [Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies](https://www.amazon.co.uk/gp/product/0297869655/) | W&N
 Samuel Arbesman | [Overcomplicated: Technology at the Limits of Comprehension](https://www.amazon.co.uk/Overcomplicated-Technology-at-Limits-Comprehension/dp/0143131303/) | Portfolio
 David Macaulay | [Underground](https://www.amazon.co.uk/dp/0395340659/) | Houghton Mifflin
-Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
 Charles Montgomery | [Happy City: Transforming Our Lives Through Urban Design](https://www.amazon.co.uk/dp/0141047542/) | Penguin
 Anthony M. Townsend | [Smart Cities - Big Data, Civic Hackers, and the Quest for a New Utopia](https://www.amazon.co.uk/dp/0393349780/) | W. W. Norton & Company
 Deyan Sudjic | [The Language of Cities](https://www.amazon.co.uk/dp/0141980591/) | Penguin
@@ -417,7 +417,6 @@ Geoff Manaugh | [A Burglar's Guide to the City](https://www.amazon.co.uk/dp/0374
 Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Brian Hayes | [Infrastructure - A Guide to the Industrial Landscape](https://www.amazon.co.uk/dp/0393349837/) | W. W. Norton & Company
 Ryan Gravel | [Where We Want to Live: Reclaiming Infrastructure for a New Generation of Cities](https://www.amazon.co.uk/Where-Want-Live-Reclaiming-Infrastructure/dp/1250078253/) | St. Martin's Press
-Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
 Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112708/) | The Penguin Press
 
