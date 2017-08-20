@@ -395,6 +395,14 @@ Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-C
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Chirine Etezadzadeh | [Smart City - Future City?: Smart City 2.0 as a Livable City and Future Market](https://www.amazon.co.uk/Smart-City-Future-Livable-essentials/dp/3658110163/) | Springer Vieweg
+Houbing Song, Ravi Srinivasan, Tamim Sookoor, Sabina Jeschke | [Smart Cities: Foundations, Principles, and Applications](https://www.amazon.co.uk/Smart-Cities-Foundations-Principles-Applications/dp/1119226392) | Wiley-Blackwell
+Caspar Herzberg | [Smart Cities, Digital Nations: Building Smart Cities in Emerging Countries and Beyond](https://www.amazon.co.uk/Smart-Cities-Digital-Nations-Countries/dp/1944903151/) | Roundtree Press
+Carlo Ratti, Matthew Claudel | [The City of Tomorrow: Sensors, Networks, Hackers, and the Future of Urban Life](https://www.amazon.co.uk/City-Tomorrow-Sensors-Networks-Hackers/dp/0300204809/) | Yale University Press
+Stephen Goldsmith, Susan Crawford | [The Responsive City: Engaging Communities Through Data-Smart Governance](https://www.amazon.co.uk/Responsive-City-Communities-Data-Smart-Governance/dp/1118910907/) | John Wiley & Sons
+Simon Marvin, Andres Luque-Ayala, Colin McFarlane | [Smart Urbanism: Utopian vision or false dawn?](https://www.amazon.co.uk/Smart-Urbanism-Utopian-vision-false/dp/1138844233/) | Routledge
+Duncan Mclaren, Julian Agyeman | [Sharing Cities: A Case for Truly Smart and Sustainable Cities](https://www.amazon.co.uk/Sharing-Cities-Sustainable-Industrial-Environments/dp/0262029723/) | MIT Press
+Mark Deakin | [Smart Cities](https://www.amazon.co.uk/Smart-Cities-Mark-Deakin/dp/1138932728) | Routledge
 Jan Gehl, Birgitte Svarre | [How to Study Public Life: Methods in Urban Design](https://www.amazon.co.uk/dp/1610914236/) | Island Press
 Fran Tonkiss | [Cities by Design: The Social Life of Urban Form](https://www.amazon.co.uk/dp/0745648983/) | Polity Press
 Tina Richardson | [Walking Inside Out: Contemporary British Psychogeography](https://www.amazon.co.uk/Walking-Inside-Out-Contemporary-Psychogeography/dp/1783480866/) | Rli
