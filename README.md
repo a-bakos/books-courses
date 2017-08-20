@@ -221,7 +221,6 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
- | []() | 
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
 Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://www.amazon.co.uk/d/Books/Code-Simplicity-Fundamentals-Software-Max-Kanat-Alexander/1449313892/) | O'Reilly Media
@@ -290,6 +289,8 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Ed Catmull | [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.co.uk/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0593070097/) | Bantam Press
+Kay Peterson | [How You Learn Is How You Live](https://www.amazon.co.uk/How-You-Learn-Live-Distributed/dp/1626568707/) | McGraw-Hill Education
 David Mcraney | [You Can Beat Your Brain](https://www.amazon.co.uk/dp/1780743742/) | Oneworld Publications
 David Mcraney | [You Are Not So Smart](https://www.amazon.co.uk/dp/1851689397/) | Oneworld Publications
 Michael Jay Geier | [How to Diagnose and Fix Everything Electronic](https://www.amazon.co.uk/gp/product/0071848290) | McGraw-Hill Education
