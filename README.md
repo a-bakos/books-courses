@@ -395,6 +395,16 @@ Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-C
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Michael Burayidi | [Cities and the Politics of Difference](https://www.amazon.co.uk/Cities-Politics-Difference-Multiculturalism-Diversity/dp/1442616156/) | University of Toronto Press
+Loretta Lees, Hyun Bang Shin, Ernesto López-Morales | [Planetary Gentrification](https://www.amazon.co.uk/Planetary-Gentrification-Polity-Urban-Futures/dp/0745671659/) | Polity Press
+Ash Amin, Nigel Thrift | [Seeing Like a City](https://www.amazon.co.uk/Seeing-Like-City-Ash-Amin/dp/0745664261/) | Polity Press
+Rachel Weber, Randall Crane | [The Oxford Handbook of Urban Planning](https://www.amazon.co.uk/Oxford-Handbook-Urban-Planning-Handbooks/dp/0190235268) | Oxford University Press
+David Adams, Steve Tiesdell | [Shaping Places: Urban Planning, Design and Development](https://www.amazon.co.uk/Shaping-Places-Planning-Design-Development/dp/0415497973/) | Routledge
+Jordan Yin, W. Paul Farmer | [Urban Planning For Dummies](https://www.amazon.co.uk/Urban-Planning-Dummies-Jordan-Yin/dp/1118100239/) | John Wiley & Sons
+Michael Miller | [The Internet of Things](https://www.amazon.co.uk/Internet-Things-Smart-Cities-Changing/dp/0789754002) | QUE
+Tim Campbell | [Beyond Smart Cities: How Cities Network, Learn and Innovate](https://www.amazon.co.uk/Beyond-Smart-Cities-Network-Innovate/dp/1849714266/) | Routledge
+Alan R. Shark, Sylviane Toporkoff, Sebastien Levy | [Smart Cities for a Bright Sustainable Future - A Global Perspective](https://www.amazon.co.uk/Smart-Cities-Bright-Sustainable-Future/dp/1497339456/) | CreateSpace Independent Publishing Platform 
+Maria Sashinskaya | [Smart Cities in Europe: Open Data in a Smart Mobility context](https://www.amazon.co.uk/Smart-Cities-Europe-Mobility-context/dp/1522924892/) | CreateSpace Independent Publishing Platform
 Chirine Etezadzadeh | [Smart City - Future City?: Smart City 2.0 as a Livable City and Future Market](https://www.amazon.co.uk/Smart-City-Future-Livable-essentials/dp/3658110163/) | Springer Vieweg
 Houbing Song, Ravi Srinivasan, Tamim Sookoor, Sabina Jeschke | [Smart Cities: Foundations, Principles, and Applications](https://www.amazon.co.uk/Smart-Cities-Foundations-Principles-Applications/dp/1119226392) | Wiley-Blackwell
 Caspar Herzberg | [Smart Cities, Digital Nations: Building Smart Cities in Emerging Countries and Beyond](https://www.amazon.co.uk/Smart-Cities-Digital-Nations-Countries/dp/1944903151/) | Roundtree Press
