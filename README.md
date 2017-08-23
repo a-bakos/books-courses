@@ -285,10 +285,11 @@ Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Every
 Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer](https://www.amazon.co.uk/Stop-Thinking-Like-Freelancer-Evolution/dp/1503273148/) | CreateSpace
 
 <a id="wishlist_others"></a>
-### Business, soft-skills, psychology, infrastructure, etc.
+### Business, soft-skills, productivity, psychology, infrastructure, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Prof Chris Bailey | [The Productivity Project](https://www.amazon.co.uk/dp/1101904054/) | Crown Business
 Ed Catmull | [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.co.uk/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0593070097/) | Bantam Press
 Kay Peterson | [How You Learn Is How You Live](https://www.amazon.co.uk/How-You-Learn-Live-Distributed/dp/1626568707/) | McGraw-Hill Education
 David Mcraney | [You Can Beat Your Brain](https://www.amazon.co.uk/dp/1780743742/) | Oneworld Publications
