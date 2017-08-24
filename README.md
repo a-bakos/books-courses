@@ -289,6 +289,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Benjamin Hardy | [The Proximity Effect](https://www.amazon.co.uk/Proximity-Effect-Change-Your-Environment/dp/0349417938/) | Piatkus
 Prof Chris Bailey | [The Productivity Project](https://www.amazon.co.uk/dp/1101904054/) | Crown Business
 Ed Catmull | [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.co.uk/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0593070097/) | Bantam Press
 Kay Peterson | [How You Learn Is How You Live](https://www.amazon.co.uk/How-You-Learn-Live-Distributed/dp/1626568707/) | McGraw-Hill Education
