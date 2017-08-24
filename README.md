@@ -154,6 +154,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 
 ---
@@ -347,7 +348,6 @@ Dan Ariely | [Behavioural Economics Saved My Dog: Life Advice For The Imperfect 
 Dan Ariely | [The Upside of Irrationality](https://www.amazon.co.uk/Upside-Irrationality-Dan-Ariely/dp/0007354789/) | Harper
 Dan Ariely | [Payoff: The Hidden Logic That Shapes Our Motivations](https://www.amazon.co.uk/Payoff-Hidden-Logic-Shapes-Motivations/dp/1471156079/) | Simon & Schuster UK
 Dan Ariely | [Predictably Irrational: The Hidden Forces that Shape Our Decisions](https://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256531/) | HarperCollins
-Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe
 Josh Waitzkin | [The Art of Learning: An Inner Journey to Optimal Performance](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465/) | Free Press
 Simon Sinek | [Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://www.amazon.co.uk/d/Books/Leaders-Eat-Last-Some-Teams-Together-Others/0670923168/) | Portfolio Penguin
 Simon Sinek | [Start With Why: How Great Leaders Inspire Everyone To Take Action](https://www.amazon.co.uk/dp/0241958229/) | Penguin
