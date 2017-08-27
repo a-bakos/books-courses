@@ -33,6 +33,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+23 | Jon Duckett | [HTML & Css: Design and Build Websites](https://www.amazon.co.uk/HTML-CSS-Design-Build-Sites/dp/1118008189/) | John Wiley & Sons
 22 | Marc Lawson & Steve Hackney | [Why Businesses Stop Growing](https://www.amazon.co.uk/Why-Businesses-Stop-Growing-About/dp/1495277828/) | AFT Publishing
 21 | Edwin A. Abbott | [Flatland: A Romance of Many Dimensions](https://www.amazon.co.uk/Flatland-Romance-Dimensions-Dover-Thrift/dp/048627263X/) | Dover Publications
 20 | Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published
@@ -135,7 +136,6 @@ Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](http
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Jon Duckett | [HTML & Css: Design and Build Websites](https://www.amazon.co.uk/HTML-CSS-Design-Build-Sites/dp/1118008189/) | John Wiley & Sons
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
 Nicholas C. Zakas | [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.co.uk/dp/1593277571/) | No Starch Press
 Marc Wandschneider | [Learning Node.js](https://www.amazon.co.uk/gp/product/0134663705/) | Addison Wesley
