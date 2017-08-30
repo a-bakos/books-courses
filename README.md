@@ -223,6 +223,7 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+David Airey | [Logo Design Love](https://www.amazon.co.uk/Logo-Design-Love-Creating-Identities/dp/0321985206/) | Peachpit Press
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
 Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://www.amazon.co.uk/d/Books/Code-Simplicity-Fundamentals-Software-Max-Kanat-Alexander/1449313892/) | O'Reilly Media
