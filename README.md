@@ -15,11 +15,11 @@ Reading list properly tracked from 2016.
 + [Yet to be read / finished / buffer](#to_be_read)
 + [On the way](#on_the_way)
 + [Books that seem interesting / wishlist](#wishlist)
-  + [Must haves](#wishlist_musthaves)
   + [JS](#wishlist_js)
    + [NodeJS](#wishlist_js_node)
    + [ReactJS](#wishlist_js_react)
   + [Computing](#wishlist_computing)
+  + [Design, UI, UX](#design)
   + [Business, soft-skills, psychology, etc.](#wishlist_others)
   + [Infrastructure, urbanism](#infrastructure)
 
@@ -122,7 +122,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 ---
 
 <a id="reading_now"></a>
-### Reading now: 
+### Reading now:
 
 Author | Title | Publisher
 ------ | ----- | ---------
@@ -162,15 +162,6 @@ Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-S
 
 <a id="wishlist"></a>
 ## Books that seem interesting / Wishlist 
-
-<a id="wishlist_musthaves"></a>
-# Must haves
-
-Author | Title | Publisher
------- | ----- | ---------
-Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
-Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
-Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 
 <a id="wishlist_js"></a>
 ### JS
@@ -223,12 +214,11 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Jamie Steane | [The Principles and Processes of Interactive Design](https://www.amazon.co.uk/Principles-Processes-Interactive-Required-Reading/dp/2940496110/) | Fairchild Books
-David Airey | [Logo Design Love](https://www.amazon.co.uk/Logo-Design-Love-Creating-Identities/dp/0321985206/) | Peachpit Press
+Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
+Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
 Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://www.amazon.co.uk/d/Books/Code-Simplicity-Fundamentals-Software-Max-Kanat-Alexander/1449313892/) | O'Reilly Media
-David Platt | [The Joy of UX: User Experience and Interactive Design for Developers](https://www.amazon.co.uk/Joy-Experience-Interactive-Developers-Usability/dp/013427671X/) | Addison Wesley
 Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Andy Budd, Emil Björklund | [CSS Mastery](https://www.amazon.co.uk/d/Books/CSS-Mastery-Andy-Budd/1430258632/) | Apress
 Ian Miell, Aidan Hobson Sayers | [Docker in Practice](https://www.amazon.co.uk/dp/1617292729/) | Manning Publications
@@ -237,7 +227,6 @@ David Cochran, Ian Whitley | [Bootstrap Site Blueprints](https://www.amazon.co.u
 Harold Abelson | [Structure and Interpretation of Computer Programs](https://www.amazon.co.uk/dp/0262510871/) | Harold Abelson
 Gregory Brown | [Programming Beyond Practices](https://www.amazon.co.uk/dp/1491943823) | O′Reilly
 Steve McConnell | [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) | Microsoft Press
-Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
 Joe Kutner | [The Healthy Programmer: Get Fit, Feel Better, and Keep Coding](https://www.amazon.co.uk/Healthy-Programmer-Better-Pragmatic-Programmers-x/dp/1937785319/) | The Pragmatic Bookshelf
 Joshua D. Carter | [New Programmer's Survival Manual](https://www.amazon.co.uk/New-Programmers-Survival-Manual-Workplace/dp/1934356816/) | The Pragmatic Bookshelf
 Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson | [Web Development Recipes](https://www.amazon.co.uk/Web-Development-Recipes-Brian-Hogan/dp/1680500562/) | The Pragmatic Bookshelf
@@ -263,22 +252,11 @@ Dustin Boswell | [The Art of Readable Code](https://www.amazon.co.uk/Art-Readabl
 Andy Oram, Greg Wilson | [Making Software: What Really Works, and Why We Believe It](https://www.amazon.co.uk/Making-Software-Really-Works-Believe/dp/0596808321/) | 
 Gayle Laakmann McDowell | [Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850/) | CareerCup
 J Clark Scott | [But How Do It Know?](https://www.amazon.co.uk/But-How-Know-Principles-Computers/dp/0615303765/) | 
-Charles Petzold | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.co.uk/Code-Language-Computer-Hardware-Software/dp/0735611319/) | Golden Krishna | [The Best Interface Is No Interface: The simple path to brilliant technology](https://www.amazon.co.uk/d/Books/Best-Interface-No-brilliant-technology/0133890333/) | 
-Jesse James Garrett | [The Elements of User Experience: User-Centered Design for the Web and Beyond](https://www.amazon.co.uk/Elements-User-Experience-User-Centered-Design/dp/0321683684/) | 
-Alan Cooper | [About Face: the Essentials of Interface Design](https://www.amazon.co.uk/About-Face-Essentials-Interaction-Design/dp/1118766571/) | 
-Jaime Levy | [UX Strategy: How to Devise Innovative Digital Products that People Want](https://www.amazon.co.uk/d/Books/Strategy-Devise-Innovative-Digital-Products-People-Want/1449372864/) | 
-Jenifer Tidwell | [Designing Interfaces](https://www.amazon.co.uk/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/) | 
-Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
-Mike Kuniavsky, Elizabeth Goodman, Andrea Moed | [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.co.uk/Observing-User-Experience-Practitioners-Research/dp/0123848695/) | Morgan Kaufmann
-Martina Schell, James O'Brien | [Communicating the UX Vision: 13 Anti-Patterns That Block Good Ideas](https://www.amazon.co.uk/Communicating-UX-Vision-Anti-Patterns-Block/dp/0124201970/) | Morgan Kaufmann
-Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith, Trish Papadakos | [Value Proposition Design](https://www.amazon.co.uk/Value-Proposition-Design-Customers-Strategyzer-x/dp/1118968050/) | John Wiley & Sons
-Jon Kolko | [Thoughts on Interaction Design](https://www.amazon.co.uk/Thoughts-Interaction-Design-Jon-Kolko/dp/0123809304/) | Morgan Kaufmann
-William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, Revised and Updated](https://www.amazon.co.uk/Universal-Principles-Design-Revised-Updated/dp/1592535879/) | Rockport
+Charles Petzold | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.co.uk/Code-Language-Computer-Hardware-Software/dp/0735611319/) | 
 Caroline Jarrett | [Forms that Work: Designing Web Forms for Usability](https://www.amazon.co.uk/Forms-that-Work-Interactive-Technologies/dp/1558607102/) | 
 Jeff Gothelf | [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.co.uk/Lean-UX-Applying-Principles-Experience/dp/1449311652/) | 
 Lara Callender Hogan | [Designing for Performance: Weighing Aesthetics and Speed](https://www.amazon.co.uk/Designing-Performance-Weighing-Aesthetics-Speed/dp/1491902515/) | O'Reilly
 Sandro Mancuso | [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/) | 
-Steve Krug | [Rocket Surgery Made Easy: The Do-it-yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.co.uk/Rocket-Surgery-Made-Easy-yourself/dp/0321657292/) | 
 Geoff Watts | [Scrum Mastery: From Good To Great Servant-Leadership](https://www.amazon.co.uk/d/cka/Scrum-Mastery-Good-Great-Servant-Leadership-Geoff-Watts/0957587406/) | 
 James Shore | [The Art of Agile Development](https://www.amazon.co.uk/Art-Agile-Development-James-Shore-x/dp/0596527675/) | 
 Kenneth S. Rubin | [Essential Scrum: A Practical Guide to the Most Popular Agile Process](https://www.amazon.co.uk/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295/) | 
@@ -287,6 +265,30 @@ Peter Morville | [Information Architecture for the World Wide Web: Designing Lar
 Peter Morville | [Intertwingled: Information Changes Everything](https://www.amazon.co.uk/Intertwingled-Information-Everything-Peter-Morville/dp/0692225587/) | 
 Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.co.uk/How-Make-Sense-Any-Mess/dp/1500615994/) | 
 Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer](https://www.amazon.co.uk/Stop-Thinking-Like-Freelancer-Evolution/dp/1503273148/) | CreateSpace
+
+<a id="design"></a>
+### Design, UI, UX, ...
+
+Author | Title | Publisher
+------ | ----- | ---------
+Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
+Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
+Jamie Steane | [The Principles and Processes of Interactive Design](https://www.amazon.co.uk/Principles-Processes-Interactive-Required-Reading/dp/2940496110/) | Fairchild Books
+David Airey | [Logo Design Love](https://www.amazon.co.uk/Logo-Design-Love-Creating-Identities/dp/0321985206/) | Peachpit Press
+David Platt | [The Joy of UX: User Experience and Interactive Design for Developers](https://www.amazon.co.uk/Joy-Experience-Interactive-Developers-Usability/dp/013427671X/) | Addison Wesley
+Golden Krishna | [The Best Interface Is No Interface: The simple path to brilliant technology](https://www.amazon.co.uk/d/Books/Best-Interface-No-brilliant-technology/0133890333/) | 
+Jesse James Garrett | [The Elements of User Experience: User-Centered Design for the Web and Beyond](https://www.amazon.co.uk/Elements-User-Experience-User-Centered-Design/dp/0321683684/) | 
+Alan Cooper | [About Face: the Essentials of Interface Design](https://www.amazon.co.uk/About-Face-Essentials-Interaction-Design/dp/1118766571/) | 
+Jaime Levy | [UX Strategy: How to Devise Innovative Digital Products that People Want](https://www.amazon.co.uk/d/Books/Strategy-Devise-Innovative-Digital-Products-People-Want/1449372864/) | 
+Jenifer Tidwell | [Designing Interfaces](https://www.amazon.co.uk/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/) | 
+Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
+Mike Kuniavsky, Elizabeth Goodman, Andrea Moed | [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.co.uk/Observing-User-Experience-Practitioners-Research/dp/0123848695/) | Morgan Kaufmann
+Steve Krug | [Rocket Surgery Made Easy: The Do-it-yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.co.uk/Rocket-Surgery-Made-Easy-yourself/dp/0321657292/) | 
+Martina Schell, James O'Brien | [Communicating the UX Vision: 13 Anti-Patterns That Block Good Ideas](https://www.amazon.co.uk/Communicating-UX-Vision-Anti-Patterns-Block/dp/0124201970/) | Morgan Kaufmann
+Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith, Trish Papadakos | [Value Proposition Design](https://www.amazon.co.uk/Value-Proposition-Design-Customers-Strategyzer-x/dp/1118968050/) | John Wiley & Sons
+Jon Kolko | [Thoughts on Interaction Design](https://www.amazon.co.uk/Thoughts-Interaction-Design-Jon-Kolko/dp/0123809304/) | Morgan Kaufmann
+William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, Revised and Updated](https://www.amazon.co.uk/Universal-Principles-Design-Revised-Updated/dp/1592535879/) | Rockport
+
 
 <a id="wishlist_others"></a>
 ### Business, soft-skills, productivity, psychology, infrastructure, etc.
