@@ -127,6 +127,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
@@ -156,7 +157,6 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
 Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe
 
 ---
