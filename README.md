@@ -138,6 +138,7 @@ Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](http
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Marc Abrahams | [This Is Improbable](https://www.amazon.co.uk/This-Improbable-Magnetic-Chickens-Research/dp/1851689753/) | Oneworld Publications
 Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
 Nicholas C. Zakas | [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.co.uk/dp/1593277571/) | No Starch Press
