@@ -138,6 +138,7 @@ Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](http
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
 Nicholas C. Zakas | [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.co.uk/dp/1593277571/) | No Starch Press
 Marc Wandschneider | [Learning Node.js](https://www.amazon.co.uk/gp/product/0134663705/) | Addison Wesley
@@ -282,7 +283,6 @@ Jesse James Garrett | [The Elements of User Experience: User-Centered Design for
 Alan Cooper | [About Face: the Essentials of Interface Design](https://www.amazon.co.uk/About-Face-Essentials-Interaction-Design/dp/1118766571/) | 
 Jaime Levy | [UX Strategy: How to Devise Innovative Digital Products that People Want](https://www.amazon.co.uk/d/Books/Strategy-Devise-Innovative-Digital-Products-People-Want/1449372864/) | 
 Jenifer Tidwell | [Designing Interfaces](https://www.amazon.co.uk/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/) | 
-Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
 Mike Kuniavsky, Elizabeth Goodman, Andrea Moed | [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.co.uk/Observing-User-Experience-Practitioners-Research/dp/0123848695/) | Morgan Kaufmann
 Steve Krug | [Rocket Surgery Made Easy: The Do-it-yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.co.uk/Rocket-Surgery-Made-Easy-yourself/dp/0321657292/) | 
 Martina Schell, James O'Brien | [Communicating the UX Vision: 13 Anti-Patterns That Block Good Ideas](https://www.amazon.co.uk/Communicating-UX-Vision-Anti-Patterns-Block/dp/0124201970/) | Morgan Kaufmann
