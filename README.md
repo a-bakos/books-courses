@@ -187,6 +187,9 @@ Addy Osmani | [Learning JavaScript Design Patterns](https://www.amazon.co.uk/Lea
 David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.amazon.co.uk/Effective-JavaScript-Specific-Software-Development/dp/0321812182/) | Addison Wesley
 Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript-Allongé-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/) *Only kindle edition* | Justin Kelly
 Earle Castledine, Craig Sharkie | [jQuery: Novice to Ninja](https://www.amazon.co.uk/jQuery-Novice-Ninja-Earle-Castledine/dp/0987153013/) | SitePoint
+David Flanagan | [JavaScript Pocket Reference](https://www.amazon.co.uk/dp/1449316859/) | O'Reilly
+David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/1449397220/) | O'Reilly
+Cody Lindley | [jQuery Cookbook](https://www.amazon.co.uk/dp/0596159773/) |  O'Reilly
 
 <a id="wishlist_js_react"></a>
 #### React.JS
@@ -217,6 +220,10 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Davey Shafik | [PHP Pocket Reference: PHP in Your Pocket](https://www.amazon.co.uk/dp/1491969091/) | O'Reilly Media
+Josh Lockhart | [Modern PHP: New Features and Good Practices](https://www.amazon.co.uk/dp/1491905018/) | O'Reilly Media
+David Sklar, Adam Trachtenberg | [PHP Cookbook: Solutions & Examples for PHP Programmers](https://www.amazon.co.uk/dp/144936375X/) | O'Reilly Media
+Brad Williams, Ozh Richard, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/0470916222/) | Wrox
 Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
@@ -274,6 +281,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Jono Yuen | [FUI: How to Design User Interfaces for Film and Games](https://www.amazon.co.uk/dp/1975795121/) | CreateSpace
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
 Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
 Jamie Steane | [The Principles and Processes of Interactive Design](https://www.amazon.co.uk/Principles-Processes-Interactive-Required-Reading/dp/2940496110/) | Fairchild Books
