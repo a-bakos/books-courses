@@ -96,28 +96,14 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 ---
 
 <a id="skimmed"></a>
-### Skimmed and/or skipped and/or paused
-
-Possible reasons:
-
-+ (Momentarily) uninteresting topic
-+ The writing style doesn't work for me
-+ The knowledge included has to be preceded by other skills before moving onto it
-
-<a id="skimmed_2017"></a>
-#### 2017
+### Put aside, lost, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Paul McKenna | [Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/) | Bantam Press
+~~Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe~~
+~~Paul McKenna | [Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/) | Bantam Press~~
 Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
 Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
-
-<a id="skimmed_2016"></a>
-#### 2016
-
-Author | Title | Publisher
------- | ----- | ---------
 Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press
 
 ---
@@ -160,7 +146,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe
+(none atm)
 
 ---
 
