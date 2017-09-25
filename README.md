@@ -8,11 +8,9 @@ Reading list properly tracked from 2016.
    + [In 2017](#read_2017)
    + [In 2016](#read_2016)
    + [before 2016 _incomplete_](#before_2016)
-+ [Skimmed and/or skipped and/or paused](#skimmed)
-  + [2017](#skimmed_2017)
-  + [2016](#skimmed_2016)
 + [Reading now](#reading_now)
 + [Yet to be read / finished / buffer](#to_be_read)
++ [Put aside, lost, etc.](#put_aside)
 + [On the way](#on_the_way)
 + [Books that seem interesting / wishlist](#wishlist)
   + [JS](#wishlist_js)
@@ -95,19 +93,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 ---
 
-<a id="skimmed"></a>
-### Put aside, lost, etc.
-
-Author | Title | Publisher
------- | ----- | ---------
-~~Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe~~
-~~Paul McKenna | [Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/) | Bantam Press~~
-Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
-Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
-Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press
-
----
-
 <a id="reading_now"></a>
 ### Reading now:
 
@@ -140,6 +125,21 @@ Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/00073
 Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/) | Harper Perennial
 Richard Reeves, John Knell | [The 80 Minute MBA](https://www.amazon.co.uk/80-Minute-MBA-Everything-2009-03-05/dp/B019TLJD62/) | Business Plus
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
+
+---
+
+<a id="put_aside"></a>
+### Put aside, lost, etc.
+
+Author | Title | Publisher
+------ | ----- | ---------
+~~Adobe Creative Team~~ | ~~[Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/)~~ | ~~Adobe~~
+~~Paul McKenna~~ | ~~[Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/)~~ | ~~Bantam Press~~
+Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
+Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
+Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press
+
+---
 
 <a id="on_the_way"></a>
 ### On the way...
