@@ -110,6 +110,7 @@ Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](http
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
 Marc Abrahams | [This Is Improbable](https://www.amazon.co.uk/This-Improbable-Magnetic-Chickens-Research/dp/1851689753/) | Oneworld Publications
 Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
@@ -146,7 +147,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
-(none atm)
+Mr Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
 
 ---
 
@@ -269,7 +270,6 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 Author | Title | Publisher
 ------ | ----- | ---------
 Jono Yuen | [FUI: How to Design User Interfaces for Film and Games](https://www.amazon.co.uk/dp/1975795121/) | CreateSpace
-Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
 Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
 Jamie Steane | [The Principles and Processes of Interactive Design](https://www.amazon.co.uk/Principles-Processes-Interactive-Required-Reading/dp/2940496110/) | Fairchild Books
 David Airey | [Logo Design Love](https://www.amazon.co.uk/Logo-Design-Love-Creating-Identities/dp/0321985206/) | Peachpit Press
@@ -292,6 +292,7 @@ William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, 
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Nir Eyal, Ryan Hoover | [Hooked: A Guide to Building Habit-Forming Products](https://www.amazon.co.uk/Hooked-Guide-Building-Habit-Forming-Products/dp/1494277530) | CreateSpace
 Benjamin Hardy | [The Proximity Effect](https://www.amazon.co.uk/Proximity-Effect-Change-Your-Environment/dp/0349417938/) | Piatkus
 Prof Chris Bailey | [The Productivity Project](https://www.amazon.co.uk/dp/1101904054/) | Crown Business
 Ed Catmull | [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.co.uk/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0593070097/) | Bantam Press
