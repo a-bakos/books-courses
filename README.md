@@ -135,7 +135,6 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 Author | Title | Publisher
 ------ | ----- | ---------
 ~~Adobe Creative Team~~ | ~~[Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/)~~ | ~~Adobe~~
-~~Paul McKenna~~ | ~~[Change Your Life in 7 Days](https://www.amazon.co.uk/Change-Your-Seven-McKenna-2004-01-19/dp/B01K3ODXN8/)~~ | ~~Bantam Press~~
 Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
 Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
 Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press
