@@ -31,6 +31,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+25 | Heydon Pickering | [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) | Smashing Magazine
 24 | Jules Goddard, Tony Eccles | [Uncommon Sense, Common Nonsense: Why Some Organisations Consistently Outperform Others](https://www.amazon.co.uk/Uncommon-Sense-Common-Nonsense-Organisations/dp/1846686024/) | Profile Books
 23 | Jon Duckett | [HTML & Css: Design and Build Websites](https://www.amazon.co.uk/HTML-CSS-Design-Build-Sites/dp/1118008189/) | John Wiley & Sons
 22 | Marc Lawson & Steve Hackney | [Why Businesses Stop Growing](https://www.amazon.co.uk/Why-Businesses-Stop-Growing-About/dp/1495277828/) | AFT Publishing
@@ -98,7 +99,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Heydon Pickering | [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) | Smashing Magazine
 Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
