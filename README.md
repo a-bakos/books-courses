@@ -158,6 +158,7 @@ Mr Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https:/
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Paul Boag | [User Experience Revolution](https://shop.smashingmagazine.com/products/user-experience-revolution) | Smashing Magazine
 Andrea Giammarchi | [JavaScript glossary on demand](https://www.amazon.co.uk/dp/1326576720/) | lulu.com
 Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
 Mark E. Daggett | [Expert JavaScript](https://www.amazon.co.uk/dp/1430260971/) | Apress
