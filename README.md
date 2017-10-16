@@ -271,6 +271,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Laura Kalbag | [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) | A Book Apart
 Jono Yuen | [FUI: How to Design User Interfaces for Film and Games](https://www.amazon.co.uk/dp/1975795121/) | CreateSpace
 Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
 Jamie Steane | [The Principles and Processes of Interactive Design](https://www.amazon.co.uk/Principles-Processes-Interactive-Required-Reading/dp/2940496110/) | Fairchild Books
