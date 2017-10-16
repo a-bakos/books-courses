@@ -111,6 +111,7 @@ Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](http
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
 Marc Abrahams | [This Is Improbable](https://www.amazon.co.uk/This-Improbable-Magnetic-Chickens-Research/dp/1851689753/) | Oneworld Publications
 Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
@@ -146,7 +147,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Mr Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
+(none atm) | | 
 
 ---
 
