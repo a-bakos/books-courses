@@ -99,19 +99,19 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
-Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
-Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
-Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
-Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
-Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 
 <a id="to_be_read"></a>
 ### Yet to be read / finished / buffer:
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
+Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
+Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
+Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
+Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
+Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
 Marc Abrahams | [This Is Improbable](https://www.amazon.co.uk/This-Improbable-Magnetic-Chickens-Research/dp/1851689753/) | Oneworld Publications
 Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
