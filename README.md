@@ -24,7 +24,7 @@ Reading list properly tracked from 2016.
 ---
 
 <a id="read"></a>
-## Finished reading 
+## Finished reading
 
 <a id="read_2017"></a>
 #### In 2017
@@ -58,7 +58,7 @@ Reading list properly tracked from 2016.
 01 | Nicholas Bate | [You, only better](https://www.amazon.co.uk/You-Only-Better-Strengths-Change/dp/0857084720/) | Capstone
 
 <a id="read_2016"></a>
-#### In 2016 
+#### In 2016
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
@@ -100,7 +100,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 Author | Title | Publisher
 ------ | ----- | ---------
 Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
-Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | 
+Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
 <a id="to_be_read"></a>
 ### Yet to be read / finished / buffer:
@@ -147,19 +147,20 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
-(none atm) | | 
+Alan Forbes | [The Joy of Bootstrap](https://www.amazon.co.uk/gp/product/1522792813/) | CreateSpace
+Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
 
 ---
 
 <a id="wishlist"></a>
-## Books that seem interesting / Wishlist 
+## Books that seem interesting / Wishlist
 
 <a id="wishlist_js"></a>
 ### JS
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Paul Boag | [User Experience Revolution](https://shop.smashingmagazine.com/products/user-experience-revolution) | Smashing Magazine
+Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 Andrea Giammarchi | [JavaScript glossary on demand](https://www.amazon.co.uk/dp/1326576720/) | lulu.com
 Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
 Mark E. Daggett | [Expert JavaScript](https://www.amazon.co.uk/dp/1430260971/) | Apress
@@ -215,7 +216,6 @@ Josh Lockhart | [Modern PHP: New Features and Good Practices](https://www.amazon
 David Sklar, Adam Trachtenberg | [PHP Cookbook: Solutions & Examples for PHP Programmers](https://www.amazon.co.uk/dp/144936375X/) | O'Reilly Media
 Brad Williams, Ozh Richard, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/0470916222/) | Wrox
 Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
-Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
 Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://www.amazon.co.uk/d/Books/Code-Simplicity-Fundamentals-Software-Max-Kanat-Alexander/1449313892/) | O'Reilly Media
@@ -237,33 +237,33 @@ Lukas Mathis | [Designed for Use: Create Usable Interfaces for Applications and 
 Eewei Chen | [101 Design Ingredients to Solve Big Tech Problems](https://www.amazon.co.uk/Design-Ingredients-Solve-Tech-Problems/dp/B00SLUEODU/) | The Pragmatic Bookshelf
 Aditya Bhargava | [Grokking Algorithms](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/) | Manning Publications
 Brian P. Hogan | [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://www.amazon.co.uk/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224/) | The Pragmatic Bookshelf
-Mark C. Chu-Caroll | [Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation](https://www.amazon.co.uk/Good-Math-Computation-Pragmatic-Programmers/dp/1937785335/) | 
+Mark C. Chu-Caroll | [Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation](https://www.amazon.co.uk/Good-Math-Computation-Pragmatic-Programmers/dp/1937785335/) |
 Hampton Lintorn Catlin, Michael Lintorn Catlin | [Pragmatic Guide to Sass 3](https://www.amazon.co.uk/Pragmatic-Guide-Sass-Modern-Style/dp/1680501763/) | The Pragmatic Bookshelf
 Cory Berg | [Software++: Must-Have Skills For Software Engineers](https://www.amazon.co.uk/Software-Must-Have-Skills-Engineers-x/dp/1514629348/) | CreateSpace
 Glenford J. Myers, Corey Sandler, Tom Badgett | [The Art of Software Testing](https://www.amazon.co.uk/Art-Software-Testing-Glenford-Myers/dp/1118031962/) | John Wiley & Sons
 David West | [Object Thinking](https://www.amazon.co.uk/d/Books/Thinking-Developer-Reference-DV-Microsoft-Professional/0735619654/) | Microsoft Press
 Elliotte Rusty Harold, W. Scott Means | [XML in a Nutshell](https://www.amazon.co.uk/Nutshell-OReilly-Elliotte-Rusty-Harold/dp/0596007647/) | O'Reilly
 Joshua Kerievsky | [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/) | Addison Wesley
-Erich Gamma, Richard Helm, Ralph Johnson  | [Design patterns: elements of reusable object-oriented software](https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented-x/dp/0201633612/) | 
-T Cormen, C Leiserson, R Rivest | [Introduction to Algorithms](https://www.amazon.co.uk/Introduction-Algorithms-T-Cormen/dp/0262533057/) | 
-Eric Evans | [Domain-driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215/) | 
-Martin Fowler | [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/) | 
-Dustin Boswell | [The Art of Readable Code](https://www.amazon.co.uk/Art-Readable-Code-Theory-Practice/dp/0596802293/) | 
-Andy Oram, Greg Wilson | [Making Software: What Really Works, and Why We Believe It](https://www.amazon.co.uk/Making-Software-Really-Works-Believe/dp/0596808321/) | 
+Erich Gamma, Richard Helm, Ralph Johnson  | [Design patterns: elements of reusable object-oriented software](https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented-x/dp/0201633612/) |
+T Cormen, C Leiserson, R Rivest | [Introduction to Algorithms](https://www.amazon.co.uk/Introduction-Algorithms-T-Cormen/dp/0262533057/) |
+Eric Evans | [Domain-driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215/) |
+Martin Fowler | [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/) |
+Dustin Boswell | [The Art of Readable Code](https://www.amazon.co.uk/Art-Readable-Code-Theory-Practice/dp/0596802293/) |
+Andy Oram, Greg Wilson | [Making Software: What Really Works, and Why We Believe It](https://www.amazon.co.uk/Making-Software-Really-Works-Believe/dp/0596808321/) |
 Gayle Laakmann McDowell | [Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850/) | CareerCup
-J Clark Scott | [But How Do It Know?](https://www.amazon.co.uk/But-How-Know-Principles-Computers/dp/0615303765/) | 
-Charles Petzold | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.co.uk/Code-Language-Computer-Hardware-Software/dp/0735611319/) | 
-Caroline Jarrett | [Forms that Work: Designing Web Forms for Usability](https://www.amazon.co.uk/Forms-that-Work-Interactive-Technologies/dp/1558607102/) | 
-Jeff Gothelf | [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.co.uk/Lean-UX-Applying-Principles-Experience/dp/1449311652/) | 
+J Clark Scott | [But How Do It Know?](https://www.amazon.co.uk/But-How-Know-Principles-Computers/dp/0615303765/) |
+Charles Petzold | [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.co.uk/Code-Language-Computer-Hardware-Software/dp/0735611319/) |
+Caroline Jarrett | [Forms that Work: Designing Web Forms for Usability](https://www.amazon.co.uk/Forms-that-Work-Interactive-Technologies/dp/1558607102/) |
+Jeff Gothelf | [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.co.uk/Lean-UX-Applying-Principles-Experience/dp/1449311652/) |
 Lara Callender Hogan | [Designing for Performance: Weighing Aesthetics and Speed](https://www.amazon.co.uk/Designing-Performance-Weighing-Aesthetics-Speed/dp/1491902515/) | O'Reilly
-Sandro Mancuso | [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/) | 
-Geoff Watts | [Scrum Mastery: From Good To Great Servant-Leadership](https://www.amazon.co.uk/d/cka/Scrum-Mastery-Good-Great-Servant-Leadership-Geoff-Watts/0957587406/) | 
-James Shore | [The Art of Agile Development](https://www.amazon.co.uk/Art-Agile-Development-James-Shore-x/dp/0596527675/) | 
-Kenneth S. Rubin | [Essential Scrum: A Practical Guide to the Most Popular Agile Process](https://www.amazon.co.uk/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295/) | 
-Susan Weinschenk | [100 Things Every Designer Needs to Know About People: What Makes Them Tick?](https://www.amazon.co.uk/Things-Every-Designer-Needs-People/dp/0321767535/) | 
+Sandro Mancuso | [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/) |
+Geoff Watts | [Scrum Mastery: From Good To Great Servant-Leadership](https://www.amazon.co.uk/d/cka/Scrum-Mastery-Good-Great-Servant-Leadership-Geoff-Watts/0957587406/) |
+James Shore | [The Art of Agile Development](https://www.amazon.co.uk/Art-Agile-Development-James-Shore-x/dp/0596527675/) |
+Kenneth S. Rubin | [Essential Scrum: A Practical Guide to the Most Popular Agile Process](https://www.amazon.co.uk/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295/) |
+Susan Weinschenk | [100 Things Every Designer Needs to Know About People: What Makes Them Tick?](https://www.amazon.co.uk/Things-Every-Designer-Needs-People/dp/0321767535/) |
 Peter Morville | [Information Architecture for the World Wide Web: Designing Large-Scale Web Sites](https://www.amazon.co.uk/Information-Architecture-World-Wide-Web/dp/1565922824/) | O'Reilly
-Peter Morville | [Intertwingled: Information Changes Everything](https://www.amazon.co.uk/Intertwingled-Information-Everything-Peter-Morville/dp/0692225587/) | 
-Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.co.uk/How-Make-Sense-Any-Mess/dp/1500615994/) | 
+Peter Morville | [Intertwingled: Information Changes Everything](https://www.amazon.co.uk/Intertwingled-Information-Everything-Peter-Morville/dp/0692225587/) |
+Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.co.uk/How-Make-Sense-Any-Mess/dp/1500615994/) |
 Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer](https://www.amazon.co.uk/Stop-Thinking-Like-Freelancer-Evolution/dp/1503273148/) | CreateSpace
 
 <a id="design"></a>
@@ -271,19 +271,20 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Paul Boag | [User Experience Revolution](https://shop.smashingmagazine.com/products/user-experience-revolution) | Smashing Magazine
 Laura Kalbag | [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) | A Book Apart
 Jono Yuen | [FUI: How to Design User Interfaces for Film and Games](https://www.amazon.co.uk/dp/1975795121/) | CreateSpace
 Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
 Jamie Steane | [The Principles and Processes of Interactive Design](https://www.amazon.co.uk/Principles-Processes-Interactive-Required-Reading/dp/2940496110/) | Fairchild Books
 David Airey | [Logo Design Love](https://www.amazon.co.uk/Logo-Design-Love-Creating-Identities/dp/0321985206/) | Peachpit Press
 David Platt | [The Joy of UX: User Experience and Interactive Design for Developers](https://www.amazon.co.uk/Joy-Experience-Interactive-Developers-Usability/dp/013427671X/) | Addison Wesley
-Golden Krishna | [The Best Interface Is No Interface: The simple path to brilliant technology](https://www.amazon.co.uk/d/Books/Best-Interface-No-brilliant-technology/0133890333/) | 
-Jesse James Garrett | [The Elements of User Experience: User-Centered Design for the Web and Beyond](https://www.amazon.co.uk/Elements-User-Experience-User-Centered-Design/dp/0321683684/) | 
-Alan Cooper | [About Face: the Essentials of Interface Design](https://www.amazon.co.uk/About-Face-Essentials-Interaction-Design/dp/1118766571/) | 
-Jaime Levy | [UX Strategy: How to Devise Innovative Digital Products that People Want](https://www.amazon.co.uk/d/Books/Strategy-Devise-Innovative-Digital-Products-People-Want/1449372864/) | 
-Jenifer Tidwell | [Designing Interfaces](https://www.amazon.co.uk/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/) | 
+Golden Krishna | [The Best Interface Is No Interface: The simple path to brilliant technology](https://www.amazon.co.uk/d/Books/Best-Interface-No-brilliant-technology/0133890333/) |
+Jesse James Garrett | [The Elements of User Experience: User-Centered Design for the Web and Beyond](https://www.amazon.co.uk/Elements-User-Experience-User-Centered-Design/dp/0321683684/) |
+Alan Cooper | [About Face: the Essentials of Interface Design](https://www.amazon.co.uk/About-Face-Essentials-Interaction-Design/dp/1118766571/) |
+Jaime Levy | [UX Strategy: How to Devise Innovative Digital Products that People Want](https://www.amazon.co.uk/d/Books/Strategy-Devise-Innovative-Digital-Products-People-Want/1449372864/) |
+Jenifer Tidwell | [Designing Interfaces](https://www.amazon.co.uk/Designing-Interfaces-Jenifer-Tidwell/dp/1449379702/) |
 Mike Kuniavsky, Elizabeth Goodman, Andrea Moed | [Observing the User Experience: A Practitioner's Guide to User Research](https://www.amazon.co.uk/Observing-User-Experience-Practitioners-Research/dp/0123848695/) | Morgan Kaufmann
-Steve Krug | [Rocket Surgery Made Easy: The Do-it-yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.co.uk/Rocket-Surgery-Made-Easy-yourself/dp/0321657292/) | 
+Steve Krug | [Rocket Surgery Made Easy: The Do-it-yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.co.uk/Rocket-Surgery-Made-Easy-yourself/dp/0321657292/) |
 Martina Schell, James O'Brien | [Communicating the UX Vision: 13 Anti-Patterns That Block Good Ideas](https://www.amazon.co.uk/Communicating-UX-Vision-Anti-Patterns-Block/dp/0124201970/) | Morgan Kaufmann
 Alexander Osterwalder, Yves Pigneur, Gregory Bernarda, Alan Smith, Trish Papadakos | [Value Proposition Design](https://www.amazon.co.uk/Value-Proposition-Design-Customers-Strategyzer-x/dp/1118968050/) | John Wiley & Sons
 Jon Kolko | [Thoughts on Interaction Design](https://www.amazon.co.uk/Thoughts-Interaction-Design-Jon-Kolko/dp/0123809304/) | Morgan Kaufmann
@@ -343,7 +344,7 @@ Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/Money-Master-Gam
 Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon.co.uk/dp/1471164934/) | Simon & Schuster UK
 Dan Meredith | [How To Be F-cking Awesome](https://www.amazon.co.uk/dp/178133188X/) | Rethink Press Limited
 Grant Cardone | [If You're Not First, You're Last](https://www.amazon.co.uk/Youre-Not-First-Last-Competition/dp/0470624353/) | John Wiley & Sons
-Grant Cardone | [SELL OR BE SOLD](https://www.amazon.co.uk/SELL-BE-SOLD-CARDONE-G/dp/1608322564/) | 
+Grant Cardone | [SELL OR BE SOLD](https://www.amazon.co.uk/SELL-BE-SOLD-CARDONE-G/dp/1608322564/) |
 Julian Baggini | [The Pig That Wants to be Eaten: And Ninety-Nine Other Thought Experiments](https://www.amazon.co.uk/dp/1847081282/) | Granta Books
 Mark Manson | [The Subtle Art of Not Giving a F-ck](https://www.amazon.co.uk/dp/0062457713/) | HarperOne
 Sarah Knight | [Get Your Sh-t Together](https://www.amazon.co.uk/dp/1786484080/) | Quercus
@@ -361,41 +362,41 @@ Dan Sullivan | [The Laws of Lifetime Growth: Always Make Your Future Bigger Than
 Natalie Goldberg | [Writing Down the Bones: Freeing the Writer Within](https://www.amazon.co.uk/dp/161180308X/) | Shambhala Publications
 Benjamin P Hardy | [How to Consciously Design Your Ideal Future](https://www.amazon.co.uk/dp/1530227410/) | CreateSpace
 Daniel H. Pink | [Drive](https://www.amazon.co.uk/Drive-Daniel-H-Pink/dp/184767769X/) | Canongate Books
-Carlo Rovelli | [Reality Is Not What It Seems: The Journey to Quantum Gravity](https://www.amazon.co.uk/Reality-Not-What-Seems-Journey/dp/0241257964/) | 
-Sir Roger Penrose | [The Road To Reality: A Complete Guide to the Laws of the Universe](https://www.amazon.co.uk/Road-Reality-Complete-Guide-Universe/dp/0099440687/) | 
-Noson S. Yanofsky | [The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us](https://www.amazon.co.uk/Outer-Limits-Reason-Science-Mathematics/dp/026252984X/) | 
-Matt Parker | [Things to Make and Do in the Fourth Dimension](https://www.amazon.co.uk/Things-Make-Do-Fourth-Dimension/dp/0141975865/) | 
-Dee Blick | [The Ultimate Small Business Marketing Book](https://www.amazon.co.uk/Ultimate-Small-Business-Marketing-Book/dp/1905493770/) | 
-Martin Amor | [The Idea in You: How to Find It, Build It, and Change Your Life](https://www.amazon.co.uk/Idea-You-Find-Build-Change/dp/024197139X/) | 
-DC Gause | [Are Your Lights On?: How to Figure Out What the Problem Really is](https://www.amazon.co.uk/d/Books/Your-Lights-How-Figure-What-Problem-Really/0932633161/) | 
-John Hands | [Cosmosapiens: Human Evolution from the Origin of the Universe](https://www.amazon.co.uk/Cosmosapiens-Human-Evolution-Origin-Universe/dp/0715651218/) | 
-Marshall Goldsmith | [Triggers: Sparking positive change and making it last](https://www.amazon.co.uk/d/Books/Triggers-Sparking-positive-change-making-Marshall-Goldsmith/1781252823/) | 
-Darren Hardy | [The Compound Effect](https://www.amazon.co.uk/Compound-Effect-Darren-Hardy/dp/159315724X/) | 
+Carlo Rovelli | [Reality Is Not What It Seems: The Journey to Quantum Gravity](https://www.amazon.co.uk/Reality-Not-What-Seems-Journey/dp/0241257964/) |
+Sir Roger Penrose | [The Road To Reality: A Complete Guide to the Laws of the Universe](https://www.amazon.co.uk/Road-Reality-Complete-Guide-Universe/dp/0099440687/) |
+Noson S. Yanofsky | [The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us](https://www.amazon.co.uk/Outer-Limits-Reason-Science-Mathematics/dp/026252984X/) |
+Matt Parker | [Things to Make and Do in the Fourth Dimension](https://www.amazon.co.uk/Things-Make-Do-Fourth-Dimension/dp/0141975865/) |
+Dee Blick | [The Ultimate Small Business Marketing Book](https://www.amazon.co.uk/Ultimate-Small-Business-Marketing-Book/dp/1905493770/) |
+Martin Amor | [The Idea in You: How to Find It, Build It, and Change Your Life](https://www.amazon.co.uk/Idea-You-Find-Build-Change/dp/024197139X/) |
+DC Gause | [Are Your Lights On?: How to Figure Out What the Problem Really is](https://www.amazon.co.uk/d/Books/Your-Lights-How-Figure-What-Problem-Really/0932633161/) |
+John Hands | [Cosmosapiens: Human Evolution from the Origin of the Universe](https://www.amazon.co.uk/Cosmosapiens-Human-Evolution-Origin-Universe/dp/0715651218/) |
+Marshall Goldsmith | [Triggers: Sparking positive change and making it last](https://www.amazon.co.uk/d/Books/Triggers-Sparking-positive-change-making-Marshall-Goldsmith/1781252823/) |
+Darren Hardy | [The Compound Effect](https://www.amazon.co.uk/Compound-Effect-Darren-Hardy/dp/159315724X/) |
 Douglas R. Hofstadter | [Godel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.co.uk/Godel-Escher-Bach-Eternal-Golden/dp/0465026567/) | Basic Books
-Chip Heath | [Made to Stick: Why some ideas take hold and others come unstuck](https://www.amazon.co.uk/Made-Stick-ideas-others-unstuck/dp/009950569X/) | 
+Chip Heath | [Made to Stick: Why some ideas take hold and others come unstuck](https://www.amazon.co.uk/Made-Stick-ideas-others-unstuck/dp/009950569X/) |
 Scott Adams | [How to Fail at Almost Everything and Still Win Big](https://www.amazon.co.uk/How-Fail-Almost-Everything-Still/dp/0241003709/) |
-Scott Adams | [God's Debris: A Thought Experiment](https://www.amazon.co.uk/Gods-Debris-Experiment-Scott-Adams/dp/0740747878/) | 
-James Altucher | [Choose Yourself!](https://www.amazon.co.uk/Choose-Yourself-James-Altucher/dp/1490313370/) | 
-Joseph O'Connor, John Seymour | [Introducing NLP Neuro-Linguistic Programming](https://www.amazon.co.uk/Introducing-Neuro-Linguistic-Programming-Joseph-OConnor/dp/1855383446/) | 
-Rollo Tomassi | [The Rational Male](https://www.amazon.co.uk/Rational-Male-Rollo-Tomassi/dp/1492777862/) | 
-Robert A. Glover | [No More Mr Nice Guy](https://www.amazon.co.uk/No-More-MR-Nice-Guy/dp/0762415339/) | 
-Jack Donovan | [Becoming a Barbarian](https://www.amazon.co.uk/Becoming-Barbarian-Jack-Donovan/dp/0985452358/) | 
-Jack Donovan | [The Way of Men](https://www.amazon.co.uk/Way-Men-Jack-Donovan/dp/0985452307/) | 
-David Deida | [Way of the Superior Man](https://www.amazon.co.uk/Way-Superior-Man-David-Deida/dp/1591792576/) | 
-Tim Ferriss | [The 4-Hour Work Week](https://www.amazon.co.uk/4-Hour-Work-Week-Escape-Anywhere/dp/0091929113/) | 
-Tim Ferriss | [The 4-Hour Body](https://www.amazon.co.uk/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0091939526/) | 
+Scott Adams | [God's Debris: A Thought Experiment](https://www.amazon.co.uk/Gods-Debris-Experiment-Scott-Adams/dp/0740747878/) |
+James Altucher | [Choose Yourself!](https://www.amazon.co.uk/Choose-Yourself-James-Altucher/dp/1490313370/) |
+Joseph O'Connor, John Seymour | [Introducing NLP Neuro-Linguistic Programming](https://www.amazon.co.uk/Introducing-Neuro-Linguistic-Programming-Joseph-OConnor/dp/1855383446/) |
+Rollo Tomassi | [The Rational Male](https://www.amazon.co.uk/Rational-Male-Rollo-Tomassi/dp/1492777862/) |
+Robert A. Glover | [No More Mr Nice Guy](https://www.amazon.co.uk/No-More-MR-Nice-Guy/dp/0762415339/) |
+Jack Donovan | [Becoming a Barbarian](https://www.amazon.co.uk/Becoming-Barbarian-Jack-Donovan/dp/0985452358/) |
+Jack Donovan | [The Way of Men](https://www.amazon.co.uk/Way-Men-Jack-Donovan/dp/0985452307/) |
+David Deida | [Way of the Superior Man](https://www.amazon.co.uk/Way-Superior-Man-David-Deida/dp/1591792576/) |
+Tim Ferriss | [The 4-Hour Work Week](https://www.amazon.co.uk/4-Hour-Work-Week-Escape-Anywhere/dp/0091929113/) |
+Tim Ferriss | [The 4-Hour Body](https://www.amazon.co.uk/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0091939526/) |
 Ryan Holiday | [Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising](https://www.amazon.co.uk/Growth-Hacker-Marketing-Primer-Advertising/dp/1781254362/) | Profile
 Greg McKeown | [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0753555166/) | Virgin Books
 Michael Hyatt | [Platform: Get Noticed in a Noisy World](https://www.amazon.co.uk/d/cka/Platform-Get-Noticed-Noisy-World-Michael-Hyatt/159555503X/) | Thomas Nelson
 Atul Gawande | [The Checklist Manifesto: How to Get Things Right](https://www.amazon.co.uk/d/Books/Checklist-Manifesto-How-Things-Right-Atul-Gawande/1846683149/) | Profile
-Perry Marshall | [80/20 Sales and Marketing](https://www.amazon.co.uk/d/cka/80-20-Sales-Marketing-Perry-Marshall/1599185059/) | 
+Perry Marshall | [80/20 Sales and Marketing](https://www.amazon.co.uk/d/cka/80-20-Sales-Marketing-Perry-Marshall/1599185059/) |
 Brian Tracy | [Eat That Frog!: Get More of the Important Things Done - Today!](https://www.amazon.co.uk/d/cka/Eat-That-Frog-More-Important-Things-Today/1444765426/) | Hodder Paperbacks
-Kevin Kelly | [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.amazon.co.uk/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089/) | 
+Kevin Kelly | [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.amazon.co.uk/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089/) |
 Steven Levy | [In The Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.amazon.co.uk/Plex-Google-Thinks-Works-Shapes/dp/1416596585/) | Simon & Schuster
 Kevin Warwick | [Artificial Intelligence: The Basics](https://www.amazon.co.uk/Artificial-Intelligence-Basics-Kevin-Warwick/dp/0415564832/) | Routledge
 Nick Bostrom | [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom-x/dp/0198739834/) | OUP Oxford
 Steven Levy | [Hackers: Heroes of the Computer Revolution](https://www.amazon.co.uk/d/Books/Hackers-Heroes-Computer-Revolution-25th-Anniversary-Steven/1449388396/) | O'Reilly
-Maxwell Maltz | [The New Psycho-Cybernetics](https://www.amazon.co.uk/New-Psycho-cybernetics-Original-Science-Self-Improvement/dp/0735202850/) | 
+Maxwell Maltz | [The New Psycho-Cybernetics](https://www.amazon.co.uk/New-Psycho-cybernetics-Original-Science-Self-Improvement/dp/0735202850/) |
 Raymond Kurzweil | [The Singularity is Near](https://www.amazon.co.uk/Singularity-Near-Raymond-Kurzweil/dp/0715635611/) | Gerald Duckworth & Co Ltd
 Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-Create-Mind-Ray-Kurzweil/0715647334/) | Gerald Duckworth & Co Ltd
 
@@ -412,7 +413,7 @@ David Adams, Steve Tiesdell | [Shaping Places: Urban Planning, Design and Develo
 Jordan Yin, W. Paul Farmer | [Urban Planning For Dummies](https://www.amazon.co.uk/Urban-Planning-Dummies-Jordan-Yin/dp/1118100239/) | John Wiley & Sons
 Michael Miller | [The Internet of Things](https://www.amazon.co.uk/Internet-Things-Smart-Cities-Changing/dp/0789754002) | QUE
 Tim Campbell | [Beyond Smart Cities: How Cities Network, Learn and Innovate](https://www.amazon.co.uk/Beyond-Smart-Cities-Network-Innovate/dp/1849714266/) | Routledge
-Alan R. Shark, Sylviane Toporkoff, Sebastien Levy | [Smart Cities for a Bright Sustainable Future - A Global Perspective](https://www.amazon.co.uk/Smart-Cities-Bright-Sustainable-Future/dp/1497339456/) | CreateSpace Independent Publishing Platform 
+Alan R. Shark, Sylviane Toporkoff, Sebastien Levy | [Smart Cities for a Bright Sustainable Future - A Global Perspective](https://www.amazon.co.uk/Smart-Cities-Bright-Sustainable-Future/dp/1497339456/) | CreateSpace Independent Publishing Platform
 Maria Sashinskaya | [Smart Cities in Europe: Open Data in a Smart Mobility context](https://www.amazon.co.uk/Smart-Cities-Europe-Mobility-context/dp/1522924892/) | CreateSpace Independent Publishing Platform
 Chirine Etezadzadeh | [Smart City - Future City?: Smart City 2.0 as a Livable City and Future Market](https://www.amazon.co.uk/Smart-City-Future-Livable-essentials/dp/3658110163/) | Springer Vieweg
 Houbing Song, Ravi Srinivasan, Tamim Sookoor, Sabina Jeschke | [Smart Cities: Foundations, Principles, and Applications](https://www.amazon.co.uk/Smart-Cities-Foundations-Principles-Applications/dp/1119226392) | Wiley-Blackwell
