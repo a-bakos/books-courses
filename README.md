@@ -107,6 +107,7 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Alan Forbes | [The Joy of Bootstrap](https://www.amazon.co.uk/gp/product/1522792813/) | CreateSpace
 Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
@@ -147,7 +148,6 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Alan Forbes | [The Joy of Bootstrap](https://www.amazon.co.uk/gp/product/1522792813/) | CreateSpace
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
 Lindsay Bassett | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.co.uk/gp/product/1491929480/) | O'Reilly
 
