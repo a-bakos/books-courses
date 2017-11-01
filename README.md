@@ -100,6 +100,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
 <a id="to_be_read"></a>
