@@ -213,6 +213,7 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Ian Sommerville | [Software Engineering, Global Edition](https://www.amazon.co.uk/dp/1292096136/) | Pearson
 Rachel Andrew | [The New CSS Layout](https://abookapart.com/products/the-new-css-layout) | A Book Apart
 Smashing WordPress | [Smashing WordPress](https://www.amazon.co.uk/Smashing-WordPress-Beyond-Blog-Magazine/dp/1119942713/) | John Wiley & Sons
 Davey Shafik | [PHP Pocket Reference: PHP in Your Pocket](https://www.amazon.co.uk/dp/1491969091/) | O'Reilly Media
