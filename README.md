@@ -213,6 +213,7 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Various authors | [Real-Life Responsive Web Design](https://shop.smashingmagazine.com/6824959/checkouts/45245d3cd372cad2215d6ae3d7b7ec0d) | Smashing Magazine
 Ian Sommerville | [Software Engineering, Global Edition](https://www.amazon.co.uk/dp/1292096136/) | Pearson
 Rachel Andrew | [The New CSS Layout](https://abookapart.com/products/the-new-css-layout) | A Book Apart
 Smashing WordPress | [Smashing WordPress](https://www.amazon.co.uk/Smashing-WordPress-Beyond-Blog-Magazine/dp/1119942713/) | John Wiley & Sons
