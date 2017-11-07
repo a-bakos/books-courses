@@ -31,6 +31,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+28 | Alan Forbes | [The Joy of Bootstrap](https://www.amazon.co.uk/gp/product/1522792813/) | CreateSpace
 27 | Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine
 26 | Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
 25 | Heydon Pickering | [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) | Smashing Magazine
@@ -110,7 +111,6 @@ Author | Title | Publisher
 ------ | ----- | ---------
 Lindsay Bassett | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.co.uk/gp/product/1491929480/) | O'Reilly
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
-Alan Forbes | [The Joy of Bootstrap](https://www.amazon.co.uk/gp/product/1522792813/) | CreateSpace
 Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
