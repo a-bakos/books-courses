@@ -31,6 +31,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+27 | Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine
 26 | Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
 25 | Heydon Pickering | [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) | Smashing Magazine
 24 | Jules Goddard, Tony Eccles | [Uncommon Sense, Common Nonsense: Why Some Organisations Consistently Outperform Others](https://www.amazon.co.uk/Uncommon-Sense-Common-Nonsense-Organisations/dp/1846686024/) | Profile Books
@@ -100,7 +101,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
 <a id="to_be_read"></a>
