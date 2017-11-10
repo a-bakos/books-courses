@@ -163,6 +163,7 @@ none atm | |
 
 Author | Title | Publisher
 ------ | ----- | ---------
+John Resig | [Secrets of the JavaScript Ninja](https://www.amazon.co.uk/dp/1617292850/) | Manning Publications
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 Andrea Giammarchi | [JavaScript glossary on demand](https://www.amazon.co.uk/dp/1326576720/) | lulu.com
 Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
@@ -189,6 +190,7 @@ Cody Lindley | [jQuery Cookbook](https://www.amazon.co.uk/dp/0596159773/) |  O'R
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Azat Mardan | [React Quickly](https://www.amazon.co.uk/dp/1617293342/) | Manning Publications
 Alex Banks, Eve Porcello | [Learning React: Functional Web Development with React and Flux](https://www.amazon.co.uk/dp/1491954620/) | O'Reilly
 Vasan Subramanian | [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node](https://www.amazon.co.uk/dp/1484226526/) | Apress
 Michele Bertoli | [React Design Patterns and Best Practices](https://www.amazon.co.uk/dp/1786464535/) | Packt Publishing
@@ -213,6 +215,7 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Thomas Connolly, Carolyn Begg | [Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition](https://www.amazon.co.uk/dp/1292061189/) | Pearson
 Various authors | [Real-Life Responsive Web Design](https://shop.smashingmagazine.com/6824959/checkouts/45245d3cd372cad2215d6ae3d7b7ec0d) | Smashing Magazine
 Ian Sommerville | [Software Engineering, Global Edition](https://www.amazon.co.uk/dp/1292096136/) | Pearson
 Rachel Andrew | [The New CSS Layout](https://abookapart.com/products/the-new-css-layout) | A Book Apart
@@ -277,6 +280,8 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+John Maeda | [The Laws of Simplicity (Simplicity: Design, Technology, Business, Life)](https://www.amazon.co.uk/dp/0262134721/) | MIT Press
+Shane Seminole Mielke | [Launch It: 300+ things I've learned as a Designer, Developer and Creative Director. A handbook for digital creatives.](https://www.amazon.co.uk/dp/1541302486/) | CreateSpace
 Paul Boag | [User Experience Revolution](https://shop.smashingmagazine.com/products/user-experience-revolution) | Smashing Magazine
 Laura Kalbag | [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) | A Book Apart
 Jono Yuen | [FUI: How to Design User Interfaces for Film and Games](https://www.amazon.co.uk/dp/1975795121/) | CreateSpace
