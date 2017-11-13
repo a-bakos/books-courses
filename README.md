@@ -280,6 +280,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Alina Wheeler, Debbie Millman | [Designing Brand Identity: An Essential Guide for the Whole Branding Team](https://www.amazon.co.uk/dp/1118980824/) | John Wiley & Sons
 John Maeda | [The Laws of Simplicity (Simplicity: Design, Technology, Business, Life)](https://www.amazon.co.uk/dp/0262134721/) | MIT Press
 Shane Seminole Mielke | [Launch It: 300+ things I've learned as a Designer, Developer and Creative Director. A handbook for digital creatives.](https://www.amazon.co.uk/dp/1541302486/) | CreateSpace
 Laura Kalbag | [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) | A Book Apart
