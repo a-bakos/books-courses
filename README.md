@@ -31,6 +31,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+29 | Lindsay Bassett | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.co.uk/gp/product/1491929480/) | O'Reilly
 28 | Alan Forbes | [The Joy of Bootstrap](https://www.amazon.co.uk/gp/product/1522792813/) | CreateSpace
 27 | Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine
 26 | Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
@@ -102,7 +103,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Lindsay Bassett | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.co.uk/gp/product/1491929480/) | O'Reilly
+Thord Daniel Hedengren | [Smashing WordPress](https://www.amazon.co.uk/Smashing-WordPress-Beyond-Blog-Magazine/dp/1119942713/) | John Wiley & Sons
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
 <a id="to_be_read"></a>
@@ -110,7 +111,6 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Thord Daniel Hedengren | [Smashing WordPress](https://www.amazon.co.uk/Smashing-WordPress-Beyond-Blog-Magazine/dp/1119942713/) | John Wiley & Sons
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
 Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
