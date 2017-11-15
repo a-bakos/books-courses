@@ -251,7 +251,6 @@ Hampton Lintorn Catlin, Michael Lintorn Catlin | [Pragmatic Guide to Sass 3](htt
 Cory Berg | [Software++: Must-Have Skills For Software Engineers](https://www.amazon.co.uk/Software-Must-Have-Skills-Engineers-x/dp/1514629348/) | CreateSpace
 Glenford J. Myers, Corey Sandler, Tom Badgett | [The Art of Software Testing](https://www.amazon.co.uk/Art-Software-Testing-Glenford-Myers/dp/1118031962/) | John Wiley & Sons
 David West | [Object Thinking](https://www.amazon.co.uk/d/Books/Thinking-Developer-Reference-DV-Microsoft-Professional/0735619654/) | Microsoft Press
-Elliotte Rusty Harold, W. Scott Means | [XML in a Nutshell](https://www.amazon.co.uk/Nutshell-OReilly-Elliotte-Rusty-Harold/dp/0596007647/) | O'Reilly
 Joshua Kerievsky | [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/) | Addison Wesley
 Erich Gamma, Richard Helm, Ralph Johnson  | [Design patterns: elements of reusable object-oriented software](https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented-x/dp/0201633612/) |
 T Cormen, C Leiserson, R Rivest | [Introduction to Algorithms](https://www.amazon.co.uk/Introduction-Algorithms-T-Cormen/dp/0262533057/) |
