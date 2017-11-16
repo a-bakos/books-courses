@@ -216,6 +216,7 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Chris Coyier | [Practical SVG](https://abookapart.com/products/practical-svg) | A Book Apart
 Thomas Connolly, Carolyn Begg | [Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition](https://www.amazon.co.uk/dp/1292061189/) | Pearson
 Various authors | [Real-Life Responsive Web Design](https://shop.smashingmagazine.com/6824959/checkouts/45245d3cd372cad2215d6ae3d7b7ec0d) | Smashing Magazine
 Ian Sommerville | [Software Engineering, Global Edition](https://www.amazon.co.uk/dp/1292096136/) | Pearson
