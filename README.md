@@ -152,7 +152,8 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | |
+Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness
+David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/1449397220/) | O'Reilly
 
 ---
 
@@ -183,7 +184,6 @@ David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of J
 Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript-Allongé-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/) *Only kindle edition* | Justin Kelly
 Earle Castledine, Craig Sharkie | [jQuery: Novice to Ninja](https://www.amazon.co.uk/jQuery-Novice-Ninja-Earle-Castledine/dp/0987153013/) | SitePoint
 David Flanagan | [JavaScript Pocket Reference](https://www.amazon.co.uk/dp/1449316859/) | O'Reilly
-David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/1449397220/) | O'Reilly
 Cody Lindley | [jQuery Cookbook](https://www.amazon.co.uk/dp/0596159773/) |  O'Reilly
 
 <a id="wishlist_js_react"></a>
@@ -360,7 +360,6 @@ Julian Baggini | [The Pig That Wants to be Eaten: And Ninety-Nine Other Thought 
 Mark Manson | [The Subtle Art of Not Giving a F-ck](https://www.amazon.co.uk/dp/0062457713/) | HarperOne
 Sarah Knight | [Get Your Sh-t Together](https://www.amazon.co.uk/dp/1786484080/) | Quercus
 Sarah Knight | [The Life-Changing Magic of Not Giving a F--k](https://www.amazon.co.uk/dp/1784298468/) | Quercus
-Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness
 Joseph Murphy | [The Power of Your Subconscious Mind](https://www.amazon.co.uk/dp/0735204551/) | Penguin
 Dan Ariely | [Behavioural Economics Saved My Dog: Life Advice For The Imperfect Human](https://www.amazon.co.uk/Behavioural-Economics-Saved-Dog-Imperfect/dp/1780748175/) | Oneworld Publications
 Dan Ariely | [The Upside of Irrationality](https://www.amazon.co.uk/Upside-Irrationality-Dan-Ariely/dp/0007354789/) | Harper
