@@ -104,6 +104,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness
 Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
@@ -112,7 +113,7 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness
+David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/1449397220/) | O'Reilly
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
@@ -154,7 +155,6 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 Author | Title | Publisher
 ------ | ----- | ---------
 Chris Coyier | [Practical SVG](https://abookapart.com/products/practical-svg) | A Book Apart
-David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/1449397220/) | O'Reilly
 
 ---
 
