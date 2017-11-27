@@ -166,6 +166,7 @@ Chris Coyier | [Practical SVG](https://abookapart.com/products/practical-svg) | 
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Nicholas C. Zakas | [High Performance JavaScript](https://www.amazon.co.uk/dp/B00M0N701W/) | O'Reilly
 John Resig | [Secrets of the JavaScript Ninja](https://www.amazon.co.uk/dp/1617292850/) | Manning Publications
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 Andrea Giammarchi | [JavaScript glossary on demand](https://www.amazon.co.uk/dp/1326576720/) | lulu.com
@@ -308,6 +309,7 @@ William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, 
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Dan Ariely | [Dollars and Sense: Money Mishaps and How to Avoid Them](https://www.amazon.co.uk/dp/1509864652/) | Bluebird
 Nir Eyal, Ryan Hoover | [Hooked: A Guide to Building Habit-Forming Products](https://www.amazon.co.uk/Hooked-Guide-Building-Habit-Forming-Products/dp/1494277530) | CreateSpace
 Benjamin Hardy | [The Proximity Effect](https://www.amazon.co.uk/Proximity-Effect-Change-Your-Environment/dp/0349417938/) | Piatkus
 Prof Chris Bailey | [The Productivity Project](https://www.amazon.co.uk/dp/1101904054/) | Crown Business
