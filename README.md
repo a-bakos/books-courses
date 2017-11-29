@@ -418,6 +418,7 @@ Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-C
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Laurie Winkless | [Science and the City: The Mechanics Behind the Metropolis](https://www.amazon.co.uk/dp/147291323X/) | Bloomsbury Sigma
 Michael Burayidi | [Cities and the Politics of Difference](https://www.amazon.co.uk/Cities-Politics-Difference-Multiculturalism-Diversity/dp/1442616156/) | University of Toronto Press
 Loretta Lees, Hyun Bang Shin, Ernesto López-Morales | [Planetary Gentrification](https://www.amazon.co.uk/Planetary-Gentrification-Polity-Urban-Futures/dp/0745671659/) | Polity Press
 Ash Amin, Nigel Thrift | [Seeing Like a City](https://www.amazon.co.uk/Seeing-Like-City-Ash-Amin/dp/0745664261/) | Polity Press
