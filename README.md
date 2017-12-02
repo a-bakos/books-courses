@@ -305,10 +305,12 @@ William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, 
 
 
 <a id="wishlist_others"></a>
-### Business, soft-skills, productivity, psychology, infrastructure, etc.
+### Business, soft-skills, productivity, psychology, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+DK | [How Money Works: The Facts Visually Explained](https://www.amazon.co.uk/dp/024122599X/) | DK
+Dr. Stuart Farrimond | [The Science of Cooking: Every question answered to give you the edge](https://www.amazon.co.uk/dp/0241229782/) | DK
 Dan Ariely | [Dollars and Sense: Money Mishaps and How to Avoid Them](https://www.amazon.co.uk/dp/1509864652/) | Bluebird
 Nir Eyal, Ryan Hoover | [Hooked: A Guide to Building Habit-Forming Products](https://www.amazon.co.uk/Hooked-Guide-Building-Habit-Forming-Products/dp/1494277530) | CreateSpace
 Benjamin Hardy | [The Proximity Effect](https://www.amazon.co.uk/Proximity-Effect-Change-Your-Environment/dp/0349417938/) | Piatkus
