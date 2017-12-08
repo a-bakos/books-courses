@@ -113,6 +113,7 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Chris Coyier | [Practical SVG](https://abookapart.com/products/practical-svg) | A Book Apart
 David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/1449397220/) | O'Reilly
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
@@ -154,7 +155,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Chris Coyier | [Practical SVG](https://abookapart.com/products/practical-svg) | A Book Apart
+none atm | | 
 
 ---
 
