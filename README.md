@@ -114,6 +114,8 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Tony Buzan | [Speed Reading](https://www.amazon.co.uk/SPEED-READING-Author-21-2006-Paperback/dp/B00I6Z0CAY/) | 
+Marion Field | [Improve Your Written English](https://www.amazon.co.uk/Improve-Your-Written-English-Punctuation/dp/1845283317) | How to books
 David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/1449397220/) | O'Reilly
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
