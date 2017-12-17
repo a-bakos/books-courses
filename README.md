@@ -31,6 +31,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+33 | Chris Coyier | [Practical SVG](https://abookapart.com/products/practical-svg) | A Book Apart
 32 | Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness
 31 | Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
 30 | Thord Daniel Hedengren | [Smashing WordPress](https://www.amazon.co.uk/Smashing-WordPress-Beyond-Blog-Magazine/dp/1119942713/) | John Wiley & Sons
@@ -106,7 +107,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Chris Coyier | [Practical SVG](https://abookapart.com/products/practical-svg) | A Book Apart
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
 <a id="to_be_read"></a>
