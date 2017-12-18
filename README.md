@@ -197,6 +197,7 @@ Cody Lindley | [jQuery Cookbook](https://www.amazon.co.uk/dp/0596159773/) |  O'R
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Artemij Fedosejev, Adam Boduch | [React 16 Essentials](https://www.amazon.co.uk/dp/1787126048/) | Packt Publishing
 Mark Tielens Thomas | [React in Action](https://www.amazon.co.uk/React-Action-Mark-Tielens-Thomas/dp/1617293857/) | Manning
 Azat Mardan | [React Quickly](https://www.amazon.co.uk/dp/1617293342/) | Manning Publications
 Alex Banks, Eve Porcello | [Learning React: Functional Web Development with React and Flux](https://www.amazon.co.uk/dp/1491954620/) | O'Reilly
@@ -212,6 +213,7 @@ Eric Masiello, Jacob Friedmann | [Mastering React Native](https://www.amazon.co.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Azat Mardan | [Practical Node.js](https://www.amazon.co.uk/Practical-Node-js-Building-Real-World-Scalable/dp/1430265957/) | Apress
 Guillermo Rauch | [Smashing Node.Js: JavaScript Everywhere](https://www.amazon.co.uk/Smashing-Node-Js-JavaScript-Everywhere-Magazine/dp/1119962595/) | John Wiley & Sons
 David Herron | [Node.js Web Development - Third Edition](https://www.amazon.co.uk/dp/1785881507) | Packt Publishing
 Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/) | The Pragmatic Bookshelf
