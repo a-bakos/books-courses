@@ -197,13 +197,13 @@ Cody Lindley | [jQuery Cookbook](https://www.amazon.co.uk/dp/0596159773/) |  O'R
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Mark Tielens Thomas | [React in Action](https://www.amazon.co.uk/React-Action-Mark-Tielens-Thomas/dp/1617293857/) | Manning
 Azat Mardan | [React Quickly](https://www.amazon.co.uk/dp/1617293342/) | Manning Publications
 Alex Banks, Eve Porcello | [Learning React: Functional Web Development with React and Flux](https://www.amazon.co.uk/dp/1491954620/) | O'Reilly
 Vasan Subramanian | [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node](https://www.amazon.co.uk/dp/1484226526/) | Apress
 Michele Bertoli | [React Design Patterns and Best Practices](https://www.amazon.co.uk/dp/1786464535/) | Packt Publishing
 Adam Boduch | [React and React Native](https://www.amazon.co.uk/dp/1786465655/) | Packt Publishing
 Bonnie Eisenman | [Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.co.uk/Learning-React-Native-Building-JavaScript/dp/1491929006) | O'Reilly Media
-Stoyan Stefanov | [React: Up & Running: Building Web Applications](https://www.amazon.co.uk/React-Running-Building-Web-Applications/dp/1491931825) | O'Reilly Media
 Cassio de Sousa Antonio | [Pro React](https://www.amazon.co.uk/d/Books/Pro-React-Cassio-Sousa-Antonio/1484212614/) | Apress
 Eric Masiello, Jacob Friedmann | [Mastering React Native](https://www.amazon.co.uk/d/cka/Mastering-React-Native-Eric-Masiello/1785885782) | Packt Publishing
 
