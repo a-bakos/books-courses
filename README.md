@@ -214,7 +214,6 @@ Eric Masiello, Jacob Friedmann | [Mastering React Native](https://www.amazon.co.
 Author | Title | Publisher
 ------ | ----- | ---------
 Azat Mardan | [Practical Node.js](https://www.amazon.co.uk/Practical-Node-js-Building-Real-World-Scalable/dp/1430265957/) | Apress
-Guillermo Rauch | [Smashing Node.Js: JavaScript Everywhere](https://www.amazon.co.uk/Smashing-Node-Js-JavaScript-Everywhere-Magazine/dp/1119962595/) | John Wiley & Sons
 David Herron | [Node.js Web Development - Third Edition](https://www.amazon.co.uk/dp/1785881507) | Packt Publishing
 Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/) | The Pragmatic Bookshelf
 Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action - second edition](https://www.amazon.co.uk/Node-js-Action-Second-Mike-Cantelon/dp/1617292575/) | Manning Publications
