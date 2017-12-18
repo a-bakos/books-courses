@@ -157,6 +157,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 
 ---
@@ -236,7 +237,6 @@ Brad Williams, Ozh Richard, Justin Tadlock | [Professional WordPress Plugin Deve
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
 Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://www.amazon.co.uk/d/Books/Code-Simplicity-Fundamentals-Software-Max-Kanat-Alexander/1449313892/) | O'Reilly Media
-Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Andy Budd, Emil Björklund | [CSS Mastery](https://www.amazon.co.uk/d/Books/CSS-Mastery-Andy-Budd/1430258632/) | Apress
 Ian Miell, Aidan Hobson Sayers | [Docker in Practice](https://www.amazon.co.uk/dp/1617292729/) | Manning Publications
 Jeff Nickoloff | [Docker in Action](https://www.amazon.co.uk/Docker-Action-Jeff-Nickoloff/dp/1633430235/) |
