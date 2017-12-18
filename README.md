@@ -221,6 +221,7 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Scott Jehl | [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design) | A Book Apart
 Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/dp/1484219953/) | Apress
 Josh Clark | [Designing For Touch](https://abookapart.com/products/designing-for-touch) | A Book Apart
