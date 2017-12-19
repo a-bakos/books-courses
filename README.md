@@ -157,6 +157,7 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Perry Marshall | [80/20 Sales and Marketing](https://www.amazon.co.uk/d/cka/80-20-Sales-Marketing-Perry-Marshall/1599185059/) |
 Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 
@@ -411,8 +412,7 @@ Ryan Holiday | [Growth Hacker Marketing: A Primer on the Future of PR, Marketing
 Greg McKeown | [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0753555166/) | Virgin Books
 Michael Hyatt | [Platform: Get Noticed in a Noisy World](https://www.amazon.co.uk/d/cka/Platform-Get-Noticed-Noisy-World-Michael-Hyatt/159555503X/) | Thomas Nelson
 Atul Gawande | [The Checklist Manifesto: How to Get Things Right](https://www.amazon.co.uk/d/Books/Checklist-Manifesto-How-Things-Right-Atul-Gawande/1846683149/) | Profile
-Perry Marshall | [80/20 Sales and Marketing](https://www.amazon.co.uk/d/cka/80-20-Sales-Marketing-Perry-Marshall/1599185059/) |
-Brian Tracy | [Eat That Frog!: Get More of the Important Things Done - Today!](https://www.amazon.co.uk/d/cka/Eat-That-Frog-More-Important-Things-Today/1444765426/) | Hodder Paperbacks
+Brian Tracy | [Eat That Frog! Get More of the Important Things Done - Today!](https://www.amazon.co.uk/d/cka/Eat-That-Frog-More-Important-Things-Today/1444765426/) | Hodder Paperbacks
 Kevin Kelly | [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.amazon.co.uk/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089/) |
 Steven Levy | [In The Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.amazon.co.uk/Plex-Google-Thinks-Works-Shapes/dp/1416596585/) | Simon & Schuster
 Kevin Warwick | [Artificial Intelligence: The Basics](https://www.amazon.co.uk/Artificial-Intelligence-Basics-Kevin-Warwick/dp/0415564832/) | Routledge
