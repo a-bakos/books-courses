@@ -108,6 +108,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Perry Marshall | [80/20 Sales and Marketing](https://www.amazon.co.uk/d/cka/80-20-Sales-Marketing-Perry-Marshall/1599185059/) |
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
 <a id="to_be_read"></a>
@@ -115,7 +116,6 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Perry Marshall | [80/20 Sales and Marketing](https://www.amazon.co.uk/d/cka/80-20-Sales-Marketing-Perry-Marshall/1599185059/) |
 Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Tony Buzan | [Speed Reading](https://www.amazon.co.uk/SPEED-READING-Author-21-2006-Paperback/dp/B00I6Z0CAY/) | 
 Marion Field | [Improve Your Written English](https://www.amazon.co.uk/Improve-Your-Written-English-Punctuation/dp/1845283317) | How to books
