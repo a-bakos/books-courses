@@ -109,6 +109,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
 <a id="to_be_read"></a>
@@ -117,7 +118,6 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 Author | Title | Publisher
 ------ | ----- | ---------
 Kepes András | Világkép | Libri
-Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Tony Buzan | [Speed Reading](https://www.amazon.co.uk/SPEED-READING-Author-21-2006-Paperback/dp/B00I6Z0CAY/) | 
 Marion Field | [Improve Your Written English](https://www.amazon.co.uk/Improve-Your-Written-English-Punctuation/dp/1845283317) | How to books
