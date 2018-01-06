@@ -5,6 +5,7 @@ Technical, non-fiction, self-growth, business (+1 fiction).
 Reading list properly tracked from 2016.
 
 + [Read](#read)
+   + [In 2018](#read_2018)
    + [In 2017](#read_2017)
    + [In 2016](#read_2016)
    + [before 2016 _incomplete_](#before_2016)
@@ -25,6 +26,13 @@ Reading list properly tracked from 2016.
 
 <a id="read"></a>
 ## Finished reading
+
+<a id="read_2018"></a>
+#### In 2018
+
+\# | Author | Title | Publisher
+-- | ------ | ----- | ---------
+Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 
 <a id="read_2017"></a>
 #### In 2017
@@ -109,7 +117,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
 <a id="to_be_read"></a>
