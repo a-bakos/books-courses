@@ -151,18 +151,6 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 ---
 
-<a id="put_aside"></a>
-### Put aside, lost, etc.
-
-Author | Title | Publisher
------- | ----- | ---------
-~~Adobe Creative Team~~ | ~~[Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/)~~ | ~~Adobe~~
-Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
-Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
-Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press
-
----
-
 <a id="on_the_way"></a>
 ### On the way...
 
@@ -479,6 +467,18 @@ Brian Hayes | [Infrastructure - A Guide to the Industrial Landscape](https://www
 Ryan Gravel | [Where We Want to Live: Reclaiming Infrastructure for a New Generation of Cities](https://www.amazon.co.uk/Where-Want-Live-Reclaiming-Infrastructure/dp/1250078253/) | St. Martin's Press
 Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
 Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112708/) | The Penguin Press
+
+---
+
+<a id="put_aside"></a>
+### Put aside, lost, etc.
+
+Author | Title | Publisher
+------ | ----- | ---------
+~~Adobe Creative Team~~ | ~~[Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/)~~ | ~~Adobe~~
+Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
+Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
+Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press
 
 ---
 
