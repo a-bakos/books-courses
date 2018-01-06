@@ -32,7 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
-Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
+01 | Robert C. Martin | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall
 
 <a id="read_2017"></a>
 #### In 2017
@@ -168,7 +168,9 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+Brad Williams, Ozh Richard, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/0470916222/) | Wrox
+Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
+Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 
 ---
 
@@ -244,7 +246,6 @@ Rachel Andrew | [The New CSS Layout](https://abookapart.com/products/the-new-css
 Davey Shafik | [PHP Pocket Reference: PHP in Your Pocket](https://www.amazon.co.uk/dp/1491969091/) | O'Reilly Media
 Josh Lockhart | [Modern PHP: New Features and Good Practices](https://www.amazon.co.uk/dp/1491905018/) | O'Reilly Media
 David Sklar, Adam Trachtenberg | [PHP Cookbook: Solutions & Examples for PHP Programmers](https://www.amazon.co.uk/dp/144936375X/) | O'Reilly Media
-Brad Williams, Ozh Richard, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/0470916222/) | Wrox
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
 Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://www.amazon.co.uk/d/Books/Code-Simplicity-Fundamentals-Software-Max-Kanat-Alexander/1449313892/) | O'Reilly Media
@@ -347,7 +348,6 @@ David Allen | [Getting Things Done: The Art of Stress-free Productivity](https:/
 Garr Reynolds | [Presentation Zen: Simple Ideas on Presentation Design and Delivery](https://www.amazon.co.uk/dp/0321811984/) | New Riders
 Olivia Fox Cabane | [The Charisma Myth: Master the Art of Personal Magnetism](https://www.amazon.co.uk/dp/0670922870/) | Portfolio Penguin
 Charles Duhigg | [The Power of Habit: Why We Do What We Do, and How to Change](https://www.amazon.co.uk/dp/1847946240/) | Random House Books
-Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
 Gary Klein | [Seeing What Others Don't: The Remarkable Ways We Gain Insights](https://www.amazon.co.uk/dp/185788678X/) | Nicholas Brealey Publishing
 Charles Seife | [Zero: The Biography of a Dangerous Idea](https://www.amazon.co.uk/d/cka/Zero-Biography-Dangerous-Idea-Charles-Seife/0285635948/) | Souvenir Press Ltd
 Rob Eastaway, Jeremy Wyndham | [Why Do Buses Come in Threes?: The Hidden Maths of Everyday Life](https://www.amazon.co.uk/Why-Buses-Come-Threes-Mathematics/dp/1861058624/) | Robson Books Ltd
