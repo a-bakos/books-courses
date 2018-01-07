@@ -223,6 +223,7 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action 
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fifth Edition)](https://www.amazon.co.uk/dp/0134301846/) | Peachpit Press
 Scott Jehl | [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design) | A Book Apart
 Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/dp/1484219953/) | Apress
@@ -311,10 +312,16 @@ William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, 
 
 
 <a id="wishlist_others"></a>
-### Business, soft-skills, productivity, psychology, etc.
+### Business, soft-skills, productivity, psychology, other
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Daniel Levitin | [The World in Six Songs: How the Musical Brain Created Human Nature](https://www.amazon.co.uk/dp/1845135172/) | Aurum Press
+Sandro Mancuso | [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.co.uk/dp/0134052501/) | Prentice Hall
+Mike Cohn | [Agile Estimating and Planning](https://www.amazon.co.uk/dp/0131479415/) | Prentice Hall
+Michael T Nygard | [Release It! Design and Deploy Production-Ready Software](https://www.amazon.co.uk/dp/1680502395/) | Pragmatic Bookshelf
+Micahel Keeling | [Design It!](https://www.amazon.co.uk/dp/1680502093/) | Pragmatic Bookshelf
+Peter C. Brown, Henry L. Roediger, Mark A. Mcdaniel | [Make It Stick: The Science of Successful Learning](https://www.amazon.co.uk/dp/0674729013/) | Harvard University Press
 DK | [How Money Works: The Facts Visually Explained](https://www.amazon.co.uk/dp/024122599X/) | DK
 Dr. Stuart Farrimond | [The Science of Cooking: Every question answered to give you the edge](https://www.amazon.co.uk/dp/0241229782/) | DK
 Dan Ariely | [Dollars and Sense: Money Mishaps and How to Avoid Them](https://www.amazon.co.uk/dp/1509864652/) | Bluebird
