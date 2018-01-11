@@ -117,6 +117,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
 Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
@@ -157,7 +158,6 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 Author | Title | Publisher
 ------ | ----- | ---------
 Brad Williams, Ozh Richard, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/0470916222/) | Wrox
-Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 
 ---
