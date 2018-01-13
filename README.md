@@ -480,7 +480,7 @@ Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112
 ---
 
 <a id="put_aside"></a>
-### Put aside, lost, etc.
+### Put aside, lost, uninteresting, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
