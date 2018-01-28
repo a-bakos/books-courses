@@ -319,6 +319,7 @@ William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, 
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Mike Byster | [The Power of Forgetting](https://www.amazon.co.uk/dp/0307985873/) | Harmony Books
 Phil M. Jones | [Exactly What to Say: The Magic Words for Influence and Impact](https://www.amazon.co.uk/gp/product/0692881956) | Box of Tricks Publishing
 David J Schwartz | [The Magic of Thinking Big](https://www.amazon.co.uk/gp/product/1785040472/) | Vermilion
 Daniel Levitin | [The World in Six Songs: How the Musical Brain Created Human Nature](https://www.amazon.co.uk/dp/1845135172/) | Aurum Press
