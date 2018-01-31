@@ -159,7 +159,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+David Allen | [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349408947/) | Piatkus
 
 ---
 
@@ -345,7 +345,6 @@ Jim Lindsley | [How to be Wise](https://www.amazon.co.uk/How-Wise-Dealing-Comple
 Brian Christian, Tom Griffiths | [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/0007547994/) | William Collins
 Jeff Goins | [Real Artists Don't Starve](https://www.amazon.co.uk/Real-Artists-Dont-Starve-Goins/dp/0718098927/) | Thomas Nelson
 Daniel Levitin | [The Organized Mind: Thinking Straight in the Age of Information Overload](https://www.amazon.co.uk/dp/0241965780/) | Penguin
-David Allen | [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349408947/) | Piatkus
 Garr Reynolds | [Presentation Zen: Simple Ideas on Presentation Design and Delivery](https://www.amazon.co.uk/dp/0321811984/) | New Riders
 Olivia Fox Cabane | [The Charisma Myth: Master the Art of Personal Magnetism](https://www.amazon.co.uk/dp/0670922870/) | Portfolio Penguin
 Charles Duhigg | [The Power of Habit: Why We Do What We Do, and How to Change](https://www.amazon.co.uk/dp/1847946240/) | Random House Books
