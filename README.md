@@ -127,6 +127,7 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher
 ------ | ----- | ---------
+David Allen | [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349408947/) | Piatkus
 Michael J. Gelb | [How to Think Like Leonardo Da Vinci: Seven Steps to Genius Every Day](https://www.amazon.co.uk/How-Think-Like-Leonardo-Vinci/dp/0440508274/) | Dell Publishing
 Brad Williams, Ozh Richard, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/0470916222/) | Wrox
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
@@ -160,7 +161,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-David Allen | [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349408947/) | Piatkus
+none atm | | 
 
 ---
 
