@@ -321,6 +321,9 @@ William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, 
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Jordan B. Peterson | [12 Rules for Life: An Antidote to Chaos](https://www.amazon.co.uk/12-Rules-Life-Antidote-Chaos/dp/0241351634/) | Allen Lane
+Ian Gibbs | [The Sorites Principle: How to harness the power of perseverance](https://www.amazon.co.uk/dp/8494521349/) | Guid Publications
+Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books
 Mike Byster | [The Power of Forgetting](https://www.amazon.co.uk/dp/0307985873/) | Harmony Books
 Phil M. Jones | [Exactly What to Say: The Magic Words for Influence and Impact](https://www.amazon.co.uk/gp/product/0692881956) | Box of Tricks Publishing
 David J Schwartz | [The Magic of Thinking Big](https://www.amazon.co.uk/gp/product/1785040472/) | Vermilion
