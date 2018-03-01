@@ -485,6 +485,10 @@ Ryan Gravel | [Where We Want to Live: Reclaiming Infrastructure for a New Genera
 Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
 Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112708/) | The Penguin Press
 
+### IoT
+
+Alasdair Gilchrist | [Industry 4.0: The Industrial Internet of Things](https://www.amazon.co.uk/gp/product/1484220463/) | Apress
+
 ---
 
 <a id="put_aside"></a>
