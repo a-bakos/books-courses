@@ -488,6 +488,7 @@ Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112
 ### IoT
 
 Alasdair Gilchrist | [Industry 4.0: The Industrial Internet of Things](https://www.amazon.co.uk/gp/product/1484220463/) | Apress
+Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light, Alfred Lui | [Designing Connected Products: UX for the Consumer Internet of Things](https://www.amazon.co.uk/gp/product/1449372562) | O'Reilly
 
 ---
 
