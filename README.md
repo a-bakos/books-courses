@@ -485,10 +485,16 @@ Ryan Gravel | [Where We Want to Live: Reclaiming Infrastructure for a New Genera
 Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
 Kate Ascher | [The Works: Anatomy of a City](https://www.amazon.co.uk/dp/0143112708/) | The Penguin Press
 
+---
+
+<a id="iot"></a>
 ### IoT
 
+Author | Title | Publisher
+------ | ----- | ---------
 Alasdair Gilchrist | [Industry 4.0: The Industrial Internet of Things](https://www.amazon.co.uk/gp/product/1484220463/) | Apress
 Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light, Alfred Lui | [Designing Connected Products: UX for the Consumer Internet of Things](https://www.amazon.co.uk/gp/product/1449372562) | O'Reilly
+
 
 ---
 
