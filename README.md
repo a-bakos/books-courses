@@ -127,6 +127,7 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher0
 ------ | ----- | ---------
+Tim Ferriss | [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.co.uk/Tools-Titans-Billionaires-World-Class-Performers/dp/1785041274/) | Vermilion
 Tom Standage | [The Mechanical Turk: The True Story of the Chess-Playing Machine That Fooled the World](https://www.amazon.co.uk/Mechanical-Turk-Chess-Playing-Machine-Fooled/dp/0713995254/) | Allen Lane
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
 Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
@@ -154,6 +155,7 @@ Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/
 Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/0007320760/) | Harper Element
 Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/) | Harper Perennial
 Richard Reeves, John Knell | [The 80 Minute MBA](https://www.amazon.co.uk/80-Minute-MBA-Everything-2009-03-05/dp/B019TLJD62/) | Business Plus
+Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co.uk/Digital-Ideas-Really-Need-Know/dp/0857385461/) | Quercus
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 
 ---
