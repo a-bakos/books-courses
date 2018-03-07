@@ -297,6 +297,7 @@ Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Desig
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Adam Connor, Aaron Irizarr | [Discussing Design](https://www.amazon.co.uk/Discussing-Design-Improving-Communication-Collaboration/dp/149190240X/) | O'Reilly
 Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe
 Alina Wheeler, Debbie Millman | [Designing Brand Identity: An Essential Guide for the Whole Branding Team](https://www.amazon.co.uk/dp/1118980824/) | John Wiley & Sons
 John Maeda | [The Laws of Simplicity (Simplicity: Design, Technology, Business, Life)](https://www.amazon.co.uk/dp/0262134721/) | MIT Press
