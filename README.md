@@ -212,7 +212,6 @@ Vasan Subramanian | [Pro MERN Stack: Full Stack Web App Development with Mongo, 
 Michele Bertoli | [React Design Patterns and Best Practices](https://www.amazon.co.uk/dp/1786464535/) | Packt Publishing
 Adam Boduch | [React and React Native](https://www.amazon.co.uk/dp/1786465655/) | Packt Publishing
 Bonnie Eisenman | [Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.co.uk/Learning-React-Native-Building-JavaScript/dp/1491929006) | O'Reilly Media
-Cassio de Sousa Antonio | [Pro React](https://www.amazon.co.uk/d/Books/Pro-React-Cassio-Sousa-Antonio/1484212614/) | Apress
 Eric Masiello, Jacob Friedmann | [Mastering React Native](https://www.amazon.co.uk/d/cka/Mastering-React-Native-Eric-Masiello/1785885782) | Packt Publishing
 
 <a id="wishlist_js_node"></a>
