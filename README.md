@@ -503,6 +503,15 @@ Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light, Alfred Lui | [Des
 
 ---
 
+<a id="money"></a>
+### Money, investing
+
+Author | Title | Publisher
+------ | ----- | ---------
+Napoleon Hill | [Think and Grow Rich](https://www.amazon.co.uk/dp/1906465592/) | Capstone
+
+---
+
 <a id="put_aside"></a>
 ### Put aside, lost, uninteresting, etc.
 
