@@ -165,7 +165,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+Andrew Craig | [How to Own the World](https://www.amazon.co.uk/gp/product/1517254469/) | CreateSpace
 
 ---
 
