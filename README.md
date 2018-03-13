@@ -508,6 +508,7 @@ Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light, Alfred Lui | [Des
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Robert T. Kiyosaki | [Rich Dad Poor Dad](https://www.amazon.co.uk/dp/1612680194/) | Plata Publishing
 Napoleon Hill | [Think and Grow Rich](https://www.amazon.co.uk/dp/1906465592/) | Capstone
 
 ---
