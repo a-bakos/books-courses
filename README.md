@@ -508,6 +508,9 @@ Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light, Alfred Lui | [Des
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Tim Price | [Investing Through the Looking Glass](https://www.amazon.co.uk/dp/0857195360/) | Harriman House
+Robert T. Kiyosaki | [Rich Dad's Guide to Investing](https://www.amazon.co.uk/dp/1612680208) | Plata Publishing
+Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
 Robert T. Kiyosaki | [Rich Dad Poor Dad](https://www.amazon.co.uk/dp/1612680194/) | Plata Publishing
 Napoleon Hill | [Think and Grow Rich](https://www.amazon.co.uk/dp/1906465592/) | Capstone
 
