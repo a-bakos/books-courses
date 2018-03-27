@@ -166,7 +166,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none | | 
+Van Tharp | [Trade Your Way to Financial Freedom](https://www.amazon.co.uk/gp/product/007147871X/) | McGraw-Hill Education
 
 ---
 
