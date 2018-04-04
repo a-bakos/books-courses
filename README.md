@@ -327,6 +327,7 @@ William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, 
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Richard Bandler | [How to Take Charge of Your Life](https://www.amazon.co.uk/How-Take-Charge-Your-Life/) | HarperCollins 
 Pierce Howard | [The Owner's Manual for the Brain](https://www.amazon.co.uk/Owners-Manual-Brain-4th-Performance/dp/0062227351/) | William Morrow Paperbacks
 Jordan B. Peterson | [12 Rules for Life: An Antidote to Chaos](https://www.amazon.co.uk/12-Rules-Life-Antidote-Chaos/dp/0241351634/) | Allen Lane
 Ian Gibbs | [The Sorites Principle: How to harness the power of perseverance](https://www.amazon.co.uk/dp/8494521349/) | Guid Publications
