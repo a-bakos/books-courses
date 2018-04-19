@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+05 | Van Tharp | [Trade Your Way to Financial Freedom](https://www.amazon.co.uk/gp/product/007147871X/) | McGraw-Hill Education
 04 | Andrew Craig | [How to Own the World](https://www.amazon.co.uk/gp/product/1517254469/) | CreateSpace
 03 | David Allen | [Getting Things Done: The Art of Stress-free Productivity](https://www.amazon.co.uk/dp/0349408947/) | Piatkus
 02 | Kepes András | Világkép | Libri
@@ -120,7 +121,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Van Tharp | [Trade Your Way to Financial Freedom](https://www.amazon.co.uk/gp/product/007147871X/) | McGraw-Hill Education
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
 Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
