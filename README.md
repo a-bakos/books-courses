@@ -167,7 +167,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm  | | 
+Jonathan Hobbs | [Stop Saving Start Investing](https://www.amazon.co.uk/gp/product/1520697090/) | Independently Published
 
 ---
 
