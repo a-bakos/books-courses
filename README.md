@@ -168,7 +168,8 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+Josh Lockhart | [Modern PHP: New Features and Good Practices](https://www.amazon.co.uk/dp/1491905018/) | O'Reilly Media
+Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
 
 ---
 
@@ -244,7 +245,6 @@ Various authors | [Real-Life Responsive Web Design](https://shop.smashingmagazin
 Ian Sommerville | [Software Engineering, Global Edition](https://www.amazon.co.uk/dp/1292096136/) | Pearson
 Rachel Andrew | [The New CSS Layout](https://abookapart.com/products/the-new-css-layout) | A Book Apart
 Davey Shafik | [PHP Pocket Reference: PHP in Your Pocket](https://www.amazon.co.uk/dp/1491969091/) | O'Reilly Media
-Josh Lockhart | [Modern PHP: New Features and Good Practices](https://www.amazon.co.uk/dp/1491905018/) | O'Reilly Media
 David Sklar, Adam Trachtenberg | [PHP Cookbook: Solutions & Examples for PHP Programmers](https://www.amazon.co.uk/dp/144936375X/) | O'Reilly Media
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
