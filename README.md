@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+09 | Chris Middleton | Kreatív Digitális Zene és Hang | Scholar Music
 08 | Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon.co.uk/gp/product/0321832183/) | Peachpit Press
 07 | Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
 06 | Brad Williams, Ozh Richard, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/0470916222/) | Wrox
