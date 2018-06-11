@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+10 | Josh Lockhart | [Modern PHP: New Features and Good Practices](https://www.amazon.co.uk/dp/1491905018/) | O'Reilly Media
 09 | Chris Middleton | Kreatív Digitális Zene és Hang | Scholar Music
 08 | Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon.co.uk/gp/product/0321832183/) | Peachpit Press
 07 | Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fourth Edition)](https://www.amazon.co.uk/gp/product/0321784073/) | Peachpit Press
@@ -126,7 +127,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 Author | Title | Publisher
 ------ | ----- | ---------
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
-Josh Lockhart | [Modern PHP: New Features and Good Practices](https://www.amazon.co.uk/dp/1491905018/) | O'Reilly Media
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
 
 <a id="to_be_read"></a>
