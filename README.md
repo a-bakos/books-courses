@@ -171,7 +171,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+David Powers | [PHP Object - Oriented Solutions](https://www.amazon.co.uk/gp/product/1430210117/) | friends of ED
 
 ---
 
