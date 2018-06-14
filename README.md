@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+11 | Jonathan Hobbs | [Stop Saving Start Investing](https://www.amazon.co.uk/gp/product/1520697090/) | Independently Published
 10 | Josh Lockhart | [Modern PHP: New Features and Good Practices](https://www.amazon.co.uk/dp/1491905018/) | O'Reilly Media
 09 | Chris Middleton | Kreatív Digitális Zene és Hang | Scholar Music
 08 | Larry Ullman | [PHP Advanced And Object-Oriented Programming](https://www.amazon.co.uk/gp/product/0321832183/) | Peachpit Press
@@ -136,7 +137,6 @@ Author | Title | Publisher0
 ------ | ----- | ---------
 Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
-Jonathan Hobbs | [Stop Saving Start Investing](https://www.amazon.co.uk/gp/product/1520697090/) | Independently Published
 Tim Ferriss | [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.co.uk/Tools-Titans-Billionaires-World-Class-Performers/dp/1785041274/) | Vermilion
 Tom Standage | [The Mechanical Turk: The True Story of the Chess-Playing Machine That Fooled the World](https://www.amazon.co.uk/Mechanical-Turk-Chess-Playing-Machine-Fooled/dp/0713995254/) | Allen Lane
 Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
