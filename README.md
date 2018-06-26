@@ -175,6 +175,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 Author | Title | Publisher
 ------ | ----- | ---------
 Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
+Lorna Jane Mitchell | [PHP Web Services: APIs for the Modern Web](https://www.amazon.co.uk/gp/product/1491933097) | O'Reilly
 
 ---
 
