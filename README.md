@@ -137,6 +137,7 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher0
 ------ | ----- | ---------
+Steve Prettyman | [PHP Arrays: Single, Multi-dimensional, Associative and Object Arrays in PHP 7](https://www.amazon.co.uk/gp/product/1484225554/) | Apress
 Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
 Tim Ferriss | [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.co.uk/Tools-Titans-Billionaires-World-Class-Performers/dp/1785041274/) | Vermilion
@@ -173,7 +174,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 
 ---
 
@@ -241,7 +242,6 @@ Raymond Camden, Brian Rinaldi | [Working with Static Sites](https://www.amazon.c
 Jeremy L. Wagner | [Web Performance in Action](https://www.manning.com/books/web-performance-in-action) | Manning
 Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fifth Edition)](https://www.amazon.co.uk/dp/0134301846/) | Peachpit Press
 Scott Jehl | [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design) | A Book Apart
-Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/dp/1484219953/) | Apress
 Josh Clark | [Designing For Touch](https://abookapart.com/products/designing-for-touch) | A Book Apart
 Thomas Connolly, Carolyn Begg | [Database Systems: A Practical Approach to Design, Implementation, and Management, Global Edition](https://www.amazon.co.uk/dp/1292061189/) | Pearson
