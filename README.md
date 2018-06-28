@@ -137,6 +137,7 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher0
 ------ | ----- | ---------
+Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 Steve Prettyman | [PHP Arrays: Single, Multi-dimensional, Associative and Object Arrays in PHP 7](https://www.amazon.co.uk/gp/product/1484225554/) | Apress
 Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
@@ -174,7 +175,6 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 Lorna Jane Mitchell | [PHP Web Services: APIs for the Modern Web](https://www.amazon.co.uk/gp/product/1491933097) | O'Reilly
 
 ---
