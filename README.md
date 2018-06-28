@@ -175,6 +175,8 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books
+Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Lorna Jane Mitchell | [PHP Web Services: APIs for the Modern Web](https://www.amazon.co.uk/gp/product/1491933097) | O'Reilly
 
 ---
@@ -337,7 +339,6 @@ Richard Bandler | [How to Take Charge of Your Life](https://www.amazon.co.uk/How
 Pierce Howard | [The Owner's Manual for the Brain](https://www.amazon.co.uk/Owners-Manual-Brain-4th-Performance/dp/0062227351/) | William Morrow Paperbacks
 Jordan B. Peterson | [12 Rules for Life: An Antidote to Chaos](https://www.amazon.co.uk/12-Rules-Life-Antidote-Chaos/dp/0241351634/) | Allen Lane
 Ian Gibbs | [The Sorites Principle: How to harness the power of perseverance](https://www.amazon.co.uk/dp/8494521349/) | Guid Publications
-Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books
 Mike Byster | [The Power of Forgetting](https://www.amazon.co.uk/dp/0307985873/) | Harmony Books
 Phil M. Jones | [Exactly What to Say: The Magic Words for Influence and Impact](https://www.amazon.co.uk/gp/product/0692881956) | Box of Tricks Publishing
 David J Schwartz | [The Magic of Thinking Big](https://www.amazon.co.uk/gp/product/1785040472/) | Vermilion
@@ -491,7 +492,6 @@ Deyan Sudjic | [The Language of Cities](https://www.amazon.co.uk/dp/0141980591/)
 Paul Dobraszczyk, Carlos Galviz, Bradley L. Garrett | [Global Undergrounds: Exploring Cities Within](https://www.amazon.co.uk/dp/1780235763/) | Reaktion Books
 Colin Ellard | [Places of the Heart: The Psychogeography of Everyday Life](https://www.amazon.co.uk/dp/1942658001/) | Bellevue Literary Press
 Geoff Manaugh | [A Burglar's Guide to the City](https://www.amazon.co.uk/dp/0374117268/) | FSG Originals
-Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Brian Hayes | [Infrastructure - A Guide to the Industrial Landscape](https://www.amazon.co.uk/dp/0393349837/) | W. W. Norton & Company
 Ryan Gravel | [Where We Want to Live: Reclaiming Infrastructure for a New Generation of Cities](https://www.amazon.co.uk/Where-Want-Live-Reclaiming-Infrastructure/dp/1250078253/) | St. Martin's Press
 Kate Ascher | [Heights, The : Anatomy of a Skyscraper](https://www.amazon.co.uk/dp/0143124080/) | Penguin Books
