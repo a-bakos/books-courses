@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+14 | Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 13 | Steve Prettyman | [PHP Arrays: Single, Multi-dimensional, Associative and Object Arrays in PHP 7](https://www.amazon.co.uk/gp/product/1484225554/) | Apress
 12 | David Powers | [PHP Object - Oriented Solutions](https://www.amazon.co.uk/gp/product/1430210117/) | friends of ED
 11 | Jonathan Hobbs | [Stop Saving Start Investing](https://www.amazon.co.uk/gp/product/1520697090/) | Independently Published
@@ -129,7 +130,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
