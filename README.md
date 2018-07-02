@@ -139,6 +139,8 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher0
 ------ | ----- | ---------
+Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books
+Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Lorna Jane Mitchell | [PHP Web Services: APIs for the Modern Web](https://www.amazon.co.uk/gp/product/1491933097) | O'Reilly
 Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
@@ -176,8 +178,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books
-Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
+none atm | | 
 
 ---
 
