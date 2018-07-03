@@ -178,7 +178,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+Davey Shafik, Lorna Mitchell, Matthew Turland | [PHP Master: Write Cutting Edge Code](https://www.amazon.co.uk/gp/product/0987090879/) | SitePoint
 
 ---
 
