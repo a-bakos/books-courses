@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+15 | Lorna Jane Mitchell | [PHP Web Services: APIs for the Modern Web](https://www.amazon.co.uk/gp/product/1491933097) | O'Reilly
 14 | Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 13 | Steve Prettyman | [PHP Arrays: Single, Multi-dimensional, Associative and Object Arrays in PHP 7](https://www.amazon.co.uk/gp/product/1484225554/) | Apress
 12 | David Powers | [PHP Object - Oriented Solutions](https://www.amazon.co.uk/gp/product/1430210117/) | friends of ED
@@ -131,7 +132,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 Author | Title | Publisher
 ------ | ----- | ---------
 Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
-Lorna Jane Mitchell | [PHP Web Services: APIs for the Modern Web](https://www.amazon.co.uk/gp/product/1491933097) | O'Reilly
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
