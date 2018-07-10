@@ -131,6 +131,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Davey Shafik, Lorna Mitchell, Matthew Turland | [PHP Master: Write Cutting Edge Code](https://www.amazon.co.uk/gp/product/0987090879/) | SitePoint
 Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
@@ -141,7 +142,6 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher0
 ------ | ----- | ---------
-Davey Shafik, Lorna Mitchell, Matthew Turland | [PHP Master: Write Cutting Edge Code](https://www.amazon.co.uk/gp/product/0987090879/) | SitePoint
 Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books
 Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
