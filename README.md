@@ -132,7 +132,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Onodi Gyorgy | Feketeleves - Avagy volt egyszer egy Heti Hetes | Jaffa
+Ónodi György | Feketeleves - Avagy volt egyszer egy Heti Hetes | Jaffa
 Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
