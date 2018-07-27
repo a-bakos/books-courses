@@ -134,6 +134,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
@@ -150,7 +151,6 @@ Tim Ferriss | [Tools of Titans: The Tactics, Routines, and Habits of Billionaire
 Tom Standage | [The Mechanical Turk: The True Story of the Chess-Playing Machine That Fooled the World](https://www.amazon.co.uk/Mechanical-Turk-Chess-Playing-Machine-Fooled/dp/0713995254/) | Allen Lane
 Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
 Michael J. Gelb | [How to Think Like Leonardo Da Vinci: Seven Steps to Genius Every Day](https://www.amazon.co.uk/How-Think-Like-Leonardo-Vinci/dp/0440508274/) | Dell Publishing
-Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Tony Buzan | [Speed Reading](https://www.amazon.co.uk/SPEED-READING-Author-21-2006-Paperback/dp/B00I6Z0CAY/) | 
 Marion Field | [Improve Your Written English](https://www.amazon.co.uk/Improve-Your-Written-English-Punctuation/dp/1845283317) | How to books
