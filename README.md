@@ -145,6 +145,7 @@ Donald A. Norman | [The Design of Everyday Things, revised and expanded edition]
 
 Author | Title | Publisher0
 ------ | ----- | ---------
+Lauren Graham | [Talking As Fast As I Can](https://www.amazon.co.uk/Talking-As-Fast-Can-Everything/dp/0349009724/) | Virago
 Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
 Tim Ferriss | [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.co.uk/Tools-Titans-Billionaires-World-Class-Performers/dp/1785041274/) | Vermilion
