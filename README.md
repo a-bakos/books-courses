@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+19 | Rob Moore | [Money](https://www.amazon.co.uk/gp/product/1473641322/) | John Murray Learning
 18 | Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books
 17 | Ónodi György | Feketeleves - Avagy volt egyszer egy Heti Hetes | Jaffa
 16 | Davey Shafik, Lorna Mitchell, Matthew Turland | [PHP Master: Write Cutting Edge Code](https://www.amazon.co.uk/gp/product/0987090879/) | SitePoint
@@ -134,7 +135,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Rob Moore | [Money](https://www.amazon.co.uk/gp/product/1473641322/) | John Murray Learning
+
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
