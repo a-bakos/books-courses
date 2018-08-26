@@ -522,6 +522,7 @@ Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light, Alfred Lui | [Des
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Russ Koesterich | [Portfolio Construction for Today's Markets](https://www.amazon.co.uk/Portfolio-Construction-Todays-Markets-practitioners/dp/0857196294) | Harriman House
 Niels Jensen | [End of Indexing](https://www.amazon.co.uk/End-Indexing-Structural-Mega-Trends-Investing/dp/0857195492/) | Harriman House
 Tim Price | [Investing Through the Looking Glass](https://www.amazon.co.uk/dp/0857195360/) | Harriman House
 Robert T. Kiyosaki | [Rich Dad's Guide to Investing](https://www.amazon.co.uk/dp/1612680208) | Plata Publishing
