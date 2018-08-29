@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+20 | Andy Maslen | [Write To Sell: The Ultimate Guide to Great Copywriting](https://www.amazon.co.uk/Write-Sell-Ultimate-Guide-Copywriting/dp/046209975X/) | Marshall Cavendish
 19 | Rob Moore | [Money](https://www.amazon.co.uk/gp/product/1473641322/) | John Murray Learning
 18 | Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books
 17 | Ónodi György | Feketeleves - Avagy volt egyszer egy Heti Hetes | Jaffa
@@ -135,7 +136,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Andy Maslen | [Write To Sell: The Ultimate Guide to Great Copywriting](https://www.amazon.co.uk/Write-Sell-Ultimate-Guide-Copywriting/dp/046209975X/) | Marshall Cavendish
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
