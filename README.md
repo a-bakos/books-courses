@@ -541,6 +541,8 @@ Napoleon Hill | [Think and Grow Rich](https://www.amazon.co.uk/dp/1906465592/) |
 
 Author | Title | Publisher
 ------ | ----- | ---------
+ | Above the fold | 
+ | Content strategy for the web |
 ~~Adobe Creative Team~~ | ~~[Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/)~~ | ~~Adobe~~
 Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
 Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
