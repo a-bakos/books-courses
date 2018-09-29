@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+23 | Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 22 | Drew De Soto | [Know Your Onions: Graphic Design](https://www.amazon.co.uk/Know-Your-Onions-Graphic-Design/dp/9063692587/) | BIS
 21 | Lars Kroijer | [Investing Demystified](https://www.amazon.co.uk/Investing-Demystified-investment-portfolio-Financial/dp/1292156120/) | FT Publishing
 20 | Andy Maslen | [Write To Sell: The Ultimate Guide to Great Copywriting](https://www.amazon.co.uk/Write-Sell-Ultimate-Guide-Copywriting/dp/046209975X/) | Marshall Cavendish
@@ -140,7 +141,6 @@ Author | Title | Publisher
 ------ | ----- | ---------
 DVSA | The Official Highway Code | TSO
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
-Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
 Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
