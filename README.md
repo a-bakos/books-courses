@@ -141,6 +141,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+DVSA | The Official DVSA Theory Test for Car Drivers | TSO
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
