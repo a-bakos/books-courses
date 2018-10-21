@@ -1,7 +1,7 @@
 ## BRAINFEED
 Books that are important to my professional & personal goals.
-These are physical copies, I do not include e-books here nor any blogs.
-Technical, non-fiction, self-growth, business (+1 fiction).
+Mostly physical copies.
+Technical, non-fiction, self-growth, business.
 Reading list properly tracked from 2016.
 
 + [Read](#read)
