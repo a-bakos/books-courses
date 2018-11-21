@@ -190,7 +190,8 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+John C. Bogle | [The Little Book of Common Sense Investing](https://www.amazon.co.uk/gp/product/1119404509/) | John Wiley & Sons
+Stephen Sutherland | [How to Make Money in ISAs and SIPPs: Tax-efficient Investing Made Easy](https://www.amazon.co.uk/gp/product/1783063289/) | Matador
 
 ---
 
