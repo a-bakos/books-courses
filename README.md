@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+29 | DVSA | The Official DVSA Theory Test for Car Drivers | TSO
 28 | Stephen Sutherland | [How to Make Money in ISAs and SIPPs: Tax-efficient Investing Made Easy](https://www.amazon.co.uk/gp/product/1783063289/) | Matador
 27 | DVSA | The Official DVSA Guide to Learning to Drive | TSO
 26 | Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) |
@@ -146,7 +147,6 @@ Author | Title | Publisher
 ------ | ----- | ---------
 John C. Bogle | [The Little Book of Common Sense Investing](https://www.amazon.co.uk/gp/product/1119404509/) | John Wiley & Sons
 Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/printed-books/smashing-book-6-new-frontiers-in-web-design/) | Smashing Magazine
-DVSA | The Official DVSA Theory Test for Car Drivers | TSO
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
