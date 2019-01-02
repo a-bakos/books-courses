@@ -5,6 +5,7 @@ Technical, non-fiction, self-growth, business.
 Reading list properly tracked from 2016.
 
 + [Read](#read)
+   + [In 2019](#read_2019)
    + [In 2018](#read_2018)
    + [In 2017](#read_2017)
    + [In 2016](#read_2016)
@@ -26,6 +27,13 @@ Reading list properly tracked from 2016.
 
 <a id="read"></a>
 ## Finished reading
+
+<a id="read_2019"></a>
+#### In 2019
+
+\# | Author | Title | Publisher
+-- | ------ | ----- | ---------
+_ | _ | _
 
 <a id="read_2018"></a>
 #### In 2018
