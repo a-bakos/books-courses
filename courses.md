@@ -14,7 +14,7 @@
 
 \# | Title | Instructor | Platform
 -- | ----- | ---------- | --------
-_ | _ | _
+[How To Profit From Stock Market Volatility](https://www.udemy.com/how-to-trade-stock-market-volatility/) | Peter Titus | Business | Udemy
 
 <a id="in_progress"></a>
 #### In progress
