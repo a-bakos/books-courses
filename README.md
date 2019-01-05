@@ -1,4 +1,4 @@
-## BRAINFEED
+## BRAINFEED - Books
 Books that are important to my professional & personal goals.
 Mostly physical copies.
 Technical, non-fiction, self-growth, business.
@@ -173,7 +173,7 @@ Tom Standage | [The Mechanical Turk: The True Story of the Chess-Playing Machine
 Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
 Michael J. Gelb | [How to Think Like Leonardo Da Vinci: Seven Steps to Genius Every Day](https://www.amazon.co.uk/How-Think-Like-Leonardo-Vinci/dp/0440508274/) | Dell Publishing
 Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
-Tony Buzan | [Speed Reading](https://www.amazon.co.uk/SPEED-READING-Author-21-2006-Paperback/dp/B00I6Z0CAY/) | 
+Tony Buzan | [Speed Reading](https://www.amazon.co.uk/SPEED-READING-Author-21-2006-Paperback/dp/B00I6Z0CAY/) |
 Marion Field | [Improve Your Written English](https://www.amazon.co.uk/Improve-Your-Written-English-Punctuation/dp/1845283317) | How to books
 David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/1449397220/) | O'Reilly
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
@@ -359,7 +359,7 @@ William Lidwell, Kritina Holden, Jill Butler | [Universal Principles of Design, 
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Richard Bandler | [How to Take Charge of Your Life](https://www.amazon.co.uk/How-Take-Charge-Your-Life/) | HarperCollins 
+Richard Bandler | [How to Take Charge of Your Life](https://www.amazon.co.uk/How-Take-Charge-Your-Life/) | HarperCollins
 Pierce Howard | [The Owner's Manual for the Brain](https://www.amazon.co.uk/Owners-Manual-Brain-4th-Performance/dp/0062227351/) | William Morrow Paperbacks
 Jordan B. Peterson | [12 Rules for Life: An Antidote to Chaos](https://www.amazon.co.uk/12-Rules-Life-Antidote-Chaos/dp/0241351634/) | Allen Lane
 Ian Gibbs | [The Sorites Principle: How to harness the power of perseverance](https://www.amazon.co.uk/dp/8494521349/) | Guid Publications
@@ -555,7 +555,7 @@ Napoleon Hill | [Think and Grow Rich](https://www.amazon.co.uk/dp/1906465592/) |
 
 Author | Title | Publisher
 ------ | ----- | ---------
- | Above the fold | 
+ | Above the fold |
  | Content strategy for the web |
 ~~Adobe Creative Team~~ | ~~[Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/)~~ | ~~Adobe~~
 Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
