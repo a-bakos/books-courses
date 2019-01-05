@@ -12,9 +12,9 @@
 <a id="finished_2019"></a>
 #### In 2019
 
-\# | Title | Instructor | Platform
--- | ----- | ---------- | --------
-[How To Profit From Stock Market Volatility](https://www.udemy.com/how-to-trade-stock-market-volatility/) | Peter Titus | Business | Udemy
+\# | Title | Instructor | Category | Platform
+-- | ----- | ---------- | -------- | --------
+01 | [How To Profit From Stock Market Volatility](https://www.udemy.com/how-to-trade-stock-market-volatility/) | Peter Titus | Business | Udemy
 
 <a id="in_progress"></a>
 #### In progress
