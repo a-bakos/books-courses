@@ -165,6 +165,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher0
 ------ | ----- | ---------
+Hassan Djirdeh, Nate Murray, Ari Lerner | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.co.uk/gp/product/1987595297/) | CreateSpace
 Lauren Graham | [Talking As Fast As I Can](https://www.amazon.co.uk/Talking-As-Fast-Can-Everything/dp/0349009724/) | Virago
 Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
@@ -201,7 +202,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Hassan Djirdeh, Nate Murray, Ari Lerner | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.co.uk/gp/product/1987595297/) | CreateSpace
+- | - | -
 
 ---
 
