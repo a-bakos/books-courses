@@ -22,7 +22,6 @@
 
 \# | Title | Instructor | Category | Platform
 -- | ----- | ---------- | -------- | --------
-
 04 | [How To Profit From Stock Market Volatility](https://www.udemy.com/how-to-trade-stock-market-volatility/) | Peter Titus | Business | Udemy
 03 | [Stock Market Foundations](https://www.udemy.com/how-to-invest-in-the-stock-market-beginners/) | Jason Whaling | Business | Udemy
 02 | [Introduction to Internet of Things and Cloud](https://www.udemy.com/a4iot-intro-iot-cloud/) | Future Tech Lab | IT | Udemy
