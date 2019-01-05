@@ -28,7 +28,7 @@
 01 | [Stock Market Investing for Beginners](https://www.udemy.com/the-beginners-guide-to-the-stock-market/) | John Ducas | Business | Udemy
 
 <a id="in_progress"></a>
-#### In progress
+## In progress
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
