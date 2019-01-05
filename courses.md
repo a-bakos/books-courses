@@ -2,6 +2,7 @@
 
 + [Finished](#finished)
    + [In 2019](#finished_2019)
+   + [In 2018](#finished_2018)
 + [In progress](#in_progress)
 
 ---
@@ -11,6 +12,13 @@
 
 <a id="finished_2019"></a>
 #### In 2019
+
+\# | Title | Instructor | Category | Platform
+-- | ----- | ---------- | -------- | --------
+- | - | - | - | -
+
+<a id="finished_2018"></a>
+#### In 2018
 
 \# | Title | Instructor | Category | Platform
 -- | ----- | ---------- | -------- | --------
