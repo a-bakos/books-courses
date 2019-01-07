@@ -16,7 +16,7 @@
 
 \# | Title | Instructor | Category | Platform
 -- | ----- | ---------- | -------- | --------
-[Master Electron: Desktop Apps using HTML, JavaScript & CSS](https://www.udemy.com/master-electron/) | Ray Viljoen | IT | Udemy
+01 | [Master Electron: Desktop Apps using HTML, JavaScript & CSS](https://www.udemy.com/master-electron/) | Ray Viljoen | IT | Udemy
 
 <a id="finished_2018"></a>
 #### In 2018
