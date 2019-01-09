@@ -219,7 +219,6 @@ Andrea Giammarchi | [JavaScript glossary on demand](https://www.amazon.co.uk/dp/
 Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
 Mark E. Daggett | [Expert JavaScript](https://www.amazon.co.uk/dp/1430260971/) | Apress
 Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](https://www.amazon.co.uk/dp/1430262680/) | Apress
-Arjan Egges | [Building JavaScript Games: for Phones, Tablets, and Desktop](https://www.amazon.co.uk/dp/1430265388) | Apress
 Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
 Stoyan Stefanov | [JavaScript Patterns](https://www.amazon.co.uk/d/Books/JavaScript-Patterns-Stoyan-Stefanov/0596806752/) | O'Reilly
 Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Object Model](https://www.amazon.co.uk/DOM-Scripting-Design-Javascript-Document/dp/1430233893/) | friendsofED
