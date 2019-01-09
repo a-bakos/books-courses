@@ -453,7 +453,7 @@ Raymond Kurzweil | [The Singularity is Near](https://www.amazon.co.uk/Singularit
 Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-Create-Mind-Ray-Kurzweil/0715647334/) | Gerald Duckworth & Co Ltd
 
 <a id="infrastructure"></a>
-### Infrastructure, architercure, urbanism
+### Infrastructure, architecture, urbanism
 
 Author | Title | Publisher
 ------ | ----- | ---------
