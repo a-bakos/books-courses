@@ -17,7 +17,6 @@ Reading list properly tracked from 2016.
 + [Books that seem interesting / wishlist](#wishlist)
   + [JS](#wishlist_js)
    + [NodeJS](#wishlist_js_node)
-   + [ReactJS](#wishlist_js_react)
   + [Computing](#wishlist_computing)
   + [Design, UI, UX](#design)
   + [Business, soft-skills, psychology, etc.](#wishlist_others)
@@ -223,32 +222,12 @@ Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](http
 Arjan Egges | [Building JavaScript Games: for Phones, Tablets, and Desktop](https://www.amazon.co.uk/dp/1430265388) | Apress
 Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
 Stoyan Stefanov | [JavaScript Patterns](https://www.amazon.co.uk/d/Books/JavaScript-Patterns-Stoyan-Stefanov/0596806752/) | O'Reilly
-Jon Duckett | [JavaScript & JQuery: Interactive Front-end Web Development](https://www.amazon.co.uk/d/Books/JavaScript-JQuery-Interactive-Front-end-Web-Development/1118531647/) | John Wiley & Sons
 Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Object Model](https://www.amazon.co.uk/DOM-Scripting-Design-Javascript-Document/dp/1430233893/) | friendsofED
 Douglas Crockford | [JavaScript: The Good Parts](https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/) | O'Reilly
 Larry Ullman | [Modern JavaScript: Develop and Design](https://www.amazon.co.uk/Modern-JavaScript-Develop-Larry-Ullman/dp/0321812522/) | Peachpit Press
 Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Addy Osmani | [Learning JavaScript Design Patterns](https://www.amazon.co.uk/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/) | O'Reilly Media
 David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.amazon.co.uk/Effective-JavaScript-Specific-Software-Development/dp/0321812182/) | Addison Wesley
-Reginald Braithwaite | [Javascript Allongé](https://www.amazon.co.uk/Javascript-Allongé-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/) *Only kindle edition* | Justin Kelly
-Earle Castledine, Craig Sharkie | [jQuery: Novice to Ninja](https://www.amazon.co.uk/jQuery-Novice-Ninja-Earle-Castledine/dp/0987153013/) | SitePoint
-David Flanagan | [JavaScript Pocket Reference](https://www.amazon.co.uk/dp/1449316859/) | O'Reilly
-Cody Lindley | [jQuery Cookbook](https://www.amazon.co.uk/dp/0596159773/) |  O'Reilly
-
-<a id="wishlist_js_react"></a>
-#### React.JS
-
-Author | Title | Publisher
------- | ----- | ---------
-Artemij Fedosejev, Adam Boduch | [React 16 Essentials](https://www.amazon.co.uk/dp/1787126048/) | Packt Publishing
-Mark Tielens Thomas | [React in Action](https://www.amazon.co.uk/React-Action-Mark-Tielens-Thomas/dp/1617293857/) | Manning
-Azat Mardan | [React Quickly](https://www.amazon.co.uk/dp/1617293342/) | Manning Publications
-Alex Banks, Eve Porcello | [Learning React: Functional Web Development with React and Flux](https://www.amazon.co.uk/dp/1491954620/) | O'Reilly
-Vasan Subramanian | [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node](https://www.amazon.co.uk/dp/1484226526/) | Apress
-Michele Bertoli | [React Design Patterns and Best Practices](https://www.amazon.co.uk/dp/1786464535/) | Packt Publishing
-Adam Boduch | [React and React Native](https://www.amazon.co.uk/dp/1786465655/) | Packt Publishing
-Bonnie Eisenman | [Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.co.uk/Learning-React-Native-Building-JavaScript/dp/1491929006) | O'Reilly Media
-Eric Masiello, Jacob Friedmann | [Mastering React Native](https://www.amazon.co.uk/d/cka/Mastering-React-Native-Eric-Masiello/1785885782) | Packt Publishing
 
 <a id="wishlist_js_node"></a>
 #### Node.JS
