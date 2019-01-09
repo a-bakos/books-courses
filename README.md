@@ -156,15 +156,14 @@ Author | Title | Publisher
 ------ | ----- | ---------
 Fred McAllen | [Charting and Technical Analysis](https://www.amazon.co.uk/gp/product/1456468693) | CreateSpace
 Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/printed-books/smashing-book-6-new-frontiers-in-web-design/) | Smashing Magazine
-Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
-Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
 
 <a id="to_be_read"></a>
 ### Yet to be read / finished / buffer:
 
 Author | Title | Publisher0
 ------ | ----- | ---------
+Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Hassan Djirdeh, Nate Murray, Ari Lerner | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.co.uk/gp/product/1987595297/) | CreateSpace
 Lauren Graham | [Talking As Fast As I Can](https://www.amazon.co.uk/Talking-As-Fast-Can-Everything/dp/0349009724/) | Virago
 Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
