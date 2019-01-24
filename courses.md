@@ -25,7 +25,8 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
-05 | [The Vue Tutorial for 2018 - Learn Vue 2 in 65 Minutes]() | Coursetro | IT | YouTube | Nem skill
+06 | [The Vue Tutorial for 2018 - Learn Vue 2 in 65 Minutes](https://www.youtube.com/watch?v=78tNYZUS-ps) | DesignCourse | IT | YouTube | Nem skill
+05 | [Learn Electron in Less than 60 Minute](https://www.youtube.com/watch?v=2RxHQoiDctI) | DesignCourse | IT | YouTube | New skill
 04 | [How To Profit From Stock Market Volatility](https://www.udemy.com/how-to-trade-stock-market-volatility/) | Peter Titus | Business | Udemy | New skill
 03 | [Stock Market Foundations](https://www.udemy.com/how-to-invest-in-the-stock-market-beginners/) | Jason Whaling | Business | Udemy | New skill
 02 | [Introduction to Internet of Things and Cloud](https://www.udemy.com/a4iot-intro-iot-cloud/) | Future Tech Lab | IT | Udemy | New skill
