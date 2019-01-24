@@ -14,9 +14,10 @@
 <a id="finished_2019"></a>
 #### In 2019
 
-\# | Title | Instructor | Category | Platform
--- | ----- | ---------- | -------- | --------
-01 | [Master Electron: Desktop Apps using HTML, JavaScript & CSS](https://www.udemy.com/master-electron/) | Ray Viljoen | IT | Udemy
+\# | Title | Instructor | Category | Platform | Goal
+-- | ----- | ---------- | -------- | -------- | ----
+02 | [JavaScript OOP Crash Course (ES5 & ES6)](https://www.youtube.com/watch?v=vDJpGenyHaA) | Traversy Media | IT | YouTube | Refresher
+01 | [Master Electron: Desktop Apps using HTML, JavaScript & CSS](https://www.udemy.com/master-electron/) | Ray Viljoen | IT | Udemy | Gain new skill
 
 <a id="finished_2018"></a>
 #### In 2018
