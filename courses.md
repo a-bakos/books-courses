@@ -23,12 +23,13 @@
 <a id="finished_2018"></a>
 #### In 2018
 
-\# | Title | Instructor | Category | Platform
--- | ----- | ---------- | -------- | --------
-04 | [How To Profit From Stock Market Volatility](https://www.udemy.com/how-to-trade-stock-market-volatility/) | Peter Titus | Business | Udemy
-03 | [Stock Market Foundations](https://www.udemy.com/how-to-invest-in-the-stock-market-beginners/) | Jason Whaling | Business | Udemy
-02 | [Introduction to Internet of Things and Cloud](https://www.udemy.com/a4iot-intro-iot-cloud/) | Future Tech Lab | IT | Udemy
-01 | [Stock Market Investing for Beginners](https://www.udemy.com/the-beginners-guide-to-the-stock-market/) | John Ducas | Business | Udemy
+\# | Title | Instructor | Category | Platform | Goal
+-- | ----- | ---------- | -------- | -------- | ----
+05 | [The Vue Tutorial for 2018 - Learn Vue 2 in 65 Minutes]() | Coursetro | IT | YouTube | Nem skill
+04 | [How To Profit From Stock Market Volatility](https://www.udemy.com/how-to-trade-stock-market-volatility/) | Peter Titus | Business | Udemy | New skill
+03 | [Stock Market Foundations](https://www.udemy.com/how-to-invest-in-the-stock-market-beginners/) | Jason Whaling | Business | Udemy | New skill
+02 | [Introduction to Internet of Things and Cloud](https://www.udemy.com/a4iot-intro-iot-cloud/) | Future Tech Lab | IT | Udemy | New skill
+01 | [Stock Market Investing for Beginners](https://www.udemy.com/the-beginners-guide-to-the-stock-market/) | John Ducas | Business | Udemy | New skill
 
 <a id="before_2018"></a>
 #### Before 2018 (in no order)
