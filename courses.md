@@ -16,6 +16,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+04 | [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0) | Traversy Media | IT | YouTube | Refresher
 03 | [JavaScript OOP Crash Course (ES5 & ES6)](https://www.youtube.com/watch?v=vDJpGenyHaA) | Traversy Media | IT | YouTube | Refresher
 02 | [Sass Crash Course](https://www.youtube.com/watch?v=roywYSEPSvc) | DesignCourse | IT | YouTube | Refresher
 01 | [Master Electron: Desktop Apps using HTML, JavaScript & CSS](https://www.udemy.com/master-electron/) | Ray Viljoen | IT | Udemy | Gain new skill
