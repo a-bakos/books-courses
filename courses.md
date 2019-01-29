@@ -16,6 +16,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+06 | [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s) | Traversy Media | IT | YouTube | Refresher
 05 | [Emmet For Faster HTML & CSS Workflow](https://www.youtube.com/watch?v=5BIAdWNcr8Y) | Traversy Media | IT | YouTube | New Skill
 04 | [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0) | Traversy Media | IT | YouTube | Refresher
 03 | [JavaScript OOP Crash Course (ES5 & ES6)](https://www.youtube.com/watch?v=vDJpGenyHaA) | Traversy Media | IT | YouTube | Refresher
