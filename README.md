@@ -162,7 +162,7 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 
 Author | Title | Publisher0
 ------ | ----- | ---------
-Dr Andred Aziz | [How to Day Trade for a Living](https://www.amazon.co.uk/gp/product/1535585951) | CreateSpace
+Dr Andrew Aziz | [How to Day Trade for a Living](https://www.amazon.co.uk/gp/product/1535585951) | CreateSpace
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Hassan Djirdeh, Nate Murray, Ari Lerner | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.co.uk/gp/product/1987595297/) | CreateSpace
 Lauren Graham | [Talking As Fast As I Can](https://www.amazon.co.uk/Talking-As-Fast-Can-Everything/dp/0349009724/) | Virago
