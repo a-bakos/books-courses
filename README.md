@@ -301,7 +301,6 @@ Susan Weinschenk | [100 Things Every Designer Needs to Know About People: What M
 Peter Morville | [Information Architecture for the World Wide Web: Designing Large-Scale Web Sites](https://www.amazon.co.uk/Information-Architecture-World-Wide-Web/dp/1565922824/) | O'Reilly
 Peter Morville | [Intertwingled: Information Changes Everything](https://www.amazon.co.uk/Intertwingled-Information-Everything-Peter-Morville/dp/0692225587/) |
 Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Everybody](https://www.amazon.co.uk/How-Make-Sense-Any-Mess/dp/1500615994/) |
-Liam Veitch | [Stop Thinking Like a Freelancer: The Evolution of a $1m Web Designer](https://www.amazon.co.uk/Stop-Thinking-Like-Freelancer-Evolution/dp/1503273148/) | CreateSpace
 
 <a id="design"></a>
 ### Design, UI, UX, ...
