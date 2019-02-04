@@ -244,7 +244,6 @@ Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action 
 Author | Title | Publisher
 ------ | ----- | ---------
 Jeremy L. Wagner | [Web Performance in Action](https://www.manning.com/books/web-performance-in-action) | Manning
-Larry Ullman | [PHP and MySQL for Dynamic Web Sites (Fifth Edition)](https://www.amazon.co.uk/dp/0134301846/) | Peachpit Press
 Scott Jehl | [Responsible Responsive Design](https://abookapart.com/products/responsible-responsive-design) | A Book Apart
 Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/dp/1484219953/) | Apress
 Josh Clark | [Designing For Touch](https://abookapart.com/products/designing-for-touch) | A Book Apart
