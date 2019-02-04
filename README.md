@@ -259,7 +259,6 @@ Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://ww
 Andy Budd, Emil Björklund | [CSS Mastery](https://www.amazon.co.uk/d/Books/CSS-Mastery-Andy-Budd/1430258632/) | Apress
 Ian Miell, Aidan Hobson Sayers | [Docker in Practice](https://www.amazon.co.uk/dp/1617292729/) | Manning Publications
 Jeff Nickoloff | [Docker in Action](https://www.amazon.co.uk/Docker-Action-Jeff-Nickoloff/dp/1633430235/) |
-David Cochran, Ian Whitley | [Bootstrap Site Blueprints](https://www.amazon.co.uk/dp/1782164529/) | Packt Publishing
 Harold Abelson | [Structure and Interpretation of Computer Programs](https://www.amazon.co.uk/dp/0262510871/) | Harold Abelson
 Gregory Brown | [Programming Beyond Practices](https://www.amazon.co.uk/dp/1491943823) | O′Reilly
 Steve McConnell | [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) | Microsoft Press
