@@ -200,8 +200,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-- | - | -
-
+Zack Carr, Dr Andrew Aziz | [How to Trade Forex and Currency Markets](https://www.amazon.co.uk/Trade-Forex-Currency-Markets-Understanding/dp/1980450722/) | CreateSpace
 ---
 
 <a id="wishlist"></a>
@@ -513,7 +512,6 @@ Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light, Alfred Lui | [Des
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Zack Carr, Dr Andrew Aziz | [How to Trade Forex and Currency Markets](https://www.amazon.co.uk/Trade-Forex-Currency-Markets-Understanding/dp/1980450722/) | CreateSpace
 Dr Andrew Aziz | [Advanced Techniques in Day Trading](https://www.amazon.co.uk/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M/) | CreateSpace
 Russ Koesterich | [Portfolio Construction for Today's Markets](https://www.amazon.co.uk/Portfolio-Construction-Todays-Markets-practitioners/dp/0857196294) | Harriman House
 Niels Jensen | [End of Indexing](https://www.amazon.co.uk/End-Indexing-Structural-Mega-Trends-Investing/dp/0857195492/) | Harriman House
