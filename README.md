@@ -154,6 +154,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Zack Carr, Dr Andrew Aziz | [How to Trade Forex and Currency Markets](https://www.amazon.co.uk/Trade-Forex-Currency-Markets-Understanding/dp/1980450722/) | CreateSpace
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/printed-books/smashing-book-6-new-frontiers-in-web-design/) | Smashing Magazine
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
@@ -200,7 +201,8 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Zack Carr, Dr Andrew Aziz | [How to Trade Forex and Currency Markets](https://www.amazon.co.uk/Trade-Forex-Currency-Markets-Understanding/dp/1980450722/) | CreateSpace
+none atm | | 
+
 ---
 
 <a id="wishlist"></a>
