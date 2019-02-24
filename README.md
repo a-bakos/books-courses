@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+03 | Várkuti Géza | FOREX Trading - Az alapoktól a mesterfogásokig | Fekete Sas Kiadó
 02 | Dr Andrew Aziz | [How to Day Trade for a Living](https://www.amazon.co.uk/gp/product/1535585951) | CreateSpace
 01 | Fred McAllen | [Charting and Technical Analysis](https://www.amazon.co.uk/gp/product/1456468693) | CreateSpace
 
