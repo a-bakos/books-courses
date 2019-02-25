@@ -163,8 +163,9 @@ Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](
 <a id="to_be_read"></a>
 ### Yet to be read / finished / buffer:
 
-Author | Title | Publisher0
+Author | Title | Publisher
 ------ | ----- | ---------
+Bob Volman | [Forex Price Action Scalping](https://www.amazon.co.uk/gp/product/9090264116) | Light Tower Publishing
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Hassan Djirdeh, Nate Murray, Ari Lerner | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.co.uk/gp/product/1987595297/) | CreateSpace
 Lauren Graham | [Talking As Fast As I Can](https://www.amazon.co.uk/Talking-As-Fast-Can-Everything/dp/0349009724/) | Virago
