@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+06 | Vladimir Poltoratskiy | Trading Code Is Open | Independently published
 05 | Paul Langer | [The Black Book of Forex Trading](https://www.amazon.co.uk/gp/product/1517760577/) | CreateSpace 
 04 | Zack Carr, Dr Andrew Aziz | [How to Trade Forex and Currency Markets](https://www.amazon.co.uk/Trade-Forex-Currency-Markets-Understanding/dp/1980450722/) | CreateSpace
 03 | Várkuti Géza | FOREX Trading - Az alapoktól a mesterfogásokig | Fekete Sas Kiadó
