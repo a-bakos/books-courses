@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+08 | Larry Pesavento, Leslie Jouflas | [Trade What You See](https://www.amazon.co.uk/Trade-What-You-See-Recognition/dp/047010676X/) | Wiley
 07 | John Stepek | [The Sceptical Investor](https://harriman-house.com/thescepticalinvestor) | Harriman House
 06 | Vladimir Poltoratskiy | Trading Code Is Open | Independently published
 05 | Paul Langer | [The Black Book of Forex Trading](https://www.amazon.co.uk/gp/product/1517760577/) | CreateSpace 
