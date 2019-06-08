@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+09 | Michael Lewis | [The Big Short](https://www.amazon.co.uk/Big-Short-Inside-Doomsday-Machine/) | Penguin
 08 | Larry Pesavento, Leslie Jouflas | [Trade What You See](https://www.amazon.co.uk/Trade-What-You-See-Recognition/dp/047010676X/) | Wiley
 07 | John Stepek | [The Sceptical Investor](https://harriman-house.com/thescepticalinvestor) | Harriman House
 06 | Vladimir Poltoratskiy | Trading Code Is Open | Independently published
