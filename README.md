@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+13 | Robert T. Kiyosaki | [Rich Dad's Increase Your Financial IQ](https://www.amazon.co.uk/Rich-Dads-Increase-Your-Financial/dp/1612680658) (audiobook) | Plata Publishing
 12 | David Bach | [The Automatic Millionaire](https://www.amazon.co.uk/Automatic-Millionaire-Powerful-One-Step-Finish/dp/0451499085/) (audiobook) | Broadway Books
 11 | Rober T. Kiyosaki | [Rich Dad, Poor Dad](https://www.amazon.co.uk/Rich-Dad-Poor-Teach-Middle/dp/1612680194/) (audiobook) | Plata Publishing
 10 | Tim Ferriss | [The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich](https://www.amazon.co.uk/4-Hour-Work-Week-Escape-Anywhere/) (audiobook) | Vermilion
