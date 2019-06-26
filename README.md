@@ -166,16 +166,17 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
-Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/printed-books/smashing-book-6-new-frontiers-in-web-design/) | Smashing Magazine
-Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
+Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
+Ray Dalio | [Principles: Life and Work](https://www.amazon.co.uk/Principles-Life-Work-Ray-Dalio/dp/1501124021/) | Simon & Schuster
 
 <a id="to_be_read"></a>
 ### Yet to be read / finished / buffer:
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Bob Volman | [Forex Price Action Scalping](https://www.amazon.co.uk/gp/product/9090264116) | Light Tower Publishing
+Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
+Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/printed-books/smashing-book-6-new-frontiers-in-web-design/) | Smashing Magazine
+Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Hassan Djirdeh, Nate Murray, Ari Lerner | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.co.uk/gp/product/1987595297/) | CreateSpace
 Lauren Graham | [Talking As Fast As I Can](https://www.amazon.co.uk/Talking-As-Fast-Can-Everything/dp/0349009724/) | Virago
@@ -531,10 +532,7 @@ Russ Koesterich | [Portfolio Construction for Today's Markets](https://www.amazo
 Niels Jensen | [End of Indexing](https://www.amazon.co.uk/End-Indexing-Structural-Mega-Trends-Investing/dp/0857195492/) | Harriman House
 Tim Price | [Investing Through the Looking Glass](https://www.amazon.co.uk/dp/0857195360/) | Harriman House
 Robert T. Kiyosaki | [Rich Dad's Guide to Investing](https://www.amazon.co.uk/dp/1612680208) | Plata Publishing
-Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
 Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon.co.uk/dp/1471164934/) | Simon & Schuster UK
-Robert T. Kiyosaki | [Rich Dad Poor Dad](https://www.amazon.co.uk/dp/1612680194/) | Plata Publishing
-Napoleon Hill | [Think and Grow Rich](https://www.amazon.co.uk/dp/1906465592/) | Capstone
 
 ---
 
@@ -543,6 +541,7 @@ Napoleon Hill | [Think and Grow Rich](https://www.amazon.co.uk/dp/1906465592/) |
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Bob Volman | [Forex Price Action Scalping](https://www.amazon.co.uk/gp/product/9090264116) | Light Tower Publishing
  | Above the fold |
  | Content strategy for the web |
 ~~Adobe Creative Team~~ | ~~[Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/)~~ | ~~Adobe~~
