@@ -445,7 +445,6 @@ Robert A. Glover | [No More Mr Nice Guy](https://www.amazon.co.uk/No-More-MR-Nic
 Jack Donovan | [Becoming a Barbarian](https://www.amazon.co.uk/Becoming-Barbarian-Jack-Donovan/dp/0985452358/) |
 Jack Donovan | [The Way of Men](https://www.amazon.co.uk/Way-Men-Jack-Donovan/dp/0985452307/) |
 David Deida | [Way of the Superior Man](https://www.amazon.co.uk/Way-Superior-Man-David-Deida/dp/1591792576/) |
-Tim Ferriss | [The 4-Hour Work Week](https://www.amazon.co.uk/4-Hour-Work-Week-Escape-Anywhere/dp/0091929113/) |
 Tim Ferriss | [The 4-Hour Body](https://www.amazon.co.uk/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0091939526/) |
 Ryan Holiday | [Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising](https://www.amazon.co.uk/Growth-Hacker-Marketing-Primer-Advertising/dp/1781254362/) | Profile
 Greg McKeown | [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0753555166/) | Virgin Books
