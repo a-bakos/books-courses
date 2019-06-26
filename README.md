@@ -265,7 +265,6 @@ Thomas Connolly, Carolyn Begg | [Database Systems: A Practical Approach to Desig
 Various authors | [Real-Life Responsive Web Design](https://shop.smashingmagazine.com/6824959/checkouts/45245d3cd372cad2215d6ae3d7b7ec0d) | Smashing Magazine
 Ian Sommerville | [Software Engineering, Global Edition](https://www.amazon.co.uk/dp/1292096136/) | Pearson
 Rachel Andrew | [The New CSS Layout](https://abookapart.com/products/the-new-css-layout) | A Book Apart
-Davey Shafik | [PHP Pocket Reference: PHP in Your Pocket](https://www.amazon.co.uk/dp/1491969091/) | O'Reilly Media
 David Sklar, Adam Trachtenberg | [PHP Cookbook: Solutions & Examples for PHP Programmers](https://www.amazon.co.uk/dp/144936375X/) | O'Reilly Media
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
@@ -319,7 +318,6 @@ Abby Covert | [How to Make Sense of Any Mess: Information Architecture for Every
 Author | Title | Publisher
 ------ | ----- | ---------
 Adam Connor, Aaron Irizarr | [Discussing Design](https://www.amazon.co.uk/Discussing-Design-Improving-Communication-Collaboration/dp/149190240X/) | O'Reilly
-Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe
 Alina Wheeler, Debbie Millman | [Designing Brand Identity: An Essential Guide for the Whole Branding Team](https://www.amazon.co.uk/dp/1118980824/) | John Wiley & Sons
 John Maeda | [The Laws of Simplicity (Simplicity: Design, Technology, Business, Life)](https://www.amazon.co.uk/dp/0262134721/) | MIT Press
 Shane Seminole Mielke | [Launch It: 300+ things I've learned as a Designer, Developer and Creative Director. A handbook for digital creatives.](https://www.amazon.co.uk/dp/1541302486/) | CreateSpace
@@ -526,7 +524,6 @@ Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light, Alfred Lui | [Des
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Dr Andrew Aziz | [Advanced Techniques in Day Trading](https://www.amazon.co.uk/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M/) | CreateSpace
 Russ Koesterich | [Portfolio Construction for Today's Markets](https://www.amazon.co.uk/Portfolio-Construction-Todays-Markets-practitioners/dp/0857196294) | Harriman House
 Niels Jensen | [End of Indexing](https://www.amazon.co.uk/End-Indexing-Structural-Mega-Trends-Investing/dp/0857195492/) | Harriman House
 Tim Price | [Investing Through the Looking Glass](https://www.amazon.co.uk/dp/0857195360/) | Harriman House
