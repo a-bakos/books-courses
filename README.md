@@ -167,6 +167,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley
 Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
 Ray Dalio | [Principles: Life and Work](https://www.amazon.co.uk/Principles-Life-Work-Ray-Dalio/dp/1501124021/) | Simon & Schuster
 
