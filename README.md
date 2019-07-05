@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+15 | Robert T. Kiyosaki | [Rich Dad's Cashflow Quadrant](https://www.amazon.co.uk/Rich-Dads-Cashflow-Quadrant-Financial/dp/1612680062/) (audiobook) | Plata Publishing
 14 | Napoleon Hill | [Think and Grow Rich!](https://www.amazon.co.uk/Think-Grow-Rich-Original-Restored/dp/0990797600/) | Mindpower Press
 13 | Robert T. Kiyosaki | [Rich Dad's Increase Your Financial IQ](https://www.amazon.co.uk/Rich-Dads-Increase-Your-Financial/dp/1612680658) (audiobook) | Plata Publishing
 12 | David Bach | [The Automatic Millionaire](https://www.amazon.co.uk/Automatic-Millionaire-Powerful-One-Step-Finish/dp/0451499085/) (audiobook) | Broadway Books
