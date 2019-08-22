@@ -168,6 +168,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Larry Ullman, Andreas Signer | [C++ Programming](https://www.amazon.co.uk/gp/product/B01FEKX3F4/) | Peachpit Press
 Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley
 Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
 
