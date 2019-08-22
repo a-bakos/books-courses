@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+16 | Ray Dalio | [Principles: Life and Work](https://www.amazon.co.uk/Principles-Life-Work-Ray-Dalio/dp/1501124021/) | Simon & Schuster
 15 | Robert T. Kiyosaki | [Rich Dad's Cashflow Quadrant](https://www.amazon.co.uk/Rich-Dads-Cashflow-Quadrant-Financial/dp/1612680062/) (audiobook) | Plata Publishing
 14 | Napoleon Hill | [Think and Grow Rich!](https://www.amazon.co.uk/Think-Grow-Rich-Original-Restored/dp/0990797600/) | Mindpower Press
 13 | Robert T. Kiyosaki | [Rich Dad's Increase Your Financial IQ](https://www.amazon.co.uk/Rich-Dads-Increase-Your-Financial/dp/1612680658) (audiobook) | Plata Publishing
@@ -169,7 +170,6 @@ Author | Title | Publisher
 ------ | ----- | ---------
 Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley
 Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
-Ray Dalio | [Principles: Life and Work](https://www.amazon.co.uk/Principles-Life-Work-Ray-Dalio/dp/1501124021/) | Simon & Schuster
 
 <a id="to_be_read"></a>
 ### Yet to be read / finished / buffer:
