@@ -32,7 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
-17 | Cal Evans | [Going Pro](https://leanpub.com/goingpro) | LeanPub
+17 | Cal Evans | [Going Pro](https://leanpub.com/goingpro) (ebook) | LeanPub
 16 | Ray Dalio | [Principles: Life and Work](https://www.amazon.co.uk/Principles-Life-Work-Ray-Dalio/dp/1501124021/) | Simon & Schuster
 15 | Robert T. Kiyosaki | [Rich Dad's Cashflow Quadrant](https://www.amazon.co.uk/Rich-Dads-Cashflow-Quadrant-Financial/dp/1612680062/) (audiobook) | Plata Publishing
 14 | Napoleon Hill | [Think and Grow Rich!](https://www.amazon.co.uk/Think-Grow-Rich-Original-Restored/dp/0990797600/) | Mindpower Press
