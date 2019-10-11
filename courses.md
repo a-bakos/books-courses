@@ -1,4 +1,4 @@
-## BRAINFEED - Courses
+## BRAINFEED - Courses [work in progress // unfinished list(s)]
 
 + [Finished](#finished)
    + [In 2019](#finished_2019)
