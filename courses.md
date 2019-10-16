@@ -56,4 +56,4 @@
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
-
+Lean Six Sigma - White Belt | | | 
