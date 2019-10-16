@@ -16,6 +16,8 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+10 | 
+09 | [Project Management Foundations: Risk](https://www.linkedin.com/learning/project-management-foundations-risk-3) | Bob McGannon | Project Management | LinkedIn Learning
 08 | [PHP - Advanced Features](https://www.udemy.com/course/php-advanced-features/) | Edwin Diaz | IT | Udemy | Improvement
 07 | [Learn what's new in PHP 7](https://www.udemy.com/course/php7-new-features/) | Lawrence Turton | IT | Udemy | Improvement
 06 | [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s) | Traversy Media | IT | YouTube | Refresher
