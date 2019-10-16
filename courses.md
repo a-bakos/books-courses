@@ -16,6 +16,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+08 | [PHP - Advanced Features](https://www.udemy.com/course/php-advanced-features/) | Edwin Diaz | IT | Udemy | Improvement
 07 | [Learn what's new in PHP 7](https://www.udemy.com/course/php7-new-features/) | Lawrence Turton | IT | Udemy | Improvement
 06 | [Async JS Crash Course - Callbacks, Promises, Async Await](https://www.youtube.com/watch?v=PoRJizFvM7s) | Traversy Media | IT | YouTube | Refresher
 05 | [Emmet For Faster HTML & CSS Workflow](https://www.youtube.com/watch?v=5BIAdWNcr8Y) | Traversy Media | IT | YouTube | New Skill
