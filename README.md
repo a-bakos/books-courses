@@ -169,6 +169,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/gp/product/1484219953/) | Apress
 Larry Ullman, Andreas Signer | [C++ Programming](https://www.amazon.co.uk/gp/product/B01FEKX3F4/) | Peachpit Press
 Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley
 Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
