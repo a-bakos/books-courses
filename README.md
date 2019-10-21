@@ -219,7 +219,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+Stephen R. Covey | [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/) | Simon and Schuster
 
 ---
 
