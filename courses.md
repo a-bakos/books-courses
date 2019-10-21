@@ -16,6 +16,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+11 | Lean Six Sigma White Belt Certification | | | T&F | Improvement / New skill
 10 | Managing Difficult People and Challenging Situations | | | Newbury College, Berkshire, UK | New Skill
 09 | [Project Management Foundations: Risk](https://www.linkedin.com/learning/project-management-foundations-risk-3) | Bob McGannon | Project Management | LinkedIn Learning | New Skill
 08 | [PHP - Advanced Features](https://www.udemy.com/course/php-advanced-features/) | Edwin Diaz | IT | Udemy | Improvement
