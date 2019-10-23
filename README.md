@@ -16,7 +16,6 @@ Reading list properly tracked from 2016.
 + [On the way](#on_the_way)
 + [Books that seem interesting / wishlist](#wishlist)
   + [JS](#wishlist_js)
-   + [NodeJS](#wishlist_js_node)
   + [Computing](#wishlist_computing)
   + [Design, UI, UX](#design)
   + [Business, soft-skills, psychology, etc.](#wishlist_others)
@@ -241,17 +240,10 @@ Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](http
 Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
 Stoyan Stefanov | [JavaScript Patterns](https://www.amazon.co.uk/d/Books/JavaScript-Patterns-Stoyan-Stefanov/0596806752/) | O'Reilly
 Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Object Model](https://www.amazon.co.uk/DOM-Scripting-Design-Javascript-Document/dp/1430233893/) | friendsofED
-Douglas Crockford | [JavaScript: The Good Parts](https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/) | O'Reilly
 Larry Ullman | [Modern JavaScript: Develop and Design](https://www.amazon.co.uk/Modern-JavaScript-Develop-Larry-Ullman/dp/0321812522/) | Peachpit Press
 Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Addy Osmani | [Learning JavaScript Design Patterns](https://www.amazon.co.uk/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/) | O'Reilly Media
 David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.amazon.co.uk/Effective-JavaScript-Specific-Software-Development/dp/0321812182/) | Addison Wesley
-
-<a id="wishlist_js_node"></a>
-#### Node.JS
-
-Author | Title | Publisher
------- | ----- | ---------
 Azat Mardan | [Practical Node.js](https://www.amazon.co.uk/Practical-Node-js-Building-Real-World-Scalable/dp/1430265957/) | Apress
 David Herron | [Node.js Web Development - Third Edition](https://www.amazon.co.uk/dp/1785881507) | Packt Publishing
 Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/) | The Pragmatic Bookshelf
@@ -269,7 +261,6 @@ Thomas Connolly, Carolyn Begg | [Database Systems: A Practical Approach to Desig
 Various authors | [Real-Life Responsive Web Design](https://shop.smashingmagazine.com/6824959/checkouts/45245d3cd372cad2215d6ae3d7b7ec0d) | Smashing Magazine
 Ian Sommerville | [Software Engineering, Global Edition](https://www.amazon.co.uk/dp/1292096136/) | Pearson
 Rachel Andrew | [The New CSS Layout](https://abookapart.com/products/the-new-css-layout) | A Book Apart
-David Sklar, Adam Trachtenberg | [PHP Cookbook: Solutions & Examples for PHP Programmers](https://www.amazon.co.uk/dp/144936375X/) | O'Reilly Media
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
 Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
 Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://www.amazon.co.uk/d/Books/Code-Simplicity-Fundamentals-Software-Max-Kanat-Alexander/1449313892/) | O'Reilly Media
@@ -519,7 +510,6 @@ Author | Title | Publisher
 ------ | ----- | ---------
 Alasdair Gilchrist | [Industry 4.0: The Industrial Internet of Things](https://www.amazon.co.uk/gp/product/1484220463/) | Apress
 Claire Rowland, Elizabeth Goodman, Martin Charlier, Ann Light, Alfred Lui | [Designing Connected Products: UX for the Consumer Internet of Things](https://www.amazon.co.uk/gp/product/1449372562) | O'Reilly
-
 
 ---
 
