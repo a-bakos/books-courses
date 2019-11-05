@@ -169,6 +169,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Stephen R. Covey | [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/) | Simon and Schuster
 Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/gp/product/1484219953/) | Apress
 Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley
 Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
@@ -178,7 +179,6 @@ Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) 
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Stephen R. Covey | [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/) | Simon and Schuster
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/printed-books/smashing-book-6-new-frontiers-in-web-design/) | Smashing Magazine
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
