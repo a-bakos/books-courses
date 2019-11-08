@@ -7,11 +7,13 @@ Ainsley Harriott | [Ainsley Harriott's Feel-Good Cookbook]() |  |
 Ainsley Harriott | [Ainsley Harriott's Friends & Family Cookbook]() |  | 
 Ainsley Harriott | [Ainsley Harriott's Low Fat Meals in Minutes]() |  | 
 Ainsley Harriott | [Ainsley Harriott's Meals in Minutes]() |  |
+Allegra McEvedy, Paul Merrett | [Economy Gastronomy: Eat Well for Less]() | Michael Joseph | 2009
 Dave Myers & Si King | [The Hairy Dieters]() |  | 
 David Loftus | [Around the World in 80 Dishes]() |  |
 Dorset Cereals | [The Breakfast Book]() | Pavilion | 2013
 Eleanor Maxfield | [1000 Recipes for Simple Family Food]() | Hamlyn  | 2010
-Ethan Phillips & William J. Birnes | [Star Trek Cookbook]() | | 
+Ethan Phillips & William J. Birnes | [Star Trek Cookbook]() | |
+Gary Rhodes | [Food with Friends]() |  | 
 Gennaro Contaldo | [Gennaro's Classic Italian Cookbook]() |  | 
 Gennaro Contaldo | [Gennaro's Italian Year]() |  | 
 Gennaro Contaldo | [Italian Home Cooking]() |  | 
