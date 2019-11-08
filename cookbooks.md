@@ -33,5 +33,13 @@ Jamie Oliver | [Jamie Oliver's Food Escape]() | |
 Jamie Oliver | [The Naked Chef]() | | 
 Jamie Oliver | [The Return of the Naked Chef]() | | 
 Jamie Oliver | [Veg](https://www.amazon.co.uk/Veg-Easy-Delicious-Meals-Everyone/dp/0718187768/) | Michael Joseph | 2019
+Nigella Lawson | [Feast]() |  | 
+Nigella Lawson | [Forever Summer]() |  | 
+Nigella Lawson | [How to be a Domestic Goddess]() |  | 
+Nigella Lawson | [Kitchen]() |  | 
+Nigella Lawson | [Nigella Bites]() |  | 
+Nigella Lawson | [Nigella Express]() |  | 
+Nigella Lawson | [Nigellissima]() |  | 
+Nigella Lawson | [Simply Nigella]() |  | 
 Tana Ramsay | [Tana's Kitchen Secrets]() |  | 
 Tana Ramsay | [Tana Ramsay's Family Kitchen]() |  | 
