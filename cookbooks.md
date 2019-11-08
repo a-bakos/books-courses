@@ -2,19 +2,24 @@
 
 Author | Title | Publisher | Year
 ------ | ----- | --------- | ----
-Jamie Oliver | [Cook with Jamie]() | | 
+David Loftus | [Around the World in 80 Dishes]() | | 
+Jamie Oliver | [Comfort Food]() | Michael Joseph | 
+Jamie Oliver | [Cook with Jamie]() | Michael Joseph | 
+Jamie Oliver | [Everyday Super Food]() | Michael Joseph | 
 Jamie Oliver | [Happy Days with the Naked Chef]() | |
 Jamie Oliver | [Jamie at Home]() | |
-Jamie Oliver | [Jamie does Spain]() | |
-Jamie Oliver | [Save with Jamie]() | |
-Jamie Oliver | [Super Food Family Classics]() | | 
-Jamie Oliver | [Jamie's 15-Minute Meals]() | |
-Jamie Oliver | [Jamies's 30-Minute Meals]() | | 
-Jamie Oliver | [Jamie's America]() | | 
-Jamie Oliver | [Jamie's Dinners]() | |
-Jamie Oliver | [Jamie's Great Britain]() | | 
-Jamie Oliver | [Jamie's Italy]() | |
-Jamie Oliver | [Jamie's Ministry of Food]() | |
+Jamie Oliver | [Jamie Cooks Italy]() | Michael Joseph | 
+Jamie Oliver | [Jamie does Spain]() | Michael Joseph |
+Jamie Oliver | [Save with Jamie]() | Michael Joseph |
+Jamie Oliver | [Super Food Family Classics]() | Michael Joseph | 
+Jamie Oliver | [Jamie's 15-Minute Meals]() | Michael Joseph |
+Jamie Oliver | [Jamies's 30-Minute Meals]() | Michael Joseph | 
+Jamie Oliver | [Jamie's America]() | Michael Joseph | 
+Jamie Oliver | [Jamie's Dinners]() | Ted Smart |
+Jamie Oliver | [Jamie's Great Britain]() | Michael Joseph | 
+Jamie Oliver | [Jamie's Italy]() | Michael Joseph |
+Jamie Oliver | [Jamie's Kitchen]() | Ted Smart |
+Jamie Oliver | [Jamie's Ministry of Food]() | Michael Joseph |
 Jamie Oliver | [Jamie Oliver's Food Escape]() | | 
 Jamie Oliver | [The Naked Chef]() | | 
 Jamie Oliver | [The Return of the Naked Chef]() | | 
