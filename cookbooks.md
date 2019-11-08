@@ -114,3 +114,14 @@ Author | Title | Publisher | Year
 ------ | ----- | --------- | ----
 Mautner Zsofi | [Karacsonyi Szinezo 15 Unnepi Recepttel]() |  |
 Mautner Zsofi, Szell Tamas | [Izek Nyomaban]() |  |
+
+## Sort these
+
+- my little chocolate book
+- chocolate box
+- simple cookery chocolate
+- chocolate kitchen library st michael
+- wok dishes hamlyn
+- women's weekly soup
+- Bake
+grandma's best recipes
