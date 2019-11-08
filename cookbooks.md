@@ -6,8 +6,13 @@ Ainsley Harriott | [Ainsley Harriott's Complete Gourmet Express]() |  |
 Ainsley Harriott | [Ainsley Harriott's Feel-Good Cookbook]() |  | 
 Ainsley Harriott | [Ainsley Harriott's Friends & Family Cookbook]() |  | 
 Ainsley Harriott | [Ainsley Harriott's Low Fat Meals in Minutes]() |  | 
-Ainsley Harriott | [Ainsley Harriott's Meals in Minutes]() |  | 
-David Loftus | [Around the World in 80 Dishes]() | |
+Ainsley Harriott | [Ainsley Harriott's Meals in Minutes]() |  |
+Dave Myers & Si King | [The Hairy Dieters]() |  | 
+David Loftus | [Around the World in 80 Dishes]() |  |
+Ethan Phillips & William J. Birnes | [Star Trek Cookbook]() | | 
+Gennaro Contaldo | [Gennaro's Classic Italian Cookbook]() |  | 
+Gennaro Contaldo | [Gennaro's Italian Year]() |  | 
+Gennaro Contaldo | [Italian Home Cooking]() |  | 
 Gizzi Erskine | [Gizzi's Kitchen Magic]() |  | 
 Gizzi Erskine | [Skinny Weeks & Weekend Feasts]() |  | 
 Gordon Ramsay | [Gordon's Great Escape]() |  | 
@@ -19,6 +24,7 @@ Gordon Ramsay | [Gordon Ramsay's Healthy Appetite]() |  |
 Gordon Ramsay | [Gordon Ramsay's Sunday Lunch]() |  | 
 Gordon Ramsay | [Gordon Ramsay's Ultimate Cookery Course]() |  | 
 Gordon Ramsay | [Gordon Ramsay's Ultimate Home Cooking]() |  | 
+Howden Joinery Ltd. | [30 Minute Asian Meals Made Simple]() | Howden Joinery Ltd | 2016
 James Martin | [The Collection with 300 Classic Recipes]() |  |
 James Martin | [The Great British Village Show Cookbook]() |  |
 Jamie Oliver | [Comfort Food]() | Michael Joseph | 
@@ -50,6 +56,7 @@ Mary Berry | [100 Sweet Treats and Puds]() |  |
 Mary Berry | [Cookery Course]() |  |
 Mary Berry | [Everyday]() |  |
 Mary Berry | [Mary Berry's Complete Cook Book]() |  | 
+Mireille Guiliano | [The French Women Don't Get Fat Cookbook]() |  |
 Mary Berry | [Quick Cooking]() |  |
 Nigella Lawson | [Feast]() |  | 
 Nigella Lawson | [Forever Summer]() |  | 
@@ -66,7 +73,11 @@ Rachel Allen | [Entertaining at Home]() |  |
 Rachel Allen | [Home Cooking]() |  | 
 Rachel Allen | [Rachel's Food for Living]() |  | 
 Rachel Allen | [Rachel Allen's Everyday Kitchen]() |  | 
+Rick Stein | [Rick Stein's Food Heroes]() |  | 
+Rick Stein | [Rick Stein's Mediterranean Escapes]() |  | 
+Rosemary Shrager | [Rosemary Shrager's Absolutely Foolproof Classic Home Cooking]() |  | 
 Tana Ramsay | [Tana's Kitchen Secrets]() |  | 
 Tana Ramsay | [Tana Ramsay's Family Kitchen]() |  | 
+Tim Halken | [Five Fat Hens]() |  |
 Tom Kerridge | [Tom Kerridge's Dopamine Diet]() |  | 
 Tom Kerridge | [Tom Kerridge's Proper Pub Food]() |  | 
