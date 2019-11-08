@@ -20,6 +20,7 @@ David Loftus | [Around the World in 80 Dishes]() |  |
 DK | [How Food Works]() | DK | 
 DK | [The Slow Cook Book]() | DK | 2011
 Donal Skehan | [Eat. Live. Go]() |  |
+Dorling Kindersley | [Great British Menu]() | DK | 2006
 Dorset Cereals | [The Breakfast Book]() | Pavilion | 2013
 Eleanor Maxfield | [1000 Recipes for Simple Family Food]() | Hamlyn  | 2010
 Ethan Phillips & William J. Birnes | [Star Trek Cookbook]() | |
@@ -39,8 +40,10 @@ Gordon Ramsay | [Gordon Ramsay's Healthy Appetite]() |  |
 Gordon Ramsay | [Gordon Ramsay's Sunday Lunch]() |  | 
 Gordon Ramsay | [Gordon Ramsay's Ultimate Cookery Course]() |  | 
 Gordon Ramsay | [Gordon Ramsay's Ultimate Home Cooking]() |  | 
+Heston Blumenthal | [In Search of Perfection]() |  |
 Howden Joinery Ltd. | [30 Minute Asian Meals Made Simple]() | Howden Joinery Ltd | 2016
 Hugh Fearnley-Whittingstall & Fizz Carr | [The River Cottage Family Cookbook]() |  |
+Hugh Fearnley-Whittingstall & Fizz Carr | [The River Cottage Year]() |  |
 James Martin | [The Collection with 300 Classic Recipes]() |  |
 James Martin | [The Great British Village Show Cookbook]() |  |
 Jamie Oliver | [Comfort Food]() | Michael Joseph | 
@@ -65,17 +68,21 @@ Jamie Oliver | [The Naked Chef]() | |
 Jamie Oliver | [The Return of the Naked Chef]() | | 
 Jamie Oliver | [Veg](https://www.amazon.co.uk/Veg-Easy-Delicious-Meals-Everyone/dp/0718187768/) | Michael Joseph | 2019
 Kristi Carlson | [Eat Like a Gilmore]() | Skyhorse Publishing | 2016
+Linda Doeser | [Just 4 Ingredients]() | Love Food |
 Lorraine Pascale | [A Lighter Way to Bake]() |  |
 Lorraine Pascale | [Baking Made Easy]() |  |
 Lorraine Pascale | [How to be a Better Cook]() |  |
 Lorraine Pascale | [Lorraine Pascale's Fast, Fresh and Easy Food]() |  |
+Lynne Tolley, Pat Mitchamore | [Jack Daniel's Spirit of Tennessee Cookbook](https://www.amazon.co.uk/Jack-Daniels-Spirit-Tennessee-Cookbook/dp/1558530010) | Rutledge Hill Press | 2010
 Mary Berry | [100 Sweet Treats and Puds]() |  |
 Mary Berry | [Cookery Course]() |  |
 Mary Berry | [Everyday]() |  |
 Mary Berry | [Mary Berry's Complete Cook Book]() |  | 
 Mireille Guiliano | [The French Women Don't Get Fat Cookbook]() |  |
 Mary Berry | [Quick Cooking]() |  |
+Natalie Coleman, Larkin Cen, Dale Williams | [MasterChef: the Finalists]() |  | 2013
 Nick Malgieri | [Nick Malgieri's Bread]() | Kyle Books | 2012
+Nick Nairn | [Cook School]() | Cassell | 2008
 Nigella Lawson | [Feast]() |  | 
 Nigella Lawson | [Forever Summer]() |  | 
 Nigella Lawson | [How to be a Domestic Goddess]() |  | 
@@ -84,6 +91,7 @@ Nigella Lawson | [Nigella Bites]() |  |
 Nigella Lawson | [Nigella Express]() |  | 
 Nigella Lawson | [Nigellissima]() |  | 
 Nigella Lawson | [Simply Nigella]() |  | 
+Parragon, Sara Lewis | [The Superfood Kitchen]() | Love Food | 2014
 Patricia Dunbar | [The Complete Cadbury's Cookbook]() | Bounty Books | 1994
 Paul Hollywood | [Paul Hollywood's British Baking]() |  | 
 Paul Hollywood | [Paul Hollywood's Pies & Puds]() |  | 
@@ -94,9 +102,12 @@ Rachel Allen | [Entertaining at Home]() |  |
 Rachel Allen | [Home Cooking]() |  | 
 Rachel Allen | [Rachel's Food for Living]() |  | 
 Rachel Allen | [Rachel Allen's Everyday Kitchen]() |  | 
+Reader's Digest | [Great Recipes for Good Health]() | Reader's Digest | 
 Rick Stein | [Rick Stein's Food Heroes]() |  | 
 Rick Stein | [Rick Stein's Mediterranean Escapes]() |  | 
+Rose Graya and Ruth Rogers | [The River Cafe Cook Book]() |  |
 Rosemary Shrager | [Rosemary Shrager's Absolutely Foolproof Classic Home Cooking]() |  | 
+Sally Bee | [The Secret Ingredient](https://www.amazon.co.uk/Secret-Ingredient-Sally-Bee/dp/0007344066) | Collins | 2010
 Sophie Grigson | [The Fairtrade Everyday Cookbook]() | DK | 2008
 Tana Ramsay | [Tana's Kitchen Secrets]() |  | 
 Tana Ramsay | [Tana Ramsay's Family Kitchen]() |  | 
@@ -112,8 +123,11 @@ Willie Harcourt-Cooze | [Willie's Chocolate Factory Cookbook]() |  |
 
 Author | Title | Publisher | Year
 ------ | ----- | --------- | ----
+Horvath Ilona | Szakacskonyv | | 
+Marosi Laszlone | 104 Hires Magyar Recept | |
 Mautner Zsofi | [Karacsonyi Szinezo 15 Unnepi Recepttel]() |  |
 Mautner Zsofi, Szell Tamas | [Izek Nyomaban]() |  |
+Stahl Magazin Valogatas | Inyenc Szarnyasok | |
 
 ## Sort these
 
@@ -124,4 +138,7 @@ Mautner Zsofi, Szell Tamas | [Izek Nyomaban]() |  |
 - wok dishes hamlyn
 - women's weekly soup
 - Bake
-grandma's best recipes
+- grandma's best recipes
+- Eger a levesben
+- 101 Hasznos Otlet - Csupa zoldseg
+- A sutes iskolaja kezdoknek es haladoknak
