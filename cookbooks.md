@@ -9,6 +9,8 @@ Ainsley Harriott | [Ainsley Harriott's Low Fat Meals in Minutes]() |  |
 Ainsley Harriott | [Ainsley Harriott's Meals in Minutes]() |  |
 Dave Myers & Si King | [The Hairy Dieters]() |  | 
 David Loftus | [Around the World in 80 Dishes]() |  |
+Dorset Cereals | [The Breakfast Book]() | Pavilion | 2013
+Eleanor Maxfield | [1000 Recipes for Simple Family Food]() | Hamlyn  | 2010
 Ethan Phillips & William J. Birnes | [Star Trek Cookbook]() | | 
 Gennaro Contaldo | [Gennaro's Classic Italian Cookbook]() |  | 
 Gennaro Contaldo | [Gennaro's Italian Year]() |  | 
@@ -68,6 +70,7 @@ Nigella Lawson | [Nigellissima]() |  |
 Nigella Lawson | [Simply Nigella]() |  | 
 Paul Hollywood | [Paul Hollywood's British Baking]() |  | 
 Paul Hollywood | [Paul Hollywood's Pies & Puds]() |  | 
+Professor Tim Noakes, Jonno Proudfoot, Sally-Ann Creed | [The Real Meal Revolution]() | Robinson | 2015
 Rachel Allen | [Easy Meals]() |  | 
 Rachel Allen | [Entertaining at Home]() |  | 
 Rachel Allen | [Home Cooking]() |  | 
