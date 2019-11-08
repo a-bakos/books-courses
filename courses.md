@@ -1,4 +1,4 @@
-## BRAINFEED - Courses [work in progress // incomplete list(s)]
+## BRAINFEED - Courses, workshop [work in progress // incomplete list(s)]
 
 + [Finished](#finished)
    + [In 2019](#finished_2019)
@@ -16,6 +16,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+12 | Growth Mindset | Talent4Performance | | Workshop | | 
 11 | Lean Six Sigma White Belt Certification | | | T&F | Improvement / New skill
 10 | Managing Difficult People and Challenging Situations | | | Newbury College, Berkshire, UK | New Skill
 09 | [Project Management Foundations: Risk](https://www.linkedin.com/learning/project-management-foundations-risk-3) | Bob McGannon | Project Management | LinkedIn Learning | New Skill
