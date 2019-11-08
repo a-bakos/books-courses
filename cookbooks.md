@@ -33,6 +33,11 @@ Jamie Oliver | [Jamie Oliver's Food Escape]() | |
 Jamie Oliver | [The Naked Chef]() | | 
 Jamie Oliver | [The Return of the Naked Chef]() | | 
 Jamie Oliver | [Veg](https://www.amazon.co.uk/Veg-Easy-Delicious-Meals-Everyone/dp/0718187768/) | Michael Joseph | 2019
+Mary Berry | [100 Sweet Treats and Puds]() |  |
+Mary Berry | [Cookery Course]() |  |
+Mary Berry | [Everyday]() |  |
+Mary Berry | [Mary Berry's Complete Cook Book]() |  | 
+Mary Berry | [Quick Cooking]() |  |
 Nigella Lawson | [Feast]() |  | 
 Nigella Lawson | [Forever Summer]() |  | 
 Nigella Lawson | [How to be a Domestic Goddess]() |  | 
@@ -41,5 +46,10 @@ Nigella Lawson | [Nigella Bites]() |  |
 Nigella Lawson | [Nigella Express]() |  | 
 Nigella Lawson | [Nigellissima]() |  | 
 Nigella Lawson | [Simply Nigella]() |  | 
+Rachel Allen | [Easy Meals]() |  | 
+Rachel Allen | [Entertaining at Home]() |  | 
+Rachel Allen | [Home Cooking]() |  | 
+Rachel Allen | [Rachel's Food for Living]() |  | 
+Rachel Allen | [Rachel Allen's Everyday Kitchen]() |  | 
 Tana Ramsay | [Tana's Kitchen Secrets]() |  | 
 Tana Ramsay | [Tana Ramsay's Family Kitchen]() |  | 
