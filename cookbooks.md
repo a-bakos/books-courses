@@ -71,6 +71,7 @@ Kristi Carlson | [Eat Like a Gilmore]() | Skyhorse Publishing | 2016
 Linda Doeser | [Just 4 Ingredients]() | Love Food |
 Lorraine Pascale | [A Lighter Way to Bake]() |  |
 Lorraine Pascale | [Baking Made Easy]() |  |
+Lorraine Pascale | [Eating Well Made Easy: Deliciously healthy recipes for everyone, every day]() | Harper Collins | 2015
 Lorraine Pascale | [How to be a Better Cook]() |  |
 Lorraine Pascale | [Lorraine Pascale's Fast, Fresh and Easy Food]() |  |
 Lynne Tolley, Pat Mitchamore | [Jack Daniel's Spirit of Tennessee Cookbook](https://www.amazon.co.uk/Jack-Daniels-Spirit-Tennessee-Cookbook/dp/1558530010) | Rutledge Hill Press | 2010
@@ -97,6 +98,7 @@ Paul Hollywood | [Paul Hollywood's British Baking]() |  |
 Paul Hollywood | [Paul Hollywood's Pies & Puds]() |  | 
 Pippa Middleton | [Celebrate]() |  |
 Professor Tim Noakes, Jonno Proudfoot, Sally-Ann Creed | [The Real Meal Revolution]() | Robinson | 2015
+Rachel Allen | [All Things Sweet]() | Harper Collins | 2014
 Rachel Allen | [Easy Meals]() |  | 
 Rachel Allen | [Entertaining at Home]() |  | 
 Rachel Allen | [Home Cooking]() |  | 
