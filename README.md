@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+1 | Jack Donovan | [The Way of Men](https://www.amazon.co.uk/Way-Men-Jack-Donovan/dp/0985452307/) |
 
 <a id="read_2019"></a>
 #### In 2019
@@ -444,7 +445,6 @@ Joseph O'Connor, John Seymour | [Introducing NLP Neuro-Linguistic Programming](h
 Rollo Tomassi | [The Rational Male](https://www.amazon.co.uk/Rational-Male-Rollo-Tomassi/dp/1492777862/) |
 Robert A. Glover | [No More Mr Nice Guy](https://www.amazon.co.uk/No-More-MR-Nice-Guy/dp/0762415339/) |
 Jack Donovan | [Becoming a Barbarian](https://www.amazon.co.uk/Becoming-Barbarian-Jack-Donovan/dp/0985452358/) |
-Jack Donovan | [The Way of Men](https://www.amazon.co.uk/Way-Men-Jack-Donovan/dp/0985452307/) |
 David Deida | [Way of the Superior Man](https://www.amazon.co.uk/Way-Superior-Man-David-Deida/dp/1591792576/) |
 Tim Ferriss | [The 4-Hour Body](https://www.amazon.co.uk/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0091939526/) |
 Ryan Holiday | [Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising](https://www.amazon.co.uk/Growth-Hacker-Marketing-Primer-Advertising/dp/1781254362/) | Profile
