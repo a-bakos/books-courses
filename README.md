@@ -32,7 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
-1 | Jack Donovan | [The Way of Men](https://www.amazon.co.uk/Way-Men-Jack-Donovan/dp/0985452307/) |
+1 | Jack Donovan | [The Way of Men](https://www.amazon.co.uk/Way-Men-Jack-Donovan/dp/0985452307/) | Dissonant Hum
 
 <a id="read_2019"></a>
 #### In 2019
@@ -177,6 +177,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Dominic Frisby | [Daylight Robbery: How Tax Shaped Our Past and Will Change Our Future](https://www.amazon.co.uk/Daylight-Robbery-Shaped-Change-Future/dp/0241360862/) | Portfolio Penguin
 Stephen R. Covey | [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/) | Simon and Schuster
 Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/gp/product/1484219953/) | Apress
 Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley
