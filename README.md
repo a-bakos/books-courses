@@ -13,7 +13,7 @@ Reading list properly tracked from 2016.
    + [before 2016 _incomplete_](#before_2016)
 + [Reading now](#reading_now)
 + [Yet to be read / finished / buffer](#to_be_read)
-+ [Donated, sold, Put aside, lost, etc.](#put_aside)
++ [Donated, sold, Put aside, lost, etc.](#meh_nah)
 + [On the way](#on_the_way)
 + [Books that seem interesting / wishlist](#wishlist)
   + [JS](#wishlist_js)
@@ -538,11 +538,14 @@ Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon
 
 ---
 
-<a id="put_aside"></a>
-### Donated, sold, put aside, lost, uninteresting, etc.
+<a id="meh_nah"></a>
+### Donated, sold, lost, uninteresting, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley
+Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published
+Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine
 Bob Volman | [Forex Price Action Scalping](https://www.amazon.co.uk/gp/product/9090264116) | Light Tower Publishing
  | Above the fold |
  | Content strategy for the web |
