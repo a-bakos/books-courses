@@ -214,7 +214,6 @@ Marc Abrahams | [This Is Improbable](https://www.amazon.co.uk/This-Improbable-Ma
 Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
 Nicholas C. Zakas | [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.co.uk/dp/1593277571/) | No Starch Press
-GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.uk/Understanding-Professional-Programmer-GM-Weinberg/dp/0932633099/) | John Wiley & Sons
 Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/Complete-Guide-Software-Testing/dp/0471565679/) | John Wiley & Sons
 Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/0007320760/) | Harper Element
 Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/) | Harper Perennial
@@ -541,6 +540,7 @@ Bob Volman | [Forex Price Action Scalping](https://www.amazon.co.uk/gp/product/9
 
 Author | Title | Publisher
 ------ | ----- | ---------
+GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.uk/Understanding-Professional-Programmer-GM-Weinberg/dp/0932633099/) | John Wiley & Sons
 Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Marc Wandschneider | [Learning Node.js](https://www.amazon.co.uk/gp/product/0134663705/) | Addison Wesley
 Hassan Djirdeh, Nate Murray, Ari Lerner | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.co.uk/gp/product/1987595297/) | CreateSpace
