@@ -13,7 +13,7 @@ Reading list properly tracked from 2016.
    + [before 2016 _incomplete_](#before_2016)
 + [Reading now](#reading_now)
 + [Yet to be read / finished / buffer](#to_be_read)
-+ [Put aside, lost, etc.](#put_aside)
++ [Donated, sold, Put aside, lost, etc.](#put_aside)
 + [On the way](#on_the_way)
 + [Books that seem interesting / wishlist](#wishlist)
   + [JS](#wishlist_js)
@@ -539,7 +539,7 @@ Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon
 ---
 
 <a id="put_aside"></a>
-### Put aside, lost, uninteresting, etc.
+### Donated, sold, put aside, lost, uninteresting, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
