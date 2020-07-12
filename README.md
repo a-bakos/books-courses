@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+4 | DK | [How Money Works: The Facts Visually Explained](https://www.amazon.co.uk/How-Money-Works-Visually-Explained/dp/024122599X) | DK
 3 | Mark Douglas | [Trading in the Zone](https://www.amazon.co.uk/gp/product/0735201447) | Nyif
 2 | DVSA | The Official Highway Code | TSO
 1 | Jack Donovan | [The Way of Men](https://www.amazon.co.uk/Way-Men-Jack-Donovan/dp/0985452307/) | Dissonant Hum
