@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+6 | Phil M. Jones | [Exactly What to Say: The Magic Words for Influence and Impact](https://www.amazon.co.uk/Exactly-What-Say-Influence-Impact/dp/1989025005/) (audiobook) |  Page Two
 5 | DK | [How Business Works: The Facts Simply Explained](https://www.amazon.co.uk/How-Business-Works-Simply-Explained/dp/0241006937/) | DK
 4 | DK | [How Money Works: The Facts Visually Explained](https://www.amazon.co.uk/How-Money-Works-Visually-Explained/dp/024122599X) | DK
 3 | Mark Douglas | [Trading in the Zone](https://www.amazon.co.uk/gp/product/0735201447) | Nyif
