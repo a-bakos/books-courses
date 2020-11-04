@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+9 | Dominic Frisby | [Bitcoin: The Future of Money? ](https://www.amazon.co.uk/Bitcoin-Future-Money-Dominic-Frisby/dp/1783520779) | Unbound 
 8 | Jason Stapleton | [The Nomadic Wealth Formula](https://www.amazon.co.uk/Nomadic-Wealth-Formula-predictable-sustainable/dp/B08HGPPMS4) | Independently published
 7 | Daniel Drescher | [Blockchain Basics: A Non-Technical Introduction in 25 Steps](https://www.amazon.co.uk/gp/product/1484226038/) | Apress
 6 | Phil M. Jones | [Exactly What to Say: The Magic Words for Influence and Impact](https://www.amazon.co.uk/Exactly-What-Say-Influence-Impact/dp/1989025005/) (audiobook) |  Page Two
