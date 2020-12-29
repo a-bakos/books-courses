@@ -32,6 +32,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+11 | Steven Pressfield | [The War of Art](https://www.amazon.co.uk/War-Art-Through-Creative-Battles/dp/1936891026/) | Black Irish Entertainment LLC
 10 | Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley
 9 | Dominic Frisby | [Bitcoin: The Future of Money? ](https://www.amazon.co.uk/Bitcoin-Future-Money-Dominic-Frisby/dp/1783520779) | Unbound 
 8 | Jason Stapleton | [The Nomadic Wealth Formula](https://www.amazon.co.uk/Nomadic-Wealth-Formula-predictable-sustainable/dp/B08HGPPMS4) | Independently published
