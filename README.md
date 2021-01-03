@@ -215,10 +215,8 @@ Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.sma
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Lauren Graham | [Talking As Fast As I Can](https://www.amazon.co.uk/Talking-As-Fast-Can-Everything/dp/0349009724/) | Virago
-Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly | For sale
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
 Tim Ferriss | [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.co.uk/Tools-Titans-Billionaires-World-Class-Performers/dp/1785041274/) | Vermilion
-Tom Standage | [The Mechanical Turk: The True Story of the Chess-Playing Machine That Fooled the World](https://www.amazon.co.uk/Mechanical-Turk-Chess-Playing-Machine-Fooled/dp/0713995254/) | Allen Lane
 Benedict Carey | [How We Learn: Throw out the rule book and unlock your brain's potential](https://www.amazon.co.uk/dp/1447286340/) | Macmillan
 Michael J. Gelb | [How to Think Like Leonardo Da Vinci: Seven Steps to Genius Every Day](https://www.amazon.co.uk/How-Think-Like-Leonardo-Vinci/dp/0440508274/) | Dell Publishing
 Tony Buzan | [Speed Reading](https://www.amazon.co.uk/SPEED-READING-Author-21-2006-Paperback/dp/B00I6Z0CAY/) |
@@ -555,23 +553,35 @@ Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon
 <a id="meh_nah"></a>
 ### Unread & Donated / sold / lost / uninteresting, etc.
 
-Author | Title | Publisher
------- | ----- | ---------
+Author | Title | Publisher | Note
+------ | ----- | --------- | ----
+Marc Gregoire | Professional C++ (Fourth edition) | | For sale
+Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley | Sold
+Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley | For sale
+Vladimir Poltoratskiy | Trading Code Is Open | Independently published | For sale
+Paul Langer | [The Black Book of Forex Trading](https://www.amazon.co.uk/gp/product/1517760577/) | CreateSpace | For sale
+Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books | Donated
+Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published | Donated
+Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley | Sold
+Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com | Donated
+Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co.uk/Digital-Ideas-Really-Need-Know/dp/0857385461/) | Quercus
+Tom Standage | [The Mechanical Turk: The True Story of the Chess-Playing Machine That Fooled the World](https://www.amazon.co.uk/Mechanical-Turk-Chess-Playing-Machine-Fooled/dp/0713995254/) | Allen Lane
+Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly | For sale
 Bob Volman | [Forex Price Action Scalping](https://www.amazon.co.uk/gp/product/9090264116) | Light Tower Publishing | Sold / Unread
-GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.uk/Understanding-Professional-Programmer-GM-Weinberg/dp/0932633099/) | John Wiley & Sons
-Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
-Marc Wandschneider | [Learning Node.js](https://www.amazon.co.uk/gp/product/0134663705/) | Addison Wesley
-Hassan Djirdeh, Nate Murray, Ari Lerner | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.co.uk/gp/product/1987595297/) | CreateSpace
-Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com
-Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley
-Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published
-Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine
- | Above the Fold |
- | Content Strategy for the Web |
-Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe
+GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.uk/Understanding-Professional-Programmer-GM-Weinberg/dp/0932633099/) | John Wiley & Sons | Donated
+Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688 | Sold
+Marc Wandschneider | [Learning Node.js](https://www.amazon.co.uk/gp/product/0134663705/) | Addison Wesley | Sold
+Hassan Djirdeh, Nate Murray, Ari Lerner | [Fullstack Vue: The Complete Guide to Vue.js](https://www.amazon.co.uk/gp/product/1987595297/) | CreateSpace | Sold
+Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com | Donated
+Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley | Sold
+Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published | Donated
+Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine | Sold
+Brian Miller | [Above the Fold](https://www.amazon.co.uk/Above-Fold-Understanding-Principles-Successful/dp/144030842X/) | How Books | Sold
+Kristina Halvorson, Melissa Rach | [Content Strategy for the Web](https://www.amazon.co.uk/Content-Strategy-Voices-That-Matter/dp/0321808304) | New Riders | Sold
+Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.amazon.co.uk/dp/032170178X/) | Adobe | Never arrived
 Robert Kelsey | [What's stopping you?](https://www.amazon.co.uk/Whats-Stopping-You-People-Potential/dp/0857083074/) | Capstone
-Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black
-Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press
+Antony Mayfield | [Me and my web shadow](https://www.amazon.co.uk/d/Books/Me-My-Web-Shadow-Reputation/1408119080/) | A & C Black | Donated
+Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press | Donated
 
 ---
 
