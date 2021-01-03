@@ -555,7 +555,7 @@ Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
-Marc Gregoire | Professional C++ (Fourth edition) | | For sale
+Marc Gregoire | [Professional C++ (Fourth edition)](https://www.amazon.co.uk/Professional-C-Marc-Gregoire/dp/1119421306) | Wrox | For sale
 Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley | Sold
 Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley | For sale
 Vladimir Poltoratskiy | Trading Code Is Open | Independently published | For sale
