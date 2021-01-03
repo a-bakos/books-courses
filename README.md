@@ -116,12 +116,12 @@ Reading list properly tracked from 2016.
 <a id="read_2017"></a>
 #### In 2017
 
-\# | Author | Title | Publisher
--- | ------ | ----- | ---------
+\# | Author | Title | Publisher | Note
+-- | ------ | ----- | --------- | ----
 35 | Perry Marshall | [80/20 Sales and Marketing](https://www.amazon.co.uk/d/cka/80-20-Sales-Marketing-Perry-Marshall/1599185059/) |
 34 | Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 33 | Chris Coyier | [Practical SVG](https://abookapart.com/products/practical-svg) | A Book Apart
-32 | Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness
+32 | Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness | For sale
 31 | Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
 30 | Thord Daniel Hedengren | [Smashing WordPress](https://www.amazon.co.uk/Smashing-WordPress-Beyond-Blog-Magazine/dp/1119942713/) | John Wiley & Sons
 29 | Lindsay Bassett | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.co.uk/gp/product/1491929480/) | O'Reilly
@@ -555,6 +555,7 @@ Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness | For sale
 Vladimir Poltoratskiy | Trading Code Is Open, Book 1 | Independently published | For sale
 Vladimir Poltoratskiy | Trading Code Is Open, Book 2 | Independently published | For sale
 Vladimir Poltoratskiy | Trading Code Is Open, Book 3 | Independently published | For sale
@@ -562,7 +563,6 @@ Vladimir Poltoratskiy | Trading Code Is Open, Book 4 | Independently published |
 Marc Gregoire | [Professional C++ (Fourth edition)](https://www.amazon.co.uk/Professional-C-Marc-Gregoire/dp/1119421306) | Wrox | For sale
 Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley | Sold
 Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley | For sale
-Vladimir Poltoratskiy | Trading Code Is Open | Independently published | For sale
 Paul Langer | [The Black Book of Forex Trading](https://www.amazon.co.uk/gp/product/1517760577/) | CreateSpace | For sale
 Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books | Donated
 Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published | Donated
