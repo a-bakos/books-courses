@@ -5,6 +5,7 @@ Technical, non-fiction, self-growth, business.
 Reading list properly tracked from 2016.
 
 + [Read](#read)
+   + [In 2021](#read_2021)
    + [In 2020](#read_2020)
    + [In 2019](#read_2019)
    + [In 2018](#read_2018)
@@ -27,11 +28,19 @@ Reading list properly tracked from 2016.
 <a id="read"></a>
 ## Finished reading
 
+<a id="read_2021"></a>
+#### In 2021
+
+\# | Author | Title | Publisher
+-- | ------ | ----- | ---------
+
+
 <a id="read_2020"></a>
 #### In 2020
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
+12 | Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley
 11 | Steven Pressfield | [The War of Art](https://www.amazon.co.uk/War-Art-Through-Creative-Battles/dp/1936891026/) | Black Irish Entertainment LLC
 10 | Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley
 9 | Dominic Frisby | [Bitcoin: The Future of Money? ](https://www.amazon.co.uk/Bitcoin-Future-Money-Dominic-Frisby/dp/1783520779) | Unbound 
