@@ -38,11 +38,11 @@ Reading list properly tracked from 2016.
 <a id="read_2020"></a>
 #### In 2020
 
-\# | Author | Title | Publisher
--- | ------ | ----- | ---------
-12 | Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley
+\# | Author | Title | Publisher | Note
+-- | ------ | ----- | --------- | ----
+12 | Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley | For sale
 11 | Steven Pressfield | [The War of Art](https://www.amazon.co.uk/War-Art-Through-Creative-Battles/dp/1936891026/) | Black Irish Entertainment LLC
-10 | Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley
+10 | Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley | Sold
 9 | Dominic Frisby | [Bitcoin: The Future of Money? ](https://www.amazon.co.uk/Bitcoin-Future-Money-Dominic-Frisby/dp/1783520779) | Unbound 
 8 | Jason Stapleton | [The Nomadic Wealth Formula](https://www.amazon.co.uk/Nomadic-Wealth-Formula-predictable-sustainable/dp/B08HGPPMS4) | Independently published
 7 | Daniel Drescher | [Blockchain Basics: A Non-Technical Introduction in 25 Steps](https://www.amazon.co.uk/gp/product/1484226038/) | Apress
@@ -56,8 +56,8 @@ Reading list properly tracked from 2016.
 <a id="read_2019"></a>
 #### In 2019
 
-\# | Author | Title | Publisher
--- | ------ | ----- | ---------
+\# | Author | Title | Publisher | Note
+-- | ------ | ----- | --------- | ----
 18 | Larry Ullman, Andreas Signer | [C++ Programming](https://www.amazon.co.uk/gp/product/B01FEKX3F4/) | Peachpit Press
 17 | Cal Evans | [Going Pro](https://leanpub.com/goingpro) (ebook) | LeanPub
 16 | Ray Dalio | [Principles: Life and Work](https://www.amazon.co.uk/Principles-Life-Work-Ray-Dalio/dp/1501124021/) | Simon & Schuster
@@ -70,8 +70,8 @@ Reading list properly tracked from 2016.
 09 | Michael Lewis | [The Big Short](https://www.amazon.co.uk/Big-Short-Inside-Doomsday-Machine/) | Penguin
 08 | Larry Pesavento, Leslie Jouflas | [Trade What You See](https://www.amazon.co.uk/Trade-What-You-See-Recognition/dp/047010676X/) | Wiley
 07 | John Stepek | [The Sceptical Investor](https://harriman-house.com/thescepticalinvestor) | Harriman House
-06 | Vladimir Poltoratskiy | Trading Code Is Open | Independently published
-05 | Paul Langer | [The Black Book of Forex Trading](https://www.amazon.co.uk/gp/product/1517760577/) | CreateSpace 
+06 | Vladimir Poltoratskiy | Trading Code Is Open | Independently published | For sale
+05 | Paul Langer | [The Black Book of Forex Trading](https://www.amazon.co.uk/gp/product/1517760577/) | CreateSpace | For sale
 04 | Zack Carr, Dr Andrew Aziz | [How to Trade Forex and Currency Markets](https://www.amazon.co.uk/Trade-Forex-Currency-Markets-Understanding/dp/1980450722/) | CreateSpace
 03 | Várkuti Géza | FOREX Trading - Az alapoktól a mesterfogásokig | Fekete Sas Kiadó
 02 | Dr Andrew Aziz | [How to Day Trade for a Living](https://www.amazon.co.uk/gp/product/1535585951) | CreateSpace
@@ -80,8 +80,8 @@ Reading list properly tracked from 2016.
 <a id="read_2018"></a>
 #### In 2018
 
-\# | Author | Title | Publisher
--- | ------ | ----- | ---------
+\# | Author | Title | Publisher | Note
+-- | ------ | ----- | --------- | ----
 30 | John C. Bogle | [The Little Book of Common Sense Investing](https://www.amazon.co.uk/gp/product/1119404509/) | John Wiley & Sons
 29 | DVSA | The Official DVSA Theory Test for Car Drivers | TSO
 28 | Stephen Sutherland | [How to Make Money in ISAs and SIPPs: Tax-efficient Investing Made Easy](https://www.amazon.co.uk/gp/product/1783063289/) | Matador
@@ -94,7 +94,7 @@ Reading list properly tracked from 2016.
 21 | Lars Kroijer | [Investing Demystified](https://www.amazon.co.uk/Investing-Demystified-investment-portfolio-Financial/dp/1292156120/) | FT Publishing
 20 | Andy Maslen | [Write To Sell: The Ultimate Guide to Great Copywriting](https://www.amazon.co.uk/Write-Sell-Ultimate-Guide-Copywriting/dp/046209975X/) | Marshall Cavendish
 19 | Rob Moore | [Money](https://www.amazon.co.uk/gp/product/1473641322/) | John Murray Learning
-18 | Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books
+18 | Graham Allcott | [How to Be a Productivity Ninja](https://www.amazon.co.uk/gp/product/178578028X/) | Icon Books | Donated
 17 | Ónodi György | Feketeleves - Avagy volt egyszer egy Heti Hetes | Jaffa
 16 | Davey Shafik, Lorna Mitchell, Matthew Turland | [PHP Master: Write Cutting Edge Code](https://www.amazon.co.uk/gp/product/0987090879/) | SitePoint
 15 | Lorna Jane Mitchell | [PHP Web Services: APIs for the Modern Web](https://www.amazon.co.uk/gp/product/1491933097) | O'Reilly
@@ -126,18 +126,18 @@ Reading list properly tracked from 2016.
 30 | Thord Daniel Hedengren | [Smashing WordPress](https://www.amazon.co.uk/Smashing-WordPress-Beyond-Blog-Magazine/dp/1119942713/) | John Wiley & Sons
 29 | Lindsay Bassett | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.co.uk/gp/product/1491929480/) | O'Reilly
 28 | Alan Forbes | [The Joy of Bootstrap](https://www.amazon.co.uk/gp/product/1522792813/) | CreateSpace
-27 | Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine
+27 | Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine | Sold
 26 | Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
 25 | Heydon Pickering | [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) | Smashing Magazine
 24 | Jules Goddard, Tony Eccles | [Uncommon Sense, Common Nonsense: Why Some Organisations Consistently Outperform Others](https://www.amazon.co.uk/Uncommon-Sense-Common-Nonsense-Organisations/dp/1846686024/) | Profile Books
 23 | Jon Duckett | [HTML & Css: Design and Build Websites](https://www.amazon.co.uk/HTML-CSS-Design-Build-Sites/dp/1118008189/) | John Wiley & Sons
 22 | Marc Lawson & Steve Hackney | [Why Businesses Stop Growing](https://www.amazon.co.uk/Why-Businesses-Stop-Growing-About/dp/1495277828/) | AFT Publishing
 21 | Edwin A. Abbott | [Flatland: A Romance of Many Dimensions](https://www.amazon.co.uk/Flatland-Romance-Dimensions-Dover-Thrift/dp/048627263X/) | Dover Publications
-20 | Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published
+20 | Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published | Donated
 19 | Jeremy Sydik | [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms](https://www.amazon.co.uk/Design-Accessible-Web-Sites-Programmers/dp/1934356026/) | Pragmatic Bookshelf
-18 | Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley
+18 | Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley | Sold
 17 | Alex Becker | [10 Pillars of Wealth: Mind-Sets of the World's Wealthiest People](https://www.amazon.co.uk/dp/1612549209/) | Brown Books Publishing
-16 | Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com
+16 | Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com | Donated
 15 | Rolf Dobelli | [The Art of Thinking Clearly](https://www.amazon.co.uk/Art-Thinking-Clearly-Better-Decisions/dp/1444759566/) | Sceptre
 14 | Kyle Simpson | [You Don't Know JS: Types & Grammar](https://www.amazon.co.uk/You-Dont-Know-JS-Grammar/dp/1491904194/) | O'Reilly Media
 13 | Grant Cardone | [Be Obsessed or Be Average](https://www.amazon.co.uk/d/Books/Be-Obsessed-Average-Grant-Cardone/1101981059/) | Portfolio
@@ -197,24 +197,25 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Brent Donnelly | [The Art of Currency Trading](https://www.amazon.co.uk/Art-Currency-Trading-Professionals-Exchange/dp/1119583551/) | Wiley
+
+<a id="to_be_read"></a>
+### Yet to be read / finished / buffer:
+
+Author | Title | Publisher | Note
+------ | ----- | --------- | ----
 Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 Dominic Frisby | [Daylight Robbery: How Tax Shaped Our Past and Will Change Our Future](https://www.amazon.co.uk/Daylight-Robbery-Shaped-Change-Future/dp/0241360862/) | Portfolio Penguin
 Stephen R. Covey | [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/) | Simon and Schuster
 Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/gp/product/1484219953/) | Apress
 Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley
 Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
-
-<a id="to_be_read"></a>
-### Yet to be read / finished / buffer:
-
-Author | Title | Publisher
------- | ----- | ---------
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/printed-books/smashing-book-6-new-frontiers-in-web-design/) | Smashing Magazine
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
 Robert C. Martin | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/gp/product/0134494164/) | Prentice Hall
 Lauren Graham | [Talking As Fast As I Can](https://www.amazon.co.uk/Talking-As-Fast-Can-Everything/dp/0349009724/) | Virago
-Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly
+Matt Stauffer | [Laravel - Up and Running](https://www.amazon.co.uk/gp/product/1491936088) | O'Reilly | For sale
 Dan Charnas | [Work Clean: The Life-Changing Power of Mise-En-Place to Organize Your Life, Work and Mind](https://www.amazon.co.uk/Work-Clean-Life-Changing-Mise-En-Place-Organize/dp/0241200334) | Portfolio Penguin
 Tim Ferriss | [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers](https://www.amazon.co.uk/Tools-Titans-Billionaires-World-Class-Performers/dp/1785041274/) | Vermilion
 Tom Standage | [The Mechanical Turk: The True Story of the Chess-Playing Machine That Fooled the World](https://www.amazon.co.uk/Mechanical-Turk-Chess-Playing-Machine-Fooled/dp/0713995254/) | Allen Lane
@@ -244,7 +245,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-none atm | | 
+Marko Papic | [Geopolitical Alpha: An Investment Framework for Predicting the Future](https://www.amazon.co.uk/Geopolitical-Alpha-Investment-Framework-Predicting/dp/1119740215) | Wiley
 
 ---
 
@@ -548,15 +549,15 @@ Niels Jensen | [End of Indexing](https://www.amazon.co.uk/End-Indexing-Structura
 Tim Price | [Investing Through the Looking Glass](https://www.amazon.co.uk/dp/0857195360/) | Harriman House
 Robert T. Kiyosaki | [Rich Dad's Guide to Investing](https://www.amazon.co.uk/dp/1612680208) | Plata Publishing
 Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon.co.uk/dp/1471164934/) | Simon & Schuster UK
-Bob Volman | [Forex Price Action Scalping](https://www.amazon.co.uk/gp/product/9090264116) | Light Tower Publishing
 
 ---
 
 <a id="meh_nah"></a>
-### Donated, sold, lost, uninteresting, etc.
+### Unread & Donated / sold / lost / uninteresting, etc.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Bob Volman | [Forex Price Action Scalping](https://www.amazon.co.uk/gp/product/9090264116) | Light Tower Publishing | Sold / Unread
 GM Weinberg | [Understanding the Professional Programmer](https://www.amazon.co.uk/Understanding-Professional-Programmer-GM-Weinberg/dp/0932633099/) | John Wiley & Sons
 Juho Tuomas Vepsäläinen, Jesús Rodríguez Rodríguez, Artem Sapegin, Pedr Browne, Tobias Koppers | [SurviveJS - Webpack: From apprentice to master](https://www.amazon.co.uk/dp/9526868803/) | 978-952-68688
 Marc Wandschneider | [Learning Node.js](https://www.amazon.co.uk/gp/product/0134663705/) | Addison Wesley
