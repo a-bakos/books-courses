@@ -71,3 +71,13 @@ Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
 Rust in Motion | Carol Nichols & Steve Klabnik | Programming | Manning Publications
 The Rust Programming Language | Dmitri Nesteruk | Programming | Udemy
+
+<a id="upcoming"></a>
+## Upcoming
+
+Title | Instructor | Category | Platform
+----- | ---------- | -------- | --------
+Building Reusable Code with Rust | | Programming | Udemy
+Hands-On Data Structures and Algorithms in Rust | | Programming | Udemy
+Hands-On Systems Programming with Rust | | Programming | Udemy
+
