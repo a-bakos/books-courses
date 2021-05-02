@@ -22,6 +22,15 @@
 02 | Rust Essential Training | Barron Stone | IT | LinkedIn Learning | New skill
 01 | Ultimate Rust Crash Course | Nathan Stocks | IT | Udemy | New skill
 
+
+<a id="finished_2020"></a>
+#### In 2020
+
+\# | Title | Instructor | Category | Platform | Goal
+-- | ----- | ---------- | -------- | -------- | ----
+02 | Trading Mastery | Jason Stapleton | Business | Kajabi | 
+01 | Knowledge Revolution | Jason Stapleton | Business | Kajabi | 
+
 <a id="finished_2019"></a>
 #### In 2019
 
