@@ -17,6 +17,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+02 | Rust Programming For Beginners | Jayson Lennon | Programming | Udemy | New skill
 01 | Ultimate Rust Crash Course | Nathan Stocks | Programming | Udemy | New skill
 
 <a id="finished_2019"></a>
