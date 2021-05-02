@@ -1,6 +1,7 @@
 ## BRAINFEED - Courses, workshop [work in progress // incomplete list(s)]
 
 + [Finished](#finished)
+   + [In 2021](#finished_2021)
    + [In 2019](#finished_2019)
    + [In 2018](#finished_2018)
    + [Before 2018](#before_2018)
@@ -10,6 +11,13 @@
 
 <a id="finished"></a>
 ## Finished courses
+
+<a id="finished_2021"></a>
+#### In 2021
+
+\# | Title | Instructor | Category | Platform | Goal
+-- | ----- | ---------- | -------- | -------- | ----
+01 | Ultimate Rust Crash Course | Nathan Stocks | Programming | Udemy | New skill
 
 <a id="finished_2019"></a>
 #### In 2019
