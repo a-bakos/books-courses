@@ -69,4 +69,5 @@
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
-Lean Six Sigma - White Belt | | | 
+Rust in Motion | Carol Nichols & Steve Klabnik | Programming | Manning Publications
+The Rust Programming Language | Dmitri Nesteruk | Programming | Udemy
