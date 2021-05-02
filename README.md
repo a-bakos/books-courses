@@ -40,7 +40,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
-12 | Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley | For sale
+12 | Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley | Sold
 11 | Steven Pressfield | [The War of Art](https://www.amazon.co.uk/War-Art-Through-Creative-Battles/dp/1936891026/) | Black Irish Entertainment LLC
 10 | Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley | Sold
 9 | Dominic Frisby | [Bitcoin: The Future of Money? ](https://www.amazon.co.uk/Bitcoin-Future-Money-Dominic-Frisby/dp/1783520779) | Unbound 
@@ -71,7 +71,7 @@ Reading list properly tracked from 2016.
 08 | Larry Pesavento, Leslie Jouflas | [Trade What You See](https://www.amazon.co.uk/Trade-What-You-See-Recognition/dp/047010676X/) | Wiley
 07 | John Stepek | [The Sceptical Investor](https://harriman-house.com/thescepticalinvestor) | Harriman House
 06 | Vladimir Poltoratskiy | Trading Code Is Open | Independently published | For sale
-05 | Paul Langer | [The Black Book of Forex Trading](https://www.amazon.co.uk/gp/product/1517760577/) | CreateSpace | For sale
+05 | Paul Langer | [The Black Book of Forex Trading](https://www.amazon.co.uk/gp/product/1517760577/) | CreateSpace | Sold
 04 | Zack Carr, Dr Andrew Aziz | [How to Trade Forex and Currency Markets](https://www.amazon.co.uk/Trade-Forex-Currency-Markets-Understanding/dp/1980450722/) | CreateSpace
 03 | Várkuti Géza | FOREX Trading - Az alapoktól a mesterfogásokig | Fekete Sas Kiadó
 02 | Dr Andrew Aziz | [How to Day Trade for a Living](https://www.amazon.co.uk/gp/product/1535585951) | CreateSpace
