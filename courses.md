@@ -17,10 +17,10 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
-04 | [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/?WT.mc_id=javascript-00000-wachegha) |  | Programming | Microsoft | New skill
-03 | [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/) | Jayson Lennon | Programming | Udemy | New skill
-02 | Rust Essential Training | Barron Stone | Programming | LinkedIn Learning | New skill
-01 | Ultimate Rust Crash Course | Nathan Stocks | Programming | Udemy | New skill
+04 | [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/?WT.mc_id=javascript-00000-wachegha) |  | IT | Microsoft | New skill
+03 | [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/) | Jayson Lennon | IT | Udemy | New skill
+02 | Rust Essential Training | Barron Stone | IT | LinkedIn Learning | New skill
+01 | Ultimate Rust Crash Course | Nathan Stocks | IT | Udemy | New skill
 
 <a id="finished_2019"></a>
 #### In 2019
@@ -69,15 +69,15 @@
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
-Rust in Motion | Carol Nichols & Steve Klabnik | Programming | Manning Publications
-The Rust Programming Language | Dmitri Nesteruk | Programming | Udemy
+Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
+The Rust Programming Language | Dmitri Nesteruk | IT | Udemy
 
 <a id="upcoming"></a>
 ## Upcoming
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
-Building Reusable Code with Rust | | Programming | Udemy
-Hands-On Data Structures and Algorithms in Rust | | Programming | Udemy
-Hands-On Systems Programming with Rust | | Programming | Udemy
+Building Reusable Code with Rust | | IT | Udemy
+Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
+Hands-On Systems Programming with Rust | | IT | Udemy
 
