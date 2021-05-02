@@ -17,6 +17,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+04 | Take your first steps with Rust |  | Programming | Microsoft | New skill
 03 | Rust Programming For Beginners | Jayson Lennon | Programming | Udemy | New skill
 02 | Rust Essential Training | Barron Stone | Programming | LinkedIn Learning | New skill
 01 | Ultimate Rust Crash Course | Nathan Stocks | Programming | Udemy | New skill
