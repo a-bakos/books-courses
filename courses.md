@@ -23,7 +23,7 @@
 04 | [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/?WT.mc_id=javascript-00000-wachegha) |  | IT | Microsoft | New skill
 03 | [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/) | Jayson Lennon | IT | Udemy | New skill
 02 | Rust Essential Training | Barron Stone | IT | LinkedIn Learning | New skill
-01 | Ultimate Rust Crash Course | Nathan Stocks | IT | Udemy | New skill
+01 | [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/) | Nathan Stocks | IT | Udemy | New skill
 
 
 <a id="finished_2020"></a>
