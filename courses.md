@@ -19,6 +19,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+05 | [The Rust Programming Language](https://www.udemy.com/course/rust-lang/) | Dmitri Nesteruk | IT | Udemy | New skill 
 04 | [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/?WT.mc_id=javascript-00000-wachegha) |  | IT | Microsoft | New skill
 03 | [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/) | Jayson Lennon | IT | Udemy | New skill
 02 | Rust Essential Training | Barron Stone | IT | LinkedIn Learning | New skill
