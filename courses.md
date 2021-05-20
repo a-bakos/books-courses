@@ -91,4 +91,5 @@ Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
 Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
 Hands-On Systems Programming with Rust | | IT | Udemy
+[Photography Masterclass: A Complete Guide to Photography](https://www.udemy.com/course/photography-masterclass-complete-guide-to-photography/) | Phil Ebiner, William Carnahan, Sam Shimizu-Jones | IT | Udemy
 
