@@ -93,3 +93,4 @@ Title | Instructor | Category | Platform
 [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) | IT | Educative
 Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
 Hands-On Systems Programming with Rust | | IT | Udemy
+[Snake Game With Rust, JavaScript, and WebAssembly](https://www.skillshare.com/classes/Snake-Game-With-Rust-JavaScript-and-WebAssembly/877686841?via=search-layout-grid) | Rodion Chachura | IT | SkillShare
