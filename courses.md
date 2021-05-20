@@ -95,3 +95,4 @@ Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
 Hands-On Systems Programming with Rust | | IT | Udemy
 [Snake Game With Rust, JavaScript, and WebAssembly](https://www.skillshare.com/classes/Snake-Game-With-Rust-JavaScript-and-WebAssembly/877686841?via=search-layout-grid) | Rodion Chachura | IT | SkillShare
 [WebAssembly (wasm): Beginner to Advanced](https://www.skillshare.com/classes/WebAssembly-wasm-Beginner-to-Advanced/423185639?via=search-layout-grid) | Krisztian Szala | IT | SkillShare
+[Building a Stock-Tracking CLI With Async Streams in Rust](https://www.manning.com/liveproject/building-a-stock-tracking-cli-with-async-streams-in-rust) | Claus Matzinger | IT | Manning Publications
