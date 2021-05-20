@@ -83,13 +83,13 @@ Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
 Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 [Building Reusable Code with Rust](https://www.udemy.com/course/building-reusable-code-with-rust/) | Packt Publishing | IT | Udemy
+[Photography Masterclass: A Complete Guide to Photography](https://www.udemy.com/course/photography-masterclass-complete-guide-to-photography/) | Phil Ebiner, William Carnahan, Sam Shimizu-Jones | IT | Udemy
 
 <a id="upcoming"></a>
 ## Upcoming
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
+[Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) | IT | Educative
 Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
 Hands-On Systems Programming with Rust | | IT | Udemy
-[Photography Masterclass: A Complete Guide to Photography](https://www.udemy.com/course/photography-masterclass-complete-guide-to-photography/) | Phil Ebiner, William Carnahan, Sam Shimizu-Jones | IT | Udemy
-
