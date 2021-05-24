@@ -90,6 +90,8 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
+[Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) | IT | Udemy
+[Find Your Photography Style: Improve Your Photography Today](https://www.udemy.com/course/photography-style-course/) | Photography | Udemy
 [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) | IT | Educative
 Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
 Hands-On Systems Programming with Rust | | IT | Udemy
