@@ -19,6 +19,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+06 | [Building Reusable Code with Rust](https://www.udemy.com/course/building-reusable-code-with-rust/) | Shing Lyu, Packt Publishing | IT | Udemy | New skill
 05 | [The Rust Programming Language](https://www.udemy.com/course/rust-lang/) | Dmitri Nesteruk | IT | Udemy | New skill 
 04 | [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/?WT.mc_id=javascript-00000-wachegha) |  | IT | Microsoft | New skill
 03 | [Rust Programming For Beginners](https://www.udemy.com/course/rust-coding-for-beginners/) | Jayson Lennon | IT | Udemy | New skill
@@ -82,7 +83,6 @@
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
 Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
-[Building Reusable Code with Rust](https://www.udemy.com/course/building-reusable-code-with-rust/) | Packt Publishing | IT | Udemy
 [Photography Masterclass: A Complete Guide to Photography](https://www.udemy.com/course/photography-masterclass-complete-guide-to-photography/) | Phil Ebiner, William Carnahan, Sam Shimizu-Jones | IT | Udemy
 
 <a id="upcoming"></a>
