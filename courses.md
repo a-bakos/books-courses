@@ -82,6 +82,7 @@
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
+[Find Your Photography Style: Improve Your Photography Today](https://www.udemy.com/course/photography-style-course/) | Photography | Udemy
 Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
 Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 [Photography Masterclass: A Complete Guide to Photography](https://www.udemy.com/course/photography-masterclass-complete-guide-to-photography/) | Phil Ebiner, William Carnahan, Sam Shimizu-Jones | IT | Udemy
@@ -92,7 +93,6 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) | IT | Udemy
-[Find Your Photography Style: Improve Your Photography Today](https://www.udemy.com/course/photography-style-course/) | Photography | Udemy
 [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) | IT | Educative
 Hands-On Systems Programming with Rust | | IT | Udemy
 [Snake Game With Rust, JavaScript, and WebAssembly](https://www.skillshare.com/classes/Snake-Game-With-Rust-JavaScript-and-WebAssembly/877686841?via=search-layout-grid) | Rodion Chachura | IT | SkillShare
