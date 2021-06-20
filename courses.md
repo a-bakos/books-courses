@@ -19,6 +19,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+07 | [Find Your Photography Style: Improve Your Photography Today](https://www.udemy.com/course/photography-style-course/) | Phil Ebiner, Video School | Photography | Udemy | New skill
 06 | [Building Reusable Code with Rust](https://www.udemy.com/course/building-reusable-code-with-rust/) | Shing Lyu, Packt Publishing | IT | Udemy | New skill
 05 | [The Rust Programming Language](https://www.udemy.com/course/rust-lang/) | Dmitri Nesteruk | IT | Udemy | New skill 
 04 | [Take your first steps with Rust](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/?WT.mc_id=javascript-00000-wachegha) |  | IT | Microsoft | New skill
