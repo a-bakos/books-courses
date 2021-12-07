@@ -241,7 +241,8 @@ Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/
 Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/0007320760/) | Harper Element
 Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/) | Harper Perennial
 Richard Reeves, John Knell | [The 80 Minute MBA](https://www.amazon.co.uk/80-Minute-MBA-Everything-2009-03-05/dp/B019TLJD62/) | Business Plus
-Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co.uk/Digital-Ideas-Really-Need-Know/dp/0857385461/) | Quercus
+Marko Papic | [Geopolitical Alpha: An Investment Framework for Predicting the Future](https://www.amazon.co.uk/Geopolitical-Alpha-Investment-Framework-Predicting/dp/1119740215) | Wiley
+Tony Robbins | [Awaken The Giant Within](https://www.amazon.co.uk/Awaken-Giant-Within-Immediate-Emotional/dp/0743409388/) | Simon & Schuster UK
 
 ---
 
@@ -250,7 +251,7 @@ Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Marko Papic | [Geopolitical Alpha: An Investment Framework for Predicting the Future](https://www.amazon.co.uk/Geopolitical-Alpha-Investment-Framework-Predicting/dp/1119740215) | Wiley
+
 
 ---
 
@@ -259,6 +260,7 @@ Marko Papic | [Geopolitical Alpha: An Investment Framework for Predicting the Fu
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co.uk/Digital-Ideas-Really-Need-Know/dp/0857385461/) | Quercus | Donated
 Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness | For sale
 Vladimir Poltoratskiy | Trading Code Is Open, Book 1 | Independently published | For sale
 Vladimir Poltoratskiy | Trading Code Is Open, Book 2 | Independently published | For sale
@@ -301,24 +303,13 @@ Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](h
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Nicholas C. Zakas | [High Performance JavaScript](https://www.amazon.co.uk/dp/B00M0N701W/) | O'Reilly
-John Resig | [Secrets of the JavaScript Ninja](https://www.amazon.co.uk/dp/1617292850/) | Manning Publications
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 Andrea Giammarchi | [JavaScript glossary on demand](https://www.amazon.co.uk/dp/1326576720/) | lulu.com
-Tim Ambler, Nicholas Cloud | [JavaScript Frameworks for Modern Web Dev](https://www.amazon.co.uk/dp/1484206630/) | Apress
-Mark E. Daggett | [Expert JavaScript](https://www.amazon.co.uk/dp/1430260971/) | Apress
-Den Odell | [Pro JavaScript Development: Coding, Capabilities, and Tooling](https://www.amazon.co.uk/dp/1430262680/) | Apress
 Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
-Stoyan Stefanov | [JavaScript Patterns](https://www.amazon.co.uk/d/Books/JavaScript-Patterns-Stoyan-Stefanov/0596806752/) | O'Reilly
 Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Object Model](https://www.amazon.co.uk/DOM-Scripting-Design-Javascript-Document/dp/1430233893/) | friendsofED
-Larry Ullman | [Modern JavaScript: Develop and Design](https://www.amazon.co.uk/Modern-JavaScript-Develop-Larry-Ullman/dp/0321812522/) | Peachpit Press
-Shane Hudson | [JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5](https://www.amazon.co.uk/JavaScript-Creativity-Exploring-Modern-Capabilities/dp/1430259442/) | Apress
 Addy Osmani | [Learning JavaScript Design Patterns](https://www.amazon.co.uk/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/) | O'Reilly Media
 David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.amazon.co.uk/Effective-JavaScript-Specific-Software-Development/dp/0321812182/) | Addison Wesley
 Azat Mardan | [Practical Node.js](https://www.amazon.co.uk/Practical-Node-js-Building-Real-World-Scalable/dp/1430265957/) | Apress
-David Herron | [Node.js Web Development - Third Edition](https://www.amazon.co.uk/dp/1785881507) | Packt Publishing
-Jim R. Wilson | [Node.js the Right Way](https://www.amazon.co.uk/Node-js-Right-Way-Server-Side-JavaScript/dp/1937785734/) | The Pragmatic Bookshelf
-Mike Cantelon, Marc Harter, TJ Holowaychuk, Nathan Rajlich | [Node.js in Action - second edition](https://www.amazon.co.uk/Node-js-Action-Second-Mike-Cantelon/dp/1617292575/) | Manning Publications
 
 <a id="wishlist_computing"></a>
 ### Computing
@@ -333,22 +324,14 @@ Various authors | [Real-Life Responsive Web Design](https://shop.smashingmagazin
 Ian Sommerville | [Software Engineering, Global Edition](https://www.amazon.co.uk/dp/1292096136/) | Pearson
 Rachel Andrew | [The New CSS Layout](https://abookapart.com/products/the-new-css-layout) | A Book Apart
 Micah Godbolt | [Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems](https://www.amazon.co.uk/dp/1491926783/) | O'Reilly
-Cory Althoff | [The Self-Taught Programmer](https://www.amazon.co.uk/Self-Taught-Programmer-Definitive-Programming-Professionally/dp/1520288174/) | Independently published
 Max Kanat-Alexander | [Code Simplicity: The Fundamentals of Software](https://www.amazon.co.uk/d/Books/Code-Simplicity-Fundamentals-Software-Max-Kanat-Alexander/1449313892/) | O'Reilly Media
-Andy Budd, Emil Björklund | [CSS Mastery](https://www.amazon.co.uk/d/Books/CSS-Mastery-Andy-Budd/1430258632/) | Apress
-Ian Miell, Aidan Hobson Sayers | [Docker in Practice](https://www.amazon.co.uk/dp/1617292729/) | Manning Publications
-Jeff Nickoloff | [Docker in Action](https://www.amazon.co.uk/Docker-Action-Jeff-Nickoloff/dp/1633430235/) |
 Harold Abelson | [Structure and Interpretation of Computer Programs](https://www.amazon.co.uk/dp/0262510871/) | Harold Abelson
 Gregory Brown | [Programming Beyond Practices](https://www.amazon.co.uk/dp/1491943823) | O′Reilly
 Steve McConnell | [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.co.uk/Code-Complete-Practical-Handbook-Construction/dp/0735619670/) | Microsoft Press
-Joe Kutner | [The Healthy Programmer: Get Fit, Feel Better, and Keep Coding](https://www.amazon.co.uk/Healthy-Programmer-Better-Pragmatic-Programmers-x/dp/1937785319/) | The Pragmatic Bookshelf
 Joshua D. Carter | [New Programmer's Survival Manual](https://www.amazon.co.uk/New-Programmers-Survival-Manual-Workplace/dp/1934356816/) | The Pragmatic Bookshelf
-Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson | [Web Development Recipes](https://www.amazon.co.uk/Web-Development-Recipes-Brian-Hogan/dp/1680500562/) | The Pragmatic Bookshelf
 Johanna Rothman, Esther Derby | [Behind Closed Doors: Secrets of Great Management](https://www.amazon.co.uk/d/cka/Behind-Closed-Doors-Secrets-Management-Johanna-Rothman/0976694026/) | The Pragmatic Bookshelf
 Ken Pugh | [Interface Oriented Design: With Patterns](https://www.amazon.co.uk/Interface-Oriented-Design-Pragmatic-Programmers/dp/0976694050/) | The Pragmatic Bookshelf
 Andy Lester | [Land the Tech Job You Love](https://www.amazon.co.uk/Land-Tech-Job-You-Love/dp/1934356263/) | The Pragmatic Bookshelf
-Lukas Mathis | [Designed for Use: Create Usable Interfaces for Applications and the Web](https://www.amazon.co.uk/Designed-Use-Interfaces-Applications-Publisher/dp/B00SLSWWAY/) | The Pragmatic Bookshelf
-Eewei Chen | [101 Design Ingredients to Solve Big Tech Problems](https://www.amazon.co.uk/Design-Ingredients-Solve-Tech-Problems/dp/B00SLUEODU/) | The Pragmatic Bookshelf
 Aditya Bhargava | [Grokking Algorithms](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/) | Manning Publications
 Brian P. Hogan | [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://www.amazon.co.uk/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224/) | The Pragmatic Bookshelf
 Mark C. Chu-Caroll | [Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation](https://www.amazon.co.uk/Good-Math-Computation-Pragmatic-Programmers/dp/1937785335/) |
@@ -369,7 +352,6 @@ Charles Petzold | [Code: The Hidden Language of Computer Hardware and Software](
 Caroline Jarrett | [Forms that Work: Designing Web Forms for Usability](https://www.amazon.co.uk/Forms-that-Work-Interactive-Technologies/dp/1558607102/) |
 Jeff Gothelf | [Lean UX: Applying Lean Principles to Improve User Experience](https://www.amazon.co.uk/Lean-UX-Applying-Principles-Experience/dp/1449311652/) |
 Lara Callender Hogan | [Designing for Performance: Weighing Aesthetics and Speed](https://www.amazon.co.uk/Designing-Performance-Weighing-Aesthetics-Speed/dp/1491902515/) | O'Reilly
-Sandro Mancuso | [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/) |
 Geoff Watts | [Scrum Mastery: From Good To Great Servant-Leadership](https://www.amazon.co.uk/d/cka/Scrum-Mastery-Good-Great-Servant-Leadership-Geoff-Watts/0957587406/) |
 James Shore | [The Art of Agile Development](https://www.amazon.co.uk/Art-Agile-Development-James-Shore-x/dp/0596527675/) |
 Kenneth S. Rubin | [Essential Scrum: A Practical Guide to the Most Popular Agile Process](https://www.amazon.co.uk/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295/) |
@@ -386,7 +368,6 @@ Author | Title | Publisher
 Adam Connor, Aaron Irizarr | [Discussing Design](https://www.amazon.co.uk/Discussing-Design-Improving-Communication-Collaboration/dp/149190240X/) | O'Reilly
 Alina Wheeler, Debbie Millman | [Designing Brand Identity: An Essential Guide for the Whole Branding Team](https://www.amazon.co.uk/dp/1118980824/) | John Wiley & Sons
 John Maeda | [The Laws of Simplicity (Simplicity: Design, Technology, Business, Life)](https://www.amazon.co.uk/dp/0262134721/) | MIT Press
-Shane Seminole Mielke | [Launch It: 300+ things I've learned as a Designer, Developer and Creative Director. A handbook for digital creatives.](https://www.amazon.co.uk/dp/1541302486/) | CreateSpace
 Laura Kalbag | [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) | A Book Apart
 Jono Yuen | [FUI: How to Design User Interfaces for Film and Games](https://www.amazon.co.uk/dp/1975795121/) | CreateSpace
 Jeremy Baines, Clive Howard | [UX Lifecycle: The business guide to implementing great software user experiences](https://www.amazon.co.uk/d/cka/UX-Lifecycle-business-guide-implementing-software-experiences/1522768300/) | CreateSpace
@@ -420,9 +401,6 @@ Phil M. Jones | [Exactly What to Say: The Magic Words for Influence and Impact](
 David J Schwartz | [The Magic of Thinking Big](https://www.amazon.co.uk/gp/product/1785040472/) | Vermilion
 Daniel Levitin | [The World in Six Songs: How the Musical Brain Created Human Nature](https://www.amazon.co.uk/dp/1845135172/) | Aurum Press
 Sandro Mancuso | [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.co.uk/dp/0134052501/) | Prentice Hall
-Mike Cohn | [Agile Estimating and Planning](https://www.amazon.co.uk/dp/0131479415/) | Prentice Hall
-Michael T Nygard | [Release It! Design and Deploy Production-Ready Software](https://www.amazon.co.uk/dp/1680502395/) | Pragmatic Bookshelf
-Micahel Keeling | [Design It!](https://www.amazon.co.uk/dp/1680502093/) | Pragmatic Bookshelf
 Peter C. Brown, Henry L. Roediger, Mark A. Mcdaniel | [Make It Stick: The Science of Successful Learning](https://www.amazon.co.uk/dp/0674729013/) | Harvard University Press
 DK | [How Money Works: The Facts Visually Explained](https://www.amazon.co.uk/dp/024122599X/) | DK
 Dr. Stuart Farrimond | [The Science of Cooking: Every question answered to give you the edge](https://www.amazon.co.uk/dp/0241229782/) | DK
@@ -436,7 +414,6 @@ David Mcraney | [You Can Beat Your Brain](https://www.amazon.co.uk/dp/1780743742
 David Mcraney | [You Are Not So Smart](https://www.amazon.co.uk/dp/1851689397/) | Oneworld Publications
 Michael Jay Geier | [How to Diagnose and Fix Everything Electronic](https://www.amazon.co.uk/gp/product/0071848290) | McGraw-Hill Education
 George Berkowski | [How to Build a Billion Dollar App](https://www.amazon.co.uk/dp/0349401373/) | Piatkus
-Scott Page | [The Barefoot Investor](https://www.amazon.co.uk/dp/0730324214/) | Wiley
 Jim Lindsley | [How to be Wise](https://www.amazon.co.uk/How-Wise-Dealing-Complexities-Life/dp/1512301485/) | CreateSpace
 Brian Christian, Tom Griffiths | [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/0007547994/) | William Collins
 Jeff Goins | [Real Artists Don't Starve](https://www.amazon.co.uk/Real-Artists-Dont-Starve-Goins/dp/0718098927/) | Thomas Nelson
@@ -467,15 +444,11 @@ Marcus Du Sautoy | [What We Cannot Know: From consciousness to the cosmos, the c
 Marcus Du Sautoy | [The Great Unknown: Seven Journeys to the Frontiers of Science](https://www.amazon.co.uk/Great-Seven-Journeys-Frontiers-Science/dp/0735221804/) | Viking
 Gary Keller, Jay Papasan | [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results](https://www.amazon.co.uk/d/Books/One-Thing-Surprisingly-Simple-Behind-Extraordinary-Results/1848549253/) | John Murray Learning
 M. J. DeMarco | [The Millionaire Fastlane](https://www.amazon.co.uk/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/) | Viperion Publishing
-Tony Robbins | [Unlimited Power](https://www.amazon.co.uk/d/Books/Unlimited-Power-Science-Personal-Achievement/0743409396/) | Simon & Schuster UK
-Tony Robbins | [Awaken The Giant Within](https://www.amazon.co.uk/Awaken-Giant-Within-Immediate-Emotional/dp/0743409388/) | Simon & Schuster UK
 Dan Meredith | [How To Be F-cking Awesome](https://www.amazon.co.uk/dp/178133188X/) | Rethink Press Limited
 Grant Cardone | [If You're Not First, You're Last](https://www.amazon.co.uk/Youre-Not-First-Last-Competition/dp/0470624353/) | John Wiley & Sons
 Grant Cardone | [SELL OR BE SOLD](https://www.amazon.co.uk/SELL-BE-SOLD-CARDONE-G/dp/1608322564/) |
 Julian Baggini | [The Pig That Wants to be Eaten: And Ninety-Nine Other Thought Experiments](https://www.amazon.co.uk/dp/1847081282/) | Granta Books
 Mark Manson | [The Subtle Art of Not Giving a F-ck](https://www.amazon.co.uk/dp/0062457713/) | HarperOne
-Sarah Knight | [Get Your Sh-t Together](https://www.amazon.co.uk/dp/1786484080/) | Quercus
-Sarah Knight | [The Life-Changing Magic of Not Giving a F--k](https://www.amazon.co.uk/dp/1784298468/) | Quercus
 Joseph Murphy | [The Power of Your Subconscious Mind](https://www.amazon.co.uk/dp/0735204551/) | Penguin
 Dan Ariely | [Behavioural Economics Saved My Dog: Life Advice For The Imperfect Human](https://www.amazon.co.uk/Behavioural-Economics-Saved-Dog-Imperfect/dp/1780748175/) | Oneworld Publications
 Dan Ariely | [The Upside of Irrationality](https://www.amazon.co.uk/Upside-Irrationality-Dan-Ariely/dp/0007354789/) | Harper
@@ -591,8 +564,6 @@ Author | Title | Publisher
 Russ Koesterich | [Portfolio Construction for Today's Markets](https://www.amazon.co.uk/Portfolio-Construction-Todays-Markets-practitioners/dp/0857196294) | Harriman House
 Niels Jensen | [End of Indexing](https://www.amazon.co.uk/End-Indexing-Structural-Mega-Trends-Investing/dp/0857195492/) | Harriman House
 Tim Price | [Investing Through the Looking Glass](https://www.amazon.co.uk/dp/0857195360/) | Harriman House
-Robert T. Kiyosaki | [Rich Dad's Guide to Investing](https://www.amazon.co.uk/dp/1612680208) | Plata Publishing
-Tony Robbins | [Unshakeable: Your Guide to Financial Freedom](https://www.amazon.co.uk/dp/1471164934/) | Simon & Schuster UK
 
 ---
 
