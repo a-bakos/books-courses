@@ -5,6 +5,7 @@ Technical, non-fiction, self-growth, business.
 Reading list properly tracked from 2016.
 
 + [Read](#read)
+   + [In 2022](#read_2022)
    + [In 2021](#read_2021)
    + [In 2020](#read_2020)
    + [In 2019](#read_2019)
@@ -28,6 +29,12 @@ Reading list properly tracked from 2016.
 <a id="read"></a>
 ## Finished reading
 
+<a id="read_2022"></a>
+#### In 2022
+
+\# | Author | Title | Publisher
+-- | ------ | ----- | ---------
+
 <a id="read_2021"></a>
 #### In 2021
 
@@ -43,7 +50,7 @@ Reading list properly tracked from 2016.
 12 | Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley | Sold
 11 | Steven Pressfield | [The War of Art](https://www.amazon.co.uk/War-Art-Through-Creative-Battles/dp/1936891026/) | Black Irish Entertainment LLC
 10 | Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley | Sold
-9 | Dominic Frisby | [Bitcoin: The Future of Money? ](https://www.amazon.co.uk/Bitcoin-Future-Money-Dominic-Frisby/dp/1783520779) | Unbound 
+9 | Dominic Frisby | [Bitcoin: The Future of Money? ](https://www.amazon.co.uk/Bitcoin-Future-Money-Dominic-Frisby/dp/1783520779) | Unbound
 8 | Jason Stapleton | [The Nomadic Wealth Formula](https://www.amazon.co.uk/Nomadic-Wealth-Formula-predictable-sustainable/dp/B08HGPPMS4) | Independently published
 7 | Daniel Drescher | [Blockchain Basics: A Non-Technical Introduction in 25 Steps](https://www.amazon.co.uk/gp/product/1484226038/) | Apress
 6 | Phil M. Jones | [Exactly What to Say: The Magic Words for Influence and Impact](https://www.amazon.co.uk/Exactly-What-Say-Influence-Impact/dp/1989025005/) (audiobook) |  Page Two
