@@ -4,6 +4,7 @@ Mostly physical copies.
 Technical, non-fiction, self-growth, business.
 Reading list properly tracked from 2016.
 
++ [Reading now](#reading_now)
 + [Read](#read)
    + [In 2022](#read_2022)
    + [In 2021](#read_2021)
@@ -13,7 +14,6 @@ Reading list properly tracked from 2016.
    + [In 2017](#read_2017)
    + [In 2016](#read_2016)
    + [before 2016 _incomplete_](#before_2016)
-+ [Reading now](#reading_now)
 + [Yet to be read / finished / buffer](#to_be_read)
 + [Donated, sold, Put aside, lost, etc.](#meh_nah)
 + [On the way](#on_the_way)
@@ -25,6 +25,13 @@ Reading list properly tracked from 2016.
   + [Infrastructure, urbanism](#infrastructure)
 
 ---
+
+<a id="reading_now"></a>
+### Reading now:
+
+Author | Title | Publisher
+------ | ----- | ---------
+
 
 <a id="read"></a>
 ## Finished reading
@@ -40,7 +47,7 @@ Reading list properly tracked from 2016.
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
-
+Brent Donnelly | [The Art of Currency Trading](https://www.amazon.co.uk/Art-Currency-Trading-Professionals-Exchange/dp/1119583551/) | Wiley
 
 <a id="read_2020"></a>
 #### In 2020
@@ -198,13 +205,6 @@ Elizabeth Castro and Bruce Hyslop | [HTML5 and CSS3 (Seventh Edition)](https://w
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
 
 ---
-
-<a id="reading_now"></a>
-### Reading now:
-
-Author | Title | Publisher
------- | ----- | ---------
-Brent Donnelly | [The Art of Currency Trading](https://www.amazon.co.uk/Art-Currency-Trading-Professionals-Exchange/dp/1119583551/) | Wiley
 
 <a id="to_be_read"></a>
 ### Yet to be read / finished / buffer:
