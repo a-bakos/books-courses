@@ -47,7 +47,7 @@ TODO Presser 1
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
-Brent Donnelly | [The Art of Currency Trading](https://www.amazon.co.uk/Art-Currency-Trading-Professionals-Exchange/dp/1119583551/) | Wiley
+1 | Brent Donnelly | [The Art of Currency Trading](https://www.amazon.co.uk/Art-Currency-Trading-Professionals-Exchange/dp/1119583551/) | Wiley
 
 <a id="read_2020"></a>
 #### In 2020
