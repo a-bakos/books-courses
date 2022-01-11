@@ -1,18 +1,30 @@
 ## BRAINFEED - Courses, workshop [work in progress // incomplete list(s)]
 
++ [In progress](#in_progress)
 + [Finished](#finished)
+   + [In 2021](#finished_2022)
    + [In 2021](#finished_2021)
    + [In 2020](#finished_2020)
    + [In 2019](#finished_2019)
    + [In 2018](#finished_2018)
    + [Before 2018](#before_2018)
-+ [In progress](#in_progress)
 + [Upcoming](#upcoming)
 
 ---
 
+<a id="in_progress"></a>
+## In progress
+
+Title | Instructor | Category | Platform
+----- | ---------- | -------- | --------
+Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
+Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
+
 <a id="finished"></a>
 ## Finished courses
+
+<a id="finished_2022"></a>
+#### In 2022
 
 <a id="finished_2021"></a>
 #### In 2021
@@ -79,17 +91,6 @@
 02 | Google Analytics Platform Principles | Google | SEO | Google
 01 | A Beginner's Guide to Irrational Behavior | Dan Ariely | Psychology | Coursera
  
-
-<a id="in_progress"></a>
-## In progress
-
-Title | Instructor | Category | Platform
------ | ---------- | -------- | --------
-[Find Your Photography Style: Improve Your Photography Today](https://www.udemy.com/course/photography-style-course/) | Photography | Udemy
-Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
-Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
-[Photography Masterclass: A Complete Guide to Photography](https://www.udemy.com/course/photography-masterclass-complete-guide-to-photography/) | Phil Ebiner, William Carnahan, Sam Shimizu-Jones | IT | Udemy
-
 <a id="upcoming"></a>
 ## Upcoming
 
