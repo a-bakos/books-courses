@@ -54,6 +54,7 @@ Brent Donnelly | [The Art of Currency Trading](https://www.amazon.co.uk/Art-Curr
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
+13 | Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley | Sold
 12 | Peter L. Brandt | [Diary of a Professional Commodity Trader](https://www.amazon.co.uk/Diary-Professional-Commodity-Trader-Lessons/dp/0470521457) | Wiley | Sold
 11 | Steven Pressfield | [The War of Art](https://www.amazon.co.uk/War-Art-Through-Creative-Battles/dp/1936891026/) | Black Irish Entertainment LLC
 10 | Ed Ponsi | [Forex Patterns and Probabilities: Trading Strategies for Trending and Range–Bound Markets](https://www.amazon.co.uk/Forex-Patterns-Probabilities-Strategies-Range-Bound/dp/0470097299) | Wiley | Sold
@@ -215,8 +216,6 @@ Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazo
 Dominic Frisby | [Daylight Robbery: How Tax Shaped Our Past and Will Change Our Future](https://www.amazon.co.uk/Daylight-Robbery-Shaped-Change-Future/dp/0241360862/) | Portfolio Penguin
 Stephen R. Covey | [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/) | Simon and Schuster
 Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/gp/product/1484219953/) | Apress
-Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley | Skimmed, Sold, 2020?
-Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK | Skimmed, Donated, 2020 ?
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/printed-books/smashing-book-6-new-frontiers-in-web-design/) | Smashing Magazine
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
@@ -258,10 +257,11 @@ TODO Whatever you think think the opposite
 ---
 
 <a id="meh_nah"></a>
-### Unread & Donated / sold / lost / uninteresting, etc.
+### Unread / skimmed / donated / sold / lost / uninteresting, etc.
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK | Skimmed, Donated, 2020 ?
 Tony Robbins | [Awaken The Giant Within](https://www.amazon.co.uk/Awaken-Giant-Within-Immediate-Emotional/dp/0743409388/) | Simon & Schuster UK | Donated
 Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co.uk/Digital-Ideas-Really-Need-Know/dp/0857385461/) | Quercus | Donated
 Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness | For sale
