@@ -19,6 +19,7 @@
 
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+08 | [Gutenberg Block Development for WordPress](https://www.udemy.com/course/gutenberg-block-development-wordpress-javascript-course/) | Zac Gordon | IT | Udemy | New skill
 07 | [Find Your Photography Style: Improve Your Photography Today](https://www.udemy.com/course/photography-style-course/) | Phil Ebiner, Video School | Photography | Udemy | New skill
 06 | [Building Reusable Code with Rust](https://www.udemy.com/course/building-reusable-code-with-rust/) | Shing Lyu, Packt Publishing | IT | Udemy | New skill
 05 | [The Rust Programming Language](https://www.udemy.com/course/rust-lang/) | Dmitri Nesteruk | IT | Udemy | New skill 
