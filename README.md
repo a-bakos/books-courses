@@ -31,7 +31,7 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
-
+TODO Presser 1
 
 <a id="read"></a>
 ## Finished reading
@@ -215,8 +215,8 @@ Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazo
 Dominic Frisby | [Daylight Robbery: How Tax Shaped Our Past and Will Change Our Future](https://www.amazon.co.uk/Daylight-Robbery-Shaped-Change-Future/dp/0241360862/) | Portfolio Penguin
 Stephen R. Covey | [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/) | Simon and Schuster
 Matt Zandstra | [PHP Objects, Patterns, and Practice](https://www.amazon.co.uk/gp/product/1484219953/) | Apress
-Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley
-Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK
+Alexander Elder | [The New Trading For a Living](https://www.amazon.co.uk/New-Trading-Living-Psychology-Discipline/dp/1118443926/) | Wiley | Skimmed, Sold, 2020?
+Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK | Skimmed, Donated, 2020 ?
 Michael Dawson | [Python Programming for the Absolute Beginner (Third Edition)](https://www.amazon.co.uk/gp/product/1435455002/) | Course Technology PTR
 Various Authors | [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/printed-books/smashing-book-6-new-frontiers-in-web-design/) | Smashing Magazine
 Kyle Simpson | [You Don't Know JS: ES6 & Beyond](https://www.amazon.co.uk/You-Dont-Know-JS-Beyond/dp/1491904240/) | O'Reilly Media
@@ -232,7 +232,7 @@ David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/144939722
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
-Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall
+Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall | Skimmed, Sold, 2019 ?
 Marc Abrahams | [This Is Improbable](https://www.amazon.co.uk/This-Improbable-Magnetic-Chickens-Research/dp/1851689753/) | Oneworld Publications
 Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
@@ -242,7 +242,7 @@ Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/00073
 Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/) | Harper Perennial
 Richard Reeves, John Knell | [The 80 Minute MBA](https://www.amazon.co.uk/80-Minute-MBA-Everything-2009-03-05/dp/B019TLJD62/) | Business Plus
 Marko Papic | [Geopolitical Alpha: An Investment Framework for Predicting the Future](https://www.amazon.co.uk/Geopolitical-Alpha-Investment-Framework-Predicting/dp/1119740215) | Wiley
-Tony Robbins | [Awaken The Giant Within](https://www.amazon.co.uk/Awaken-Giant-Within-Immediate-Emotional/dp/0743409388/) | Simon & Schuster UK
+
 
 ---
 
@@ -251,7 +251,9 @@ Tony Robbins | [Awaken The Giant Within](https://www.amazon.co.uk/Awaken-Giant-W
 
 Author | Title | Publisher
 ------ | ----- | ---------
-
+TODO Web3
+TODO Stoic 365
+TODO Whatever you think think the opposite
 
 ---
 
@@ -260,6 +262,7 @@ Author | Title | Publisher
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Tony Robbins | [Awaken The Giant Within](https://www.amazon.co.uk/Awaken-Giant-Within-Immediate-Emotional/dp/0743409388/) | Simon & Schuster UK | Donated
 Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co.uk/Digital-Ideas-Really-Need-Know/dp/0857385461/) | Quercus | Donated
 Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness | For sale
 Vladimir Poltoratskiy | Trading Code Is Open, Book 1 | Independently published | For sale
