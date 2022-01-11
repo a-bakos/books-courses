@@ -261,7 +261,7 @@ TODO Whatever you think think the opposite
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
-Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK | Skimmed, Donated, 2020 ?
+Tony Robbins | [Money Master the Game](https://www.amazon.co.uk/dp/1471148610/) | Simon & Schuster UK | Skimmed, Donated
 Tony Robbins | [Awaken The Giant Within](https://www.amazon.co.uk/Awaken-Giant-Within-Immediate-Emotional/dp/0743409388/) | Simon & Schuster UK | Donated
 Tom Chatfield | [50 Digital Ideas You Really Need to Know](https://www.amazon.co.uk/Digital-Ideas-Really-Need-Know/dp/0857385461/) | Quercus | Donated
 Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness | For sale
