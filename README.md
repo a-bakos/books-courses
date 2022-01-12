@@ -39,15 +39,15 @@ TODO Presser 1
 <a id="read_2022"></a>
 #### In 2022
 
-\# | Author | Title | Publisher
--- | ------ | ----- | ---------
+\# | Author | Title | Publisher | Note
+-- | ------ | ----- | --------- | ----
 
 <a id="read_2021"></a>
 #### In 2021
 
-\# | Author | Title | Publisher
--- | ------ | ----- | ---------
-1 | Brent Donnelly | [The Art of Currency Trading](https://www.amazon.co.uk/Art-Currency-Trading-Professionals-Exchange/dp/1119583551/) | Wiley
+\# | Author | Title | Publisher | Note
+-- | ------ | ----- | --------- | ----
+1 | Brent Donnelly | [The Art of Currency Trading](https://www.amazon.co.uk/Art-Currency-Trading-Professionals-Exchange/dp/1119583551/) | Wiley | Sold
 
 <a id="read_2020"></a>
 #### In 2020
