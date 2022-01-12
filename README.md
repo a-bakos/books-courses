@@ -97,6 +97,7 @@ TODO Presser 1
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
+31 | Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall | Skimmed, Sold
 30 | John C. Bogle | [The Little Book of Common Sense Investing](https://www.amazon.co.uk/gp/product/1119404509/) | John Wiley & Sons
 29 | DVSA | The Official DVSA Theory Test for Car Drivers | TSO
 28 | Stephen Sutherland | [How to Make Money in ISAs and SIPPs: Tax-efficient Investing Made Easy](https://www.amazon.co.uk/gp/product/1783063289/) | Matador
@@ -233,7 +234,6 @@ David Flanagan | [jQuery Pocket Reference](https://www.amazon.co.uk/dp/144939722
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly
 Scott Huler | [On the Grid](https://www.amazon.co.uk/Grid-Average-Neighborhood-Systems-World/dp/1605296473/) | Rodale Press
 Kyle Simpson | [You Don't Know JS: Async & Performance](https://www.amazon.co.uk/You-Dont-Know-JS-Performance/dp/1491904224/) | O'Reilly Media
-Robert C. Martin | [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) | Prentice Hall | Skimmed, Sold, 2019 ?
 Marc Abrahams | [This Is Improbable](https://www.amazon.co.uk/This-Improbable-Magnetic-Chickens-Research/dp/1851689753/) | Oneworld Publications
 Ellen Lupton | [Thinking with Type, Second Revised and Expanded Edition](https://www.amazon.co.uk/Thinking-Type-Second-Revised-Expanded/dp/1568989695/) | Princeton Architectural Press
 Edward Glaeser | [Triumph of the City](https://www.amazon.co.uk/dp/0330458078/) | Pan
