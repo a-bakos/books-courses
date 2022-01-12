@@ -264,10 +264,8 @@ Author | Title | Publisher
 Nicholas C. Zakas | [Professional JavaScript for Web Developers](https://www.amazon.co.uk/Professional-JavaScript-Developers-Wrox-Guides/dp/1118026691/) | Wrox
 Andrea Giammarchi | [JavaScript glossary on demand](https://www.amazon.co.uk/dp/1326576720/) | lulu.com
 Trevor Burnham | [Async JavaScript: Build More Responsive Apps with Less Code](https://www.amazon.co.uk/Async-JavaScript-Responsive-Pragmatic-Express-x/dp/1937785270/) | The Pragmatic Bookshelf
-Jeremy Keith | [DOM Scripting: Web Design With Javascript and the Document Object Model](https://www.amazon.co.uk/DOM-Scripting-Design-Javascript-Document/dp/1430233893/) | friendsofED
 Addy Osmani | [Learning JavaScript Design Patterns](https://www.amazon.co.uk/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815/) | O'Reilly Media
 David Herman | [Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript](https://www.amazon.co.uk/Effective-JavaScript-Specific-Software-Development/dp/0321812182/) | Addison Wesley
-Azat Mardan | [Practical Node.js](https://www.amazon.co.uk/Practical-Node-js-Building-Real-World-Scalable/dp/1430265957/) | Apress
 
 <a id="wishlist_computing"></a>
 ### Computing
@@ -292,9 +290,7 @@ Ken Pugh | [Interface Oriented Design: With Patterns](https://www.amazon.co.uk/I
 Andy Lester | [Land the Tech Job You Love](https://www.amazon.co.uk/Land-Tech-Job-You-Love/dp/1934356263/) | The Pragmatic Bookshelf
 Aditya Bhargava | [Grokking Algorithms](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/) | Manning Publications
 Brian P. Hogan | [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://www.amazon.co.uk/Exercises-Programmers-Challenges-Develop-Coding/dp/1680501224/) | The Pragmatic Bookshelf
-Mark C. Chu-Caroll | [Good Math: A Geek's Guide to the Beauty of Numbers, Logic, and Computation](https://www.amazon.co.uk/Good-Math-Computation-Pragmatic-Programmers/dp/1937785335/) |
 Hampton Lintorn Catlin, Michael Lintorn Catlin | [Pragmatic Guide to Sass 3](https://www.amazon.co.uk/Pragmatic-Guide-Sass-Modern-Style/dp/1680501763/) | The Pragmatic Bookshelf
-Cory Berg | [Software++: Must-Have Skills For Software Engineers](https://www.amazon.co.uk/Software-Must-Have-Skills-Engineers-x/dp/1514629348/) | CreateSpace
 Glenford J. Myers, Corey Sandler, Tom Badgett | [The Art of Software Testing](https://www.amazon.co.uk/Art-Software-Testing-Glenford-Myers/dp/1118031962/) | John Wiley & Sons
 David West | [Object Thinking](https://www.amazon.co.uk/d/Books/Thinking-Developer-Reference-DV-Microsoft-Professional/0735619654/) | Microsoft Press
 Joshua Kerievsky | [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/) | Addison Wesley
@@ -441,16 +437,11 @@ Jack Donovan | [Becoming a Barbarian](https://www.amazon.co.uk/Becoming-Barbaria
 David Deida | [Way of the Superior Man](https://www.amazon.co.uk/Way-Superior-Man-David-Deida/dp/1591792576/) |
 Tim Ferriss | [The 4-Hour Body](https://www.amazon.co.uk/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0091939526/) |
 Ryan Holiday | [Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising](https://www.amazon.co.uk/Growth-Hacker-Marketing-Primer-Advertising/dp/1781254362/) | Profile
-Greg McKeown | [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.co.uk/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0753555166/) | Virgin Books
-Michael Hyatt | [Platform: Get Noticed in a Noisy World](https://www.amazon.co.uk/d/cka/Platform-Get-Noticed-Noisy-World-Michael-Hyatt/159555503X/) | Thomas Nelson
-Atul Gawande | [The Checklist Manifesto: How to Get Things Right](https://www.amazon.co.uk/d/Books/Checklist-Manifesto-How-Things-Right-Atul-Gawande/1846683149/) | Profile
-Brian Tracy | [Eat That Frog! Get More of the Important Things Done - Today!](https://www.amazon.co.uk/d/cka/Eat-That-Frog-More-Important-Things-Today/1444765426/) | Hodder Paperbacks
 Kevin Kelly | [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.amazon.co.uk/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089/) |
 Steven Levy | [In The Plex: How Google Thinks, Works, and Shapes Our Lives](https://www.amazon.co.uk/Plex-Google-Thinks-Works-Shapes/dp/1416596585/) | Simon & Schuster
 Kevin Warwick | [Artificial Intelligence: The Basics](https://www.amazon.co.uk/Artificial-Intelligence-Basics-Kevin-Warwick/dp/0415564832/) | Routledge
 Nick Bostrom | [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom-x/dp/0198739834/) | OUP Oxford
 Steven Levy | [Hackers: Heroes of the Computer Revolution](https://www.amazon.co.uk/d/Books/Hackers-Heroes-Computer-Revolution-25th-Anniversary-Steven/1449388396/) | O'Reilly
-Maxwell Maltz | [The New Psycho-Cybernetics](https://www.amazon.co.uk/New-Psycho-cybernetics-Original-Science-Self-Improvement/dp/0735202850/) |
 Raymond Kurzweil | [The Singularity is Near](https://www.amazon.co.uk/Singularity-Near-Raymond-Kurzweil/dp/0715635611/) | Gerald Duckworth & Co Ltd
 Raymond Kurzweil | [How to Create a Mind](https://www.amazon.co.uk/d/Books/How-Create-Mind-Ray-Kurzweil/0715647334/) | Gerald Duckworth & Co Ltd
 
