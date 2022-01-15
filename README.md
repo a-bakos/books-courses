@@ -106,7 +106,7 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 29 | DVSA | The Official DVSA Theory Test for Car Drivers | TSO
 28 | Stephen Sutherland | [How to Make Money in ISAs and SIPPs: Tax-efficient Investing Made Easy](https://www.amazon.co.uk/gp/product/1783063289/) | Matador
 27 | DVSA | The Official DVSA Guide to Learning to Drive | TSO
-26 | Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | MIT Press
+26 | Donald A. Norman | [The Design of Everyday Things, revised and expanded edition](https://www.amazon.co.uk/Design-Everyday-Things-revised-expanded/dp/0262525674/) | MIT Press | Sold
 25 | DVSA | The Official DVSA Guide to Driving | TSO
 24 | DVSA | The Official Highway Code | TSO
 23 | Claire Barratt | [Guide to Urban Engineering: Infrastructure and Technology in the Modern Landscape](https://www.amazon.co.uk/dp/0752469975/) | The History Press
@@ -120,7 +120,7 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 15 | Lorna Jane Mitchell | [PHP Web Services: APIs for the Modern Web](https://www.amazon.co.uk/gp/product/1491933097) | O'Reilly
 14 | Ben Edmunds | [Securing PHP Apps](https://www.amazon.co.uk/dp/1484221192/) | Apress
 13 | Steve Prettyman | [PHP Arrays: Single, Multi-dimensional, Associative and Object Arrays in PHP 7](https://www.amazon.co.uk/gp/product/1484225554/) | Apress
-12 | David Powers | [PHP Object - Oriented Solutions](https://www.amazon.co.uk/gp/product/1430210117/) | friends of ED
+12 | David Powers | [PHP Object - Oriented Solutions](https://www.amazon.co.uk/gp/product/1430210117/) | friends of ED | Donated
 11 | Jonathan Hobbs | [Stop Saving Start Investing](https://www.amazon.co.uk/gp/product/1520697090/) | Independently Published
 10 | Josh Lockhart | [Modern PHP: New Features and Good Practices](https://www.amazon.co.uk/dp/1491905018/) | O'Reilly Media
 09 | Chris Middleton | Kreatív Digitális Zene és Hang | Scholar Music
@@ -138,23 +138,23 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
-35 | Perry Marshall | [80/20 Sales and Marketing](https://www.amazon.co.uk/d/cka/80-20-Sales-Marketing-Perry-Marshall/1599185059/) |
+35 | Perry Marshall | [80/20 Sales and Marketing](https://www.amazon.co.uk/d/cka/80-20-Sales-Marketing-Perry-Marshall/1599185059/) | Donated
 34 | Wladston Ferreira Filho, Raimondo Pictet | [Computer Science Distilled](https://www.amazon.co.uk/Computer-Science-Distilled-Computational-Problems/dp/0997316020) | Code Energy
 33 | Chris Coyier | [Practical SVG](https://abookapart.com/products/practical-svg) | A Book Apart
 32 | Ryan Tate | [The 20% Doctrine](https://www.amazon.co.uk/dp/0062003232/) | HarperBusiness | For sale
 31 | Brad Williams, David Damstra, Hal Stern | [Professional WordPress: Design and Development](https://www.amazon.co.uk/Professional-WordPress-Development-Brad-Williams/dp/1118987241/) | Wrox
-30 | Thord Daniel Hedengren | [Smashing WordPress](https://www.amazon.co.uk/Smashing-WordPress-Beyond-Blog-Magazine/dp/1119942713/) | John Wiley & Sons
+30 | Thord Daniel Hedengren | [Smashing WordPress](https://www.amazon.co.uk/Smashing-WordPress-Beyond-Blog-Magazine/dp/1119942713/) | John Wiley & Sons | Donated
 29 | Lindsay Bassett | [Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON](https://www.amazon.co.uk/gp/product/1491929480/) | O'Reilly
 28 | Alan Forbes | [The Joy of Bootstrap](https://www.amazon.co.uk/gp/product/1522792813/) | CreateSpace
 27 | Paul Boag | [User Experience Revolution](https://www.smashingmagazine.com/user-experience-revolution/) | Smashing Magazine | Sold
-26 | Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications
+26 | Stefan Baumgartner | [Front-End Tooling with Gulp, Bower, and Yeoman](https://www.amazon.co.uk/Front-End-Tooling-Gulp-Bower-Yeoman/dp/1617292745/) | Manning Publications | For sale
 25 | Heydon Pickering | [Inclusive Design Patterns](https://shop.smashingmagazine.com/products/inclusive-design-patterns) | Smashing Magazine
 24 | Jules Goddard, Tony Eccles | [Uncommon Sense, Common Nonsense: Why Some Organisations Consistently Outperform Others](https://www.amazon.co.uk/Uncommon-Sense-Common-Nonsense-Organisations/dp/1846686024/) | Profile Books
 23 | Jon Duckett | [HTML & Css: Design and Build Websites](https://www.amazon.co.uk/HTML-CSS-Design-Build-Sites/dp/1118008189/) | John Wiley & Sons
 22 | Marc Lawson & Steve Hackney | [Why Businesses Stop Growing](https://www.amazon.co.uk/Why-Businesses-Stop-Growing-About/dp/1495277828/) | AFT Publishing
 21 | Edwin A. Abbott | [Flatland: A Romance of Many Dimensions](https://www.amazon.co.uk/Flatland-Romance-Dimensions-Dover-Thrift/dp/048627263X/) | Dover Publications
 20 | Greg Sidelnikov | [React.js Book](https://www.amazon.co.uk/gp/product/152030031X/) | Independently published | Donated
-19 | Jeremy Sydik | [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms](https://www.amazon.co.uk/Design-Accessible-Web-Sites-Programmers/dp/1934356026/) | Pragmatic Bookshelf
+19 | Jeremy Sydik | [Design Accessible Web Sites: 36 Keys to Creating Content for All Audiences and Platforms](https://www.amazon.co.uk/Design-Accessible-Web-Sites-Programmers/dp/1934356026/) | Pragmatic Bookshelf | Donated
 18 | Kirupa Chinnathambi | [Learning React](https://www.amazon.co.uk/Learning-React-Hands-Maintainable-High-Performing/dp/0134546318/) | Addison Wesley | Sold
 17 | Alex Becker | [10 Pillars of Wealth: Mind-Sets of the World's Wealthiest People](https://www.amazon.co.uk/dp/1612549209/) | Brown Books Publishing
 16 | Manuel Kiessling | [The Node Beginner Book](https://www.amazon.co.uk/gp/product/1471628442) | lulu.com | Donated
@@ -170,34 +170,34 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 06 | Toni Negrino and Dori Smith | [JavaScript (Ninth Edition)](https://www.amazon.co.uk/gp/product/0321996704/) | Peachpit Press
 05 | Marijn Haverbeke | [Eloquent JavaScript (Second Edition)](https://www.amazon.co.uk/gp/product/1593275846/) | No Starch Press
 04 | Ka Wai Cheung | [The Developer's Code](https://www.amazon.co.uk/d/Books/Developers-Code-Ka-Wai-Cheung/1934356794/) | The Pragmatic Bookshelf
-03 | Mark Myers | [A Smarter Way to Learn JavaScript](https://www.amazon.co.uk/gp/product/1497408180/) | Amazon
+03 | Mark Myers | [A Smarter Way to Learn JavaScript](https://www.amazon.co.uk/gp/product/1497408180/) | Amazon | Donated
 02 | Benjamin P. Hardy | [Slipstream Time Hacking](https://www.amazon.co.uk/gp/product/0997071001) | Amazon
-01 | Nicholas Bate | [You, only better](https://www.amazon.co.uk/You-Only-Better-Strengths-Change/dp/0857084720/) | Capstone
+01 | Nicholas Bate | [You, only better](https://www.amazon.co.uk/You-Only-Better-Strengths-Change/dp/0857084720/) | Capstone | Donated
 
 <a id="read_2016"></a>
 #### In 2016
 
 \# | Author | Title | Publisher
 -- | ------ | ----- | ---------
-19 | Wallace D. Wattles | [Financial Success](https://www.amazon.co.uk/d/Books/Financial-Success-Harnessing-Creative-Wallace-D-Wattles/0892813040/) | Destiny Books
-18 | Win Wenger | [The Einstein Factor](https://www.amazon.co.uk/gp/product/076150186X/) | Three Valleys Press
+19 | Wallace D. Wattles | [Financial Success](https://www.amazon.co.uk/d/Books/Financial-Success-Harnessing-Creative-Wallace-D-Wattles/0892813040/) | Destiny Books | Donated
+18 | Win Wenger | [The Einstein Factor](https://www.amazon.co.uk/gp/product/076150186X/) | Three Valleys Press | Donated
 17 | Chad Fowler | [The Passionate Programmer](https://www.amazon.co.uk/gp/product/1934356344/) | The Pragmatic Bookshelf
-16 | Amen Sharma | [The Google Checklist: Marketing Edition 2016](https://www.amazon.co.uk/gp/product/1530607515/) | CreateSpace
-15 | Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum | [Blogging Made Easy](https://www.amazon.co.uk/gp/product/1537450565/) | CreateSpace
-14 | Eric Schmidt, Jonathan Rosenberg | [How Google Works](https://www.amazon.co.uk/gp/product/1444792490/) | John Murray
+16 | Amen Sharma | [The Google Checklist: Marketing Edition 2016](https://www.amazon.co.uk/gp/product/1530607515/) | CreateSpace | Donated
+15 | Amen Sharma, Gareth James, Romeo Martin J. Rosales, Rumena Begum | [Blogging Made Easy](https://www.amazon.co.uk/gp/product/1537450565/) | CreateSpace | Donated
+14 | Eric Schmidt, Jonathan Rosenberg | [How Google Works](https://www.amazon.co.uk/gp/product/1444792490/) | John Murray | Donated
 13 | Andy Hunt & Venkat Subramaniam | [Practices of an Agile Developer: Working in the Real World](https://www.amazon.co.uk/gp/product/097451408X/) | The Pragmatic Bookshelf
 12 | Andy Hunt | [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.co.uk/gp/product/1934356050/) | The Pragmatic Bookshelf
 11 | Leif Kendall | [Brilliant Freelancer: Discover the Power of Your Own Success](https://www.amazon.co.uk/gp/product/0273744631/) | Pearson
 10 | David Kadavy | [Design for Hackers: Reverse Engineering Beauty](https://www.amazon.co.uk/gp/product/1119998956/) | Wiley
 09 | Tiffany B Brown | [CSS Master](https://www.amazon.co.uk/gp/product/0994182627/) | SitePoint
 08 | Travis Swicegood | [Pragmatic Guide to Git](https://www.amazon.co.uk/gp/product/1934356727/) | The Pragmatic Bookshelf
-07 | John Sonmez | [Soft Skills: The software developer's life manual](https://www.amazon.co.uk/gp/product/1617292397/) | Manning
+07 | John Sonmez | [Soft Skills: The software developer's life manual](https://www.amazon.co.uk/gp/product/1617292397/) | Manning | For sale
 06 | Andrew Hunt & David Thomas | [The Pragmatic Programmer - from journeyman to master](https://www.amazon.co.uk/gp/product/020161622X/) | Addison-Wesley
 05 | Hampton Catlin and Michael Lintorn Catlin | [Pragmatic Guide to Sass](https://www.amazon.co.uk/gp/product/1934356840/) | The Pragmatic Bookshelf
 04 | Steve Krug | [Don't Make Me Think (Revisited) - A Common Sense Approach to Web and Mobile Usability](https://www.amazon.co.uk/gp/product/0321965515/) | New Riders
 04 | Lea Verou | [CSS Secrets - better solutions to everyday web design problems](https://www.amazon.co.uk/gp/product/1449372635/) | O'Reilly
 03 | Steven Bradley | [CSS Animations and Transitions for the Modern Web](https://www.amazon.co.uk/gp/product/0133980502/) | Adobe Press
-02 | Peter Bell and Brent Beer | [Introducing GitHub](https://www.amazon.co.uk/gp/product/1491949740/) | O'Reilly
+02 | Peter Bell and Brent Beer | [Introducing GitHub](https://www.amazon.co.uk/gp/product/1491949740/) | O'Reilly | Donated
 01 | Rob Cole and Edward Scotcher | [Brilliant Agile Project Management](https://www.amazon.co.uk/gp/product/1292063564/) | Pearson
 
 <a id="before_2016"></a>
