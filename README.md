@@ -89,11 +89,11 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 09 | Michael Lewis | [The Big Short](https://www.amazon.co.uk/Big-Short-Inside-Doomsday-Machine/) | Penguin
 08 | Larry Pesavento, Leslie Jouflas | [Trade What You See](https://www.amazon.co.uk/Trade-What-You-See-Recognition/dp/047010676X/) | Wiley
 07 | John Stepek | [The Sceptical Investor](https://harriman-house.com/thescepticalinvestor) | Harriman House
-06 | Vladimir Poltoratskiy | Trading Code Is Open | Independently published | For sale
+06 | Vladimir Poltoratskiy | Trading Code Is Open | Independently published | Sold
 05 | Paul Langer | [The Black Book of Forex Trading](https://www.amazon.co.uk/gp/product/1517760577/) | CreateSpace | Sold
 04 | Zack Carr, Dr Andrew Aziz | [How to Trade Forex and Currency Markets](https://www.amazon.co.uk/Trade-Forex-Currency-Markets-Understanding/dp/1980450722/) | CreateSpace
 03 | Várkuti Géza | FOREX Trading - Az alapoktól a mesterfogásokig | Fekete Sas Kiadó
-02 | Dr Andrew Aziz | [How to Day Trade for a Living](https://www.amazon.co.uk/gp/product/1535585951) | CreateSpace
+02 | Dr Andrew Aziz | [How to Day Trade for a Living](https://www.amazon.co.uk/gp/product/1535585951) | CreateSpace | Sold
 01 | Fred McAllen | [Charting and Technical Analysis](https://www.amazon.co.uk/gp/product/1456468693) | CreateSpace
 
 <a id="read_2018"></a>
