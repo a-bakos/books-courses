@@ -26,12 +26,22 @@ Reading list properly tracked from 2016.
 
 ---
 
+<a id="on_the_way"></a>
+### On the way...
+
+Author | Title | Publisher
+------ | ----- | ---------
+Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/gp/product/0141025719) | Penguin
+
 <a id="reading_now"></a>
 ### Reading now:
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
 TODO Presser 1
+
+---
 
 <a id="read"></a>
 ## Finished reading
@@ -214,7 +224,6 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
 Conor Svensson | [The Blockchain Innovator's Handbook](https://www.amazon.co.uk/gp/product/1781336423/) | Rethink Press
-Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
 Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 Dominic Frisby | [Daylight Robbery: How Tax Shaped Our Past and Will Change Our Future](https://www.amazon.co.uk/Daylight-Robbery-Shaped-Change-Future/dp/0241360862/) | Portfolio Penguin
 Stephen R. Covey | [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/) | Simon and Schuster
@@ -241,15 +250,6 @@ Bill Hetzel | [The Complete Guide to Software Testing](https://www.amazon.co.uk/
 Leil Lowndes | [How to Feel Confident](https://www.amazon.co.uk/gp/product/0007320760/) | Harper Element
 Dan Ariely | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/) | Harper Perennial
 Marko Papic | [Geopolitical Alpha: An Investment Framework for Predicting the Future](https://www.amazon.co.uk/Geopolitical-Alpha-Investment-Framework-Predicting/dp/1119740215) | Wiley
-
----
-
-<a id="on_the_way"></a>
-### On the way...
-
-Author | Title | Publisher
------- | ----- | ---------
-Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/gp/product/0141025719) | Penguin
 
 ---
 
