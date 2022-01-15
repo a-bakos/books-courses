@@ -34,7 +34,7 @@ Author | Title | Publisher
 ------ | ----- | ---------
 Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
 Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.presser-konyve-1.html) | Helikon
-MJ DeMarco | [Unscripted](https://www.amazon.co.uk/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161) | Viperion
+MJ DeMarco | [Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.amazon.co.uk/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161) | Viperion
 
 ---
 
