@@ -39,7 +39,7 @@ Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/g
 Author | Title | Publisher
 ------ | ----- | ---------
 Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
-TODO Presser 1
+Presser Gábor | [Presser Könyve](https://moly.hu/konyvek/presser-gabor-presser-konyve) | Helikon
 
 ---
 
