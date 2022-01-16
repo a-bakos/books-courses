@@ -25,6 +25,7 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Seth S. Horowitz | [The Universal Sense: How Hearing Shapes the Mind](https://www.amazon.co.uk/gp/product/1608190900/) | Bloomsbury USA
 Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/gp/product/0141025719) | Penguin
 
 <a id="reading_now"></a>
