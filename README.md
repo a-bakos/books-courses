@@ -25,8 +25,6 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Seth S. Horowitz | [The Universal Sense: How Hearing Shapes the Mind](https://www.amazon.co.uk/gp/product/1608190900/) | Bloomsbury USA
-Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/gp/product/0141025719) | Penguin
 
 <a id="reading_now"></a>
 ### Reading now:
@@ -215,10 +213,12 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 ---
 
 <a id="to_be_read"></a>
-### Yet to be read / finished / buffer:
+### Yet to be read or finished / buffer:
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Seth S. Horowitz | [The Universal Sense: How Hearing Shapes the Mind](https://www.amazon.co.uk/gp/product/1608190900/) | Bloomsbury USA
+Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/gp/product/0141025719) | Penguin
 Presser Gábor | [Presser Könyve 2](https://www.libri.hu/konyv/presser_gabor.presser-konyve-2.html) | Helikon
 Conor Svensson | [The Blockchain Innovator's Handbook](https://www.amazon.co.uk/gp/product/1781336423/) | Rethink Press
 Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
