@@ -31,6 +31,7 @@ Author | Title | Publisher
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Conor Svensson | [The Blockchain Innovator's Handbook](https://www.amazon.co.uk/gp/product/1781336423/) | Rethink Press
 Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
 Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.presser-konyve-1.html) | Helikon
 
@@ -220,7 +221,6 @@ Author | Title | Publisher | Note
 Seth S. Horowitz | [The Universal Sense: How Hearing Shapes the Mind](https://www.amazon.co.uk/gp/product/1608190900/) | Bloomsbury USA
 Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/gp/product/0141025719) | Penguin
 Presser Gábor | [Presser Könyve 2](https://www.libri.hu/konyv/presser_gabor.presser-konyve-2.html) | Helikon
-Conor Svensson | [The Blockchain Innovator's Handbook](https://www.amazon.co.uk/gp/product/1781336423/) | Rethink Press
 Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 Dominic Frisby | [Daylight Robbery: How Tax Shaped Our Past and Will Change Our Future](https://www.amazon.co.uk/Daylight-Robbery-Shaped-Change-Future/dp/0241360862/) | Portfolio Penguin
 Stephen R. Covey | [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/gp/product/0684858398/) | Simon and Schuster
