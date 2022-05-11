@@ -31,7 +31,7 @@ Author | Title | Publisher
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Conor Svensson | [The Blockchain Innovator's Handbook](https://www.amazon.co.uk/gp/product/1781336423/) | Rethink Press
+Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley
 Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
 Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.presser-konyve-1.html) | Helikon
 
@@ -45,6 +45,7 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
+2 | Conor Svensson | [The Blockchain Innovator's Handbook](https://www.amazon.co.uk/gp/product/1781336423/) | Rethink Press
 1 | MJ DeMarco | [Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.amazon.co.uk/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161) | Viperion
 
 <a id="read_2021"></a>
