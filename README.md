@@ -20,12 +20,6 @@ Reading list properly tracked from 2016.
 
 ---
 
-<a id="on_the_way"></a>
-### On the way...
-
-Author | Title | Publisher
------- | ----- | ---------
-
 <a id="reading_now"></a>
 ### Reading now:
 
@@ -34,6 +28,12 @@ Author | Title | Publisher
 Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley
 Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
 Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.presser-konyve-1.html) | Helikon
+
+<a id="on_the_way"></a>
+### On the way...
+
+Author | Title | Publisher
+------ | ----- | ---------
 
 ---
 
