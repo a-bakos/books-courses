@@ -35,9 +35,6 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
-David Farley | [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.co.uk/dp/0137314914) | Addison-Wesley Professional
-Baxter Hines | [Digital Finance: Security Tokens and Unlocking the Real Potential of Blockchain](https://www.amazon.co.uk/dp/1119756308) | Wiley
 
 ---
 
@@ -224,6 +221,9 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
+David Farley | [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.co.uk/dp/0137314914) | Addison-Wesley Professional
+Baxter Hines | [Digital Finance: Security Tokens and Unlocking the Real Potential of Blockchain](https://www.amazon.co.uk/dp/1119756308) | Wiley
 Seth S. Horowitz | [The Universal Sense: How Hearing Shapes the Mind](https://www.amazon.co.uk/gp/product/1608190900/) | Bloomsbury USA
 Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/gp/product/0141025719) | Penguin
 Presser Gábor | [Presser Könyve 2](https://www.libri.hu/konyv/presser_gabor.presser-konyve-2.html) | Helikon
