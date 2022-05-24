@@ -221,6 +221,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Brian Sletten | [WebAssembly - The Definitive Guide: Safe, Fast, and Portable Code](https://www.amazon.co.uk/gp/product/1492089842/) | O'Reilly Media
 Carlo Milanesi | [Creative Projects for Rust Programmers](https://www.amazon.co.uk/gp/product/1789346223) | Packt Publishing
 Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
 David Farley | [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.co.uk/dp/0137314914) | Addison-Wesley Professional
