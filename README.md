@@ -281,7 +281,3 @@ Adobe Creative Team | [Adobe Illustrator CS5 Classroom in a Book](https://www.am
 Steve McConnell | [Software Project Survival Guide (Developer Best Practices)](https://www.amazon.co.uk/gp/product/1572316217/) | Microsoft Press | Donated
 Richard Reeves, John Knell | [The 80 Minute MBA](https://www.amazon.co.uk/80-Minute-MBA-Everything-2009-03-05/dp/B019TLJD62/) | Business Plus | Donated
 Erik T. Ray | [Learning XML](https://www.amazon.co.uk/gp/product/0596004206/) | O'Reilly | Donated
-
----
-
-## [My wishlist on Amazon](https://www.amazon.co.uk/gp/registry/wishlist/XHH157FWOL51/ref=nav_wishlist_lists_1)
