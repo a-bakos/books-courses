@@ -221,6 +221,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Carlo Milanesi | [Creative Projects for Rust Programmers](https://www.amazon.co.uk/gp/product/1789346223) | Packt Publishing
 Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
 David Farley | [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.co.uk/dp/0137314914) | Addison-Wesley Professional
 Baxter Hines | [Digital Finance: Security Tokens and Unlocking the Real Potential of Blockchain](https://www.amazon.co.uk/dp/1119756308) | Wiley
