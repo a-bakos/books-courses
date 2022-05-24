@@ -221,6 +221,9 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Sendil Kumar Nellaiyapen | [Practical WebAssembly: Explore the fundamentals of WebAssembly programming using Rust](https://www.amazon.co.uk/gp/product/1838828001) | Packt Publishing
+DK | [How Technology Works: The facts visually explained (How Things Work)](https://www.amazon.co.uk/gp/product/0241356288/) | DK
+Maxwell Flitton | [Rust Web Programming: A hands-on guide to developing fast and secure web apps with the Rust programming language](https://www.amazon.co.uk/gp/product/1800560818) | Packt Publishing
 Brian Sletten | [WebAssembly - The Definitive Guide: Safe, Fast, and Portable Code](https://www.amazon.co.uk/gp/product/1492089842/) | O'Reilly Media
 Carlo Milanesi | [Creative Projects for Rust Programmers](https://www.amazon.co.uk/gp/product/1789346223) | Packt Publishing
 Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
