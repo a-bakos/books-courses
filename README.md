@@ -25,6 +25,7 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Steve Donovan | [A Gentle iintroduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) | E-book, self-published
 Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley
 Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
