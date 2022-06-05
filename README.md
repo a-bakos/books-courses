@@ -35,7 +35,6 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Carlo Milanesi | [Creative Projects for Rust Programmers](https://www.amazon.co.uk/gp/product/1789346223) | Packt Publishing
 
 ---
 
@@ -223,6 +222,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Carlo Milanesi | [Creative Projects for Rust Programmers](https://www.amazon.co.uk/gp/product/1789346223) | Packt Publishing
 Sendil Kumar Nellaiyapen | [Practical WebAssembly: Explore the fundamentals of WebAssembly programming using Rust](https://www.amazon.co.uk/gp/product/1838828001) | Packt Publishing
 DK | [How Technology Works: The facts visually explained (How Things Work)](https://www.amazon.co.uk/gp/product/0241356288/) | DK
 Maxwell Flitton | [Rust Web Programming: A hands-on guide to developing fast and secure web apps with the Rust programming language](https://www.amazon.co.uk/gp/product/1800560818) | Packt Publishing
