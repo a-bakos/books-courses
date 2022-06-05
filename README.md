@@ -27,7 +27,6 @@ Author | Title | Publisher
 ------ | ----- | ---------
 Steve Donovan | [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) | E-book, self-published
 Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
-Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley
 Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
 Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.presser-konyve-1.html) | Helikon
 
@@ -48,6 +47,7 @@ Carlo Milanesi | [Creative Projects for Rust Programmers](https://www.amazon.co.
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
+4 | Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley
 3 | Prime Minister's Office | [The Queen's Speech 2022](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1074113/Lobby_Pack_10_May_2022.pdf) | UK GOV
 2 | Conor Svensson | [The Blockchain Innovator's Handbook](https://www.amazon.co.uk/gp/product/1781336423/) | Rethink Press
 1 | MJ DeMarco | [Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.amazon.co.uk/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161) | Viperion
