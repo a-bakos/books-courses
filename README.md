@@ -36,6 +36,8 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Herbert Wolverson | [Rust Brain Teasers](https://www.amazon.co.uk/gp/product/1680509179/) | The Pragmatic Programmers
+Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
 
 ---
 
