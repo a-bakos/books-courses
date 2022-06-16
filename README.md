@@ -36,8 +36,6 @@ Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.pr
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Herbert Wolverson | [Rust Brain Teasers](https://www.amazon.co.uk/gp/product/1680509179/) | The Pragmatic Programmers
-Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
 
 ---
 
@@ -225,6 +223,8 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Herbert Wolverson | [Rust Brain Teasers](https://www.amazon.co.uk/gp/product/1680509179/) | The Pragmatic Programmers
+Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
 Carlo Milanesi | [Creative Projects for Rust Programmers](https://www.amazon.co.uk/gp/product/1789346223) | Packt Publishing
 Sendil Kumar Nellaiyapen | [Practical WebAssembly: Explore the fundamentals of WebAssembly programming using Rust](https://www.amazon.co.uk/gp/product/1838828001) | Packt Publishing
 DK | [How Technology Works: The facts visually explained (How Things Work)](https://www.amazon.co.uk/gp/product/0241356288/) | DK
