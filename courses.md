@@ -25,7 +25,9 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 
 <a id="finished_2022"></a>
 #### In 2022
-09 | [A Masterclass in Photography - Be A Confident Photographer][(https://www.udemy.com/course/photography-masterclass-complete-guide-to-photography/](https://www.udemy.com/course/a-masterclass-in-photography/)) | Mike Browne | Photography | Udemy |  
+\# | Title | Instructor | Category | Platform | Goal
+-- | ----- | ---------- | -------- | -------- | ----
+01 | [A Masterclass in Photography - Be A Confident Photographer][(https://www.udemy.com/course/photography-masterclass-complete-guide-to-photography/](https://www.udemy.com/course/a-masterclass-in-photography/)) | Mike Browne | Photography | Udemy |  
 
 <a id="finished_2021"></a>
 #### In 2021
