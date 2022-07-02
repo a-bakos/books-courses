@@ -17,7 +17,7 @@
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
-Let's Get Rusty - Rust Developer Bootcamp | IT | Self-published / Kartra
+Rust Developer Bootcamp | Let's Get Rusty | IT | Self-published / Kartra
 Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
 Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 
