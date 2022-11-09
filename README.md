@@ -25,6 +25,8 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
+Brian Sletten | [WebAssembly - The Definitive Guide: Safe, Fast, and Portable Code](https://www.amazon.co.uk/gp/product/1492089842/) | O'Reilly Media
 Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
 Steve Donovan | [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) | E-book, self-published
 Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
@@ -46,6 +48,7 @@ Author | Title | Publisher
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
+7 | Baxter Hines | [Digital Finance: Security Tokens and Unlocking the Real Potential of Blockchain](https://www.amazon.co.uk/dp/1119756308) | Wiley
 6 | David Farley | [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.co.uk/dp/0137314914) | Addison-Wesley Professional
 5 | Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 4 | Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley
@@ -225,13 +228,10 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
 Herbert Wolverson | [Rust Brain Teasers](https://www.amazon.co.uk/gp/product/1680509179/) | The Pragmatic Programmers
-Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
 Carlo Milanesi | [Creative Projects for Rust Programmers](https://www.amazon.co.uk/gp/product/1789346223) | Packt Publishing
 Sendil Kumar Nellaiyapen | [Practical WebAssembly: Explore the fundamentals of WebAssembly programming using Rust](https://www.amazon.co.uk/gp/product/1838828001) | Packt Publishing
 DK | [How Technology Works: The facts visually explained (How Things Work)](https://www.amazon.co.uk/gp/product/0241356288/) | DK
 Maxwell Flitton | [Rust Web Programming: A hands-on guide to developing fast and secure web apps with the Rust programming language](https://www.amazon.co.uk/gp/product/1800560818) | Packt Publishing
-Brian Sletten | [WebAssembly - The Definitive Guide: Safe, Fast, and Portable Code](https://www.amazon.co.uk/gp/product/1492089842/) | O'Reilly Media
-Baxter Hines | [Digital Finance: Security Tokens and Unlocking the Real Potential of Blockchain](https://www.amazon.co.uk/dp/1119756308) | Wiley
 Seth S. Horowitz | [The Universal Sense: How Hearing Shapes the Mind](https://www.amazon.co.uk/gp/product/1608190900/) | Bloomsbury USA
 Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/gp/product/0141025719) | Penguin
 Presser Gábor | [Presser Könyve 2](https://www.libri.hu/konyv/presser_gabor.presser-konyve-2.html) | Helikon
