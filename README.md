@@ -48,6 +48,7 @@ Author | Title | Publisher
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
+8 | Ken Kousen | [Help your boss help you](https://www.amazon.co.uk/Help-Your-Boss-You-Opportunities/dp/1680508229) | The Pragmatic Programmers
 7 | Baxter Hines | [Digital Finance: Security Tokens and Unlocking the Real Potential of Blockchain](https://www.amazon.co.uk/dp/1119756308) | Wiley
 6 | David Farley | [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.co.uk/dp/0137314914) | Addison-Wesley Professional
 5 | Steve Klabnik, Carol Nichols | [The Rust Programming Language](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
