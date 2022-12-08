@@ -26,7 +26,6 @@ Reading list properly tracked from 2016.
 Author | Title | Publisher
 ------ | ----- | ---------
 Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
-Brian Sletten | [WebAssembly - The Definitive Guide: Safe, Fast, and Portable Code](https://www.amazon.co.uk/gp/product/1492089842/) | O'Reilly Media
 Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
 Steve Donovan | [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) | E-book, self-published
 Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
@@ -48,6 +47,7 @@ Author | Title | Publisher
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
+9 | Brian Sletten | [WebAssembly - The Definitive Guide: Safe, Fast, and Portable Code](https://www.amazon.co.uk/gp/product/1492089842/) | O'Reilly Media
 8 | Ken Kousen | [Help your boss help you](https://www.amazon.co.uk/Help-Your-Boss-You-Opportunities/dp/1680508229) | The Pragmatic Programmers
 7 | Baxter Hines | [Digital Finance: Security Tokens and Unlocking the Real Potential of Blockchain](https://www.amazon.co.uk/dp/1119756308) | Wiley
 6 | David Farley | [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.co.uk/dp/0137314914) | Addison-Wesley Professional
