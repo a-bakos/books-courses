@@ -47,6 +47,7 @@ Author | Title | Publisher
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
+11 | Sufyan bin Uzayr | [Mastering Rust](https://www.amazon.co.uk/Mastering-Rust-Beginners-Computer-Science/dp/1032319011/) | CRC Press
 10 | Sufyan bin Uzayr | [Web Performance Optimization](https://www.amazon.co.uk/Web-Performance-Optimization-Practical-Approach/dp/1032067594) | CRC Press
 9 | Brian Sletten | [WebAssembly - The Definitive Guide: Safe, Fast, and Portable Code](https://www.amazon.co.uk/gp/product/1492089842/) | O'Reilly Media
 8 | Ken Kousen | [Help your boss help you](https://www.amazon.co.uk/Help-Your-Boss-You-Opportunities/dp/1680508229) | The Pragmatic Programmers
