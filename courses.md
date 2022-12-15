@@ -28,6 +28,7 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 #### In 2022
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+02 | [Ultimate Rust 2: Intermediate Concepts](https://www.udemy.com/course/ultimate-rust-2/) | Nathan Stocks | IT | Udemy | Professional
 01 | [A Masterclass in Photography - Be A Confident Photographer](https://www.udemy.com/course/photography-masterclass-complete-guide-to-photography/](https://www.udemy.com/course/a-masterclass-in-photography/)) | Mike Browne | Photography | Udemy | Hobby
 
 <a id="finished_2021"></a>
