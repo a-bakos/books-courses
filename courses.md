@@ -2,6 +2,7 @@
 
 + [In progress](#in_progress)
 + [Finished](#finished)
+   + [In 2023](#finished_2023)
    + [In 2022](#finished_2022)
    + [In 2021](#finished_2021)
    + [In 2020](#finished_2020)
@@ -23,6 +24,12 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 
 <a id="finished"></a>
 ## Finished courses
+
+<a id="finished_2023"></a>
+#### In 2023
+\# | Title | Instructor | Category | Platform | Goal
+-- | ----- | ---------- | -------- | -------- | ----
+01 | [Rust Tips and Tricks](https://www.linkedin.com/learning/rust-tips-and-tricks/get-rust-tips-and-tricks) | Marcus Willock | IT | LinkedIn Learning | Professional
 
 <a id="finished_2022"></a>
 #### In 2022
