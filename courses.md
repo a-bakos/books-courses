@@ -29,6 +29,7 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 #### In 2023
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+02 | [Rust File Manipulation](https://www.linkedin.com/learning/practice-it-rust-file-manipulation/) | Marcus Willock | IT | LinkedIn Learning | Professional
 01 | [Rust Tips and Tricks](https://www.linkedin.com/learning/rust-tips-and-tricks/get-rust-tips-and-tricks) | Marcus Willock | IT | LinkedIn Learning | Professional
 
 <a id="finished_2022"></a>
