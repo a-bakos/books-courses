@@ -110,7 +110,6 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
-Ultimate Rust 2: Intermediate Concepts | Nathan Stocks | IT | Udemy
 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) | IT | Udemy
 [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) | IT | Educative
 Hands-On Systems Programming with Rust | | IT | Udemy
