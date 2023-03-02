@@ -6,6 +6,7 @@ Reading list properly tracked from 2016.
 
 + [Reading now](#reading_now)
 + [Read](#read)
+   + [In 2023](#read_2023)
    + [In 2022](#read_2022)
    + [In 2021](#read_2021)
    + [In 2020](#read_2020)
@@ -41,6 +42,13 @@ Author | Title | Publisher
 
 <a id="read"></a>
 ## Finished reading
+
+<a id="read_2023"></a>
+#### In 2023
+
+\# | Author | Title | Publisher | Note
+-- | ------ | ----- | --------- | ----
+01 | Brad Williams, John James Jacoby, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/1119666945) | Wrox | Second Edition
 
 <a id="read_2022"></a>
 #### In 2022
