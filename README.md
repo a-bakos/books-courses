@@ -26,11 +26,7 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
-Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
-Steve Donovan | [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) | E-book, self-published
-Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
-Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.presser-konyve-1.html) | Helikon
+Bastian Gruber | Rust Web Development | Manning
 
 <a id="on_the_way"></a>
 ### On the way...
@@ -238,6 +234,11 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
+Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
+Steve Donovan | [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) | E-book, self-published
+Ryan Holiday, Stephen Hanselman | [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living](https://www.amazon.co.uk/gp/product/1781257655) | Profile Books
+Presser Gábor | [Presser Könyve 1](https://www.libri.hu/konyv/presser_gabor.presser-konyve-1.html) | Helikon
 Herbert Wolverson | [Rust Brain Teasers](https://www.amazon.co.uk/gp/product/1680509179/) | The Pragmatic Programmers
 Carlo Milanesi | [Creative Projects for Rust Programmers](https://www.amazon.co.uk/gp/product/1789346223) | Packt Publishing
 Sendil Kumar Nellaiyapen | [Practical WebAssembly: Explore the fundamentals of WebAssembly programming using Rust](https://www.amazon.co.uk/gp/product/1838828001) | Packt Publishing
