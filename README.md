@@ -26,7 +26,7 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Bastian Gruber | Rust Web Development | Manning
+Bastian Gruber | [Rust Web Development](https://www.amazon.co.uk/dp/1617299006) | Manning
 
 <a id="on_the_way"></a>
 ### On the way...
