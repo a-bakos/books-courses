@@ -234,6 +234,7 @@ Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Tim McNamara | Rust in Action | Manning 
 Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
 Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
 Steve Donovan | [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/) | E-book, self-published
