@@ -18,6 +18,7 @@
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
+[PostgreSQL: Client Applications](https://www.linkedin.com/learning/postgresql-client-applications/) | Adam Wilbert | IT | LinkedIn Learning
 Rust Developer Bootcamp | Let's Get Rusty | IT | Self-published / Kartra
 Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
 Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
