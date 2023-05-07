@@ -26,6 +26,7 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Sandro Mancuso | [The Software Craftsman](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/) | Pearson
 Bastian Gruber | [Rust Web Development](https://www.amazon.co.uk/dp/1617299006) | Manning
 
 <a id="on_the_way"></a>
