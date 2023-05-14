@@ -30,6 +30,7 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 #### In 2023
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+04 | [Rust: Asynchronous Programming with Tokio](https://www.linkedin.com/learning/rust-asynchronous-programming-with-tokio/) | Marcus Willock | IT | LinkedIn Learning | Professional
 03 | [PostgreSQL Essential Training](https://www.linkedin.com/learning/postgresql-essential-training/) | Adam Wilbert | IT | LinkedIn Learning | Professional
 02 | [Rust File Manipulation](https://www.linkedin.com/learning/practice-it-rust-file-manipulation/) | Marcus Willock | IT | LinkedIn Learning | Professional
 01 | [Rust Tips and Tricks](https://www.linkedin.com/learning/rust-tips-and-tricks/get-rust-tips-and-tricks) | Marcus Willock | IT | LinkedIn Learning | Professional
