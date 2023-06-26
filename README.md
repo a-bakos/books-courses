@@ -44,6 +44,7 @@ Author | Title | Publisher
 
 \# | Author | Title | Publisher | Note
 -- | ------ | ----- | --------- | ----
+03 | Tanya Reilly | [The Staff Engineer's Path](https://www.amazon.co.uk/Staff-Engineers-Path-Individual-Contributors/dp/1098118731/) | O'Reilly
 02 | Bastian Gruber | [Rust Web Development](https://www.amazon.co.uk/dp/1617299006) | Manning
 01 | Brad Williams, John James Jacoby, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/1119666945) | Wrox | Second Edition
 
