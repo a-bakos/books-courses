@@ -26,6 +26,7 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Jim Blandy, Jason Orendorff, Leonora F.S. Tindall | [Programming Rust](https://www.amazon.co.uk/Programming-Rust-Fast-Systems-Development/dp/1492052590/) | O'Reilly
 Sandro Mancuso | [The Software Craftsman](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/) | Pearson
 
 <a id="on_the_way"></a>
