@@ -5,6 +5,7 @@ Technical, non-fiction, self-growth, business.
 Reading list properly tracked from 2016.
 
 + [Reading now](#reading_now)
++ [Favourites](#favs)
 + [Read](#read)
    + [In 2023](#read_2023)
    + [In 2022](#read_2022)
@@ -34,6 +35,13 @@ Sandro Mancuso | [The Software Craftsman](https://www.amazon.co.uk/Software-Craf
 
 Author | Title | Publisher
 ------ | ----- | ---------
+
+<a id="favs"></a>
+### Favourites
+
+Author | Title | Publisher
+------ | ----- | ---------
+Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley
 
 ---
 
