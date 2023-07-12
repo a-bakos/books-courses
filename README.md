@@ -35,13 +35,7 @@ Sandro Mancuso | [The Software Craftsman](https://www.amazon.co.uk/Software-Craf
 
 Author | Title | Publisher
 ------ | ----- | ---------
-
-<a id="favs"></a>
-### Favourites
-
-Author | Title | Publisher
------- | ----- | ---------
-Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley
+Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 
 ---
 
@@ -237,6 +231,13 @@ Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer]
 Jay Blanchard | [jQuery & jQuery UI](https://www.amazon.co.uk/gp/product/0321885147/) | Peachpit Press
 Elizabeth Castro and Bruce Hyslop | [HTML5 and CSS3 (Seventh Edition)](https://www.amazon.co.uk/gp/product/0321719611/) | Peachpit Press
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
+
+<a id="favs"></a>
+### Favourites
+
+Author | Title | Publisher | Note
+------ | ----- | --------- | ----
+Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley | **Absolute #1 favourite**
 
 ---
 
