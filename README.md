@@ -230,6 +230,7 @@ Justin Gehtland, Ben Galbraith, Dion Almaer | [Pragmatic Ajax: A Web 2.0 Primer]
 Jay Blanchard | [jQuery & jQuery UI](https://www.amazon.co.uk/gp/product/0321885147/) | Peachpit Press
 Elizabeth Castro and Bruce Hyslop | [HTML5 and CSS3 (Seventh Edition)](https://www.amazon.co.uk/gp/product/0321719611/) | Peachpit Press
 Leil Lowndes | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/) | Harper Element
+(many, many others...)
 
 <a id="favs"></a>
 ### Favourites
