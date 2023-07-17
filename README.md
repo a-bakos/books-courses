@@ -35,7 +35,7 @@ Sandro Mancuso | [The Software Craftsman](https://www.amazon.co.uk/Software-Craf
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
+Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition (Rust 2021)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 
 ---
 
@@ -62,7 +62,7 @@ Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition](http
 8 | Ken Kousen | [Help your boss help you](https://www.amazon.co.uk/Help-Your-Boss-You-Opportunities/dp/1680508229) | The Pragmatic Programmers
 7 | Baxter Hines | [Digital Finance: Security Tokens and Unlocking the Real Potential of Blockchain](https://www.amazon.co.uk/dp/1119756308) | Wiley
 6 | David Farley | [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.amazon.co.uk/dp/0137314914) | Addison-Wesley Professional
-5 | Steve Klabnik, Carol Nichols | [The Rust Programming Language (2018)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
+5 | Steve Klabnik, Carol Nichols | [The Rust Programming Language (Rust 2018)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 4 | Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley
 3 | Prime Minister's Office | [The Queen's Speech 2022](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1074113/Lobby_Pack_10_May_2022.pdf) | UK GOV
 2 | Conor Svensson | [The Blockchain Innovator's Handbook](https://www.amazon.co.uk/gp/product/1781336423/) | Rethink Press
