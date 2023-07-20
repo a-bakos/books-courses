@@ -35,7 +35,7 @@ Sandro Mancuso | [The Software Craftsman](https://www.amazon.co.uk/Software-Craf
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition (Rust 2021)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
+
 
 ---
 
@@ -246,6 +246,7 @@ Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery,
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition (Rust 2021)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 Tim McNamara | [Rust in Action](https://www.amazon.co.uk/dp/1617294551) | Manning 
 Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
 Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
