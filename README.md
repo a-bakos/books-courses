@@ -27,6 +27,7 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Marco Faella | Seriously Good Software | []() | Manning
 Jim Blandy, Jason Orendorff, Leonora F.S. Tindall | [Programming Rust](https://www.amazon.co.uk/Programming-Rust-Fast-Systems-Development/dp/1492052590/) | O'Reilly
 Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition (Rust 2021)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
 
