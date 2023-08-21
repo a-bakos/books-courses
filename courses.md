@@ -18,7 +18,7 @@
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
-Rust + Yew | | IT | Udemy
+[Front end web development in Rust](https://www.udemy.com/course/front-end-web-development-in-rust/) | Paris Liakos | IT | Udemy
 [Tailwind CSS 3 Essential Training](https://www.linkedin.com/learning/tailwind-css-3-essential-training/creating-a-custom-build) | Ray Villalobos | IT | LinkedIn Learning
 [PostgreSQL: Client Applications](https://www.linkedin.com/learning/postgresql-client-applications/) | Adam Wilbert | IT | LinkedIn Learning
 Rust Developer Bootcamp | Let's Get Rusty | IT | Self-published / Kartra
