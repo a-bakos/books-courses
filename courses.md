@@ -32,6 +32,7 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 #### In 2023
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+06 | [Technical SEO](https://www.linkedin.com/learning/technical-seo/drive-site-traffic-using-technical-seo) | Dana DiTomaso | IT | LinkedIn Learning
 05 | [Tailwind CSS Essential Training](https://www.linkedin.com/learning/tailwind-css-essential-training/the-tailwind-utility-first-approach) | Ray Villalobos | IT | LinkedIn Learning
 04 | [Rust: Asynchronous Programming with Tokio](https://www.linkedin.com/learning/rust-asynchronous-programming-with-tokio/) | Marcus Willock | IT | LinkedIn Learning | Professional
 03 | [PostgreSQL Essential Training](https://www.linkedin.com/learning/postgresql-essential-training/) | Adam Wilbert | IT | LinkedIn Learning | Professional
