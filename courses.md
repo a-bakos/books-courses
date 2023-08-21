@@ -19,7 +19,7 @@
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
 Rust + Yew | | IT | Udemy
-Tailwind | | IT | LinkedIn Learning
+[Tailwind CSS 3 Essential Training](https://www.linkedin.com/learning/tailwind-css-3-essential-training/creating-a-custom-build) | Ray Villalobos | IT | LinkedIn Learning
 [PostgreSQL: Client Applications](https://www.linkedin.com/learning/postgresql-client-applications/) | Adam Wilbert | IT | LinkedIn Learning
 Rust Developer Bootcamp | Let's Get Rusty | IT | Self-published / Kartra
 Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
