@@ -19,7 +19,6 @@
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
 [Front end web development in Rust](https://www.udemy.com/course/front-end-web-development-in-rust/) | Paris Liakos | IT | Udemy
-[Tailwind CSS 3 Essential Training](https://www.linkedin.com/learning/tailwind-css-3-essential-training/creating-a-custom-build) | Ray Villalobos | IT | LinkedIn Learning
 [PostgreSQL: Client Applications](https://www.linkedin.com/learning/postgresql-client-applications/) | Adam Wilbert | IT | LinkedIn Learning
 Rust Developer Bootcamp | Let's Get Rusty | IT | Self-published / Kartra
 Hands-On Data Structures and Algorithms in Rust | | IT | Udemy
@@ -32,6 +31,7 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 #### In 2023
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+07 | [Tailwind CSS 3 Essential Training](https://www.linkedin.com/learning/tailwind-css-3-essential-training/creating-a-custom-build) | Ray Villalobos | IT | LinkedIn Learning
 06 | [Technical SEO](https://www.linkedin.com/learning/technical-seo/drive-site-traffic-using-technical-seo) | Dana DiTomaso | IT | LinkedIn Learning
 05 | [Tailwind CSS Essential Training](https://www.linkedin.com/learning/tailwind-css-essential-training/the-tailwind-utility-first-approach) | Ray Villalobos | IT | LinkedIn Learning
 04 | [Rust: Asynchronous Programming with Tokio](https://www.linkedin.com/learning/rust-asynchronous-programming-with-tokio/) | Marcus Willock | IT | LinkedIn Learning | Professional
