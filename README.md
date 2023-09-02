@@ -36,7 +36,9 @@ Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition (Rust
 
 Author | Title | Publisher
 ------ | ----- | ---------
-
+Noel Rappin | [Modern CSS with Tailwind, 2e](https://www.amazon.co.uk/gp/product/1680509403/) | The Pragmatic Programmers
+Dan Sullivan, Benjamin Hardy | [10x Is Easier Than 2x](https://www.amazon.co.uk/gp/product/140196995X/) | Hay House Business
+Shing Lyu, Andrew Reznik | [Practical Rust Projects: Build Serverless, AI, Machine Learning, Embedded, Game, and Web Applications](https://www.amazon.co.uk/gp/product/1484293304) | Apress
 
 ---
 
