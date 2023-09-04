@@ -27,6 +27,8 @@ Reading list properly tracked from 2016.
 
 Author | Title | Publisher
 ------ | ----- | ---------
+Noel Rappin | [Modern CSS with Tailwind, 2e](https://www.amazon.co.uk/gp/product/1680509403/) | The Pragmatic Programmers
+Dan Sullivan, Benjamin Hardy | [10x Is Easier Than 2x](https://www.amazon.co.uk/gp/product/140196995X/) | Hay House Business
 Marco Faella | Seriously Good Software | []() | Manning
 Jim Blandy, Jason Orendorff, Leonora F.S. Tindall | [Programming Rust](https://www.amazon.co.uk/Programming-Rust-Fast-Systems-Development/dp/1492052590/) | O'Reilly
 Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition (Rust 2021)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press
@@ -36,8 +38,6 @@ Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition (Rust
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Noel Rappin | [Modern CSS with Tailwind, 2e](https://www.amazon.co.uk/gp/product/1680509403/) | The Pragmatic Programmers
-Dan Sullivan, Benjamin Hardy | [10x Is Easier Than 2x](https://www.amazon.co.uk/gp/product/140196995X/) | Hay House Business
 Shing Lyu, Andrew Reznik | [Practical Rust Projects: Build Serverless, AI, Machine Learning, Embedded, Game, and Web Applications](https://www.amazon.co.uk/gp/product/1484293304) | Apress
 
 ---
