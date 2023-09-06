@@ -38,7 +38,6 @@ Steve Klabnik, Carol Nichols | [The Rust Programming Language, 2nd Edition (Rust
 
 Author | Title | Publisher
 ------ | ----- | ---------
-Shing Lyu, Andrew Reznik | [Practical Rust Projects: Build Serverless, AI, Machine Learning, Embedded, Game, and Web Applications](https://www.amazon.co.uk/gp/product/1484293304) | Apress
 
 ---
 
@@ -250,6 +249,7 @@ Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery,
 
 Author | Title | Publisher | Note
 ------ | ----- | --------- | ----
+Shing Lyu, Andrew Reznik | [Practical Rust Projects: Build Serverless, AI, Machine Learning, Embedded, Game, and Web Applications](https://www.amazon.co.uk/gp/product/1484293304) | Apress
 Tim McNamara | [Rust in Action](https://www.amazon.co.uk/dp/1617294551) | Manning 
 Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882) | Apress
 Jon  Gjengset | [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://www.amazon.co.uk/dp/1718501854) | No Starch Press
