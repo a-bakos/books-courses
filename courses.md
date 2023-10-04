@@ -18,6 +18,7 @@
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
+[Learning TypeScript](https://www.linkedin.com/learning/learning-typescript-2) | Jess Chadwick | IT | LinkedIn Learning
 [Front end web development in Rust](https://www.udemy.com/course/front-end-web-development-in-rust/) | Paris Liakos | IT | Udemy
 [PostgreSQL: Client Applications](https://www.linkedin.com/learning/postgresql-client-applications/) | Adam Wilbert | IT | LinkedIn Learning
 Rust Developer Bootcamp | Let's Get Rusty | IT | Self-published / Kartra
