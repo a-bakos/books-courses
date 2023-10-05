@@ -18,6 +18,7 @@
 
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
+[TypeScript Essential Training](https://www.linkedin.com/learning/typescript-essential-training-14687057) | Jess Chadwick | IT | LinkedIn Learning
 [Front end web development in Rust](https://www.udemy.com/course/front-end-web-development-in-rust/) | Paris Liakos | IT | Udemy
 [PostgreSQL: Client Applications](https://www.linkedin.com/learning/postgresql-client-applications/) | Adam Wilbert | IT | LinkedIn Learning
 Rust Developer Bootcamp | Let's Get Rusty | IT | Self-published / Kartra
@@ -119,7 +120,6 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 Title | Instructor | Category | Platform
 ----- | ---------- | -------- | --------
 [TypeScript: Object-Oriented Programming](https://www.linkedin.com/learning/typescript-object-oriented-programming) | Dylan Israel | IT | LinkedIn Learning
-[TypeScript Essential Training](https://www.linkedin.com/learning/typescript-essential-training-14687057) | Jess Chadwick | IT | LinkedIn Learning
 [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) | IT | Udemy
 [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) | IT | Educative
 Hands-On Systems Programming with Rust | | IT | Udemy
