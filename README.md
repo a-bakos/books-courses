@@ -4,21 +4,21 @@
 
 Books that are important to my professional & personal goals. Mostly physical copies. Technical, non-fiction, self-growth, business. Reading list properly tracked from 2016.
 
-* [Reading now](./#reading\_now)
-* [Favourites](./#favs)
-* [On the way](./#on\_the\_way)
-* [Read](./#read)
-  * [In 2023](./#read\_2023)
-  * [In 2022](./#read\_2022)
-  * [In 2021](./#read\_2021)
-  * [In 2020](./#read\_2020)
-  * [In 2019](./#read\_2019)
-  * [In 2018](./#read\_2018)
-  * [In 2017](./#read\_2017)
-  * [In 2016](./#read\_2016)
-  * [before 2016 _incomplete_](./#before\_2016)
-* [Yet to be read / finished / buffer](./#to\_be\_read)
-* [Donated, sold, Put aside, lost, etc.](./#meh\_nah)
+* [Reading now](#reading_now)
+* [Favourites](#favs)
+* [On the way](#on_the_way)
+* [Read](#read)
+  * [In 2023](#read_2023)
+  * [In 2022](#read_2022)
+  * [In 2021](#read_2021)
+  * [In 2020](#read_2020)
+  * [In 2019](#read_2019)
+  * [In 2018](#read_2018)
+  * [In 2017](#read_2017)
+  * [In 2016](#read_2016)
+  * [before 2016 _incomplete_](#before_2016)
+* [Yet to be read / finished / buffer](#to_be_read)
+* [Donated, sold, Put aside, lost, etc.](#meh_nah)
 
 ***
 
@@ -47,7 +47,8 @@ Books that are important to my professional & personal goals. Mostly physical co
 | 02           | Bastian Gruber                                   | [Rust Web Development](https://www.amazon.co.uk/dp/1617299006)                                                         | Manning   | Fantastic book |
 | 01           | Brad Williams, John James Jacoby, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/1119666945)                                    | Wrox      | Second Edition |
 |              |                                                  |                                                                                                                        |           |                |
-| #### In 2022 |                                                  |                                                                                                                        |           |                |
+
+#### In 2022
 
 | #  | Author                       | Title                                                                                                                                                                                 | Publisher                   | Note         |
 | -- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------ |
