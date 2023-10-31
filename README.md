@@ -22,6 +22,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 
 ***
 
+<a id="reading_now"></a>
 #### Reading now:
 
 | Author                                            | Title                                                                                                                                    | Publisher                 |
@@ -32,12 +33,25 @@ Books that are important to my professional & personal goals. Mostly physical co
 | Jim Blandy, Jason Orendorff, Leonora F.S. Tindall | [Programming Rust](https://www.amazon.co.uk/Programming-Rust-Fast-Systems-Development/dp/1492052590/)                                    | O'Reilly                  |
 | Steve Klabnik, Carol Nichols                      | [The Rust Programming Language, 2nd Edition (Rust 2021)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press           |
 
+<a id="on_the_way"></a>
 #### On the way...
 
 ***
 
+
+<a id="favs"></a>
+#### Favourites
+
+| Author | Title | Publisher | Note |
+| ------ | ----- | --------- | ---- |
+| Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley | **Absolute #1 favourite** |
+
+---
+
+<a id="read"></a>
 ### Finished reading
 
+<a id="read_2023"></a>
 **In 2023**
 
 | #            | Author                                           | Title                                                                                                                  | Publisher | Note           |
@@ -48,6 +62,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 | 01           | Brad Williams, John James Jacoby, Justin Tadlock | [Professional WordPress Plugin Development](https://www.amazon.co.uk/dp/1119666945)                                    | Wrox      | Second Edition |
 |              |                                                  |                                                                                                                        |           |                |
 
+<a id="read_2022"></a>
 #### In 2022
 
 | #  | Author                       | Title                                                                                                                                                                                 | Publisher                   | Note         |
@@ -63,13 +78,14 @@ Books that are important to my professional & personal goals. Mostly physical co
 | 3  | Prime Minister's Office      | [The Queen's Speech 2022](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/1074113/Lobby\_Pack\_10\_May\_2022.pdf)                    | UK GOV                      |              |
 | 2  | Conor Svensson               | [The Blockchain Innovator's Handbook](https://www.amazon.co.uk/gp/product/1781336423/)                                                                                                | Rethink Press               |              |
 | 1  | MJ DeMarco                   | [Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.amazon.co.uk/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161)                             | Viperion                    |              |
-
+<a id="read_2021"></a>
 **In 2021**
 
 | # | Author         | Title                                                                                                              | Publisher | Note |
 | - | -------------- | ------------------------------------------------------------------------------------------------------------------ | --------- | ---- |
 | 1 | Brent Donnelly | [The Art of Currency Trading](https://www.amazon.co.uk/Art-Currency-Trading-Professionals-Exchange/dp/1119583551/) | Wiley     | Sold |
 
+<a id="read_2020"></a>
 **In 2020**
 
 | #  | Author            | Title                                                                                                                                                                                   | Publisher                     | Note |
@@ -88,6 +104,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 | 2  | DVSA              | The Official Highway Code                                                                                                                                                               | TSO                           |      |
 | 1  | Jack Donovan      | [The Way of Men](https://www.amazon.co.uk/Way-Men-Jack-Donovan/dp/0985452307/)                                                                                                          | Dissonant Hum                 |      |
 
+<a id="read_2019"></a>
 **In 2019**
 
 | #  | Author                          | Title                                                                                                                                               | Publisher               | Note |
@@ -111,6 +128,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 | 02 | Dr Andrew Aziz                  | [How to Day Trade for a Living](https://www.amazon.co.uk/gp/product/1535585951)                                                                     | CreateSpace             | Sold |
 | 01 | Fred McAllen                    | [Charting and Technical Analysis](https://www.amazon.co.uk/gp/product/1456468693)                                                                   | CreateSpace             |      |
 
+<a id="read_2018"></a>
 **In 2018**
 
 | #  | Author                                        | Title                                                                                                                                                   | Publisher               | Note          |
@@ -147,6 +165,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 | 02 | Kepes András                                  | Világkép                                                                                                                                                | Libri                   |               |
 | 01 | Robert C. Martin                              | [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/) | Prentice Hall           |               |
 
+<a id="read_2017"></a>
 **In 2017**
 
 | #  | Author                                   | Title                                                                                                                                                                          | Publisher               | Note     |
@@ -187,6 +206,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 | 02 | Benjamin P. Hardy                        | [Slipstream Time Hacking](https://www.amazon.co.uk/gp/product/0997071001)                                                                                                      | Amazon                  |          |
 | 01 | Nicholas Bate                            | [You, only better](https://www.amazon.co.uk/You-Only-Better-Strengths-Change/dp/0857084720/)                                                                                   | Capstone                | Donated  |
 
+<a id="read_2016"></a>
 **In 2016**
 
 | #  | Author                                                           | Title                                                                                                                                    | Publisher               |
@@ -212,6 +232,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 | 02 | Peter Bell and Brent Beer                                        | [Introducing GitHub](https://www.amazon.co.uk/gp/product/1491949740/)                                                                    | O'Reilly                |
 | 01 | Rob Cole and Edward Scotcher                                     | [Brilliant Agile Project Management](https://www.amazon.co.uk/gp/product/1292063564/)                                                    | Pearson                 |
 
+<a id="before_2016"></a>
 **Before 2016 **_**(incomplete)**_
 
 | Author                                      | Title                                                                                                     | Publisher               |
@@ -222,14 +243,9 @@ Books that are important to my professional & personal goals. Mostly physical co
 | Leil Lowndes                                | [How to Talk to Anyone](https://www.amazon.co.uk/How-Talk-Anyone-Success-Relationships/)                  | Harper Element          |
 | (many, many others...)                      |                                                                                                           |                         |
 
-#### Favourites
-
-| Author                     | Title                                                                                                                                                                                 | Publisher      | Note                      |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------- |
-| Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley | **Absolute #1 favourite** |
-
 ***
 
+<a id="to_be_read"></a>
 #### Yet to be read or finished / buffer:
 
 | Author                          | Title                                                                                                                                                                                             | Publisher                     | Note |
@@ -275,6 +291,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 | Dan Ariely                      | [Irrationally Yours](https://www.amazon.co.uk/d/Books/Irrationally-Yours-Missing-Socks-Pickup-Existential-Puzzles/0062379992/)                                                                    | Harper Perennial              |      |
 | Marko Papic                     | [Geopolitical Alpha: An Investment Framework for Predicting the Future](https://www.amazon.co.uk/Geopolitical-Alpha-Investment-Framework-Predicting/dp/1119740215)                                | Wiley                         |      |
 
+<a id="meh_nah"></a>
 #### (Unread or skimmed) AND (donated or sold)
 
 | Author                                                                                            | Title                                                                                                                                                                          | Publisher               | Note             |
