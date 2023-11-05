@@ -44,6 +44,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 | Author | Title | Publisher | Note |
 | ------ | ----- | --------- | ---- |
 | Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley | **Absolute #1 favourite** |
+| MJ DeMarco | [Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.amazon.co.uk/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161) | Viperion | |
 
 ---
 
