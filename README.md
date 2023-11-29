@@ -33,8 +33,12 @@ Books that are important to my professional & personal goals. Mostly physical co
 | Jim Blandy, Jason Orendorff, Leonora F.S. Tindall | [Programming Rust](https://www.amazon.co.uk/Programming-Rust-Fast-Systems-Development/dp/1492052590/)                                    | O'Reilly                  |
 | Steve Klabnik, Carol Nichols                      | [The Rust Programming Language, 2nd Edition (Rust 2021)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press           |
 
+---
+
 <a id="on_the_way"></a>
 #### On the way...
+
+None at the moment.
 
 ***
 
