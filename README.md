@@ -55,6 +55,11 @@ None at the moment.
 <a id="read"></a>
 ### Finished reading
 
+<a id="read_2024"></a>
+**In 2024**
+
+TBC
+
 <a id="read_2023"></a>
 **In 2023**
 
