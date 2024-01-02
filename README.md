@@ -259,6 +259,9 @@ TBC
 
 | Author | Title | Publisher | Note |
 | ------ | ----- | --------- | ---- |
+| Andrew Grove | [Only the Paranoid Survive](https://www.amazon.co.uk/Only-Paranoid-Survive-Andrew-Grove/dp/1861975139/) | Profile Books
+| William E Jr Shotts | [The Linux Command Line](https://www.amazon.co.uk/Linux-Command-Line-2nd/dp/1593279523/) | No Starch Press
+| Prabhu Eshwarla | [Rust Servers, Services, and Apps]() | Manning
 | Shing Lyu, Andrew Reznik | [Practical Rust Projects: Build Serverless, AI, Machine Learning, Embedded, Game, and Web Applications](https://www.amazon.co.uk/gp/product/1484293304)                                           | Apress                        |      |
 | Tim McNamara | [Rust in Action](https://www.amazon.co.uk/dp/1617294551)                                                                                                                                          | Manning                       |      |
 | Shing Lyu | [Practical Rust Web Projects: Building Cloud and Web-Based Applications](https://www.amazon.co.uk/dp/1484265882)                                                                                  | Apress                        |      |
