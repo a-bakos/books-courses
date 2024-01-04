@@ -259,6 +259,9 @@ TBC
 
 | Author | Title | Publisher | Note |
 | ------ | ----- | --------- | ---- |
+| DVSA                                          | The Official DVSA Guide to Learning to Drive (2023)                                                                                                            | TSO                     |               |
+| DVSA                                          | The Official DVSA Guide to Driving (2023)                                                                                                                     | TSO                     |               |
+| DVSA                                          | The Official Highway Code (2023)                                                                                                                               | TSO                     |               |
 | Andrew Grove | [Only the Paranoid Survive](https://www.amazon.co.uk/Only-Paranoid-Survive-Andrew-Grove/dp/1861975139/) | Profile Books
 | William E Jr Shotts | [The Linux Command Line](https://www.amazon.co.uk/Linux-Command-Line-2nd/dp/1593279523/) | No Starch Press
 | Prabhu Eshwarla | [Rust Servers, Services, and Apps]() | Manning
