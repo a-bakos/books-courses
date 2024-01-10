@@ -27,6 +27,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 
 | Author                                            | Title                                                                                                                                    | Publisher                 |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| DVSA                                          | The Official DVSA Guide to Learning to Drive (2023)                                                                                                            | TSO                     |               |
 | Noel Rappin                                       | [Modern CSS with Tailwind, 2e](https://www.amazon.co.uk/gp/product/1680509403/)                                                          | The Pragmatic Programmers |
 | Dan Sullivan, Benjamin Hardy                      | [10x Is Easier Than 2x](https://www.amazon.co.uk/gp/product/140196995X/)                                                                 | Hay House Business        |
 | Marco Faella                                      | Seriously Good Software                                                                                                                  |                           |
@@ -259,7 +260,6 @@ TBC
 
 | Author | Title | Publisher | Note |
 | ------ | ----- | --------- | ---- |
-| DVSA                                          | The Official DVSA Guide to Learning to Drive (2023)                                                                                                            | TSO                     |               |
 | DVSA                                          | The Official DVSA Guide to Driving (2023)                                                                                                                     | TSO                     |               |
 | DVSA                                          | The Official Highway Code (2023)                                                                                                                               | TSO                     |               |
 | Andrew Grove | [Only the Paranoid Survive](https://www.amazon.co.uk/Only-Paranoid-Survive-Andrew-Grove/dp/1861975139/) | Profile Books
