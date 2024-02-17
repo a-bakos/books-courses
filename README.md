@@ -29,7 +29,6 @@ Books that are important to my professional & personal goals. Mostly physical co
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | DVSA                                          | The Official DVSA Guide to Learning to Drive (2023)                                                                                                            | TSO                     |               |
 | Noel Rappin                                       | [Modern CSS with Tailwind, 2e](https://www.amazon.co.uk/gp/product/1680509403/)                                                          | The Pragmatic Programmers |
-| Dan Sullivan, Benjamin Hardy                      | [10x Is Easier Than 2x](https://www.amazon.co.uk/gp/product/140196995X/)                                                                 | Hay House Business        |
 | Marco Faella                                      | Seriously Good Software                                                                                                                  |                           |
 | Jim Blandy, Jason Orendorff, Leonora F.S. Tindall | [Programming Rust](https://www.amazon.co.uk/Programming-Rust-Fast-Systems-Development/dp/1492052590/)                                    | O'Reilly                  |
 | Steve Klabnik, Carol Nichols                      | [The Rust Programming Language, 2nd Edition (Rust 2021)](https://www.amazon.co.uk/Rust-Programming-Language-Steve-Klabnik/dp/1718500440) | No Starch Press           |
@@ -59,7 +58,9 @@ None at the moment.
 <a id="read_2024"></a>
 **In 2024**
 
-TBC
+| # | Author | Title | Publisher | Note |
+| - | ------ | ----- | --------- | ---- |
+| 01 | Dan Sullivan, Benjamin Hardy | [10x Is Easier Than 2x](https://www.amazon.co.uk/gp/product/140196995X/) | Hay House Business | |
 
 <a id="read_2023"></a>
 **In 2023**
