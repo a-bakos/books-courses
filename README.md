@@ -60,6 +60,7 @@ None at the moment.
 
 | # | Author | Title | Publisher | Note |
 | - | ------ | ----- | --------- | ---- |
+| 02 | Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/Whatever-You-Think-Opposite/dp/0141025719/) | Penguin |
 | 01 | Dan Sullivan, Benjamin Hardy | [10x Is Easier Than 2x](https://www.amazon.co.uk/gp/product/140196995X/) | Hay House Business | |
 
 <a id="read_2023"></a>
