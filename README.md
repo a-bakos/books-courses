@@ -60,6 +60,7 @@ None at the moment.
 
 | # | Author | Title | Publisher | Note |
 | - | ------ | ----- | --------- | ---- |
+| 06 | Szeged | Szebb lettel, mint voltal, nagy Szeged | Szeged Megyei Jogu Varos Onkormanyzata
 | 05 | Jim Donahue | [Portrait of Henley-on-Thames](https://www.amazon.co.uk/Portrait-Henley-Thames-Landscapes-Traditions/dp/0857042637/) | Halsgrove |
 | 04 | DVSA | The Official DVSA Guide to Learning to Drive (2023) | TSO | |
 | 03 | Fred McAllen | [Charting and Technical Analysis](https://www.amazon.co.uk/gp/product/1456468693) | CreateSpace | |
