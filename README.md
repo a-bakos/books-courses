@@ -8,6 +8,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 * [Favourites](#favs)
 * [On the way](#on_the_way)
 * [Read](#read)
+  * [In 2024](#read_2024)
   * [In 2023](#read_2023)
   * [In 2022](#read_2022)
   * [In 2021](#read_2021)
@@ -27,7 +28,6 @@ Books that are important to my professional & personal goals. Mostly physical co
 
 | Author                                            | Title                                                                                                                                    | Publisher                 |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| DVSA                                          | The Official DVSA Guide to Learning to Drive (2023)                                                                                                            | TSO                     |               |
 | Noel Rappin                                       | [Modern CSS with Tailwind, 2e](https://www.amazon.co.uk/gp/product/1680509403/)                                                          | The Pragmatic Programmers |
 | Marco Faella                                      | Seriously Good Software                                                                                                                  |                           |
 | Jim Blandy, Jason Orendorff, Leonora F.S. Tindall | [Programming Rust](https://www.amazon.co.uk/Programming-Rust-Fast-Systems-Development/dp/1492052590/)                                    | O'Reilly                  |
@@ -60,6 +60,7 @@ None at the moment.
 
 | # | Author | Title | Publisher | Note |
 | - | ------ | ----- | --------- | ---- |
+| 04 | DVSA | The Official DVSA Guide to Learning to Drive (2023) | TSO | |
 | 03 | Fred McAllen | [Charting and Technical Analysis](https://www.amazon.co.uk/gp/product/1456468693) | CreateSpace | |
 | 02 | Paul Arden | [Whatever You Think, Think the Opposite](https://www.amazon.co.uk/Whatever-You-Think-Opposite/dp/0141025719/) | Penguin |
 | 01 | Dan Sullivan, Benjamin Hardy | [10x Is Easier Than 2x](https://www.amazon.co.uk/gp/product/140196995X/) | Hay House Business | |
