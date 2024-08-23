@@ -2,6 +2,7 @@
 
 + [In progress](#in_progress)
 + [Finished](#finished)
+   + [In 2024](#finished_2024)
    + [In 2023](#finished_2023)
    + [In 2022](#finished_2022)
    + [In 2021](#finished_2021)
@@ -27,6 +28,13 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 
 <a id="finished"></a>
 ## Finished courses
+
+<a id="finished_2024"></a>
+#### In 2024
+\# | Title | Instructor | Category | Platform | Goal
+-- | ----- | ---------- | -------- | -------- | ----
+02 | [Learning Go](https://www.linkedin.com/learning/learning-go-8399317/) | David Gassner | IT | LinkedIn Learning
+01 | [Go for PHP Developers](https://www.linkedin.com/learning/go-for-php-developers/) | Ademusoyo Awosika-Olumo | IT | LinkedIn Learning
 
 <a id="finished_2023"></a>
 #### In 2023
