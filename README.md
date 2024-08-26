@@ -28,6 +28,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 
 | Author                                            | Title                                                                                                                                    | Publisher                 |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Jon Bodner                                        | [Learning Go, second edition](https://www.amazon.co.uk/gp/product/1098139291)                                                            | O'Reilly                  |
 | Noel Rappin                                       | [Modern CSS with Tailwind, 2e](https://www.amazon.co.uk/gp/product/1680509403/)                                                          | The Pragmatic Programmers |
 | Marco Faella                                      | Seriously Good Software                                                                                                                  |                           |
 | Jim Blandy, Jason Orendorff, Leonora F.S. Tindall | [Programming Rust](https://www.amazon.co.uk/Programming-Rust-Fast-Systems-Development/dp/1492052590/)                                    | O'Reilly                  |
