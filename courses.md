@@ -33,6 +33,9 @@ Rust in Motion | Carol Nichols & Steve Klabnik | IT | Manning Publications
 #### In 2024
 \# | Title | Instructor | Category | Platform | Goal
 -- | ----- | ---------- | -------- | -------- | ----
+05 | [Learning Docker Compose](https://www.linkedin.com/learning/learning-docker-compose) | Nicole Rifkin | IT | LinkedIn Learning
+04 | [Docker: Your first project](https://www.linkedin.com/learning/docker-your-first-project) | Shelley Benhoff | IT | LinkedIn Learning
+03 | [Learning Docker](https://www.linkedin.com/learning/learning-docker-17236240) | Carlos Nunez | IT | LinkedIn Learning
 02 | [Learning Go](https://www.linkedin.com/learning/learning-go-8399317/) | David Gassner | IT | LinkedIn Learning
 01 | [Go for PHP Developers](https://www.linkedin.com/learning/go-for-php-developers/) | Ademusoyo Awosika-Olumo | IT | LinkedIn Learning
 
