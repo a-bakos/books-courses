@@ -28,6 +28,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 
 | Author                                            | Title                                                                                                                                    | Publisher                 |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Evan Shive Z| [Understanding Generative AI for Beginners](https://www.amazon.co.uk/dp/B0D8SV65LW) | Independently published
 | Jon Bodner                                        | [Learning Go, second edition](https://www.amazon.co.uk/gp/product/1098139291)                                                            | O'Reilly                  |
 | Noel Rappin                                       | [Modern CSS with Tailwind, 2e](https://www.amazon.co.uk/gp/product/1680509403/)                                                          | The Pragmatic Programmers |
 | Marco Faella                                      | Seriously Good Software                                                                                                                  |                           |
