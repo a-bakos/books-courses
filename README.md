@@ -49,6 +49,7 @@ None at the moment.
 
 | Author | Title | Publisher | Note |
 | ------ | ----- | --------- | ---- |
+| Naval Ravikant | [The Almanack of Naval Ravikant](https://www.amazon.co.uk/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212/) | Magrathea Publishing
 | Andrew Hunt & David Thomas | [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary-dp-0135957052/dp/0135957052/) | Addison-Wesley | **Absolute #1 favourite** |
 | MJ DeMarco | [Unscripted: Life, Liberty, and the Pursuit of Entrepreneurship](https://www.amazon.co.uk/UNSCRIPTED-Life-Liberty-Pursuit-Entrepreneurship/dp/0984358161) | Viperion | |
 
@@ -62,6 +63,7 @@ None at the moment.
 
 | # | Author | Title | Publisher | Note |
 | - | ------ | ----- | --------- | ---- |
+| 08 | Naval Ravikant | [The Almanack of Naval Ravikant](https://www.amazon.co.uk/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212/) | Magrathea Publishing
 | 07 | Evan Shive | [Understanding Generative AI for Beginners](https://www.amazon.co.uk/dp/B0D8SV65LW) | Independently published
 | 06 | Szeged | Szebb lettel, mint voltal, nagy Szeged | Szeged Megyei Jogu Varos Onkormanyzata
 | 05 | Jim Donahue | [Portrait of Henley-on-Thames](https://www.amazon.co.uk/Portrait-Henley-Thames-Landscapes-Traditions/dp/0857042637/) | Halsgrove |
