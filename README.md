@@ -63,6 +63,7 @@ None at the moment.
 
 | # | Author | Title | Publisher | Note |
 | - | ------ | ----- | --------- | ---- |
+| 09 | Fred McAllen | [Trading the trends](https://www.amazon.co.uk/Trading-Trends-Fred-McAllen/dp/1466323868/) | CreateSpace
 | 08 | Naval Ravikant | [The Almanack of Naval Ravikant](https://www.amazon.co.uk/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212/) | Magrathea Publishing
 | 07 | Evan Shive | [Understanding Generative AI for Beginners](https://www.amazon.co.uk/dp/B0D8SV65LW) | Independently published
 | 06 | Szeged | Szebb lettel, mint voltal, nagy Szeged | Szeged Megyei Jogu Varos Onkormanyzata
