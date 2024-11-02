@@ -63,6 +63,7 @@ None at the moment.
 
 | # | Author | Title | Publisher | Note |
 | - | ------ | ----- | --------- | ---- |
+| 11 | Paul Arden | [It's Not How Good You Are, It's How Good You Want To Be](https://www.amazon.co.uk/Its-Not-How-Good-Want/dp/0714843377) | Phaidon |
 | 10 | Kent Beck | [Tidy First? A Personal Exercise in Empirical Software Design](https://www.amazon.co.uk/Tidy-First-Personal-Exercise-Empirical/dp/1098151240/) | O'Reilly 
 | 09 | Fred McAllen | [Trading the trends](https://www.amazon.co.uk/Trading-Trends-Fred-McAllen/dp/1466323868/) | CreateSpace
 | 08 | Naval Ravikant | [The Almanack of Naval Ravikant](https://www.amazon.co.uk/Almanack-Naval-Ravikant-Wealth-Happiness/dp/1544514212/) | Magrathea Publishing
