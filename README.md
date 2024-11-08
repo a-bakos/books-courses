@@ -28,6 +28,7 @@ Books that are important to my professional & personal goals. Mostly physical co
 
 | Author                                            | Title                                                                                                                                    | Publisher                 |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| Felienne Hermans | [The Programmer's Brain: What every programmer needs to know about cognition](https://www.amazon.co.uk/Programmers-Brain-every-programmer-cognition/dp/1617298670) | Manning Publications |
 | Kris Hermans, Cybellium Ltd | [Mastering Neo4J database](https://www.amazon.co.uk/dp/B0CMCKGG98) | Independently published
 | Jon Bodner                                        | [Learning Go, second edition](https://www.amazon.co.uk/gp/product/1098139291)                                                            | O'Reilly                  |
 | Noel Rappin                                       | [Modern CSS with Tailwind, 2e](https://www.amazon.co.uk/gp/product/1680509403/)                                                          | The Pragmatic Programmers |
